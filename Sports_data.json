@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-06-08T20:05:03Z",
-  "fetchDuration": "63.6s",
-  "totalMatches": 89,
-  "liveCount": 5,
-  "upcomingCount": 84,
+  "lastUpdated": "2026-06-08T22:21:50Z",
+  "fetchDuration": "85.9s",
+  "totalMatches": 84,
+  "liveCount": 3,
+  "upcomingCount": 81,
   "matches": [
     {
       "id": "super-series-pool-pick3",
@@ -22,28 +22,13 @@
         }
       },
       "matchTimeUTC": "2026-06-08T17:00:00Z",
-      "streams": [
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/super-series-pool-pick3/1",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/super-series-pool-pick3/2",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 2,
+      "streams": [],
+      "streamCount": 0,
       "poster": ""
     },
     {
-      "id": "ppv-wwe-monday-night-raw",
-      "title": "WWE: Monday Night RAW",
+      "id": "live-event_monday-night-raw-live-stream",
+      "title": "Monday Night Raw",
       "sport": "fight",
       "competition": "fight",
       "status": "LIVE",
@@ -60,68 +45,19 @@
       "matchTimeUTC": "2026-06-08T18:00:00Z",
       "streams": [
         {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-wwe-monday-night-raw/1",
-          "language": "English - Netflix",
+          "source": "delta",
+          "embedUrl": "https://embed.st/embed/delta/live-event_monday-night-raw-live-stream/1",
+          "language": "English",
           "hd": true,
           "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-wwe-monday-night-raw/2",
-          "language": "English - Netflix",
-          "hd": false,
-          "quality": "SD"
         }
       ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEiCohEiGlJTAIIYcuCIJWNSCVZJpEJt0SammsMUGQIYFMS6IC-mEEim2emELAkuAMYKhZ1YIVzIFAjVyZ0VSRSA.webp"
-    },
-    {
-      "id": "netherlands-vs-uzbekistan-2472354",
-      "title": "Netherlands vs Uzbekistan",
-      "sport": "football",
-      "competition": "football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-08T18:45:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IKuJBZsIYSEQ0SsqSpoSUMmMHjAa0shFIyAxiGOkQSlFN0gtVDfzCCRTbPTCFgSXMY1DnVkNhIw0CbXJnYEMDIA.webp"
-    },
-    {
-      "id": "niger-vs-mauritania-2477155",
-      "title": "Niger vs Mauritania",
-      "sport": "football",
-      "competition": "football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-08T19:00:00Z",
-      "streams": [],
-      "streamCount": 0,
+      "streamCount": 1,
       "poster": ""
     },
     {
-      "id": "france-vs-n-ireland-2467598",
-      "title": "France vs N.Ireland",
+      "id": "atletico-nacional-vs-junior-football-1546413",
+      "title": "Atletico Nacional vs Junior",
       "sport": "football",
       "competition": "football",
       "status": "LIVE",
@@ -135,10 +71,10 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-06-08T19:10:00Z",
+      "matchTimeUTC": "2026-06-08T22:00:00Z",
       "streams": [],
       "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE522ECFIgs4iVRAkQ8bOJQSQwkBGCJ5EEHp0TSIhQfPzFiqinLaBQkUxW2whYElwBjW0LDdObWETWwIdcn9gbTIIIA.webp"
+      "poster": ""
     },
     {
       "id": "admin-willow-cricket",
@@ -275,27 +211,6 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBEBDXsQZgdgwwRgBOYAU0hDpqxQFZh5Tg0wmJgATMNTTAWkVqNri0LIinbQ61OvHS5CISiCggGIRPzWq0hNTTV5s2AMb6NNFif4h+VFxux5bFLXnk3aASx2PV0+LRRNR0hAtjYUBHZQYkk2JjBHEFsaOxytGFZYSWt5YFIVGOVgeTYOMl5AiCA.webp"
-    },
-    {
-      "id": "atletico-nacional-vs-junior-football-1546413",
-      "title": "Atletico Nacional vs Junior",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-08T22:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
     },
     {
       "id": "baltimore-orioles-vs-seattle-mariners-2387865",
@@ -589,6 +504,56 @@
       "matchTimeUTC": "2026-06-09T06:00:00Z",
       "streams": [],
       "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "atp-wta-stuttgart-hertogenbosch-tn-1",
+      "title": "ATP / WTA: Stuttgart / Hertogenbosch 🎾",
+      "sport": "other",
+      "competition": "other",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-06-09T09:00:00Z",
+      "streams": [
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/atp-wta-stuttgart-hertogenbosch-tn-1/1",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/atp-wta-stuttgart-hertogenbosch-tn-1/2",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/atp-wta-stuttgart-hertogenbosch-tn-1/3",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/atp-wta-stuttgart-hertogenbosch-tn-1/4",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 4,
       "poster": ""
     },
     {
@@ -972,27 +937,6 @@
     {
       "id": "tajikistan-vs-india-2477721",
       "title": "Tajikistan vs India",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-09T15:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
-    },
-    {
-      "id": "dr-congo-vs-chile-2470316",
-      "title": "DR Congo vs Chile",
       "sport": "football",
       "competition": "football",
       "status": "UPCOMING",
@@ -1487,48 +1431,6 @@
         }
       ],
       "streamCount": 1,
-      "poster": ""
-    },
-    {
-      "id": "23036",
-      "title": "Iraq - Venezuela",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-10T01:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
-    },
-    {
-      "id": "23035",
-      "title": "Argentina - Iceland",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-10T01:00:00Z",
-      "streams": [],
-      "streamCount": 0,
       "poster": ""
     },
     {
