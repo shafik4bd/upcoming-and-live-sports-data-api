@@ -19,7 +19,7 @@ https://raw.githubusercontent.com/shafik4bd/upcoming-and-live-sports-data-api/ma
 
 ## Data Source
 
-- **streamed.pk/api** — No API key required
+- **Not Mentioned** — No API key required
 
 ## JSON Structure
 
