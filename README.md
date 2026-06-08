@@ -14,7 +14,7 @@ Automatically fetches live & upcoming sports matches with stream links, team inf
 ## JSON URL
 
 ```
-https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/Sports_data.json
+https://raw.githubusercontent.com/shafik4bd/upcoming-and-live-sports-data-api/main/Sports_data.json
 ```
 
 ## Data Source
