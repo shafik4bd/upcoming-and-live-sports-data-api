@@ -1,3 +1,12 @@
+## Disclaimer
+
+This project fetches publicly available data from third-party APIs
+for informational and educational purposes only.
+
+- This project does not host, store, or distribute any media content.
+- All stream links and match data belong to their respective owners.
+- If you are a rights holder and want data removed, contact: your@email.com
+
 # Live Sports Data
 
 Automatically fetches live & upcoming sports matches with stream links, team info, and competition details — updated every hour via GitHub Actions.
