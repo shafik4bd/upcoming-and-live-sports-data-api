@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-06-08T14:44:37Z",
-  "fetchDuration": "80.4s",
-  "totalMatches": 95,
-  "liveCount": 5,
-  "upcomingCount": 90,
+  "lastUpdated": "2026-06-08T17:46:54Z",
+  "fetchDuration": "81.2s",
+  "totalMatches": 92,
+  "liveCount": 4,
+  "upcomingCount": 88,
   "matches": [
     {
-      "id": "atp-wta-stuttgart-hertogenbosch-tn-1",
-      "title": "ATP / WTA: Stuttgart / Hertogenbosch 🎾",
-      "sport": "tennis",
-      "competition": "tennis",
+      "id": "iraq-u20-vs-jordan-u20-football-1548452",
+      "title": "Iraq U20 vs Jordan U20",
+      "sport": "football",
+      "competition": "football",
       "status": "LIVE",
       "teams": {
         "home": {
@@ -21,122 +21,87 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-06-08T09:00:00Z",
+      "matchTimeUTC": "2026-06-08T15:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "norway-u21-vs-finland-u21-2479811",
+      "title": "Norway U21 vs Finland U21",
+      "sport": "football",
+      "competition": "football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-06-08T16:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "italy-u21-vs-albania-u21-2477161",
+      "title": "Italy U21 vs Albania U21",
+      "sport": "football",
+      "competition": "football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-06-08T16:15:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "super-series-pool-pick3",
+      "title": "Super Series Pool  🎱",
+      "sport": "other",
+      "competition": "other",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-06-08T17:00:00Z",
       "streams": [
         {
           "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/atp-wta-stuttgart-hertogenbosch-tn-1/1",
+          "embedUrl": "https://embed.st/embed/echo/super-series-pool-pick3/1",
           "language": "",
           "hd": true,
           "quality": "HD"
         },
         {
           "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/atp-wta-stuttgart-hertogenbosch-tn-1/2",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/atp-wta-stuttgart-hertogenbosch-tn-1/3",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/atp-wta-stuttgart-hertogenbosch-tn-1/4",
+          "embedUrl": "https://embed.st/embed/echo/super-series-pool-pick3/2",
           "language": "",
           "hd": true,
           "quality": "HD"
         }
       ],
-      "streamCount": 4,
-      "poster": ""
-    },
-    {
-      "id": "england-vs-new-zealand-first-test-cricket-1",
-      "title": "England vs New Zealand",
-      "sport": "cricket",
-      "competition": "cricket",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-08T09:15:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
-    },
-    {
-      "id": "japan-u21-vs-ukraine-u21-football-1548448",
-      "title": "Japan U21 vs Ukraine U21",
-      "sport": "football",
-      "competition": "football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-08T13:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
-    },
-    {
-      "id": "latvia-u19-vs-estonia-u19-2479808",
-      "title": "Latvia U19 vs Estonia U19",
-      "sport": "football",
-      "competition": "football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-08T14:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
-    },
-    {
-      "id": "saudi-arabia-u20-vs-panama-u20-2479809",
-      "title": "Saudi Arabia U20 vs Panama U20",
-      "sport": "football",
-      "competition": "football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-08T14:00:00Z",
-      "streams": [],
-      "streamCount": 0,
+      "streamCount": 2,
       "poster": ""
     },
     {
@@ -302,126 +267,6 @@
         }
       ],
       "streamCount": 1,
-      "poster": ""
-    },
-    {
-      "id": "iraq-u20-vs-jordan-u20-football-1548452",
-      "title": "Iraq U20 vs Jordan U20",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-08T15:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
-    },
-    {
-      "id": "belarus-u21-vs-kazakhstan-u21-2479810",
-      "title": "Belarus U21 vs Kazakhstan U21",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-08T15:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
-    },
-    {
-      "id": "norway-u21-vs-finland-u21-2479811",
-      "title": "Norway U21 vs Finland U21",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-08T16:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
-    },
-    {
-      "id": "italy-u21-vs-albania-u21-2477161",
-      "title": "Italy U21 vs Albania U21",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-08T16:15:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
-    },
-    {
-      "id": "super-series-pool-pick3",
-      "title": "Super Series Pool  🎱",
-      "sport": "other",
-      "competition": "other",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-08T17:00:00Z",
-      "streams": [
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/super-series-pool-pick3/1",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/super-series-pool-pick3/2",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 2,
       "poster": ""
     },
     {
@@ -1202,6 +1047,27 @@
       "poster": ""
     },
     {
+      "id": "dr-congo-vs-chile-2470316",
+      "title": "DR Congo vs Chile",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-06-09T15:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
       "id": "armenia-vs-moldova-2457844",
       "title": "Armenia vs Moldova",
       "sport": "football",
@@ -1680,6 +1546,48 @@
       "poster": ""
     },
     {
+      "id": "23036",
+      "title": "Iraq - Venezuela",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-06-10T01:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "23035",
+      "title": "Argentina - Iceland",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-06-10T01:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
       "id": "23000",
       "title": "Los Angeles Angels - Houston Astros",
       "sport": "baseball",
@@ -2041,8 +1949,23 @@
         }
       },
       "matchTimeUTC": "2026-06-12T19:00:00Z",
-      "streams": [],
-      "streamCount": 0,
+      "streams": [
+        {
+          "source": "golf",
+          "embedUrl": "https://embed.st/embed/golf/22983/1",
+          "language": "English",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "golf",
+          "embedUrl": "https://embed.st/embed/golf/22983/2",
+          "language": "English",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 2,
       "poster": ""
     },
     {
@@ -2062,8 +1985,23 @@
         }
       },
       "matchTimeUTC": "2026-06-13T01:00:00Z",
-      "streams": [],
-      "streamCount": 0,
+      "streams": [
+        {
+          "source": "golf",
+          "embedUrl": "https://embed.st/embed/golf/22984/1",
+          "language": "English",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "golf",
+          "embedUrl": "https://embed.st/embed/golf/22984/2",
+          "language": "English",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 2,
       "poster": ""
     },
     {
@@ -2155,8 +2093,23 @@
         }
       },
       "matchTimeUTC": "2026-06-13T21:00:00Z",
-      "streams": [],
-      "streamCount": 0,
+      "streams": [
+        {
+          "source": "golf",
+          "embedUrl": "https://embed.st/embed/golf/21300/1",
+          "language": "English",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "golf",
+          "embedUrl": "https://embed.st/embed/golf/21300/2",
+          "language": "English",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 2,
       "poster": ""
     },
     {
