@@ -5,7 +5,7 @@ for informational and educational purposes only.
 
 - This project does not host, store, or distribute any media content.
 - All stream links and match data belong to their respective owners.
-- If you are a rights holder and want data removed, contact: your@email.com
+- If you are a rights holder and want data removed, contact: safikm34@gmail.com
 
 # Live Sports Data
 
