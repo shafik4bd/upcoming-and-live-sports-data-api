@@ -1,31 +1,10 @@
 {
-  "lastUpdated": "2026-06-08T10:22:50Z",
-  "fetchDuration": "62.3s",
-  "totalMatches": 96,
-  "liveCount": 3,
-  "upcomingCount": 93,
+  "lastUpdated": "2026-06-08T14:44:37Z",
+  "fetchDuration": "80.4s",
+  "totalMatches": 95,
+  "liveCount": 5,
+  "upcomingCount": 90,
   "matches": [
-    {
-      "id": "canterbury-bankstown-bulldogs-vs-parramatta-eels-2417263",
-      "title": "Canterbury Bankstown Bulldogs vs Parramatta Eels",
-      "sport": "rugby",
-      "competition": "rugby",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-08T06:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VelmBSaIEiG4g+IKSFN6DiA1YLAkFPsNn0UYFSi6vyG2e6a0wrmKiEEA.webp"
-    },
     {
       "id": "atp-wta-stuttgart-hertogenbosch-tn-1",
       "title": "ATP / WTA: Stuttgart / Hertogenbosch 🎾",
@@ -93,37 +72,71 @@
         }
       },
       "matchTimeUTC": "2026-06-08T09:15:00Z",
-      "streams": [
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/england-vs-new-zealand-first-test-cricket-1/1",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "japan-u21-vs-ukraine-u21-football-1548448",
+      "title": "Japan U21 vs Ukraine U21",
+      "sport": "football",
+      "competition": "football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
         },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/england-vs-new-zealand-first-test-cricket-1/2",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/england-vs-new-zealand-first-test-cricket-1/3",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/england-vs-new-zealand-first-test-cricket-1/4",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
+        "away": {
+          "name": "",
+          "logo": ""
         }
-      ],
-      "streamCount": 4,
+      },
+      "matchTimeUTC": "2026-06-08T13:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "latvia-u19-vs-estonia-u19-2479808",
+      "title": "Latvia U19 vs Estonia U19",
+      "sport": "football",
+      "competition": "football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-06-08T14:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "saudi-arabia-u20-vs-panama-u20-2479809",
+      "title": "Saudi Arabia U20 vs Panama U20",
+      "sport": "football",
+      "competition": "football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-06-08T14:00:00Z",
+      "streams": [],
+      "streamCount": 0,
       "poster": ""
     },
     {
@@ -292,90 +305,6 @@
       "poster": ""
     },
     {
-      "id": "uganda-vs-madagascar-2477160",
-      "title": "Uganda vs Madagascar",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-08T12:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
-    },
-    {
-      "id": "japan-u21-vs-ukraine-u21-football-1548448",
-      "title": "Japan U21 vs Ukraine U21",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-08T13:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
-    },
-    {
-      "id": "saudi-arabia-u20-vs-panama-u20-2479809",
-      "title": "Saudi Arabia U20 vs Panama U20",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-08T14:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
-    },
-    {
-      "id": "latvia-u19-vs-estonia-u19-2479808",
-      "title": "Latvia U19 vs Estonia U19",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-08T14:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
-    },
-    {
       "id": "iraq-u20-vs-jordan-u20-football-1548452",
       "title": "Iraq U20 vs Jordan U20",
       "sport": "football",
@@ -460,6 +389,42 @@
       "poster": ""
     },
     {
+      "id": "super-series-pool-pick3",
+      "title": "Super Series Pool  🎱",
+      "sport": "other",
+      "competition": "other",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-06-08T17:00:00Z",
+      "streams": [
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/super-series-pool-pick3/1",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/super-series-pool-pick3/2",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": ""
+    },
+    {
       "id": "netherlands-vs-uzbekistan-2472354",
       "title": "Netherlands vs Uzbekistan",
       "sport": "football",
@@ -478,7 +443,7 @@
       "matchTimeUTC": "2026-06-08T18:45:00Z",
       "streams": [],
       "streamCount": 0,
-      "poster": ""
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IKuJBZsIYSEQ0SsqSpoSUMmMHjAa0shFIyAxiGOkQSlFN0gtVDfzCCRTbPTCFgSXMY1DnVkNhIw0CbXJnYEMDIA.webp"
     },
     {
       "id": "niger-vs-mauritania-2477155",
@@ -520,7 +485,7 @@
       "matchTimeUTC": "2026-06-08T19:10:00Z",
       "streams": [],
       "streamCount": 0,
-      "poster": ""
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE522ECFIgs4iVRAkQ8bOJQSQwkBGCJ5EEHp0TSIhQfPzFiqinLaBQkUxW2whYElwBjW0LDdObWETWwIdcn9gbTIIIA.webp"
     },
     {
       "id": "atletico-nacional-vs-junior-football-1546413",
@@ -772,7 +737,7 @@
       "matchTimeUTC": "2026-06-09T02:00:00Z",
       "streams": [],
       "streamCount": 0,
-      "poster": ""
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IMjUQoQEESBggqIZbOFyQ2UsAghEw3SDU6sBmiXGGQKbVtklr-MIJFNNDwsCS4AxtaFPWVS1rAmB4cicbMgggA.webp"
     },
     {
       "id": "las-vegas-aces-vs-seattle-storm-2449040",
