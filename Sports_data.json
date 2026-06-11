@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-06-11T10:12:13Z",
-  "fetchDuration": "75.1s",
+  "lastUpdated": "2026-06-11T14:33:47Z",
+  "fetchDuration": "53.0s",
   "totalMatches": 62,
-  "liveCount": 4,
-  "upcomingCount": 58,
+  "liveCount": 6,
+  "upcomingCount": 56,
   "matches": [
     {
       "id": "atp-wta-stuttgart-hertogenbosch-tn-1",
@@ -56,48 +56,6 @@
       "poster": ""
     },
     {
-      "id": "western-bulldogs-vs-adelaide-football-club-2400613",
-      "title": "Western Bulldogs vs Adelaide Football Club",
-      "sport": "afl",
-      "competition": "afl",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-11T09:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rGVBikQOviG4g9enDBApcZixKZIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp"
-    },
-    {
-      "id": "south-sydney-rabbitohs-vs-brisbane-broncos-2417264",
-      "title": "South Sydney Rabbitohs vs Brisbane Broncos",
-      "sport": "rugby",
-      "competition": "rugby",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-11T09:50:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPDBIEIPmBTYQ3XSCkhzJIxqvGpBYNpj9hs+gZUouYMpvpZZnky0YN5iohBAA.webp"
-    },
-    {
       "id": "south-sydney-rabbitohs-vs-brisbane-broncos-game-197832",
       "title": "Penrith Panthers vs New Zealand Warriors",
       "sport": "rugby",
@@ -114,37 +72,137 @@
         }
       },
       "matchTimeUTC": "2026-06-11T09:50:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "rbc-canadian-open-round-1-2329221",
+      "title": "RBC Canadian Open Round 1",
+      "sport": "golf",
+      "competition": "golf",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-06-11T11:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGWBCIIIekhDcQfECRBSQFlFpNHLTJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
+    },
+    {
+      "id": "endurance-world-championship-circuit-des-24-heures-racing-0059",
+      "title": "Endurance World Championship Circuit des 24 Heures 🏁",
+      "sport": "motor-sports",
+      "competition": "motor-sports",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-06-11T12:30:00Z",
       "streams": [
         {
           "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/south-sydney-rabbitohs-vs-brisbane-broncos-game-197832/1",
+          "embedUrl": "https://embed.st/embed/echo/endurance-world-championship-circuit-des-24-heures-racing-0059/1",
           "language": "",
           "hd": true,
           "quality": "HD"
         },
         {
           "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/south-sydney-rabbitohs-vs-brisbane-broncos-game-197832/2",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/south-sydney-rabbitohs-vs-brisbane-broncos-game-197832/3",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/south-sydney-rabbitohs-vs-brisbane-broncos-game-197832/4",
+          "embedUrl": "https://embed.st/embed/echo/endurance-world-championship-circuit-des-24-heures-racing-0059/2",
           "language": "",
           "hd": true,
           "quality": "HD"
         }
       ],
-      "streamCount": 4,
+      "streamCount": 2,
+      "poster": ""
+    },
+    {
+      "id": "ppv-24-hours-of-le-mans-practice-3",
+      "title": "24 Hours of Le Mans - Practice 3",
+      "sport": "motor-sports",
+      "competition": "motor-sports",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-06-11T12:45:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-24-hours-of-le-mans-practice-3/1",
+          "language": "English - FIA WEC",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-24-hours-of-le-mans-practice-3/2",
+          "language": "English - FIA WEC",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MJEFmwSQw6SGBUQ4lCBQKZS7CNKkQMVUo1qIu+YiwgAxrsS9yJgUO0EtasIWBJcltULDdOE2EdNRd4cn9gEzIIIA.webp"
+    },
+    {
+      "id": "uci-tour-auvergne-uci-world-tour-game-13622",
+      "title": "UCI Tour Auvergne | UCI World Tour 🏁",
+      "sport": "other",
+      "competition": "other",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-06-11T13:15:00Z",
+      "streams": [
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/uci-tour-auvergne-uci-world-tour-game-13622/1",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/uci-tour-auvergne-uci-world-tour-game-13622/2",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 2,
       "poster": ""
     },
     {
@@ -282,63 +340,6 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBEBDXsQZgdgwwRgBOYAU0hDpqxQFZh5Tg0wmJgATMNTTAWkVqNri0LIinbQ61OvHS5CISiCggGIRPzWq0hNTTV5s2AMb6NNFif4h+VFxux5bFLXnk3aASx2PV0+LRRNR0hAtjYUBHZQYkk2JjBHEFsaOxytGFZYSWt5YFIVGOVgeTYOMl5AiCA.webp"
-    },
-    {
-      "id": "rbc-canadian-open-round-1-2329221",
-      "title": "RBC Canadian Open Round 1",
-      "sport": "golf",
-      "competition": "golf",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-11T11:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGWBCIIIekhDcQfECRBSQFlFpNHLTJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "uci-tour-auvergne-uci-world-tour-game-13622",
-      "title": "UCI Tour Auvergne | UCI World Tour 🏁",
-      "sport": "other",
-      "competition": "other",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-11T13:15:00Z",
-      "streams": [
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/uci-tour-auvergne-uci-world-tour-game-13622/1",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/uci-tour-auvergne-uci-world-tour-game-13622/2",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": ""
     },
     {
       "id": "costa-rica-u23-vs-cuba-u23-football-1550857",
@@ -840,42 +841,6 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEKRC8swMGBRaQfEFJBmShxN1wgYBYEgp9hs+ijAqUXD+Xo7RXky0eqL0oUA.webp"
     },
     {
-      "id": "ppv-fifa-world-cup-opening-ceremony-usa",
-      "title": "FIFA World Cup Opening Ceremony: USA",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-12T17:30:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-fifa-world-cup-opening-ceremony-usa/1",
-          "language": "English - FOX",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-fifa-world-cup-opening-ceremony-usa/2",
-          "language": "English - FOX",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IYSBAiQVEPGCyys2TBAQQJNQtJaJEYOtUSU2DcETz1kiZtkBjE-zCCRTbPTCFgSXA6HluTn1hUnoCc3JnA1CIIA.webp"
-    },
-    {
       "id": "northampton-saints-vs-leicester-tigers-2482705",
       "title": "Northampton Saints vs Leicester Tigers",
       "sport": "rugby",
@@ -1063,6 +1028,42 @@
       "streams": [],
       "streamCount": 0,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdomlgUYEHpAQQvEFn0wQ1ECishpIEiHgskFLCLmMdqlDzBl4RNRyPviswGB+4mIQQA.webp"
+    },
+    {
+      "id": "ppv-fifa-world-cup-opening-ceremony-canada",
+      "title": "FIFA World Cup Opening Ceremony: Canada",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-06-12T23:30:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-fifa-world-cup-opening-ceremony-canada/1",
+          "language": "English - FOX",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-fifa-world-cup-opening-ceremony-canada/2",
+          "language": "English - FOX",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGCADGIMlhAp5ICKWCIQIeMCrql2EDRIa9EDUtMxVu4aYWGJo8soFCRTbPTCFgSXJJQuwbk5lYRV-AlVyQOBlMgggA.webp"
     },
     {
       "id": "washington-mystics-vs-toronto-tempo-2449307",
