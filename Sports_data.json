@@ -1,81 +1,10 @@
 {
-  "lastUpdated": "2026-06-11T14:33:47Z",
-  "fetchDuration": "53.0s",
-  "totalMatches": 62,
-  "liveCount": 6,
-  "upcomingCount": 56,
+  "lastUpdated": "2026-06-11T18:09:27Z",
+  "fetchDuration": "56.9s",
+  "totalMatches": 60,
+  "liveCount": 9,
+  "upcomingCount": 51,
   "matches": [
-    {
-      "id": "atp-wta-stuttgart-hertogenbosch-tn-1",
-      "title": "ATP / WTA: Stuttgart / Hertogenbosch 🎾",
-      "sport": "tennis",
-      "competition": "tennis",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-11T09:00:00Z",
-      "streams": [
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/atp-wta-stuttgart-hertogenbosch-tn-1/1",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/atp-wta-stuttgart-hertogenbosch-tn-1/2",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/atp-wta-stuttgart-hertogenbosch-tn-1/3",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/atp-wta-stuttgart-hertogenbosch-tn-1/4",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 4,
-      "poster": ""
-    },
-    {
-      "id": "south-sydney-rabbitohs-vs-brisbane-broncos-game-197832",
-      "title": "Penrith Panthers vs New Zealand Warriors",
-      "sport": "rugby",
-      "competition": "rugby",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-11T09:50:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
-    },
     {
       "id": "rbc-canadian-open-round-1-2329221",
       "title": "RBC Canadian Open Round 1",
@@ -134,42 +63,6 @@
       "poster": ""
     },
     {
-      "id": "ppv-24-hours-of-le-mans-practice-3",
-      "title": "24 Hours of Le Mans - Practice 3",
-      "sport": "motor-sports",
-      "competition": "motor-sports",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-11T12:45:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-24-hours-of-le-mans-practice-3/1",
-          "language": "English - FIA WEC",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-24-hours-of-le-mans-practice-3/2",
-          "language": "English - FIA WEC",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MJEFmwSQw6SGBUQ4lCBQKZS7CNKkQMVUo1qIu+YiwgAxrsS9yJgUO0EtasIWBJcltULDdOE2EdNRd4cn9gEzIIIA.webp"
-    },
-    {
       "id": "uci-tour-auvergne-uci-world-tour-game-13622",
       "title": "UCI Tour Auvergne | UCI World Tour 🏁",
       "sport": "other",
@@ -186,24 +79,215 @@
         }
       },
       "matchTimeUTC": "2026-06-11T13:15:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "ferrari-challenge-europe-le-mans-game-19996",
+      "title": "Ferrari Challenge Europe - Le Mans",
+      "sport": "motor-sports",
+      "competition": "motor-sports",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-06-11T16:45:00Z",
       "streams": [
         {
           "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/uci-tour-auvergne-uci-world-tour-game-13622/1",
+          "embedUrl": "https://embed.st/embed/echo/ferrari-challenge-europe-le-mans-game-19996/1",
           "language": "",
           "hd": true,
           "quality": "HD"
         },
         {
           "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/uci-tour-auvergne-uci-world-tour-game-13622/2",
+          "embedUrl": "https://embed.st/embed/echo/ferrari-challenge-europe-le-mans-game-19996/2",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/ferrari-challenge-europe-le-mans-game-19996/3",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/ferrari-challenge-europe-le-mans-game-19996/4",
           "language": "",
           "hd": true,
           "quality": "HD"
         }
       ],
-      "streamCount": 2,
+      "streamCount": 4,
       "poster": ""
+    },
+    {
+      "id": "mexico-vs-south-africa-german-spanish-game-111",
+      "title": "Mexico vs South Africa (GERMAN & SPANISH)",
+      "sport": "football",
+      "competition": "football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-06-11T17:00:02Z",
+      "streams": [
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/mexico-vs-south-africa-german-spanish-game-111/1",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/mexico-vs-south-africa-german-spanish-game-111/2",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/mexico-vs-south-africa-german-spanish-game-111/3",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/mexico-vs-south-africa-german-spanish-game-111/4",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/mexico-vs-south-africa-german-spanish-game-111/5",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 5,
+      "poster": ""
+    },
+    {
+      "id": "miami-marlins-vs-arizona-diamondbacks-2387898",
+      "title": "Miami Marlins vs Arizona Diamondbacks",
+      "sport": "baseball",
+      "competition": "baseball",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-06-11T17:10:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdjjLwwKMEhAoQvEFhBmYIagevSQESyyQUsIuY12qUPMFqLU5XviswGA+4mIQQA.webp"
+    },
+    {
+      "id": "new-york-mets-vs-st--louis-cardinals-2387900",
+      "title": "New York Mets vs St. Louis Cardinals",
+      "sport": "baseball",
+      "competition": "baseball",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-06-11T17:10:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCETwwSWLBAwQvEFhBnD1ECishpICJpa6YAkXMYowqlDy-lG1HI++KzAYF7iYhBAA.webp"
+    },
+    {
+      "id": "detroit-tigers-vs-minnesota-twins-2387901",
+      "title": "Detroit Tigers vs Minnesota Twins",
+      "sport": "baseball",
+      "competition": "baseball",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-06-11T17:10:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCGkhqIQfDAhgW3rpBmY2kCiuaQEOyyQUsIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp"
+    },
+    {
+      "id": "ppv-fifa-world-cup-opening-ceremony-mexico",
+      "title": "FIFA World Cup Opening Ceremony: Mexico",
+      "sport": "football",
+      "competition": "football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-06-11T17:30:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-fifa-world-cup-opening-ceremony-mexico/1",
+          "language": "English - FOX",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-fifa-world-cup-opening-ceremony-mexico/2",
+          "language": "English - FOX",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGCBpYQ8YDSohhIkCGAQQKbCOwqQAYxBlE0koeCIap2cP37ShkNKyb+YQdoJaXhYElx7NITdWCG0yTU9ZMDc1UjUgA.webp"
     },
     {
       "id": "admin-willow-cricket",
@@ -340,126 +424,6 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBEBDXsQZgdgwwRgBOYAU0hDpqxQFZh5Tg0wmJgATMNTTAWkVqNri0LIinbQ61OvHS5CISiCggGIRPzWq0hNTTV5s2AMb6NNFif4h+VFxux5bFLXnk3aASx2PV0+LRRNR0hAtjYUBHZQYkk2JjBHEFsaOxytGFZYSWt5YFIVGOVgeTYOMl5AiCA.webp"
-    },
-    {
-      "id": "costa-rica-u23-vs-cuba-u23-football-1550857",
-      "title": "Costa Rica U23 vs Cuba U23",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-11T16:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
-    },
-    {
-      "id": "detroit-tigers-vs-minnesota-twins-2387901",
-      "title": "Detroit Tigers vs Minnesota Twins",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-11T17:10:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCGkhqIQfDAhgW3rpBmY2kCiuaQEOyyQUsIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp"
-    },
-    {
-      "id": "new-york-mets-vs-st--louis-cardinals-2387900",
-      "title": "New York Mets vs St. Louis Cardinals",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-11T17:10:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCETwwSWLBAwQvEFhBnD1ECishpICJpa6YAkXMYowqlDy-lG1HI++KzAYF7iYhBAA.webp"
-    },
-    {
-      "id": "miami-marlins-vs-arizona-diamondbacks-2387898",
-      "title": "Miami Marlins vs Arizona Diamondbacks",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-11T17:10:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdjjLwwKMEhAoQvEFhBmYIagevSQESyyQUsIuY12qUPMFqLU5XviswGA+4mIQQA.webp"
-    },
-    {
-      "id": "ppv-fifa-world-cup-opening-ceremony-mexico",
-      "title": "FIFA World Cup Opening Ceremony: Mexico",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-11T17:30:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-fifa-world-cup-opening-ceremony-mexico/1",
-          "language": "English - FOX",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-fifa-world-cup-opening-ceremony-mexico/2",
-          "language": "English - FOX",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGCBpYQ8YDSohhIkCGAQQKbCOwqQAYxBlE0koeCIap2cP37ShkNKyb+YQdoJaXhYElx7NITdWCG0yTU9ZMDc1UjUgA.webp"
     },
     {
       "id": "kansas-city-royals-vs-texas-rangers-2387902",
