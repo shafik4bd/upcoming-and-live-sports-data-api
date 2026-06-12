@@ -1,125 +1,10 @@
 {
-  "lastUpdated": "2026-06-12T14:41:43Z",
-  "fetchDuration": "87.5s",
-  "totalMatches": 73,
-  "liveCount": 7,
+  "lastUpdated": "2026-06-12T17:38:20Z",
+  "fetchDuration": "89.3s",
+  "totalMatches": 71,
+  "liveCount": 5,
   "upcomingCount": 66,
   "matches": [
-    {
-      "id": "world-sbk-italian-round-world-sbk-championship-season-game-4u8337",
-      "title": "World SBK Italian Round | World SBK Championship Season 🏁",
-      "sport": "motor-sports",
-      "competition": "motor-sports",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-12T08:15:00Z",
-      "streams": [
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/world-sbk-italian-round-world-sbk-championship-season-game-4u8337/1",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/world-sbk-italian-round-world-sbk-championship-season-game-4u8337/2",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": ""
-    },
-    {
-      "id": "live-event_formula-1-2026-spain-gp-live-stream",
-      "title": "Formula 1 2026 - Spain GP",
-      "sport": "motor-sports",
-      "competition": "motor-sports",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-12T08:50:00Z",
-      "streams": [
-        {
-          "source": "delta",
-          "embedUrl": "https://embed.st/embed/delta/live-event_formula-1-2026-spain-gp-live-stream/1",
-          "language": "English",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 1,
-      "poster": ""
-    },
-    {
-      "id": "atp-wta-stuttgart-hertogenbosch-tn-1",
-      "title": "ATP / WTA: Stuttgart / Hertogenbosch 🎾",
-      "sport": "tennis",
-      "competition": "tennis",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-12T09:00:00Z",
-      "streams": [
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/atp-wta-stuttgart-hertogenbosch-tn-1/1",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/atp-wta-stuttgart-hertogenbosch-tn-1/2",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/atp-wta-stuttgart-hertogenbosch-tn-1/3",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/atp-wta-stuttgart-hertogenbosch-tn-1/4",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 4,
-      "poster": ""
-    },
     {
       "id": "betvictor-world-cup-darts-day-2-2470563",
       "title": "BetVictor World Cup Darts Day 2",
@@ -203,6 +88,42 @@
       "streams": [],
       "streamCount": 0,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEClkQQUkAPwhue49pS4QMQyFMFgSCn2Fb2YFZravy9LLM1NaYK5iohBAA.webp"
+    },
+    {
+      "id": "toulouse-olympique-vs-leeds-rhinos-game-182283",
+      "title": "Toulouse Olympique vs Leeds Rhinos",
+      "sport": "rugby",
+      "competition": "rugby",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-06-12T17:00:00Z",
+      "streams": [
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/toulouse-olympique-vs-leeds-rhinos-game-182283/1",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/toulouse-olympique-vs-leeds-rhinos-game-182283/2",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": ""
     },
     {
       "id": "admin-willow-cricket",
@@ -357,8 +278,16 @@
         }
       },
       "matchTimeUTC": "2026-06-12T17:30:00Z",
-      "streams": [],
-      "streamCount": 0,
+      "streams": [
+        {
+          "source": "delta",
+          "embedUrl": "https://embed.st/embed/delta/live-event_world-cup-2026-opening-ceremony-canada-live-stream/1",
+          "language": "English",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 1,
       "poster": ""
     },
     {
@@ -378,8 +307,23 @@
         }
       },
       "matchTimeUTC": "2026-06-12T18:00:00Z",
-      "streams": [],
-      "streamCount": 0,
+      "streams": [
+        {
+          "source": "delta",
+          "embedUrl": "https://embed.st/embed/delta/live_ncaa-division-i-championship_west-virginia-mountaineers-troy-trojans-live-streaming-1345227426/1",
+          "language": "English",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "delta",
+          "embedUrl": "https://embed.st/embed/delta/live_ncaa-division-i-championship_west-virginia-mountaineers-troy-trojans-live-streaming-1345227426/2",
+          "language": "English",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 2,
       "poster": ""
     },
     {
