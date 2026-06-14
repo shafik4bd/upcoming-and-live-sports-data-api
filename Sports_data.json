@@ -1,31 +1,10 @@
 {
-  "lastUpdated": "2026-06-13T22:58:11Z",
-  "fetchDuration": "89.4s",
-  "totalMatches": 70,
-  "liveCount": 20,
-  "upcomingCount": 50,
+  "lastUpdated": "2026-06-14T00:04:17Z",
+  "fetchDuration": "53.3s",
+  "totalMatches": 69,
+  "liveCount": 23,
+  "upcomingCount": 46,
   "matches": [
-    {
-      "id": "pfl-africa-2-nigeria-2470670",
-      "title": "PFL Africa 2 Nigeria",
-      "sport": "fight",
-      "competition": "fight",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-13T15:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdihDSQYlWG28QWECcMwTITce2L8wJBSwi5jFGFUoe78o2pzPdvRg7uJiEEA.webp"
-    },
     {
       "id": "ppv-pro-motocross-thunder-valley",
       "title": "Pro Motocross: Thunder Valley",
@@ -61,6 +40,27 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCEkBjcSBggqIRBDkgsIFSFIiQwjbqWTsIKSOMRg8bXppW9KYFQf8wgswWz0whYElxSHIVdWC2FtBw8rMFdgCzIIIA.webp"
+    },
+    {
+      "id": "tommy-fury-vs-eddie-hall-2461296",
+      "title": "Tommy Fury vs Eddie Hall",
+      "sport": "fight",
+      "competition": "fight",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-06-13T17:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCF5h+1AWDEpNILCFO8QMU8avTNLJBSwi5jFPo4oe+8o10H5rMBg7oxiEEA.webp"
     },
     {
       "id": "catalans-dragons-vs-castleford-tigers-2395937",
@@ -113,6 +113,35 @@
       "poster": ""
     },
     {
+      "id": "live-event_2026-pfl-africa-2-nigeria-live-stream",
+      "title": "2026 PFL Africa 2: Nigeria",
+      "sport": "fight",
+      "competition": "fight",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-06-13T17:00:00Z",
+      "streams": [
+        {
+          "source": "delta",
+          "embedUrl": "https://embed.st/embed/delta/live-event_2026-pfl-africa-2-nigeria-live-stream/1",
+          "language": "English",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 1,
+      "poster": ""
+    },
+    {
       "id": "ppv-event-14-ama-supercross-championship-lakewood-ppv14",
       "title": "AMA Supercross Championship Lakewood",
       "sport": "other",
@@ -132,27 +161,6 @@
       "streams": [],
       "streamCount": 0,
       "poster": ""
-    },
-    {
-      "id": "tommy-fury-vs-eddie-hall-2461296",
-      "title": "Tommy Fury vs Eddie Hall",
-      "sport": "fight",
-      "competition": "fight",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-13T17:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCF5h+1AWDEpNILCFO8QMU8avTNLJBSwi5jFPo4oe+8o10H5rMBg7oxiEEA.webp"
     },
     {
       "id": "ppv-event-06-glory-collision-9-ppv-06",
@@ -192,45 +200,9 @@
         }
       },
       "matchTimeUTC": "2026-06-13T18:00:00Z",
-      "streams": [
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/ppv-event-10-pfl-africa-adeshina-v-campos-ppv-10/1",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/ppv-event-10-pfl-africa-adeshina-v-campos-ppv-10/2",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": ""
-    },
-    {
-      "id": "toronto-blue-jays-vs-new-york-yankees-2387922",
-      "title": "Toronto Blue Jays vs New York Yankees",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-13T19:07:00Z",
       "streams": [],
       "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKvDDgUIaiH759ILCFMxdIHTukgb8FkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp"
+      "poster": ""
     },
     {
       "id": "washington-nationals-vs-seattle-mariners-2387921",
@@ -401,42 +373,6 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdvyRhZOJAJC8QWECZghqIFJZDSjIEiy0wBIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp"
     },
     {
-      "id": "ppv-event-01-jones-v-carranza-2-ppv-01",
-      "title": "Jones v Carranza 2 💥",
-      "sport": "fight",
-      "competition": "fight",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-13T21:30:00Z",
-      "streams": [
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/ppv-event-01-jones-v-carranza-2-ppv-01/1",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/ppv-event-01-jones-v-carranza-2-ppv-01/2",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": ""
-    },
-    {
       "id": "connecticut-sun-vs-indiana-fever-2449049",
       "title": "Connecticut Sun vs Indiana Fever",
       "sport": "basketball",
@@ -477,6 +413,127 @@
       "streams": [],
       "streamCount": 0,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNtzAkQiKNu4g+hkNpgmQFxAZAFgSCn2Gz6KLWxRct5ellkemtGBu9KIQQA.webp"
+    },
+    {
+      "id": "saskatchewan-roughriders-vs-bc-lions-2432539",
+      "title": "Saskatchewan Roughriders vs BC Lions",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-06-13T23:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECGBJOfbGxDcQUkIhggUIEiAi4TJglop9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp"
+    },
+    {
+      "id": "live-event_oshae-jones-vs-elia-carranza-live-stream",
+      "title": "Oshae Jones vs Elia Carranza",
+      "sport": "fight",
+      "competition": "fight",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-06-13T23:00:00Z",
+      "streams": [
+        {
+          "source": "delta",
+          "embedUrl": "https://embed.st/embed/delta/live-event_oshae-jones-vs-elia-carranza-live-stream/1",
+          "language": "English",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 1,
+      "poster": ""
+    },
+    {
+      "id": "milwaukee-brewers-vs-philadelphia-phillies-2387927",
+      "title": "Milwaukee Brewers vs Philadelphia Phillies",
+      "sport": "baseball",
+      "competition": "baseball",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-06-13T23:10:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmJAhpYMRBAoQvEFi0gYIagevTtWlkgpYRcxil0cUPXeUbU5XviswGAejHpAA.webp"
+    },
+    {
+      "id": "kansas-city-royals-vs-houston-astros-2387928",
+      "title": "Kansas City Royals vs Houston Astros",
+      "sport": "baseball",
+      "competition": "baseball",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-06-13T23:10:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKkmAAGEDGBhtIEiF4gsICzBDUQKWyGkPbLJBSwi5jFGFUoeP8kZqOT98Vn0fcTEIIA.webp"
+    },
+    {
+      "id": "ppv-event-21-world-of-outlaws-late-models-ppv-21",
+      "title": "World of Outlaws Late Models",
+      "sport": "other",
+      "competition": "other",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-06-13T23:15:00Z",
+      "streams": [
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/ppv-event-21-world-of-outlaws-late-models-ppv-21/1",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 1,
+      "poster": ""
     },
     {
       "id": "admin-willow-cricket",
@@ -613,90 +670,6 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBEBDXsQZgdgwwRgBOYAU0hDpqxQFZh5Tg0wmJgATMNTTAWkVqNri0LIinbQ61OvHS5CISiCggGIRPzWq0hNTTV5s2AMb6NNFif4h+VFxux5bFLXnk3aASx2PV0+LRRNR0hAtjYUBHZQYkk2JjBHEFsaOxytGFZYSWt5YFIVGOVgeTYOMl5AiCA.webp"
-    },
-    {
-      "id": "minnesota-twins-vs-st--louis-cardinals-2387926",
-      "title": "Minnesota Twins vs St. Louis Cardinals",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-13T18:10:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdqrD9qwJPJC8QWECZghqIFJZDSbRlkgpYRcxijCqUPD+UY6xXviswGAe4mIQQA.webp"
-    },
-    {
-      "id": "kansas-city-royals-vs-houston-astros-2387928",
-      "title": "Kansas City Royals vs Houston Astros",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-13T23:10:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKkmAAGEDGBhtIEiF4gsICzBDUQKWyGkPbLJBSwi5jFGFUoeP8kZqOT98Vn0fcTEIIA.webp"
-    },
-    {
-      "id": "milwaukee-brewers-vs-philadelphia-phillies-2387927",
-      "title": "Milwaukee Brewers vs Philadelphia Phillies",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-13T23:10:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmJAhpYMRBAoQvEFi0gYIagevTtWlkgpYRcxil0cUPXeUbU5XviswGAejHpAA.webp"
-    },
-    {
-      "id": "ppv-event-21-world-of-outlaws-late-models-ppv-21",
-      "title": "World of Outlaws Late Models",
-      "sport": "other",
-      "competition": "other",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-13T23:15:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
     },
     {
       "id": "las-vegas-aces-vs-minnesota-lynx-2449050",
@@ -1485,7 +1458,7 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCHoohJEP0S8QWECZghqIFJZDSTJlkgpYRcxijCrtHD+UbU52viswGAe4mIQQA.webp"
     },
     {
-      "id": "live_nhl-playoffs_golden-knights-hurricanes-live-streaming-1335654009",
+      "id": "vegas-golden-knights-vs-carolina-hurricanes-2483554",
       "title": "Vegas Golden Knights vs Carolina Hurricanes",
       "sport": "hockey",
       "competition": "hockey",
@@ -1503,11 +1476,11 @@
       "matchTimeUTC": "2026-06-15T00:00:00Z",
       "streams": [],
       "streamCount": 0,
-      "poster": ""
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8reikghtfMNxD6+IKSBjaQKCyAhXGwJBT7DZGsCpRc35ellkemtGBuYqIQQA.webp"
     },
     {
-      "id": "ppv-sweden-vs-tunisia",
-      "title": "Sweden vs. Tunisia",
+      "id": "sweden-vs-tunisia-2461106",
+      "title": "Sweden vs Tunisia",
       "sport": "football",
       "competition": "football",
       "status": "UPCOMING",
@@ -1522,56 +1495,13 @@
         }
       },
       "matchTimeUTC": "2026-06-15T02:00:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-sweden-vs-tunisia/1",
-          "language": "English - BBC/ITV",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-sweden-vs-tunisia/2",
-          "language": "English - BBC/ITV",
-          "hd": false,
-          "quality": "SD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-sweden-vs-tunisia/3",
-          "language": "English - FS1",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-sweden-vs-tunisia/4",
-          "language": "English - FS1",
-          "hd": false,
-          "quality": "SD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-sweden-vs-tunisia/5",
-          "language": "Spanish - Telemundo",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-sweden-vs-tunisia/6",
-          "language": "Spanish - Telemundo",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 6,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5M8YFRAxgEESGHZFZCCBIgUU9VoDGpTTXGIVRucPkgsISWckwU5WQKEimi+2ELAkubfaFhuTlkFMnsCYHEwAJlSGSA.webp"
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEMCQ8QMOaRDcQfIyBI7TIS4mMKmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
     },
     {
-      "id": "23144",
-      "title": "Spain - Cape Verde",
+      "id": "spain-vs-cape-verde-2391739",
+      "title": "Spain vs Cape Verde",
       "sport": "football",
       "competition": "football",
       "status": "UPCOMING",
@@ -1588,11 +1518,11 @@
       "matchTimeUTC": "2026-06-15T16:00:00Z",
       "streams": [],
       "streamCount": 0,
-      "poster": ""
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEOxAoGYXvhDcQfIyBIgYpkFcQ4tTJBT7DZ9FGBXa278vSyztTLRg7mKiEEA.webp"
     },
     {
-      "id": "23145",
-      "title": "Belgium - Egypt",
+      "id": "belgium-vs-egypt-2391736",
+      "title": "Belgium vs Egypt",
       "sport": "football",
       "competition": "football",
       "status": "UPCOMING",
@@ -1609,11 +1539,11 @@
       "matchTimeUTC": "2026-06-15T19:00:00Z",
       "streams": [],
       "streamCount": 0,
-      "poster": ""
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VUaKRgkIUSBDcQfI7pAxT+xDhIFgWmP2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
     },
     {
-      "id": "23146",
-      "title": "Saudi Arabia - Uruguay",
+      "id": "saudi-arabia-vs-uruguay-2391738",
+      "title": "Saudi Arabia vs Uruguay",
       "sport": "football",
       "competition": "football",
       "status": "UPCOMING",
@@ -1630,7 +1560,7 @@
       "matchTimeUTC": "2026-06-15T22:00:00Z",
       "streams": [],
       "streamCount": 0,
-      "poster": ""
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJMSxgNIEBBDcQfIyBIgYp3SEQ4+BYEgp3WIsSjAqUXD+XpZZXky0YB5iohBAA.webp"
     },
     {
       "id": "23147",
