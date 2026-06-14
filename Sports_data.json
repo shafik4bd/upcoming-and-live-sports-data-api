@@ -1,31 +1,10 @@
 {
-  "lastUpdated": "2026-06-14T09:22:44Z",
-  "fetchDuration": "81.9s",
-  "totalMatches": 61,
+  "lastUpdated": "2026-06-14T11:51:02Z",
+  "fetchDuration": "60.3s",
+  "totalMatches": 62,
   "liveCount": 6,
-  "upcomingCount": 55,
+  "upcomingCount": 56,
   "matches": [
-    {
-      "id": "ppv-event-13-combat-fc-13-ppv-13",
-      "title": "Combat FC 13",
-      "sport": "other",
-      "competition": "other",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-14T02:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
-    },
     {
       "id": "wests-tigers-vs-gold-coast-titans-2417268",
       "title": "Wests Tigers vs Gold Coast Titans",
@@ -64,8 +43,37 @@
         }
       },
       "matchTimeUTC": "2026-06-14T06:30:00Z",
-      "streams": [],
-      "streamCount": 0,
+      "streams": [
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/formula-3-spain-r4-formula-2-spain-r5-game-19996/1",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/formula-3-spain-r4-formula-2-spain-r5-game-19996/2",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/formula-3-spain-r4-formula-2-spain-r5-game-19996/3",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/formula-3-spain-r4-formula-2-spain-r5-game-19996/4",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 4,
       "poster": ""
     },
     {
@@ -106,8 +114,23 @@
         }
       },
       "matchTimeUTC": "2026-06-14T08:45:00Z",
-      "streams": [],
-      "streamCount": 0,
+      "streams": [
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/world-sbk-italian-round-world-sbk-championship-season-game-4u8337/1",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/world-sbk-italian-round-world-sbk-championship-season-game-4u8337/2",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 2,
       "poster": ""
     },
     {
@@ -127,9 +150,52 @@
         }
       },
       "matchTimeUTC": "2026-06-14T09:00:00Z",
+      "streams": [
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/atp-wta-stuttgart-hertogenbosch-tn-1/1",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/atp-wta-stuttgart-hertogenbosch-tn-1/2",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/atp-wta-stuttgart-hertogenbosch-tn-1/3",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 3,
+      "poster": ""
+    },
+    {
+      "id": "betvictor-world-cup-darts-day-4-2470565",
+      "title": "BetVictor World Cup Darts Day 4",
+      "sport": "darts",
+      "competition": "darts",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-06-14T11:00:00Z",
       "streams": [],
       "streamCount": 0,
-      "poster": ""
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rCCEQyQuOSG4g+O-SZwxjJQwWBIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp"
     },
     {
       "id": "admin-willow-cricket",
@@ -284,8 +350,37 @@
         }
       },
       "matchTimeUTC": "2026-06-14T11:45:00Z",
-      "streams": [],
-      "streamCount": 0,
+      "streams": [
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/rbc-canadian-open-pga-tour-pga-526234/1",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/rbc-canadian-open-pga-tour-pga-526234/2",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/rbc-canadian-open-pga-tour-pga-526234/3",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/rbc-canadian-open-pga-tour-pga-526234/4",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 4,
       "poster": ""
     },
     {
@@ -749,6 +844,27 @@
       "streams": [],
       "streamCount": 0,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFJC8+IAThRbdRkiBggTIEIhzwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
+    },
+    {
+      "id": "live_ncaa-division-i-championship_north-carolina-tar-heels-west-virginia-mountaineers-live-streaming-1347049602",
+      "title": "North Carolina Tar Heels vs West Virginia Mountaineers",
+      "sport": "basketball",
+      "competition": "basketball",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-06-14T23:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
     },
     {
       "id": "boston-red-sox-vs-texas-rangers-2387949",
