@@ -1,52 +1,10 @@
 {
-  "lastUpdated": "2026-06-14T13:45:35Z",
-  "fetchDuration": "60.5s",
-  "totalMatches": 66,
+  "lastUpdated": "2026-06-14T15:45:19Z",
+  "fetchDuration": "68.3s",
+  "totalMatches": 65,
   "liveCount": 11,
-  "upcomingCount": 55,
+  "upcomingCount": 54,
   "matches": [
-    {
-      "id": "wests-tigers-vs-gold-coast-titans-2417268",
-      "title": "Wests Tigers vs Gold Coast Titans",
-      "sport": "rugby",
-      "competition": "rugby",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-14T06:05:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNCBCVYICLpDcQfEFM0gSBkIkOIpBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp"
-    },
-    {
-      "id": "formula-3-spain-r4-formula-2-spain-r5-game-19996",
-      "title": "Formula 3: Spain -R4 | Formula 2: Spain -R5",
-      "sport": "motor-sports",
-      "competition": "motor-sports",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-14T06:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
-    },
     {
       "id": "live-event_nascar-cup-series-2026-nascar-cup-series-race-at-pocono-live-stream",
       "title": "Nascar Cup Series 2026 - NASCAR Cup Series Race at Pocono",
@@ -268,8 +226,8 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJCBQhRLEHxDc9RiJtwgYB0zALAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp"
     },
     {
-      "id": "race-circuit-de-barcelona-catalunya-3072-kms-formula-1-2554",
-      "title": "Race | Circuit de Barcelona-Catalunya | 307.2 Kms",
+      "id": "23151",
+      "title": "Formula 1 2026 - Spain GP",
       "sport": "motor-sports",
       "competition": "motor-sports",
       "status": "LIVE",
@@ -286,35 +244,14 @@
       "matchTimeUTC": "2026-06-14T13:00:00Z",
       "streams": [
         {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/race-circuit-de-barcelona-catalunya-3072-kms-formula-1-2554/1",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/race-circuit-de-barcelona-catalunya-3072-kms-formula-1-2554/2",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/race-circuit-de-barcelona-catalunya-3072-kms-formula-1-2554/3",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/race-circuit-de-barcelona-catalunya-3072-kms-formula-1-2554/4",
-          "language": "",
+          "source": "golf",
+          "embedUrl": "https://embed.st/embed/golf/23151/1",
+          "language": "English",
           "hd": true,
           "quality": "HD"
         }
       ],
-      "streamCount": 4,
+      "streamCount": 1,
       "poster": ""
     },
     {
@@ -345,6 +282,48 @@
       ],
       "streamCount": 1,
       "poster": ""
+    },
+    {
+      "id": "bradford-bulls-vs-leigh-leopards-2395938",
+      "title": "Bradford Bulls vs Leigh Leopards",
+      "sport": "rugby",
+      "competition": "rugby",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-06-14T14:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXJyTMwoiCG4g+IKSBIhz5nOaMkCwJBT7DZ9FDrYouO8vSyzPTLRg7vS6QA.webp"
+    },
+    {
+      "id": "wroc-aw-panthers-vs-berlin-thunder-2475805",
+      "title": "Wrocław Panthers vs Berlin Thunder",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-06-14T14:10:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILMEQgQKacAiSQEEDGBUV2aSADGm+Hs2zhIY9pD71KeSBImQNLPav8wgkU2z0whYElzarIVdWBWFSegJJcld5cIggA.webp"
     },
     {
       "id": "admin-willow-cricket",
@@ -481,27 +460,6 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBEBDXsQZgdgwwRgBOYAU0hDpqxQFZh5Tg0wmJgATMNTTAWkVqNri0LIinbQ61OvHS5CISiCggGIRPzWq0hNTTV5s2AMb6NNFif4h+VFxux5bFLXnk3aASx2PV0+LRRNR0hAtjYUBHZQYkk2JjBHEFsaOxytGFZYSWt5YFIVGOVgeTYOMl5AiCA.webp"
-    },
-    {
-      "id": "bradford-bulls-vs-leigh-leopards-2395938",
-      "title": "Bradford Bulls vs Leigh Leopards",
-      "sport": "rugby",
-      "competition": "rugby",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-14T14:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXJyTMwoiCG4g+IKSBIhz5nOaMkCwJBT7DZ9FDrYouO8vSyzPTLRg7vS6QA.webp"
     },
     {
       "id": "pittsburgh-pirates-vs-miami-marlins-2387939",
