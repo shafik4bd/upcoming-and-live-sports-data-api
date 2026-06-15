@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-06-15T19:39:48Z",
-  "fetchDuration": "55.3s",
-  "totalMatches": 62,
-  "liveCount": 3,
-  "upcomingCount": 59,
+  "lastUpdated": "2026-06-15T22:12:52Z",
+  "fetchDuration": "66.8s",
+  "totalMatches": 60,
+  "liveCount": 2,
+  "upcomingCount": 58,
   "matches": [
     {
       "id": "spain-vs-cape-verde-2391739",
@@ -27,37 +27,8 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEOxAoGYXvhDcQfIyBIgYpkFcQ4tTJBT7DZ9FGBXa278vSyztTLRg7mKiEEA.webp"
     },
     {
-      "id": "live_ncaa-division-i-championship_texas-alabama-crimson-tide-live-streaming-1349424225",
-      "title": "Texas Longhorns vs Alabama Crimson Tide",
-      "sport": "basketball",
-      "competition": "basketball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-15T18:00:00Z",
-      "streams": [
-        {
-          "source": "delta",
-          "embedUrl": "https://embed.st/embed/delta/live_ncaa-division-i-championship_texas-alabama-crimson-tide-live-streaming-1349424225/1",
-          "language": "English",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 1,
-      "poster": ""
-    },
-    {
-      "id": "belgium-vs-egypt-2391736",
-      "title": "Belgium vs Egypt",
+      "id": "saudi-arabia-vs-uruguay-2391738",
+      "title": "Saudi Arabia vs Uruguay",
       "sport": "football",
       "competition": "football",
       "status": "LIVE",
@@ -71,10 +42,10 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-06-15T19:00:00Z",
+      "matchTimeUTC": "2026-06-15T22:00:00Z",
       "streams": [],
       "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VUaKRgkIUSBDcQfI7pAxT+xDhIFgWmP2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJMSxgNIEBBDcQfIyBIgYp3SEQ4+BYEgp3WIsSjAqUXD+XpZZXky0YB5iohBAA.webp"
     },
     {
       "id": "admin-willow-cricket",
@@ -211,27 +182,6 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBEBDXsQZgdgwwRgBOYAU0hDpqxQFZh5Tg0wmJgATMNTTAWkVqNri0LIinbQ61OvHS5CISiCggGIRPzWq0hNTTV5s2AMb6NNFif4h+VFxux5bFLXnk3aASx2PV0+LRRNR0hAtjYUBHZQYkk2JjBHEFsaOxytGFZYSWt5YFIVGOVgeTYOMl5AiCA.webp"
-    },
-    {
-      "id": "saudi-arabia-vs-uruguay-2391738",
-      "title": "Saudi Arabia vs Uruguay",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-15T22:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJMSxgNIEBBDcQfIyBIgYp3SEQ4+BYEgp3WIsSjAqUXD+XpZZXky0YB5iohBAA.webp"
     },
     {
       "id": "philadelphia-phillies-vs-miami-marlins-2387954",
@@ -1119,8 +1069,23 @@
         }
       },
       "matchTimeUTC": "2026-06-17T04:00:00Z",
-      "streams": [],
-      "streamCount": 0,
+      "streams": [
+        {
+          "source": "golf",
+          "embedUrl": "https://embed.st/embed/golf/23193/1",
+          "language": "English",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "golf",
+          "embedUrl": "https://embed.st/embed/golf/23193/2",
+          "language": "English",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 2,
       "poster": ""
     },
     {
