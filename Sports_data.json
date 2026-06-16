@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-06-16T20:51:16Z",
-  "fetchDuration": "92.0s",
-  "totalMatches": 68,
+  "lastUpdated": "2026-06-16T22:50:32Z",
+  "fetchDuration": "61.3s",
+  "totalMatches": 67,
   "liveCount": 3,
-  "upcomingCount": 65,
+  "upcomingCount": 64,
   "matches": [
     {
       "id": "world-weightlifting-championships-game-1037674",
@@ -22,57 +22,13 @@
         }
       },
       "matchTimeUTC": "2026-06-16T16:00:00Z",
-      "streams": [
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/world-weightlifting-championships-game-1037674/1",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/world-weightlifting-championships-game-1037674/2",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 2,
+      "streams": [],
+      "streamCount": 0,
       "poster": ""
     },
     {
-      "id": "live_ncaa-division-i-championship_troy-trojans-west-virginia-mountaineers-live-streaming-1350234414",
-      "title": "Troy Trojans vs West Virginia Mountaineers",
-      "sport": "basketball",
-      "competition": "basketball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-16T18:00:00Z",
-      "streams": [
-        {
-          "source": "delta",
-          "embedUrl": "https://embed.st/embed/delta/live_ncaa-division-i-championship_troy-trojans-west-virginia-mountaineers-live-streaming-1350234414/1",
-          "language": "English",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 1,
-      "poster": ""
-    },
-    {
-      "id": "france-vs-senegal-2391742",
-      "title": "France vs Senegal",
+      "id": "iraq-vs-norway-2461107",
+      "title": "Iraq vs Norway",
       "sport": "football",
       "competition": "football",
       "status": "LIVE",
@@ -86,10 +42,31 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-06-16T19:00:00Z",
+      "matchTimeUTC": "2026-06-16T22:00:00Z",
       "streams": [],
       "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHxC0+YKWFEoQ3DSZIgYIMyC02JTJBT7DZ9FPrYou+8vSyzPTLRg7vSiEEA.webp"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEA1AgyKMHxDcQ+-SRAxtIS4hMFgSCn2Gz6ulSi5gy8IllnumtGCeYqIQQA.webp"
+    },
+    {
+      "id": "philadelphia-phillies-vs-miami-marlins-2387966",
+      "title": "Philadelphia Phillies vs Miami Marlins",
+      "sport": "baseball",
+      "competition": "baseball",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-06-16T22:40:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGHITApIHdxD6+IYzFwgU5kEdPwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
     },
     {
       "id": "admin-willow-cricket",
@@ -226,48 +203,6 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBEBDXsQZgdgwwRgBOYAU0hDpqxQFZh5Tg0wmJgATMNTTAWkVqNri0LIinbQ61OvHS5CISiCggGIRPzWq0hNTTV5s2AMb6NNFif4h+VFxux5bFLXnk3aASx2PV0+LRRNR0hAtjYUBHZQYkk2JjBHEFsaOxytGFZYSWt5YFIVGOVgeTYOMl5AiCA.webp"
-    },
-    {
-      "id": "iraq-vs-norway-2461107",
-      "title": "Iraq vs Norway",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-16T22:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEA1AgyKMHxDcQ+-SRAxtIS4hMFgSCn2Gz6ulSi5gy8IllnumtGCeYqIQQA.webp"
-    },
-    {
-      "id": "philadelphia-phillies-vs-miami-marlins-2387966",
-      "title": "Philadelphia Phillies vs Miami Marlins",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-16T22:40:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGHITApIHdxD6+IYzFwgU5kEdPwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
     },
     {
       "id": "boston-red-sox-vs-toronto-blue-jays-2387972",
@@ -646,6 +581,27 @@
       "streams": [],
       "streamCount": 0,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKjBBxpIeGCTAADCF4gsIC6Z2abWrSyQUsIuYxRhVKHh-KNqcr3xWYDAPcTEIIA.webp"
+    },
+    {
+      "id": "atp-wta-halle-berlin-tn-1",
+      "title": "ATP / WTA: Halle / Berlin 🎾",
+      "sport": "other",
+      "competition": "other",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-06-17T09:30:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
     },
     {
       "id": "new-south-wales-blues-vs-queensland-maroons-2435987",
