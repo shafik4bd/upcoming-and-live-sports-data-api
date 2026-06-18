@@ -1,13 +1,13 @@
 {
-  "lastUpdated": "2026-06-18T05:50:16Z",
-  "fetchDuration": "41.4s",
-  "totalMatches": 45,
-  "liveCount": 3,
-  "upcomingCount": 42,
+  "lastUpdated": "2026-06-18T10:10:31Z",
+  "fetchDuration": "50.1s",
+  "totalMatches": 56,
+  "liveCount": 2,
+  "upcomingCount": 54,
   "matches": [
     {
-      "id": "ppv-event-03-summer-nationals-late-models-davenport-ppv-03",
-      "title": "Summer Nationals Late Models Davenport ⭐",
+      "id": "atp-wta-halle-berlin-tn-1",
+      "title": "ATP / WTA: Halle / Berlin 🎾",
       "sport": "other",
       "competition": "other",
       "status": "LIVE",
@@ -21,16 +21,45 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-06-18T00:15:00Z",
-      "streams": [],
-      "streamCount": 0,
+      "matchTimeUTC": "2026-06-18T09:30:00Z",
+      "streams": [
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/atp-wta-halle-berlin-tn-1/1",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/atp-wta-halle-berlin-tn-1/2",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/atp-wta-halle-berlin-tn-1/3",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/atp-wta-halle-berlin-tn-1/4",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 4,
       "poster": ""
     },
     {
-      "id": "seattle-mariners-vs-baltimore-orioles-2387979",
-      "title": "Seattle Mariners vs Baltimore Orioles",
-      "sport": "baseball",
-      "competition": "baseball",
+      "id": "ppv-england-vs-new-zealand",
+      "title": "England vs. New Zealand",
+      "sport": "cricket",
+      "competition": "cricket",
       "status": "LIVE",
       "teams": {
         "home": {
@@ -42,31 +71,25 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-06-18T01:40:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPVF8QU8iBDcQ2-TFwgU5owY0FgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
-    },
-    {
-      "id": "athletics-vs-pittsburgh-pirates-2387988",
-      "title": "Athletics vs Pittsburgh Pirates",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
+      "matchTimeUTC": "2026-06-18T10:00:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-england-vs-new-zealand/1",
+          "language": "English - Sky Sport 1 NZ",
+          "hd": true,
+          "quality": "HD"
         },
-        "away": {
-          "name": "",
-          "logo": ""
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-england-vs-new-zealand/2",
+          "language": "English - Sky Sport 1 NZ",
+          "hd": false,
+          "quality": "SD"
         }
-      },
-      "matchTimeUTC": "2026-06-18T01:40:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMjBAhmYKSBQhuIPlpCacBgyZwKmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MVEFgnBxNSeMkBjEGXjBViSVlLZlIPXpJ7pIYSAghEKEFfNlDVFOQigwgkU2z0whYElwLHIVdWZ2FtRwI1cldgZzIIIA.webp"
     },
     {
       "id": "admin-willow-cricket",
@@ -205,56 +228,6 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBEBDXsQZgdgwwRgBOYAU0hDpqxQFZh5Tg0wmJgATMNTTAWkVqNri0LIinbQ61OvHS5CISiCggGIRPzWq0hNTTV5s2AMb6NNFif4h+VFxux5bFLXnk3aASx2PV0+LRRNR0hAtjYUBHZQYkk2JjBHEFsaOxytGFZYSWt5YFIVGOVgeTYOMl5AiCA.webp"
     },
     {
-      "id": "atp-wta-halle-berlin-tn-1",
-      "title": "ATP / WTA: Halle / Berlin 🎾",
-      "sport": "other",
-      "competition": "other",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-18T09:30:00Z",
-      "streams": [
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/atp-wta-halle-berlin-tn-1/1",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/atp-wta-halle-berlin-tn-1/2",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/atp-wta-halle-berlin-tn-1/3",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/atp-wta-halle-berlin-tn-1/4",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 4,
-      "poster": ""
-    },
-    {
       "id": "ppv-czechia-vs-south-africa",
       "title": "Czechia vs. South Africa",
       "sport": "football",
@@ -303,14 +276,14 @@
         {
           "source": "admin",
           "embedUrl": "https://embed.st/embed/admin/ppv-czechia-vs-south-africa/5",
-          "language": "English - BBC/ITV",
+          "language": "English - BBC One",
           "hd": true,
           "quality": "HD"
         },
         {
           "source": "admin",
           "embedUrl": "https://embed.st/embed/admin/ppv-czechia-vs-south-africa/6",
-          "language": "English - BBC/ITV",
+          "language": "English - BBC One",
           "hd": false,
           "quality": "SD"
         },
@@ -327,9 +300,37 @@
           "language": "Spanish - Telemundo",
           "hd": false,
           "quality": "SD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-czechia-vs-south-africa/9",
+          "language": "German - ZDF",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-czechia-vs-south-africa/10",
+          "language": "German - ZDF",
+          "hd": false,
+          "quality": "SD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-czechia-vs-south-africa/11",
+          "language": "Spanish - DAZN Spain",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-czechia-vs-south-africa/12",
+          "language": "Spanish - DAZN Spain",
+          "hd": false,
+          "quality": "SD"
         }
       ],
-      "streamCount": 8,
+      "streamCount": 12,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEYIhIgpAY2AQQiEPJEgawkDE0gF48ZJAyQKY8BpZVWRROmk1OlOXEChIptnphCwJLhmOhMG5OcWFSegIJciCVMgggA.webp"
     },
     {
@@ -858,6 +859,93 @@
       "poster": ""
     },
     {
+      "id": "23265",
+      "title": "Texas Rangers - San Diego Padres",
+      "sport": "baseball",
+      "competition": "baseball",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-06-20T00:05:00Z",
+      "streams": [
+        {
+          "source": "golf",
+          "embedUrl": "https://embed.st/embed/golf/23265/1",
+          "language": "English",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 1,
+      "poster": ""
+    },
+    {
+      "id": "23266",
+      "title": "Houston Astros - Cleveland Guardians",
+      "sport": "baseball",
+      "competition": "baseball",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-06-20T00:10:00Z",
+      "streams": [
+        {
+          "source": "golf",
+          "embedUrl": "https://embed.st/embed/golf/23266/1",
+          "language": "English",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 1,
+      "poster": ""
+    },
+    {
+      "id": "23267",
+      "title": "Kansas City Royals - St. Louis Cardinals",
+      "sport": "baseball",
+      "competition": "baseball",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-06-20T00:15:00Z",
+      "streams": [
+        {
+          "source": "golf",
+          "embedUrl": "https://embed.st/embed/golf/23267/1",
+          "language": "English",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 1,
+      "poster": ""
+    },
+    {
       "id": "ppv-brazil-vs-haiti",
       "title": "Brazil vs. Haiti",
       "sport": "football",
@@ -930,10 +1018,169 @@
           "language": "Spanish - Telemundo",
           "hd": false,
           "quality": "SD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-brazil-vs-haiti/9",
+          "language": "Spanish - DAZN Spain",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-brazil-vs-haiti/10",
+          "language": "Spanish - DAZN Spain",
+          "hd": false,
+          "quality": "SD"
         }
       ],
-      "streamCount": 8,
+      "streamCount": 10,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MVECgkjgiEMAghFMEMJDLVklMHFYQEbSBKGJh0vMUqQumNtIhx+cvoFDpBbPTCFgSXAGMtITBuTn1hMy13eHJg+TMIIA.webp"
+    },
+    {
+      "id": "23268",
+      "title": "Colorado Rockies - Pittsburgh Pirates",
+      "sport": "baseball",
+      "competition": "baseball",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-06-20T00:40:00Z",
+      "streams": [
+        {
+          "source": "golf",
+          "embedUrl": "https://embed.st/embed/golf/23268/1",
+          "language": "English",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 1,
+      "poster": ""
+    },
+    {
+      "id": "23269",
+      "title": "Athletics - Los Angeles Angels",
+      "sport": "baseball",
+      "competition": "baseball",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-06-20T01:40:00Z",
+      "streams": [
+        {
+          "source": "golf",
+          "embedUrl": "https://embed.st/embed/golf/23269/1",
+          "language": "English",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 1,
+      "poster": ""
+    },
+    {
+      "id": "23270",
+      "title": "Arizona Diamondbacks - Minnesota Twins",
+      "sport": "baseball",
+      "competition": "baseball",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-06-20T01:45:00Z",
+      "streams": [
+        {
+          "source": "golf",
+          "embedUrl": "https://embed.st/embed/golf/23270/1",
+          "language": "English",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 1,
+      "poster": ""
+    },
+    {
+      "id": "23272",
+      "title": "Seattle Mariners - Boston Red Sox",
+      "sport": "baseball",
+      "competition": "baseball",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-06-20T02:10:00Z",
+      "streams": [
+        {
+          "source": "golf",
+          "embedUrl": "https://embed.st/embed/golf/23272/1",
+          "language": "English",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 1,
+      "poster": ""
+    },
+    {
+      "id": "23271",
+      "title": "Los Angeles Dodgers - Baltimore Orioles",
+      "sport": "baseball",
+      "competition": "baseball",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-06-20T02:10:00Z",
+      "streams": [
+        {
+          "source": "golf",
+          "embedUrl": "https://embed.st/embed/golf/23271/1",
+          "language": "English",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 1,
+      "poster": ""
     },
     {
       "id": "ppv-t-rkiye-vs-paraguay",
@@ -1008,9 +1255,23 @@
           "language": "Spanish - Telemundo",
           "hd": false,
           "quality": "SD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-t-rkiye-vs-paraguay/9",
+          "language": "Spanish - DAZN Spain",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-t-rkiye-vs-paraguay/10",
+          "language": "Spanish - DAZN Spain",
+          "hd": false,
+          "quality": "SD"
         }
       ],
-      "streamCount": 8,
+      "streamCount": 10,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MZCMHjAJiAMbAqICCGFLJakiCwgdyiavmqYIRTWEjpKkSEQobJlOQkChFgtnphCwJLlmOhMG5OfVJ6dykwIOkwiCA.webp"
     },
     {
@@ -1221,6 +1482,27 @@
       "poster": ""
     },
     {
+      "id": "23273",
+      "title": "Tunisia - Japan",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-06-21T04:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
       "id": "ppv-warriors-vs-cowboys",
       "title": "Warriors vs. Cowboys",
       "sport": "rugby",
@@ -1327,6 +1609,90 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5Mw7CBSSQJEHJATZiLNmDwJ64SCogtWEIi0RtBkDFWHgNdYhgpyEUGEEimq+2ELAkuAMb2hZ1ZHcTJ7AjVyZ2BHMgggA.webp"
+    },
+    {
+      "id": "23274",
+      "title": "Spain - Saudi Arabia",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-06-21T16:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "23275",
+      "title": "Belgium - Iran",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-06-21T19:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "23276",
+      "title": "Uruguay - Cape Verde",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-06-21T22:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "23277",
+      "title": "New Zealand - Egypt",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-06-22T01:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
     }
   ]
 }
