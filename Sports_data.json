@@ -1,31 +1,10 @@
 {
-  "lastUpdated": "2026-06-19T22:00:34Z",
-  "fetchDuration": "88.8s",
+  "lastUpdated": "2026-06-19T23:02:20Z",
+  "fetchDuration": "78.2s",
   "totalMatches": 78,
-  "liveCount": 7,
-  "upcomingCount": 71,
+  "liveCount": 8,
+  "upcomingCount": 70,
   "matches": [
-    {
-      "id": "ppv-event-01-one-friday-fights-159-gonzalez-v-chatanan-ppv-01",
-      "title": "ONE Friday Fights 159 Gonzalez v Chatanan 💥",
-      "sport": "other",
-      "competition": "other",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-19T14:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
-    },
     {
       "id": "live-event_2026-pfl-mena-2-jeddah-live-stream",
       "title": "2026 PFL MENA 2: Jeddah",
@@ -98,27 +77,6 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFJAoQfMFLAhgSENx0hzMXFut8QEXASMU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp"
     },
     {
-      "id": "leinster-vs-bulls-2483276",
-      "title": "Leinster vs Bulls",
-      "sport": "rugby",
-      "competition": "rugby",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-19T18:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMakQVEChARgNGiWmKQWEIhkwQZMjS26RI6SGGaL4s8HjAI63SnIKBQ4wWz0whYElzinITBuTgVhUnoPWzBguwiIIA.webp"
-    },
-    {
       "id": "hull-kingston-rovers-vs-leigh-leopards-2395940",
       "title": "Hull Kingston Rovers vs Leigh Leopards",
       "sport": "rugby",
@@ -159,6 +117,77 @@
       "streams": [],
       "streamCount": 0,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMLjkh6JEIm4g+IKSF0hzuECm0gJTJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
+    },
+    {
+      "id": "scotland-vs-morocco-2391749",
+      "title": "Scotland vs Morocco",
+      "sport": "football",
+      "competition": "football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-06-19T22:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rECBTApIGSEohuIPsZAkQMMxpCJEmpkgp9hs+ijAqtbD+XpZZWky0YB5iohBAA.webp"
+    },
+    {
+      "id": "detroit-tigers-vs-chicago-white-sox-2388006",
+      "title": "Detroit Tigers vs Chicago White Sox",
+      "sport": "baseball",
+      "competition": "baseball",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-06-19T22:40:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rUCFlLsIbiD4hDMXCBSn9ICLoLAkFPsK3swKlFxfl6WWW6a0wLmKiEEA.webp"
+    },
+    {
+      "id": "ppv-event-10-napa-oh-speedweek-fremont-ppv-10",
+      "title": "NAPA OH Speedweek Fremont",
+      "sport": "other",
+      "competition": "other",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-06-19T22:45:00Z",
+      "streams": [
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/ppv-event-10-napa-oh-speedweek-fremont-ppv-10/1",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 1,
+      "poster": ""
     },
     {
       "id": "admin-willow-cricket",
@@ -318,77 +347,6 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKSBKbirUNxB9NBkBpAhEOLfALAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp"
     },
     {
-      "id": "scotland-vs-morocco-2391749",
-      "title": "Scotland vs Morocco",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-19T22:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rECBTApIGSEohuIPsZAkQMMxpCJEmpkgp9hs+ijAqtbD+XpZZWky0YB5iohBAA.webp"
-    },
-    {
-      "id": "detroit-tigers-vs-chicago-white-sox-2388006",
-      "title": "Detroit Tigers vs Chicago White Sox",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-19T22:40:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rUCFlLsIbiD4hDMXCBSn9ICLoLAkFPsK3swKlFxfl6WWW6a0wLmKiEEA.webp"
-    },
-    {
-      "id": "ppv-event-10-napa-oh-speedweek-fremont-ppv-10",
-      "title": "NAPA OH Speedweek Fremont",
-      "sport": "other",
-      "competition": "other",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-19T22:45:00Z",
-      "streams": [
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/ppv-event-10-napa-oh-speedweek-fremont-ppv-10/1",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 1,
-      "poster": ""
-    },
-    {
       "id": "new-york-yankees-vs-cincinnati-reds-2388002",
       "title": "New York Yankees vs Cincinnati Reds",
       "sport": "baseball",
@@ -502,8 +460,8 @@
       "poster": ""
     },
     {
-      "id": "connecticut-sun-w-vs-toronto-tempo-w-basketball-494887",
-      "title": "Connecticut Sun W vs Toronto Tempo W",
+      "id": "new-york-liberty-w-vs-washington-mystics-w-basketball-494888",
+      "title": "New York Liberty W vs Washington Mystics W",
       "sport": "basketball",
       "competition": "basketball",
       "status": "UPCOMING",
@@ -523,8 +481,8 @@
       "poster": ""
     },
     {
-      "id": "new-york-liberty-w-vs-washington-mystics-w-basketball-494888",
-      "title": "New York Liberty W vs Washington Mystics W",
+      "id": "connecticut-sun-w-vs-toronto-tempo-w-basketball-494887",
+      "title": "Connecticut Sun W vs Toronto Tempo W",
       "sport": "basketball",
       "competition": "basketball",
       "status": "UPCOMING",
@@ -1065,6 +1023,56 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VcHBggt3BCG4g+h-SAggUIErhA2YBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp"
     },
     {
+      "id": "atp-wta-halle-berlin-tn-1",
+      "title": "ATP / WTA: Halle / Berlin 🎾",
+      "sport": "other",
+      "competition": "other",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-06-20T09:30:00Z",
+      "streams": [
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/atp-wta-halle-berlin-tn-1/1",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/atp-wta-halle-berlin-tn-1/2",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/atp-wta-halle-berlin-tn-1/3",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/atp-wta-halle-berlin-tn-1/4",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 4,
+      "poster": ""
+    },
+    {
       "id": "canterbury-bankstown-bulldogs-vs-manly-sea-eagles-2417272",
       "title": "Canterbury Bankstown Bulldogs vs Manly Sea Eagles",
       "sport": "rugby",
@@ -1120,6 +1128,27 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MVEFgnBxNSeMkBjEGXjBViSVlLZlIPXpJ7pIYSAghEKEFfNlDVFOQigwgkU2z0whYElwLHIVdWZ2FtRwI1cldgZzIIIA.webp"
+    },
+    {
+      "id": "us-open-championship-atp1000",
+      "title": "U.S. Open Championship",
+      "sport": "other",
+      "competition": "other",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-06-20T11:30:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
     },
     {
       "id": "south-africa-rugby-vs-barbarians-2460814",
