@@ -1,96 +1,10 @@
 {
-  "lastUpdated": "2026-06-20T02:40:35Z",
-  "fetchDuration": "97.3s",
-  "totalMatches": 96,
-  "liveCount": 32,
-  "upcomingCount": 64,
+  "lastUpdated": "2026-06-20T06:57:13Z",
+  "fetchDuration": "63.4s",
+  "totalMatches": 76,
+  "liveCount": 11,
+  "upcomingCount": 65,
   "matches": [
-    {
-      "id": "detroit-tigers-vs-chicago-white-sox-2388006",
-      "title": "Detroit Tigers vs Chicago White Sox",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-19T22:40:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rUCFlLsIbiD4hDMXCBSn9ICLoLAkFPsK3swKlFxfl6WWW6a0wLmKiEEA.webp"
-    },
-    {
-      "id": "ppv-event-10-napa-oh-speedweek-fremont-ppv-10",
-      "title": "NAPA OH Speedweek Fremont",
-      "sport": "other",
-      "competition": "other",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-19T22:45:00Z",
-      "streams": [
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/ppv-event-10-napa-oh-speedweek-fremont-ppv-10/1",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/ppv-event-10-napa-oh-speedweek-fremont-ppv-10/2",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": ""
-    },
-    {
-      "id": "live-event_2026-truck-series-at-san-diego-live-stream",
-      "title": "2026 Truck Series at San Diego",
-      "sport": "motor-sports",
-      "competition": "motor-sports",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-19T23:00:00Z",
-      "streams": [
-        {
-          "source": "delta",
-          "embedUrl": "https://embed.st/embed/delta/live-event_2026-truck-series-at-san-diego-live-stream/1",
-          "language": "English",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 1,
-      "poster": ""
-    },
     {
       "id": "live-event_ashton-sylve-vs-joseph-jo-jo-diaz-live-stream",
       "title": "Ashton Sylve vs Joseph ‘Jo Jo’ Diaz",
@@ -121,316 +35,10 @@
       "poster": ""
     },
     {
-      "id": "new-york-yankees-vs-cincinnati-reds-2388002",
-      "title": "New York Yankees vs Cincinnati Reds",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-19T23:05:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHzAotIEOzB8Q3DbpAxcIFJZOI+BYEgp3WIsdpUouYMvCJZZnky0YN5iohBAA.webp"
-    },
-    {
-      "id": "tampa-bay-rays-vs-washington-nationals-2388001",
-      "title": "Tampa Bay Rays vs Washington Nationals",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-19T23:10:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rVkhAhgU8txD6+WkDFwgU5kEcRSCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "miami-marlins-vs-san-francisco-giants-2388003",
-      "title": "Miami Marlins vs San Francisco Giants",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-19T23:10:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rfCBIhaWlGCQhuIPiFMxcIFJePbTBYEgp9hs+npUouYMvCJZZnky0YN5iohBAA.webp"
-    },
-    {
-      "id": "atlanta-braves-vs-milwaukee-brewers-2388009",
-      "title": "Atlanta Braves vs Milwaukee Brewers",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-19T23:15:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEIhg8wUkCjYhuIPiFMxceyyYgaCwJBT7DZ9FGBX6278vSyz9TLRg7mKiEEA.webp"
-    },
-    {
-      "id": "ppv-event-11-world-of-outlaws-sprint-cars-husets-ppv-11",
-      "title": "World of Outlaws Sprint Cars Husets",
-      "sport": "other",
-      "competition": "other",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-19T23:15:00Z",
-      "streams": [
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/ppv-event-11-world-of-outlaws-sprint-cars-husets-ppv-11/1",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 1,
-      "poster": ""
-    },
-    {
-      "id": "hamilton-tiger-cats-vs-bc-lions-2432540",
-      "title": "Hamilton Tiger-Cats vs BC Lions",
-      "sport": "american-football",
-      "competition": "american-football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-19T23:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VRCGBhBUsNxD6pIRDBAoQJEBFwWrBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp"
-    },
-    {
-      "id": "new-york-liberty-vs-washington-mystics-2449061",
-      "title": "New York Liberty vs Washington Mystics",
-      "sport": "basketball",
-      "competition": "basketball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-19T23:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rHCjYhuRHNxBSQJbSBSmQFiLhAwCwJBT7DZ9FGBWa278vSyzNTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "connecticut-sun-vs-toronto-tempo-2449310",
-      "title": "Connecticut Sun vs Toronto Tempo",
-      "sport": "basketball",
-      "competition": "basketball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-19T23:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MwkBBAxgiSYjLjFIkOKwh16rMBoRtIMguwg1ieHprDtpYBBTldAoSKbZ6YQsCS4AxnaFhuTl1LMjsCGXIAm2sIIA.webp"
-    },
-    {
-      "id": "connecticut-sun-w-vs-toronto-tempo-w-basketball-494887",
-      "title": "Connecticut Sun W vs Toronto Tempo W",
-      "sport": "basketball",
-      "competition": "basketball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-19T23:30:00Z",
-      "streams": [
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/connecticut-sun-w-vs-toronto-tempo-w-basketball-494887/1",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/connecticut-sun-w-vs-toronto-tempo-w-basketball-494887/2",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": ""
-    },
-    {
-      "id": "new-york-liberty-w-vs-washington-mystics-w-basketball-494888",
-      "title": "New York Liberty W vs Washington Mystics W",
-      "sport": "basketball",
-      "competition": "basketball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-19T23:30:00Z",
-      "streams": [
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/new-york-liberty-w-vs-washington-mystics-w-basketball-494888/1",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/new-york-liberty-w-vs-washington-mystics-w-basketball-494888/2",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": ""
-    },
-    {
-      "id": "ppv-event-16-usac-eastern-storms-williams-grove-ppv16",
-      "title": "USAC Eastern Storms Williams Grove",
-      "sport": "other",
-      "competition": "other",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-19T23:45:00Z",
-      "streams": [
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/ppv-event-16-usac-eastern-storms-williams-grove-ppv16/1",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 1,
-      "poster": ""
-    },
-    {
-      "id": "ppv-event-14-lucas-oil-late-models-smoky-mountain-ppv14",
-      "title": "Lucas Oil Late Models Smoky Mountain",
-      "sport": "other",
-      "competition": "other",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-19T23:50:00Z",
-      "streams": [
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/ppv-event-14-lucas-oil-late-models-smoky-mountain-ppv14/1",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 1,
-      "poster": ""
-    },
-    {
-      "id": "ppv-wwe-friday-night-smackdown",
+      "id": "wwe-friday-night-smackdown-game-2457754",
       "title": "WWE: Friday Night Smackdown",
-      "sport": "fight",
-      "competition": "fight",
+      "sport": "other",
+      "competition": "other",
       "status": "LIVE",
       "teams": {
         "home": {
@@ -443,87 +51,9 @@
         }
       },
       "matchTimeUTC": "2026-06-20T00:00:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-wwe-friday-night-smackdown/1",
-          "language": "English - USA",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-wwe-friday-night-smackdown/2",
-          "language": "English - USA",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MZRAGMQ0rCBgiQVacBqJEKELNnjSIRCU1yRweCpAal0idkV6U5CKDCDjBbPTCFgSXBPtDnVkdhUno3UzBnYEcyCCA.webp"
-    },
-    {
-      "id": "texas-rangers-vs-san-diego-padres-2388000",
-      "title": "Texas Rangers vs San Diego Padres",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-20T00:05:00Z",
       "streams": [],
       "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENxCIcieGE2a+IYzFwgU5kEcQkCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "houston-astros-vs-cleveland-guardians-2388005",
-      "title": "Houston Astros vs Cleveland Guardians",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-20T00:10:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFLAScQwJCG4g+IYzFwgU5wyAggYBXRT7DZ9DSpRcwZeESyyPTLRgXmKiEEA.webp"
-    },
-    {
-      "id": "kansas-city-royals-vs-st--louis-cardinals-2388004",
-      "title": "Kansas City Royals vs St. Louis Cardinals",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-20T00:15:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VXrRQhaULdxB8QRmLhBathxCgLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp"
+      "poster": ""
     },
     {
       "id": "ppv-event-19-world-of-outlaws-late-models-141-ppv-19",
@@ -545,27 +75,6 @@
       "streams": [],
       "streamCount": 0,
       "poster": ""
-    },
-    {
-      "id": "brazil-vs-haiti-2391748",
-      "title": "Brazil vs Haiti",
-      "sport": "football",
-      "competition": "football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-20T00:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWllhgkYbiCkg9fEMZIgYIMyBCJEfAsB0x+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp"
     },
     {
       "id": "formula-e-sanya-eprix-formula-e-2026-season-game-19996",
@@ -602,27 +111,6 @@
       ],
       "streamCount": 2,
       "poster": ""
-    },
-    {
-      "id": "colorado-rockies-vs-pittsburgh-pirates-2388007",
-      "title": "Colorado Rockies vs Pittsburgh Pirates",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-20T00:40:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rGVEQymobiD4hDMXCBSn9ICCAlMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp"
     },
     {
       "id": "live-event_bkfc-fight-night-nashville-live-stream",
@@ -683,105 +171,6 @@
       "poster": ""
     },
     {
-      "id": "athletics-vs-los-angeles-angels-2388010",
-      "title": "Athletics vs Los Angeles Angels",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-20T01:40:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEJxRgSILTu4g+IYzFy7zRiCAVMkFPsNn09bFF23l6WWW6a0w2mKiEEA.webp"
-    },
-    {
-      "id": "arizona-diamondbacks-vs-minnesota-twins-2388011",
-      "title": "Arizona Diamondbacks vs Minnesota Twins",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-20T01:45:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEKPVYwfDSAghuIXSBAxcIFJeP6NBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp"
-    },
-    {
-      "id": "golden-state-valkyries-vs-minnesota-lynx-2449062",
-      "title": "Golden State Valkyries vs Minnesota Lynx",
-      "sport": "basketball",
-      "competition": "basketball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-20T02:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MVEPGCJxEYOKwSQMKSADGILNglztidbMQQlpEEZQaRwMyBqzR5WQKGWC2emELAkuVSmdhuTjtSeldJMACrEIggA.webp"
-    },
-    {
-      "id": "golden-state-valkyries-w-vs-minnesota-lynx-w-basketball-494889",
-      "title": "Golden State Valkyries W vs Minnesota Lynx W",
-      "sport": "basketball",
-      "competition": "basketball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-20T02:00:00Z",
-      "streams": [
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/golden-state-valkyries-w-vs-minnesota-lynx-w-basketball-494889/1",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/golden-state-valkyries-w-vs-minnesota-lynx-w-basketball-494889/2",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": ""
-    },
-    {
       "id": "los-angeles-dodgers-vs-baltimore-orioles-2387999",
       "title": "Los Angeles Dodgers vs Baltimore Orioles",
       "sport": "baseball",
@@ -822,6 +211,84 @@
       "streams": [],
       "streamCount": 0,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGKRBSiZRNxB8QRmLhAozBkBDMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
+    },
+    {
+      "id": "wests-tigers-vs-dolphins-2417270",
+      "title": "Wests Tigers vs Dolphins",
+      "sport": "rugby",
+      "competition": "rugby",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-06-20T05:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8reGBAgo3MANDcQfEFK0gSIQ4kOmpBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp"
+    },
+    {
+      "id": "greater-western-sydney-giants-vs-carlton-football-club-2400623",
+      "title": "Greater Western Sydney Giants vs Carlton Football Club",
+      "sport": "afl",
+      "competition": "afl",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-06-20T06:15:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPDAoeYUUz4huIKSAggDIcyBggSpkCgLAkFPsNn0Uuttra7y9Fiy2ky0YN70ohBAA.webp"
+    },
+    {
+      "id": "motogp-czech-republic-grand-prix-game-122273",
+      "title": "MotoGP Czech Republic Grand Prix  🏁",
+      "sport": "other",
+      "competition": "other",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-06-20T06:40:00Z",
+      "streams": [
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/motogp-czech-republic-grand-prix-game-122273/1",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/motogp-czech-republic-grand-prix-game-122273/2",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": ""
     },
     {
       "id": "admin-willow-cricket",
@@ -958,133 +425,6 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBEBDXsQZgdgwwRgBOYAU0hDpqxQFZh5Tg0wmJgATMNTTAWkVqNri0LIinbQ61OvHS5CISiCggGIRPzWq0hNTTV5s2AMb6NNFif4h+VFxux5bFLXnk3aASx2PV0+LRRNR0hAtjYUBHZQYkk2JjBHEFsaOxytGFZYSWt5YFIVGOVgeTYOMl5AiCA.webp"
-    },
-    {
-      "id": "ppv-t-rkiye-vs-paraguay",
-      "title": "Türkiye vs. Paraguay",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-20T03:00:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-t-rkiye-vs-paraguay/1",
-          "language": "English - TSN",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-t-rkiye-vs-paraguay/2",
-          "language": "English - TSN",
-          "hd": false,
-          "quality": "SD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-t-rkiye-vs-paraguay/3",
-          "language": "English - FS1",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-t-rkiye-vs-paraguay/4",
-          "language": "English - FS1",
-          "hd": false,
-          "quality": "SD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-t-rkiye-vs-paraguay/5",
-          "language": "English - ITV1",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-t-rkiye-vs-paraguay/6",
-          "language": "English - ITV1",
-          "hd": false,
-          "quality": "SD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-t-rkiye-vs-paraguay/7",
-          "language": "Arabic - beIN Sports",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-t-rkiye-vs-paraguay/8",
-          "language": "Arabic - beIN Sports",
-          "hd": false,
-          "quality": "SD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-t-rkiye-vs-paraguay/9",
-          "language": "Spanish - DAZN Spain",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-t-rkiye-vs-paraguay/10",
-          "language": "Spanish - DAZN Spain",
-          "hd": false,
-          "quality": "SD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-t-rkiye-vs-paraguay/11",
-          "language": "Spanish - Telemundo",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-t-rkiye-vs-paraguay/12",
-          "language": "Spanish - Telemundo",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 12,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MZCMHjAJiAMbAqICCGFLJakiCwgdyiavmqYIRTWEjpKkSEQobJlOQkChFgtnphCwJLlmOhMG5OfVJ6dykwIOkwiCA.webp"
-    },
-    {
-      "id": "wests-tigers-vs-dolphins-2417270",
-      "title": "Wests Tigers vs Dolphins",
-      "sport": "rugby",
-      "competition": "rugby",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-20T05:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8reGBAgo3MANDcQfEFK0gSIQ4kOmpBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp"
     },
     {
       "id": "hurricanes-super-rugby-vs-chiefs-super-rugby-2490776",
@@ -1370,6 +710,27 @@
       "poster": ""
     },
     {
+      "id": "atlanta-dream-vs-indiana-fever-2449063",
+      "title": "Atlanta Dream vs Indiana Fever",
+      "sport": "basketball",
+      "competition": "basketball",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-06-20T17:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEHLDcwSSpBDcQfECSNmIuEIgsKmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
+    },
+    {
       "id": "detroit-tigers-vs-chicago-white-sox-2388021",
       "title": "Detroit Tigers vs Chicago White Sox",
       "sport": "baseball",
@@ -1494,6 +855,27 @@
       "streams": [],
       "streamCount": 0,
       "poster": ""
+    },
+    {
+      "id": "phoenix-mercury-vs-seattle-storm-2449064",
+      "title": "Phoenix Mercury vs Seattle Storm",
+      "sport": "basketball",
+      "competition": "basketball",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-06-20T19:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHG4heWSj20gpIEgZQgzIEBGOGCwJBT7DZ9FGBUou78vV2jPTLRg7mKiEEA.webp"
     },
     {
       "id": "germany-vs-ivory-coast-2391752",
@@ -1683,6 +1065,27 @@
       "streams": [],
       "streamCount": 0,
       "poster": ""
+    },
+    {
+      "id": "dallas-wings-vs-chicago-sky-2449065",
+      "title": "Dallas Wings vs Chicago Sky",
+      "sport": "basketball",
+      "competition": "basketball",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-06-21T00:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXNhADE3EFJC79JAyBSmQFiCGMSmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
     },
     {
       "id": "colorado-rockies-vs-pittsburgh-pirates-2388022",
@@ -2294,8 +1697,8 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VHLQFSw3WCG4g+IYzFwgU5wyCm4CwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
     },
     {
-      "id": "23277",
-      "title": "New Zealand - Egypt",
+      "id": "ppv-new-zealand-vs-egypt",
+      "title": "New Zealand vs. Egypt",
       "sport": "football",
       "competition": "football",
       "status": "UPCOMING",
@@ -2310,9 +1713,94 @@
         }
       },
       "matchTimeUTC": "2026-06-22T01:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-new-zealand-vs-egypt/1",
+          "language": "English - TSN",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-new-zealand-vs-egypt/2",
+          "language": "English - TSN",
+          "hd": false,
+          "quality": "SD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-new-zealand-vs-egypt/3",
+          "language": "English - FS1",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-new-zealand-vs-egypt/4",
+          "language": "English - FS1",
+          "hd": false,
+          "quality": "SD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-new-zealand-vs-egypt/5",
+          "language": "English - BBC/ITV",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-new-zealand-vs-egypt/6",
+          "language": "English - BBC/ITV",
+          "hd": false,
+          "quality": "SD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-new-zealand-vs-egypt/7",
+          "language": "Arabic - beIN Sports",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-new-zealand-vs-egypt/8",
+          "language": "Arabic - beIN Sports",
+          "hd": false,
+          "quality": "SD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-new-zealand-vs-egypt/9",
+          "language": "Spanish - DAZN Spain",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-new-zealand-vs-egypt/10",
+          "language": "Spanish - DAZN Spain",
+          "hd": false,
+          "quality": "SD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-new-zealand-vs-egypt/11",
+          "language": "Spanish - Telemundo",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-new-zealand-vs-egypt/12",
+          "language": "Spanish - Telemundo",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 12,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5M8YDSzYQKECRCIsIAMYgl82cOAQVckFT2ydy7BLUiRIHTq3GQMFOQigwgiwVOOwhYElzLHIVdWZy0yRw9xMFdtUm0gA.webp"
     },
     {
       "id": "23301",
