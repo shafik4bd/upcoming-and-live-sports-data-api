@@ -1,96 +1,10 @@
 {
-  "lastUpdated": "2026-06-21T15:09:55Z",
-  "fetchDuration": "87.5s",
-  "totalMatches": 69,
-  "liveCount": 11,
-  "upcomingCount": 58,
+  "lastUpdated": "2026-06-21T17:22:07Z",
+  "fetchDuration": "59.4s",
+  "totalMatches": 66,
+  "liveCount": 9,
+  "upcomingCount": 57,
   "matches": [
-    {
-      "id": "motogp-czech-republic-grand-prix-game-122273",
-      "title": "MotoGP Czech Republic Grand Prix  🏁",
-      "sport": "other",
-      "competition": "other",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-21T07:30:00Z",
-      "streams": [
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/motogp-czech-republic-grand-prix-game-122273/1",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/motogp-czech-republic-grand-prix-game-122273/2",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": ""
-    },
-    {
-      "id": "sydney-roosters-vs-cronulla-sharks-2417283",
-      "title": "Sydney Roosters vs Cronulla Sharks",
-      "sport": "rugby",
-      "competition": "rugby",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-21T08:15:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rXvDBkkCENz0g+IKSFMkDifSj0FgOmP2Gz6KLWxRct5ellkemtGBu9KIQQA.webp"
-    },
-    {
-      "id": "live-event_nascar-cup-series-2026-anduril-250-live-stream",
-      "title": "Nascar Cup Series 2026 - Anduril 250",
-      "sport": "motor-sports",
-      "competition": "motor-sports",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-21T08:45:00Z",
-      "streams": [
-        {
-          "source": "delta",
-          "embedUrl": "https://embed.st/embed/delta/live-event_nascar-cup-series-2026-anduril-250-live-stream/1",
-          "language": "English",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 1,
-      "poster": ""
-    },
     {
       "id": "ppv-england-vs-new-zealand",
       "title": "England vs. New Zealand",
@@ -285,27 +199,6 @@
       "poster": ""
     },
     {
-      "id": "london-warriors-vs-vienna-vikings-2475807",
-      "title": "London Warriors vs Vienna Vikings",
-      "sport": "american-football",
-      "competition": "american-football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-21T13:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRCBEgI07KRBUQMBSOA14UjTI3DgEpcBm6SILOMOGVEKSBTlrAoaoJy7YQsCS4AxnaFhuTmtjehcNMACLMgggA.webp"
-    },
-    {
       "id": "st-helens-vs-huddersfield-giants-2395945",
       "title": "St Helens vs Huddersfield Giants",
       "sport": "rugby",
@@ -375,6 +268,48 @@
       ],
       "streamCount": 4,
       "poster": ""
+    },
+    {
+      "id": "rhein-fire-vs-berlin-thunder-2475808",
+      "title": "Rhein Fire vs Berlin Thunder",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-06-21T15:10:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGlhEgsIFCGHzgEedMUlxwRGSoh1CmTrkxZimsNJSaOnaPIRQYQSKbZ6YQsCS4AxiiHluTntzMj8CTXJHJQsIIA.webp"
+    },
+    {
+      "id": "spain-vs-saudi-arabia-2391756",
+      "title": "Spain vs Saudi Arabia",
+      "sport": "football",
+      "competition": "football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-06-21T16:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAxgpIPmBTswSENx2mSIGCHMgQiCFYLAkFPsNn0UYFfrZfy9LFl9JlowLzFRCCA.webp"
     },
     {
       "id": "admin-willow-cricket",
@@ -511,27 +446,6 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBEBDXsQZgdgwwRgBOYAU0hDpqxQFZh5Tg0wmJgATMNTTAWkVqNri0LIinbQ61OvHS5CISiCggGIRPzWq0hNTTV5s2AMb6NNFif4h+VFxux5bFLXnk3aASx2PV0+LRRNR0hAtjYUBHZQYkk2JjBHEFsaOxytGFZYSWt5YFIVGOVgeTYOMl5AiCA.webp"
-    },
-    {
-      "id": "spain-vs-saudi-arabia-2391756",
-      "title": "Spain vs Saudi Arabia",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-21T16:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAxgpIPmBTswSENx2mSIGCHMgQiCFYLAkFPsNn0UYFfrZfy9LFl9JlowLzFRCCA.webp"
     },
     {
       "id": "atlanta-braves-vs-milwaukee-brewers-2388033",
