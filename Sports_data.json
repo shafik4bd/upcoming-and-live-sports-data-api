@@ -1,31 +1,10 @@
 {
-  "lastUpdated": "2026-06-22T18:43:31Z",
-  "fetchDuration": "63.7s",
-  "totalMatches": 70,
+  "lastUpdated": "2026-06-22T21:30:30Z",
+  "fetchDuration": "89.7s",
+  "totalMatches": 69,
   "liveCount": 3,
-  "upcomingCount": 67,
+  "upcomingCount": 66,
   "matches": [
-    {
-      "id": "pdc-darts-european-tour-2026-darts-1",
-      "title": "PDC Darts, European Tour 2026 🎯",
-      "sport": "darts",
-      "competition": "darts",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-22T11:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
-    },
     {
       "id": "argentina-vs-austria-2391758",
       "title": "Argentina vs Austria",
@@ -75,6 +54,27 @@
       ],
       "streamCount": 1,
       "poster": ""
+    },
+    {
+      "id": "france-vs-iraq-2461113",
+      "title": "France vs Iraq",
+      "sport": "football",
+      "competition": "football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-06-22T21:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXJBB9YIeGD4huW4yRAwQpkLquGCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
     },
     {
       "id": "admin-willow-cricket",
@@ -211,27 +211,6 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBEBDXsQZgdgwwRgBOYAU0hDpqxQFZh5Tg0wmJgATMNTTAWkVqNri0LIinbQ61OvHS5CISiCggGIRPzWq0hNTTV5s2AMb6NNFif4h+VFxux5bFLXnk3aASx2PV0+LRRNR0hAtjYUBHZQYkk2JjBHEFsaOxytGFZYSWt5YFIVGOVgeTYOMl5AiCA.webp"
-    },
-    {
-      "id": "france-vs-iraq-2461113",
-      "title": "France vs Iraq",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-22T21:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXJBB9YIeGD4huW4yRAwQpkLquGCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
     },
     {
       "id": "detroit-tigers-vs-new-york-yankees-2388051",
