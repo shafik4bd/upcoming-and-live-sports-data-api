@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-06-23T16:24:00Z",
-  "fetchDuration": "68.1s",
+  "lastUpdated": "2026-06-23T19:07:07Z",
+  "fetchDuration": "90.6s",
   "totalMatches": 69,
   "liveCount": 1,
   "upcomingCount": 68,
   "matches": [
     {
-      "id": "atp-wta-bad-homburg-mallorca-tn-1",
-      "title": "ATP / WTA: Bad Homburg / Mallorca 🎾",
-      "sport": "tennis",
-      "competition": "tennis",
+      "id": "portugal-vs-uzbekistan-2391763",
+      "title": "Portugal vs Uzbekistan",
+      "sport": "football",
+      "competition": "football",
       "status": "LIVE",
       "teams": {
         "home": {
@@ -21,39 +21,10 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-06-23T09:30:00Z",
-      "streams": [
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/atp-wta-bad-homburg-mallorca-tn-1/1",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/atp-wta-bad-homburg-mallorca-tn-1/2",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/atp-wta-bad-homburg-mallorca-tn-1/3",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/atp-wta-bad-homburg-mallorca-tn-1/4",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 4,
-      "poster": ""
+      "matchTimeUTC": "2026-06-23T17:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAx1sIPmF4gQ3HcZIgYIUwcSnGwJBT7DZ9FGBUoub8vSyyPTWjA3MVEIIA.webp"
     },
     {
       "id": "admin-willow-cricket",
@@ -190,27 +161,6 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBEBDXsQZgdgwwRgBOYAU0hDpqxQFZh5Tg0wmJgATMNTTAWkVqNri0LIinbQ61OvHS5CISiCggGIRPzWq0hNTTV5s2AMb6NNFif4h+VFxux5bFLXnk3aASx2PV0+LRRNR0hAtjYUBHZQYkk2JjBHEFsaOxytGFZYSWt5YFIVGOVgeTYOMl5AiCA.webp"
-    },
-    {
-      "id": "portugal-vs-uzbekistan-2391763",
-      "title": "Portugal vs Uzbekistan",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-23T17:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAx1sIPmF4gQ3HcZIgYIUwcSnGwJBT7DZ9FGBUoub8vSyyPTWjA3MVEIIA.webp"
     },
     {
       "id": "england-vs-ghana-2391761",
@@ -652,6 +602,27 @@
       "streams": [],
       "streamCount": 0,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKgJkAGWRBDcQUkCX0gUZkJb3WCwJBT7Dd7MCpRdX5ellnumtMFcxUQggA.webp"
+    },
+    {
+      "id": "atp-wta-bad-homburg-mallorca-tn-1",
+      "title": "ATP / WTA: Bad Homburg / Mallorca 🎾",
+      "sport": "other",
+      "competition": "other",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-06-24T09:30:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
     },
     {
       "id": "miami-marlins-vs-texas-rangers-2388079",
