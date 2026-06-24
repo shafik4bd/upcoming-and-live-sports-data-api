@@ -1,60 +1,10 @@
 {
-  "lastUpdated": "2026-06-24T16:11:44Z",
-  "fetchDuration": "73.5s",
-  "totalMatches": 78,
-  "liveCount": 8,
-  "upcomingCount": 70,
+  "lastUpdated": "2026-06-24T18:29:36Z",
+  "fetchDuration": "66.8s",
+  "totalMatches": 77,
+  "liveCount": 10,
+  "upcomingCount": 67,
   "matches": [
-    {
-      "id": "atp-wta-bad-homburg-mallorca-tn-1",
-      "title": "ATP / WTA: Bad Homburg / Mallorca 🎾",
-      "sport": "tennis",
-      "competition": "tennis",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-24T09:30:00Z",
-      "streams": [
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/atp-wta-bad-homburg-mallorca-tn-1/1",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/atp-wta-bad-homburg-mallorca-tn-1/2",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/atp-wta-bad-homburg-mallorca-tn-1/3",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/atp-wta-bad-homburg-mallorca-tn-1/4",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 4,
-      "poster": ""
-    },
     {
       "id": "boxing-lewis-crocker-vs-liam-paro-game-2",
       "title": "Boxing : Lewis Crocker vs Liam Paro",
@@ -201,6 +151,69 @@
       "streams": [],
       "streamCount": 0,
       "poster": ""
+    },
+    {
+      "id": "miami-marlins-vs-texas-rangers-2388079",
+      "title": "Miami Marlins vs Texas Rangers",
+      "sport": "baseball",
+      "competition": "baseball",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-06-24T16:10:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECn6hyApCG4g+IYzFwbzJ4wWBIKfYbPoowKzWxfl6WWZqa0wLmKiEEA.webp"
+    },
+    {
+      "id": "new-york-mets-vs-chicago-cubs-2388047",
+      "title": "New York Mets vs Chicago Cubs",
+      "sport": "baseball",
+      "competition": "baseball",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-06-24T17:10:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDNohmIPrBDddIYzFwgU5o32MFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
+    },
+    {
+      "id": "chicago-white-sox-vs-cleveland-guardians-2388084",
+      "title": "Chicago White Sox vs Cleveland Guardians",
+      "sport": "baseball",
+      "competition": "baseball",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-06-24T18:10:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPSRg+sEFJCJuIPiFMxcIFJdMgjjYFpj9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp"
     },
     {
       "id": "admin-willow-cricket",
@@ -358,69 +371,6 @@
       "streams": [],
       "streamCount": 0,
       "poster": ""
-    },
-    {
-      "id": "miami-marlins-vs-texas-rangers-2388079",
-      "title": "Miami Marlins vs Texas Rangers",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-24T16:10:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECn6hyApCG4g+IYzFwbzJ4wWBIKfYbPoowKzWxfl6WWZqa0wLmKiEEA.webp"
-    },
-    {
-      "id": "new-york-mets-vs-chicago-cubs-2388047",
-      "title": "New York Mets vs Chicago Cubs",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-24T17:10:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDNohmIPrBDddIYzFwgU5o32MFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
-    },
-    {
-      "id": "chicago-white-sox-vs-cleveland-guardians-2388084",
-      "title": "Chicago White Sox vs Cleveland Guardians",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-24T18:10:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPSRg+sEFJCJuIPiFMxcIFJdMgjjYFpj9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp"
     },
     {
       "id": "bosnia-herzegovina-vs-qatar-2461115",
@@ -1419,112 +1369,6 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rVsDB8QUsLpzcQ2kCBi4QKCyZCH4BYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp"
     },
     {
-      "id": "ppv-t-rkiye-vs-united-states",
-      "title": "Türkiye vs. United States",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-26T02:00:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-t-rkiye-vs-united-states/1",
-          "language": "English - TSN",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-t-rkiye-vs-united-states/2",
-          "language": "English - TSN",
-          "hd": false,
-          "quality": "SD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-t-rkiye-vs-united-states/3",
-          "language": "English - FOX",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-t-rkiye-vs-united-states/4",
-          "language": "English - FOX",
-          "hd": false,
-          "quality": "SD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-t-rkiye-vs-united-states/5",
-          "language": "English - BBC/ITV",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-t-rkiye-vs-united-states/6",
-          "language": "English - BBC/ITV",
-          "hd": false,
-          "quality": "SD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-t-rkiye-vs-united-states/7",
-          "language": "Arabic - beIN Sports",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-t-rkiye-vs-united-states/8",
-          "language": "Arabic - beIN Sports",
-          "hd": false,
-          "quality": "SD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-t-rkiye-vs-united-states/9",
-          "language": "Spanish - DAZN Spain",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-t-rkiye-vs-united-states/10",
-          "language": "Spanish - DAZN Spain",
-          "hd": false,
-          "quality": "SD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-t-rkiye-vs-united-states/11",
-          "language": "Spanish - Telemundo",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-t-rkiye-vs-united-states/12",
-          "language": "Spanish - Telemundo",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 12,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MJEMOA1xVEHLIQpckFhAQQ8YIhqyAxthAyQNRYl0TSc4IvFysIlOUUChIptnphCwJLl2OhMG5ORUkyRwItciDrUmsgA.webp"
-    },
-    {
       "id": "ppv-paraguay-vs-australia",
       "title": "Paraguay vs. Australia",
       "sport": "football",
@@ -1629,6 +1473,112 @@
       ],
       "streamCount": 12,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEMCohhIAMYgyWYBBAwF6+SvlZpIKTp0pd44culnEJkSCXxgvchFBhBIptnphCwJLlkohcm5OJ1MyAIJ7chdlUmUgA.webp"
+    },
+    {
+      "id": "ppv-t-rkiye-vs-united-states",
+      "title": "Türkiye vs. United States",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-06-26T02:00:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-t-rkiye-vs-united-states/1",
+          "language": "English - TSN",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-t-rkiye-vs-united-states/2",
+          "language": "English - TSN",
+          "hd": false,
+          "quality": "SD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-t-rkiye-vs-united-states/3",
+          "language": "English - FOX",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-t-rkiye-vs-united-states/4",
+          "language": "English - FOX",
+          "hd": false,
+          "quality": "SD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-t-rkiye-vs-united-states/5",
+          "language": "English - BBC/ITV",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-t-rkiye-vs-united-states/6",
+          "language": "English - BBC/ITV",
+          "hd": false,
+          "quality": "SD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-t-rkiye-vs-united-states/7",
+          "language": "Arabic - beIN Sports",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-t-rkiye-vs-united-states/8",
+          "language": "Arabic - beIN Sports",
+          "hd": false,
+          "quality": "SD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-t-rkiye-vs-united-states/9",
+          "language": "Spanish - DAZN Spain",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-t-rkiye-vs-united-states/10",
+          "language": "Spanish - DAZN Spain",
+          "hd": false,
+          "quality": "SD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-t-rkiye-vs-united-states/11",
+          "language": "Spanish - Telemundo",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-t-rkiye-vs-united-states/12",
+          "language": "Spanish - Telemundo",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 12,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MJEMOA1xVEHLIQpckFhAQQ8YIhqyAxthAyQNRYl0TSc4IvFysIlOUUChIptnphCwJLl2OhMG5ORUkyRwItciDrUmsgA.webp"
     },
     {
       "id": "ppv-titans-vs-bulldogs",
