@@ -1,31 +1,10 @@
 {
-  "lastUpdated": "2026-06-25T11:35:20Z",
-  "fetchDuration": "86.4s",
-  "totalMatches": 70,
-  "liveCount": 6,
+  "lastUpdated": "2026-06-25T14:09:45Z",
+  "fetchDuration": "83.0s",
+  "totalMatches": 68,
+  "liveCount": 4,
   "upcomingCount": 64,
   "matches": [
-    {
-      "id": "ppv-event-06-inka-mma-58-ppv-06",
-      "title": "INKA MMA 58",
-      "sport": "other",
-      "competition": "other",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-25T04:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
-    },
     {
       "id": "live-event_world-rally-championship-2026-rally-greece-live-stream",
       "title": "World Rally Championship 2026 - Rally Greece",
@@ -97,27 +76,6 @@
       ],
       "streamCount": 3,
       "poster": ""
-    },
-    {
-      "id": "brisbane-lions-vs-sydney-swans-2495749",
-      "title": "Brisbane Lions vs Sydney Swans",
-      "sport": "afl",
-      "competition": "afl",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-25T09:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rYGD5gUm7KRDcQUkHxAkjJkBAMWpBYEgp9hs+jpUouYMvCJZZnky0YN5iohBAA.webp"
     },
     {
       "id": "atp-wta-bad-homburg-mallorca-tn-1",
@@ -1660,112 +1618,6 @@
       "poster": ""
     },
     {
-      "id": "ppv-new-zealand-vs-belgium",
-      "title": "New Zealand vs. Belgium",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-27T03:00:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-new-zealand-vs-belgium/1",
-          "language": "English - TSN",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-new-zealand-vs-belgium/2",
-          "language": "English - TSN",
-          "hd": false,
-          "quality": "SD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-new-zealand-vs-belgium/3",
-          "language": "English - FOX",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-new-zealand-vs-belgium/4",
-          "language": "English - FOX",
-          "hd": false,
-          "quality": "SD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-new-zealand-vs-belgium/5",
-          "language": "English - BBC/ITV",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-new-zealand-vs-belgium/6",
-          "language": "English - BBC/ITV",
-          "hd": false,
-          "quality": "SD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-new-zealand-vs-belgium/7",
-          "language": "Arabic - beIN Sports",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-new-zealand-vs-belgium/8",
-          "language": "Arabic - beIN Sports",
-          "hd": false,
-          "quality": "SD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-new-zealand-vs-belgium/9",
-          "language": "Spanish - DAZN Spain",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-new-zealand-vs-belgium/10",
-          "language": "Spanish - DAZN Spain",
-          "hd": false,
-          "quality": "SD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-new-zealand-vs-belgium/11",
-          "language": "Spanish - Telemundo",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-new-zealand-vs-belgium/12",
-          "language": "Spanish - Telemundo",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 12,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MiRBBABjYFRA0IweEpCqsIRFJApZIRZK2q5wjaVLyR2kCT3TVsnfzCCRTbPTCFgSXFJ1DnVkVhMx0CJXJnYEUyCCA.webp"
-    },
-    {
       "id": "ppv-egypt-vs-iran",
       "title": "Egypt vs. Iran",
       "sport": "football",
@@ -1870,6 +1722,112 @@
       ],
       "streamCount": 12,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5M8YBBBUQKEAGMpwabIikQqkjJBYlS7fJCHpiOdlLYQiGsIOysIUeVUChIpmZTlCwJLjmehMG5OVWFzTwJgcTAgiXMIIA.webp"
+    },
+    {
+      "id": "ppv-new-zealand-vs-belgium",
+      "title": "New Zealand vs. Belgium",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-06-27T03:00:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-new-zealand-vs-belgium/1",
+          "language": "English - TSN",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-new-zealand-vs-belgium/2",
+          "language": "English - TSN",
+          "hd": false,
+          "quality": "SD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-new-zealand-vs-belgium/3",
+          "language": "English - FOX",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-new-zealand-vs-belgium/4",
+          "language": "English - FOX",
+          "hd": false,
+          "quality": "SD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-new-zealand-vs-belgium/5",
+          "language": "English - BBC/ITV",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-new-zealand-vs-belgium/6",
+          "language": "English - BBC/ITV",
+          "hd": false,
+          "quality": "SD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-new-zealand-vs-belgium/7",
+          "language": "Arabic - beIN Sports",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-new-zealand-vs-belgium/8",
+          "language": "Arabic - beIN Sports",
+          "hd": false,
+          "quality": "SD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-new-zealand-vs-belgium/9",
+          "language": "Spanish - DAZN Spain",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-new-zealand-vs-belgium/10",
+          "language": "Spanish - DAZN Spain",
+          "hd": false,
+          "quality": "SD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-new-zealand-vs-belgium/11",
+          "language": "Spanish - Telemundo",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-new-zealand-vs-belgium/12",
+          "language": "Spanish - Telemundo",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 12,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MiRBBABjYFRA0IweEpCqsIRFJApZIRZK2q5wjaVLyR2kCT3TVsnfzCCRTbPTCFgSXFJ1DnVkVhMx0CJXJnYEUyCCA.webp"
     },
     {
       "id": "ppv-dolphins-vs-warriors",
