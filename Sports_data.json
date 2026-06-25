@@ -1,82 +1,10 @@
 {
-  "lastUpdated": "2026-06-25T14:09:45Z",
-  "fetchDuration": "83.0s",
-  "totalMatches": 68,
-  "liveCount": 4,
-  "upcomingCount": 64,
+  "lastUpdated": "2026-06-25T17:06:53Z",
+  "fetchDuration": "83.9s",
+  "totalMatches": 70,
+  "liveCount": 5,
+  "upcomingCount": 65,
   "matches": [
-    {
-      "id": "live-event_world-rally-championship-2026-rally-greece-live-stream",
-      "title": "World Rally Championship 2026 - Rally Greece",
-      "sport": "motor-sports",
-      "competition": "motor-sports",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-25T06:17:00Z",
-      "streams": [
-        {
-          "source": "delta",
-          "embedUrl": "https://embed.st/embed/delta/live-event_world-rally-championship-2026-rally-greece-live-stream/1",
-          "language": "English",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 1,
-      "poster": ""
-    },
-    {
-      "id": "england-vs-new-zealand-third-test-cricket-hundred-1",
-      "title": "England vs New Zealand",
-      "sport": "other",
-      "competition": "other",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-25T09:00:00Z",
-      "streams": [
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/england-vs-new-zealand-third-test-cricket-hundred-1/1",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/england-vs-new-zealand-third-test-cricket-hundred-1/2",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/england-vs-new-zealand-third-test-cricket-hundred-1/3",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 3,
-      "poster": ""
-    },
     {
       "id": "atp-wta-bad-homburg-mallorca-tn-1",
       "title": "ATP / WTA: Bad Homburg / Mallorca 🎾",
@@ -147,6 +75,84 @@
       "streams": [],
       "streamCount": 0,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJlRgg4KMFJDcQfEPpAgSBkIkMojBYEgp9hs+rpUouYMvCJZZnky0YN5iohBAA.webp"
+    },
+    {
+      "id": "world-rally-championship-greece-racing-0059",
+      "title": "World Rally Championship Greece 🏁",
+      "sport": "motor-sports",
+      "competition": "motor-sports",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-06-25T16:00:00Z",
+      "streams": [
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/world-rally-championship-greece-racing-0059/1",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/world-rally-championship-greece-racing-0059/2",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": ""
+    },
+    {
+      "id": "tampa-bay-rays-vs-kansas-city-royals-2388088",
+      "title": "Tampa Bay Rays vs Kansas City Royals",
+      "sport": "baseball",
+      "competition": "baseball",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-06-25T16:10:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAxgpIKFgbBt3EHxCmYuECkumQRqQWBIKfYbPoowKlF0-l6e0W8mWjBPMVEIIA.webp"
+    },
+    {
+      "id": "pittsburgh-pirates-vs-seattle-mariners-2388090",
+      "title": "Pittsburgh Pirates vs Seattle Mariners",
+      "sport": "baseball",
+      "competition": "baseball",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-06-25T16:35:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFD4gZTJGBQhuILSBAxcIAwdNHLuin2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
     },
     {
       "id": "admin-willow-cricket",
@@ -285,10 +291,10 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBEBDXsQZgdgwwRgBOYAU0hDpqxQFZh5Tg0wmJgATMNTTAWkVqNri0LIinbQ61OvHS5CISiCggGIRPzWq0hNTTV5s2AMb6NNFif4h+VFxux5bFLXnk3aASx2PV0+LRRNR0hAtjYUBHZQYkk2JjBHEFsaOxytGFZYSWt5YFIVGOVgeTYOMl5AiCA.webp"
     },
     {
-      "id": "tampa-bay-rays-vs-kansas-city-royals-2388088",
-      "title": "Tampa Bay Rays vs Kansas City Royals",
-      "sport": "baseball",
-      "competition": "baseball",
+      "id": "england-vs-new-zealand-third-test-cricket-hundred-1",
+      "title": "England vs New Zealand",
+      "sport": "other",
+      "competition": "other",
       "status": "UPCOMING",
       "teams": {
         "home": {
@@ -300,16 +306,16 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-06-25T16:10:00Z",
+      "matchTimeUTC": "2026-06-25T09:00:00Z",
       "streams": [],
       "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAxgpIKFgbBt3EHxCmYuECkumQRqQWBIKfYbPoowKlF0-l6e0W8mWjBPMVEIIA.webp"
+      "poster": ""
     },
     {
-      "id": "pittsburgh-pirates-vs-seattle-mariners-2388090",
-      "title": "Pittsburgh Pirates vs Seattle Mariners",
-      "sport": "baseball",
-      "competition": "baseball",
+      "id": "warrington-wolves-vs-catalans-dragons-2395946",
+      "title": "Warrington Wolves vs Catalans Dragons",
+      "sport": "rugby",
+      "competition": "rugby",
       "status": "UPCOMING",
       "teams": {
         "home": {
@@ -321,10 +327,60 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-06-25T16:35:00Z",
+      "matchTimeUTC": "2026-06-25T19:00:00Z",
       "streams": [],
       "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFD4gZTJGBQhuILSBAxcIAwdNHLuin2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMkmZESICCG4g+IKSB0hzuECitWCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
+    },
+    {
+      "id": "travelers-championship-pga-tour-pga-526234",
+      "title": "Travelers Championship | PGA Tour",
+      "sport": "other",
+      "competition": "other",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-06-25T19:00:00Z",
+      "streams": [
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/travelers-championship-pga-tour-pga-526234/1",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/travelers-championship-pga-tour-pga-526234/2",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/travelers-championship-pga-tour-pga-526234/3",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/travelers-championship-pga-tour-pga-526234/4",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 4,
+      "poster": ""
     },
     {
       "id": "san-francisco-giants-vs-athletics-2388089",
@@ -784,8 +840,8 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKvDC8ws6iBRgQIXiCxHjIaSBjXbNxfmBIKWEXMYHVKHmDKbG1HLejvRgvuJiEEA.webp"
     },
     {
-      "id": "las-vegas-aces-w-vs-dallas-wings-w-basketball-494906",
-      "title": "Las Vegas Aces W vs Dallas Wings W",
+      "id": "seattle-storm-w-vs-new-york-liberty-w-basketball-494907",
+      "title": "Seattle Storm W vs New York Liberty W",
       "sport": "basketball",
       "competition": "basketball",
       "status": "UPCOMING",
@@ -805,8 +861,8 @@
       "poster": ""
     },
     {
-      "id": "seattle-storm-w-vs-new-york-liberty-w-basketball-494907",
-      "title": "Seattle Storm W vs New York Liberty W",
+      "id": "las-vegas-aces-w-vs-dallas-wings-w-basketball-494906",
+      "title": "Las Vegas Aces W vs Dallas Wings W",
       "sport": "basketball",
       "competition": "basketball",
       "status": "UPCOMING",
@@ -1177,8 +1233,8 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rRFJCiwIFCG76QfECZi5dFkzglMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp"
     },
     {
-      "id": "connecticut-sun-w-vs-washington-mystics-w-basketball-494909",
-      "title": "Connecticut Sun W vs Washington Mystics W",
+      "id": "chicago-sky-w-vs-portland-fire-w-basketball-494908",
+      "title": "Chicago Sky W vs Portland Fire W",
       "sport": "basketball",
       "competition": "basketball",
       "status": "UPCOMING",
@@ -1198,8 +1254,8 @@
       "poster": ""
     },
     {
-      "id": "chicago-sky-w-vs-portland-fire-w-basketball-494908",
-      "title": "Chicago Sky W vs Portland Fire W",
+      "id": "connecticut-sun-w-vs-washington-mystics-w-basketball-494909",
+      "title": "Connecticut Sun W vs Washington Mystics W",
       "sport": "basketball",
       "competition": "basketball",
       "status": "UPCOMING",
@@ -1618,112 +1674,6 @@
       "poster": ""
     },
     {
-      "id": "ppv-egypt-vs-iran",
-      "title": "Egypt vs. Iran",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-27T03:00:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-egypt-vs-iran/1",
-          "language": "English - TSN",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-egypt-vs-iran/2",
-          "language": "English - TSN",
-          "hd": false,
-          "quality": "SD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-egypt-vs-iran/3",
-          "language": "English - FS1",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-egypt-vs-iran/4",
-          "language": "English - FS1",
-          "hd": false,
-          "quality": "SD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-egypt-vs-iran/5",
-          "language": "English - BBC/ITV",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-egypt-vs-iran/6",
-          "language": "English - BBC/ITV",
-          "hd": false,
-          "quality": "SD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-egypt-vs-iran/7",
-          "language": "Arabic - beIN Sports",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-egypt-vs-iran/8",
-          "language": "Arabic - beIN Sports",
-          "hd": false,
-          "quality": "SD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-egypt-vs-iran/9",
-          "language": "Spanish - DAZN Spain",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-egypt-vs-iran/10",
-          "language": "Spanish - DAZN Spain",
-          "hd": false,
-          "quality": "SD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-egypt-vs-iran/11",
-          "language": "Spanish - Telemundo",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-egypt-vs-iran/12",
-          "language": "Spanish - Telemundo",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 12,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5M8YBBBUQKEAGMpwabIikQqkjJBYlS7fJCHpiOdlLYQiGsIOysIUeVUChIpmZTlCwJLjmehMG5OVWFzTwJgcTAgiXMIIA.webp"
-    },
-    {
       "id": "ppv-new-zealand-vs-belgium",
       "title": "New Zealand vs. Belgium",
       "sport": "football",
@@ -1828,6 +1778,112 @@
       ],
       "streamCount": 12,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MiRBBABjYFRA0IweEpCqsIRFJApZIRZK2q5wjaVLyR2kCT3TVsnfzCCRTbPTCFgSXFJ1DnVkVhMx0CJXJnYEUyCCA.webp"
+    },
+    {
+      "id": "ppv-egypt-vs-iran",
+      "title": "Egypt vs. Iran",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-06-27T03:00:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-egypt-vs-iran/1",
+          "language": "English - TSN",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-egypt-vs-iran/2",
+          "language": "English - TSN",
+          "hd": false,
+          "quality": "SD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-egypt-vs-iran/3",
+          "language": "English - FS1",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-egypt-vs-iran/4",
+          "language": "English - FS1",
+          "hd": false,
+          "quality": "SD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-egypt-vs-iran/5",
+          "language": "English - BBC/ITV",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-egypt-vs-iran/6",
+          "language": "English - BBC/ITV",
+          "hd": false,
+          "quality": "SD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-egypt-vs-iran/7",
+          "language": "Arabic - beIN Sports",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-egypt-vs-iran/8",
+          "language": "Arabic - beIN Sports",
+          "hd": false,
+          "quality": "SD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-egypt-vs-iran/9",
+          "language": "Spanish - DAZN Spain",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-egypt-vs-iran/10",
+          "language": "Spanish - DAZN Spain",
+          "hd": false,
+          "quality": "SD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-egypt-vs-iran/11",
+          "language": "Spanish - Telemundo",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-egypt-vs-iran/12",
+          "language": "Spanish - Telemundo",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 12,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5M8YBBBUQKEAGMpwabIikQqkjJBYlS7fJCHpiOdlLYQiGsIOysIUeVUChIpmZTlCwJLjmehMG5OVWFzTwJgcTAgiXMIIA.webp"
     },
     {
       "id": "ppv-dolphins-vs-warriors",
