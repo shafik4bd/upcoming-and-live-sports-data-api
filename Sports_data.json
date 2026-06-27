@@ -1,31 +1,10 @@
 {
-  "lastUpdated": "2026-06-27T20:53:46Z",
-  "fetchDuration": "69.1s",
-  "totalMatches": 75,
-  "liveCount": 14,
-  "upcomingCount": 61,
+  "lastUpdated": "2026-06-27T21:57:44Z",
+  "fetchDuration": "62.5s",
+  "totalMatches": 72,
+  "liveCount": 13,
+  "upcomingCount": 59,
   "matches": [
-    {
-      "id": "ufc-fight-night-280-fiziev-vs-torres-2468284",
-      "title": "UFC Fight Night 280 Fiziev vs Torres",
-      "sport": "fight",
-      "competition": "fight",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-27T13:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdlV4htKEP3x6QWbSGogYICIZKGsLJBTvtR4lGFUoe78o2pzP+KzAYO7iYhBAA.webp"
-    },
     {
       "id": "hull-f-c--vs-wigan-warriors-2395949",
       "title": "Hull F.C. vs Wigan Warriors",
@@ -48,10 +27,10 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VECBIg+uMAPwhu2kFM0bziGLlwFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
     },
     {
-      "id": "ppv-2026-nhl-draft-rounds-2-7",
-      "title": "2026 NHL Draft | Rounds 2-7",
-      "sport": "hockey",
-      "competition": "hockey",
+      "id": "ppv-event-01-ufc-fight-night-fiziev-v-torres-ppv-01",
+      "title": "UFC Fight Night Fiziev v Torres 💥",
+      "sport": "other",
+      "competition": "other",
       "status": "LIVE",
       "teams": {
         "home": {
@@ -63,25 +42,39 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-06-27T15:00:00Z",
+      "matchTimeUTC": "2026-06-27T14:00:00Z",
       "streams": [
         {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-2026-nhl-draft-rounds-2-7/1",
-          "language": "English - NHL Network",
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/ppv-event-01-ufc-fight-night-fiziev-v-torres-ppv-01/1",
+          "language": "",
           "hd": true,
           "quality": "HD"
         },
         {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-2026-nhl-draft-rounds-2-7/2",
-          "language": "English - NHL Network",
-          "hd": false,
-          "quality": "SD"
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/ppv-event-01-ufc-fight-night-fiziev-v-torres-ppv-01/2",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/ppv-event-01-ufc-fight-night-fiziev-v-torres-ppv-01/3",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/ppv-event-01-ufc-fight-night-fiziev-v-torres-ppv-01/4",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
         }
       ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFNhABjaSBAjgEEEpjKQiMmSwhhkmKTnAqIEiaOTdmkPqzBEKORP5hBCgtnphCwJLikShF1YIBTIJd3hyF0VSRSA.webp"
+      "streamCount": 4,
+      "poster": ""
     },
     {
       "id": "night-of-champions-2468414",
@@ -124,69 +117,6 @@
       "streams": [],
       "streamCount": 0,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEMAAM0GCF6huIPiCkgSICxcS6cKAsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp"
-    },
-    {
-      "id": "detroit-tigers-vs-houston-astros-2388118",
-      "title": "Detroit Tigers vs Houston Astros",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-27T17:10:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLP2BhNKUCG4g+IYzFwgU54yAgh4BYEgp9hs+ijArdbD+XobRuky0YB5iohBAA.webp"
-    },
-    {
-      "id": "boston-red-sox-vs-new-york-yankees-2388121",
-      "title": "Boston Red Sox vs New York Yankees",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-27T17:10:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VPiBK4wILju4gNIEDFwgU54yAggpBYEgp9hs+ijAqUesvCJZZXky0YB5iohBAA.webp"
-    },
-    {
-      "id": "toronto-tempo-vs-phoenix-mercury-2449313",
-      "title": "Toronto Tempo vs Phoenix Mercury",
-      "sport": "basketball",
-      "competition": "basketball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-27T18:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMbAqIFCBDBEwkIhgKQWORNJrJWbMAikQNPRHXmz4mQpsalvcoYFCRTfSnKFgSXOI9Cwbk5DYW0PAhswQINtCCA.webp"
     },
     {
       "id": "bradford-bulls-vs-st-helens-2395951",
@@ -344,6 +274,69 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEChBwcM+LBDcQfECZi4NFkxBAkCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
     },
     {
+      "id": "croatia-vs-ghana-2391779",
+      "title": "Croatia vs Ghana",
+      "sport": "football",
+      "competition": "football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-06-27T21:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKWD5gQlClJDcQfIyBIgYpkFcT6QBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp"
+    },
+    {
+      "id": "panama-vs-england-2391781",
+      "title": "Panama vs England",
+      "sport": "football",
+      "competition": "football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-06-27T21:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rUYSxgBVECG4g+hkCRAwTekIiMwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
+    },
+    {
+      "id": "mi-new-york-vs-los-angeles-knight-riders-2466425",
+      "title": "MI New York vs Los Angeles Knight Riders",
+      "sport": "cricket",
+      "competition": "cricket",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-06-27T21:30:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKoKTYQglKxC8dIY9RCJpIC6aw6WWmAJFzGKMKr0c35RtTl78rMBgbuJiEEA.webp"
+    },
+    {
       "id": "admin-willow-cricket",
       "title": "Willow Cricket",
       "sport": "cricket",
@@ -480,10 +473,10 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBEBDXsQZgdgwwRgBOYAU0hDpqxQFZh5Tg0wmJgATMNTTAWkVqNri0LIinbQ61OvHS5CISiCggGIRPzWq0hNTTV5s2AMb6NNFif4h+VFxux5bFLXnk3aASx2PV0+LRRNR0hAtjYUBHZQYkk2JjBHEFsaOxytGFZYSWt5YFIVGOVgeTYOMl5AiCA.webp"
     },
     {
-      "id": "panama-vs-england-2391781",
-      "title": "Panama vs England",
-      "sport": "football",
-      "competition": "football",
+      "id": "detroit-tigers-vs-houston-astros-2388118",
+      "title": "Detroit Tigers vs Houston Astros",
+      "sport": "baseball",
+      "competition": "baseball",
       "status": "UPCOMING",
       "teams": {
         "home": {
@@ -495,52 +488,10 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-06-27T21:00:00Z",
+      "matchTimeUTC": "2026-06-27T17:10:00Z",
       "streams": [],
       "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rUYSxgBVECG4g+hkCRAwTekIiMwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "croatia-vs-ghana-2391779",
-      "title": "Croatia vs Ghana",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-27T21:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKWD5gQlClJDcQfIyBIgYpkFcT6QBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp"
-    },
-    {
-      "id": "mi-new-york-vs-los-angeles-knight-riders-2466425",
-      "title": "MI New York vs Los Angeles Knight Riders",
-      "sport": "cricket",
-      "competition": "cricket",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-27T21:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKoKTYQglKxC8dIY9RCJpIC6aw6WWmAJFzGKMKr0c35RtTl78rMBgbuJiEEA.webp"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLP2BhNKUCG4g+IYzFwgU54yAgh4BYEgp9hs+ijArdbD+XobRuky0YB5iohBAA.webp"
     },
     {
       "id": "tampa-bay-rays-vs-arizona-diamondbacks-2388113",
@@ -984,27 +935,6 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBRgxKbtRAkQvEFhBnj0kDCs3rJFkgpYRcxltW6O28o2pzd+KzAYNriYhBAA.webp"
     },
     {
-      "id": "ppv-event-13-armored-mma-medieval-cage-fc-ppv-13",
-      "title": "Armored MMA Medieval Cage FC",
-      "sport": "other",
-      "competition": "other",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-28T03:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
-    },
-    {
       "id": "ppv-event-11-urijah-fabers-a1-combat-36-ppv-11",
       "title": "Urijah Fabers A1 Combat 36",
       "sport": "other",
@@ -1028,6 +958,27 @@
     {
       "id": "ppv-event-12-mma-mexico-8-ppv-12",
       "title": "MMA Mexico 8",
+      "sport": "other",
+      "competition": "other",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-06-28T03:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "ppv-event-13-armored-mma-medieval-cage-fc-ppv-13",
+      "title": "Armored MMA Medieval Cage FC",
       "sport": "other",
       "competition": "other",
       "status": "UPCOMING",
