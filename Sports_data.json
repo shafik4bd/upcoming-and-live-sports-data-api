@@ -1,73 +1,10 @@
 {
-  "lastUpdated": "2026-06-28T11:01:55Z",
-  "fetchDuration": "19.1s",
-  "totalMatches": 7,
-  "liveCount": 7,
+  "lastUpdated": "2026-06-28T13:21:16Z",
+  "fetchDuration": "16.6s",
+  "totalMatches": 6,
+  "liveCount": 6,
   "upcomingCount": 0,
   "matches": [
-    {
-      "id": "ppv-event-14-gcw-amerikaz-most-wanted-ppv14",
-      "title": "GCW Amerikaz Most Wanted",
-      "sport": "other",
-      "competition": "other",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-28T04:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
-    },
-    {
-      "id": "ppv-event-15-pancrase-363-pppv15",
-      "title": "Pancrase 363",
-      "sport": "other",
-      "competition": "other",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-28T04:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
-    },
-    {
-      "id": "world-rally-championship-greece-racing-0059",
-      "title": "World Rally Championship Greece 🏁",
-      "sport": "motor-sports",
-      "competition": "motor-sports",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-28T05:15:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
-    },
     {
       "id": "newcastle-vs-wests-tigers-game-3373252",
       "title": "Newcastle Knights W vs Wests Tigers",
@@ -216,6 +153,77 @@
         }
       ],
       "streamCount": 3,
+      "poster": ""
+    },
+    {
+      "id": "austrian-grand-prix-2408161",
+      "title": "Austrian Grand Prix",
+      "sport": "motor-sports",
+      "competition": "motor-sports",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-06-28T13:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDBDcw3XGBkAGLSD4mQEEClwbrFmAWBIKfYbPoowKlF0-l6WWW8mWjBPMVEIIA.webp"
+    },
+    {
+      "id": "race-red-bull-ring-3070-kms-formula-1-2558",
+      "title": "Race | Red Bull Ring | 307.0 Kms",
+      "sport": "motor-sports",
+      "competition": "motor-sports",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-06-28T13:00:00Z",
+      "streams": [
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/race-red-bull-ring-3070-kms-formula-1-2558/1",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/race-red-bull-ring-3070-kms-formula-1-2558/2",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/race-red-bull-ring-3070-kms-formula-1-2558/3",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/race-red-bull-ring-3070-kms-formula-1-2558/4",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 4,
       "poster": ""
     }
   ]
