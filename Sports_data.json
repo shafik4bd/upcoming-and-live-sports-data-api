@@ -1,53 +1,10 @@
 {
-  "lastUpdated": "2026-06-29T14:44:34Z",
-  "fetchDuration": "50.9s",
-  "totalMatches": 51,
+  "lastUpdated": "2026-06-29T17:31:04Z",
+  "fetchDuration": "65.4s",
+  "totalMatches": 50,
   "liveCount": 2,
-  "upcomingCount": 49,
+  "upcomingCount": 48,
   "matches": [
-    {
-      "id": "england-vs-new-zealand-third-test-cricket-hundred-1",
-      "title": "England vs New Zealand",
-      "sport": "cricket",
-      "competition": "cricket",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-29T09:15:00Z",
-      "streams": [
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/england-vs-new-zealand-third-test-cricket-hundred-1/1",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/england-vs-new-zealand-third-test-cricket-hundred-1/2",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/england-vs-new-zealand-third-test-cricket-hundred-1/3",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 3,
-      "poster": ""
-    },
     {
       "id": "wimbledon-championships-2026-roland-2026",
       "title": "Wimbledon Championships 2026 🎾",
@@ -104,6 +61,27 @@
       ],
       "streamCount": 5,
       "poster": ""
+    },
+    {
+      "id": "brazil-vs-japan-2499835",
+      "title": "Brazil vs Japan",
+      "sport": "football",
+      "competition": "football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-06-29T17:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCDhQSIXiHBJdILPpDUQOiCGnWjk-MCQUsIuYxRhVKHp-KNqct4O9GCe4mIQQA.webp"
     },
     {
       "id": "admin-willow-cricket",
@@ -240,27 +218,6 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBEBDXsQZgdgwwRgBOYAU0hDpqxQFZh5Tg0wmJgATMNTTAWkVqNri0LIinbQ61OvHS5CISiCggGIRPzWq0hNTTV5s2AMb6NNFif4h+VFxux5bFLXnk3aASx2PV0+LRRNR0hAtjYUBHZQYkk2JjBHEFsaOxytGFZYSWt5YFIVGOVgeTYOMl5AiCA.webp"
-    },
-    {
-      "id": "brazil-vs-japan-2499835",
-      "title": "Brazil vs Japan",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-29T17:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCDhQSIXiHBJdILPpDUQOiCGnWjk-MCQUsIuYxRhVKHp-KNqct4O9GCe4mIQQA.webp"
     },
     {
       "id": "germany-vs-paraguay-2502846",
