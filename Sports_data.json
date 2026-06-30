@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-06-30T16:18:33Z",
-  "fetchDuration": "60.4s",
-  "totalMatches": 54,
+  "lastUpdated": "2026-06-30T18:52:06Z",
+  "fetchDuration": "70.0s",
+  "totalMatches": 53,
   "liveCount": 1,
-  "upcomingCount": 53,
+  "upcomingCount": 52,
   "matches": [
     {
-      "id": "wimbledon-championships-2026-roland-2026",
-      "title": "Wimbledon Championships 2026 🎾",
-      "sport": "other",
-      "competition": "other",
+      "id": "ivory-coast-vs-norway-2502605",
+      "title": "Ivory Coast vs Norway",
+      "sport": "football",
+      "competition": "football",
       "status": "LIVE",
       "teams": {
         "home": {
@@ -21,46 +21,10 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-06-30T10:00:00Z",
-      "streams": [
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/wimbledon-championships-2026-roland-2026/1",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/wimbledon-championships-2026-roland-2026/2",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/wimbledon-championships-2026-roland-2026/3",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/wimbledon-championships-2026-roland-2026/4",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/wimbledon-championships-2026-roland-2026/5",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 5,
-      "poster": ""
+      "matchTimeUTC": "2026-06-30T17:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdtJCzZjHDBC8QWECeogSICFuuGsLJBTvtR4lGFUoe78o2pzP+KzAYO7iYhBAA.webp"
     },
     {
       "id": "admin-willow-cricket",
@@ -197,27 +161,6 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBEBDXsQZgdgwwRgBOYAU0hDpqxQFZh5Tg0wmJgATMNTTAWkVqNri0LIinbQ61OvHS5CISiCggGIRPzWq0hNTTV5s2AMb6NNFif4h+VFxux5bFLXnk3aASx2PV0+LRRNR0hAtjYUBHZQYkk2JjBHEFsaOxytGFZYSWt5YFIVGOVgeTYOMl5AiCA.webp"
-    },
-    {
-      "id": "ivory-coast-vs-norway-2502605",
-      "title": "Ivory Coast vs Norway",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-06-30T17:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdtJCzZjHDBC8QWECeogSICFuuGsLJBTvtR4lGFUoe78o2pzP+KzAYO7iYhBAA.webp"
     },
     {
       "id": "france-vs-sweden-2502847",
