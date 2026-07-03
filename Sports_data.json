@@ -1,53 +1,10 @@
 {
-  "lastUpdated": "2026-07-03T20:55:58Z",
-  "fetchDuration": "41.5s",
+  "lastUpdated": "2026-07-03T22:00:23Z",
+  "fetchDuration": "44.1s",
   "totalMatches": 63,
-  "liveCount": 8,
-  "upcomingCount": 55,
+  "liveCount": 7,
+  "upcomingCount": 56,
   "matches": [
-    {
-      "id": "us-senior-open-atp1000",
-      "title": "US Senior Open",
-      "sport": "other",
-      "competition": "other",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-03T15:00:00Z",
-      "streams": [
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/us-senior-open-atp1000/1",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/us-senior-open-atp1000/2",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/us-senior-open-atp1000/3",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 3,
-      "poster": ""
-    },
     {
       "id": "pga-tour-john-deere-classic-pga-526234",
       "title": "PGA Tour: John Deere Classic",
@@ -186,37 +143,8 @@
         }
       },
       "matchTimeUTC": "2026-07-03T19:00:00Z",
-      "streams": [
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/indycar-ntt-practice-racing-0059/1",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/indycar-ntt-practice-racing-0059/2",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/indycar-ntt-practice-racing-0059/3",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/indycar-ntt-practice-racing-0059/4",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 4,
+      "streams": [],
+      "streamCount": 0,
       "poster": ""
     },
     {
@@ -957,6 +885,49 @@
       "streams": [],
       "streamCount": 0,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbiDJJcIehBAa+IKSFMkDIRDn18CwJBVusRYlGBUou78vSyzPTLRg7mKiEEA.webp"
+    },
+    {
+      "id": "us-senior-open-atp1000",
+      "title": "US Senior Open",
+      "sport": "other",
+      "competition": "other",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-04T15:00:00Z",
+      "streams": [
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/us-senior-open-atp1000/1",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/us-senior-open-atp1000/2",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/us-senior-open-atp1000/3",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 3,
+      "poster": ""
     },
     {
       "id": "washington-nationals-vs-pittsburgh-pirates-2388204",
