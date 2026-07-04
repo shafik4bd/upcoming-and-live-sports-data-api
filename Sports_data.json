@@ -1,31 +1,10 @@
 {
-  "lastUpdated": "2026-07-04T11:20:22Z",
-  "fetchDuration": "45.6s",
-  "totalMatches": 76,
-  "liveCount": 7,
+  "lastUpdated": "2026-07-04T13:05:59Z",
+  "fetchDuration": "46.1s",
+  "totalMatches": 72,
+  "liveCount": 3,
   "upcomingCount": 69,
   "matches": [
-    {
-      "id": "formula-e-shanghai-eprix-shanghai-international-circuit-game-4u8337",
-      "title": "Formula E Shanghai ePrix - Shanghai International Circuit 🏁",
-      "sport": "motor-sports",
-      "competition": "motor-sports",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-04T04:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
-    },
     {
       "id": "f1-academy-great-britain-f2-3-great-britain-game-19996",
       "title": "F1 Academy: Great Britain | F2 & 3: Great Britain  🏁",
@@ -74,56 +53,6 @@
         }
       ],
       "streamCount": 4,
-      "poster": ""
-    },
-    {
-      "id": "brisbane-broncos-vs-cronulla-sharks-2417294",
-      "title": "Brisbane Broncos vs Cronulla Sharks",
-      "sport": "rugby",
-      "competition": "rugby",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-04T09:35:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbiDJJcIehBAa+IKSFMkDIRDn18CwJBVusRYlGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "richmond-tigers-vs-carlton-blues-australian-football-3563",
-      "title": "Richmond Tigers vs Carlton Blues",
-      "sport": "afl",
-      "competition": "afl",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-04T09:35:00Z",
-      "streams": [
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/richmond-tigers-vs-carlton-blues-australian-football-3563/1",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 1,
       "poster": ""
     },
     {
@@ -203,56 +132,6 @@
       "streams": [],
       "streamCount": 0,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJGBIgIuMCjBIQ3EHxPaQKXCBhXTEphpj9hs+vpUoum8vSyzPTLRgmmKiEEA.webp"
-    },
-    {
-      "id": "sprint-silverstone-circuit-formula-1-2562",
-      "title": "Sprint | Silverstone Circuit |",
-      "sport": "motor-sports",
-      "competition": "motor-sports",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-04T11:00:00Z",
-      "streams": [
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/sprint-silverstone-circuit-formula-1-2562/1",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/sprint-silverstone-circuit-formula-1-2562/2",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/sprint-silverstone-circuit-formula-1-2562/3",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/sprint-silverstone-circuit-formula-1-2562/4",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 4,
-      "poster": ""
     },
     {
       "id": "admin-willow-cricket",
@@ -1861,8 +1740,23 @@
         }
       },
       "matchTimeUTC": "2026-07-06T19:00:00Z",
-      "streams": [],
-      "streamCount": 0,
+      "streams": [
+        {
+          "source": "golf",
+          "embedUrl": "https://embed.st/embed/golf/23568/1",
+          "language": "English",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "golf",
+          "embedUrl": "https://embed.st/embed/golf/23568/2",
+          "language": "English",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 2,
       "poster": ""
     },
     {
@@ -1882,8 +1776,23 @@
         }
       },
       "matchTimeUTC": "2026-07-07T00:00:00Z",
-      "streams": [],
-      "streamCount": 0,
+      "streams": [
+        {
+          "source": "golf",
+          "embedUrl": "https://embed.st/embed/golf/23569/1",
+          "language": "English",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "golf",
+          "embedUrl": "https://embed.st/embed/golf/23569/2",
+          "language": "English",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 2,
       "poster": ""
     },
     {
@@ -1903,8 +1812,23 @@
         }
       },
       "matchTimeUTC": "2026-07-07T16:00:00Z",
-      "streams": [],
-      "streamCount": 0,
+      "streams": [
+        {
+          "source": "golf",
+          "embedUrl": "https://embed.st/embed/golf/23585/1",
+          "language": "English",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "golf",
+          "embedUrl": "https://embed.st/embed/golf/23585/2",
+          "language": "English",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 2,
       "poster": ""
     },
     {
@@ -1924,8 +1848,23 @@
         }
       },
       "matchTimeUTC": "2026-07-07T20:00:00Z",
-      "streams": [],
-      "streamCount": 0,
+      "streams": [
+        {
+          "source": "golf",
+          "embedUrl": "https://embed.st/embed/golf/23586/1",
+          "language": "English",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "golf",
+          "embedUrl": "https://embed.st/embed/golf/23586/2",
+          "language": "English",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 2,
       "poster": ""
     }
   ]
