@@ -1,46 +1,10 @@
 {
-  "lastUpdated": "2026-07-04T21:52:01Z",
-  "fetchDuration": "58.8s",
-  "totalMatches": 74,
-  "liveCount": 13,
+  "lastUpdated": "2026-07-04T22:51:26Z",
+  "fetchDuration": "48.8s",
+  "totalMatches": 71,
+  "liveCount": 10,
   "upcomingCount": 61,
   "matches": [
-    {
-      "id": "ppv-pro-motocross-red-bud",
-      "title": "Pro Motocross: RedBud",
-      "sport": "motor-sports",
-      "competition": "motor-sports",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-04T14:00:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-pro-motocross-red-bud/1",
-          "language": "English - Peacock",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-pro-motocross-red-bud/2",
-          "language": "English - Peacock",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCEkBjcSBggqIRBDkgsIFSFIiQwjbqWTsIKSOMRg8bXppW9KYFQf8wgswWz0whYElxSHIVdWC2FtBw8rMFdgCzIIIA.webp"
-    },
     {
       "id": "us-senior-open-atp1000",
       "title": "US Senior Open",
@@ -58,30 +22,8 @@
         }
       },
       "matchTimeUTC": "2026-07-04T15:00:00Z",
-      "streams": [
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/us-senior-open-atp1000/1",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/us-senior-open-atp1000/2",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/us-senior-open-atp1000/3",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 3,
+      "streams": [],
+      "streamCount": 0,
       "poster": ""
     },
     {
@@ -137,52 +79,9 @@
         }
       },
       "matchTimeUTC": "2026-07-04T16:00:00Z",
-      "streams": [
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/john-deere-classic-pga-tour-pga-526234/1",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/john-deere-classic-pga-tour-pga-526234/2",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/john-deere-classic-pga-tour-pga-526234/3",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 3,
-      "poster": ""
-    },
-    {
-      "id": "new-york-yankees-vs-minnesota-twins-2388206",
-      "title": "New York Yankees vs Minnesota Twins",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-04T17:35:00Z",
       "streams": [],
       "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VeORIhRSBiG4g+IYzFwgU5yzj4FgSCjdYixKMCpRc35ellkemtGBuYqIQQA.webp"
+      "poster": ""
     },
     {
       "id": "golden-state-warriors-vs-milwaukee-bucks-2479092",
@@ -225,27 +124,6 @@
       "streams": [],
       "streamCount": 0,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdiG5VEJEBBC8QWECeomQOiwZDSWSClhFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp"
-    },
-    {
-      "id": "atl-tico-ottawa-vs-cavalry-2427369",
-      "title": "Atlético Ottawa vs Cavalry",
-      "sport": "football",
-      "competition": "football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-04T20:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAzNg6sFMi4Q3EFJARTIEiCswQiSwqZIKfYbPoowKlF0-l6WWW8mWjBPMVEIIA.webp"
     },
     {
       "id": "texas-rangers-vs-detroit-tigers-2388209",
