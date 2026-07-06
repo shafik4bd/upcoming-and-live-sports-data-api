@@ -1,283 +1,10 @@
 {
-  "lastUpdated": "2026-07-06T00:00:13Z",
-  "fetchDuration": "57.4s",
-  "totalMatches": 52,
-  "liveCount": 21,
-  "upcomingCount": 31,
+  "lastUpdated": "2026-07-06T03:54:56Z",
+  "fetchDuration": "44.4s",
+  "totalMatches": 60,
+  "liveCount": 6,
+  "upcomingCount": 54,
   "matches": [
-    {
-      "id": "john-deere-classic-pga-tour-pga-526234",
-      "title": "John Deere Classic | PGA Tour",
-      "sport": "other",
-      "competition": "other",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-05T16:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
-    },
-    {
-      "id": "wigan-warriors-vs-st-helens-2395959",
-      "title": "Wigan Warriors vs St Helens",
-      "sport": "rugby",
-      "competition": "rugby",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-05T16:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLMDBgklZqBDcQfEFJAkQFi4hggUIBUyQU+w2fRRgVKLp-L0Not5MtFqi9GFAA.webp"
-    },
-    {
-      "id": "texas-rangers-vs-detroit-tigers-2388220",
-      "title": "Texas Rangers vs Detroit Tigers",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-05T19:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VeAjkgNIYEhDcQfECZi4QKC1YggYBPRT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "houston-astros-vs-tampa-bay-rays-2388225",
-      "title": "Houston Astros vs Tampa Bay Rays",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-05T19:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rGVLC9pPENxB8QRmLhAozFiCBIFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
-    },
-    {
-      "id": "colorado-rockies-vs-san-francisco-giants-2388226",
-      "title": "Colorado Rockies vs San Francisco Giants",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-05T20:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VWrXwhuIEKG0g+ukDFwgU5yxBBSCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "arizona-diamondbacks-vs-milwaukee-brewers-2388232",
-      "title": "Arizona Diamondbacks vs Milwaukee Brewers",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-05T20:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHFG9REEFJDcQfECZi4QKC1ZK4CwJBT7DZ9FGBUou78vSyzPTLRg7mI6QA.webp"
-    },
-    {
-      "id": "brazil-vs-norway-2505462",
-      "title": "Brazil vs Norway",
-      "sport": "football",
-      "competition": "football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-05T20:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCEEQQMELzBIwIPZuMhqZ7WdMkWhmAJFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp"
-    },
-    {
-      "id": "ppv-event-01-gcw-backyard-wrestling-8-ppv-01",
-      "title": "GCW Backyard Wrestling 8💥",
-      "sport": "other",
-      "competition": "other",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-05T20:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
-    },
-    {
-      "id": "athletics-vs-miami-marlins-2388231",
-      "title": "Athletics vs Miami Marlins",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-05T20:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPRQgp1UfhDcQfECZi4QWyyBIGCwJBT7DZmsCpRc35ellkemtGBuYqIQQA.webp"
-    },
-    {
-      "id": "los-angeles-lakers-vs-miami-heat-2479095",
-      "title": "Los Angeles Lakers vs Miami Heat",
-      "sport": "basketball",
-      "competition": "basketball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-05T20:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBRheIQVv4oQOrCFPUQJCyGlWYulkgpYRcxltUoeYMvCLU5nviswGDe4mIQQA.webp"
-    },
-    {
-      "id": "seattle-mariners-vs-toronto-blue-jays-2388221",
-      "title": "Seattle Mariners vs Toronto Blue Jays",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-05T21:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKSD64wJEPRzdNIYzFwgU5yxBASmSCn2Gz6KHWxRcd5fbI9NaYG70ohBAA.webp"
-    },
-    {
-      "id": "sacramento-kings-vs-golden-state-warriors-2479096",
-      "title": "Sacramento Kings vs Golden State Warriors",
-      "sport": "basketball",
-      "competition": "basketball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-05T21:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdh15gUIEiGqsQvEFhBnquy9MswQKFkgpYRcxijCqUPD+UYGxXviswGAe4mIQQA.webp"
-    },
-    {
-      "id": "pacific-vs-hfx-wanderers-2427372",
-      "title": "Pacific vs HFX Wanderers",
-      "sport": "football",
-      "competition": "football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-05T22:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
-    },
     {
       "id": "ppv-event-02-usac-sumar-classic-at-terre-haute-ppv-02",
       "title": "USAC Sumar Classic at Terre Haute 🔥",
@@ -305,120 +32,6 @@
         }
       ],
       "streamCount": 1,
-      "poster": ""
-    },
-    {
-      "id": "hamilton-tiger-cats-vs-winnipeg-blue-bombers-2432551",
-      "title": "Hamilton Tiger-Cats vs Winnipeg Blue Bombers",
-      "sport": "american-football",
-      "competition": "american-football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-05T23:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEKKaE+IEHJDcQOw4hgaQiErpAKmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
-    },
-    {
-      "id": "las-vegas-aces-vs-indiana-fever-2449091",
-      "title": "Las Vegas Aces vs Indiana Fever",
-      "sport": "basketball",
-      "competition": "basketball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-05T23:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rQqKQ8QMYEhDcQfECRBnjiRDB0gFTJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "ppv-san-antonio-spurs-vs-golden-state-warriors-gold",
-      "title": "San Antonio Spurs vs. Golden State Warriors Gold",
-      "sport": "basketball",
-      "competition": "basketball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-05T23:00:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-san-antonio-spurs-vs-golden-state-warriors-gold/1",
-          "language": "English - ESPN+",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-san-antonio-spurs-vs-golden-state-warriors-gold/2",
-          "language": "English - ESPN+",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEiBQhpEEAGNgVEFhBLZa7CGGrgiKYnjZgs2TBHSQMZSFPHxl1SnIRQYQSKZGnYQsCS45JyE3VhdhUnoCXXI3YwiIIA.webp"
-    },
-    {
-      "id": "las-vegas-aces-w-vs-indiana-fever-w-basketball-494926",
-      "title": "Las Vegas Aces W vs Indiana Fever W",
-      "sport": "basketball",
-      "competition": "basketball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-05T23:00:00Z",
-      "streams": [
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/las-vegas-aces-w-vs-indiana-fever-w-basketball-494926/1",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/las-vegas-aces-w-vs-indiana-fever-w-basketball-494926/2",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 2,
       "poster": ""
     },
     {
@@ -513,6 +126,48 @@
       ],
       "streamCount": 2,
       "poster": ""
+    },
+    {
+      "id": "mexico-vs-england-2507706",
+      "title": "Mexico vs England",
+      "sport": "football",
+      "competition": "football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-06T01:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKijBIQUXloEheILCFPUQKUyESXE8FkgpYRcxptUoeYMvCLU5nviswGDe4mIQQA.webp"
+    },
+    {
+      "id": "los-angeles-angels-vs-boston-red-sox-2388223",
+      "title": "Los Angeles Angels vs Boston Red Sox",
+      "sport": "baseball",
+      "competition": "baseball",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-06T01:30:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAxgpYAfXWgQ3EHxCmYuECkvWIIeAWBIKfYbPoowKlF0-l6WWW8mWjBPMVEIIA.webp"
     },
     {
       "id": "admin-willow-cricket",
@@ -651,10 +306,10 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBEBDXsQZgdgwwRgBOYAU0hDpqxQFZh5Tg0wmJgATMNTTAWkVqNri0LIinbQ61OvHS5CISiCggGIRPzWq0hNTTV5s2AMb6NNFif4h+VFxux5bFLXnk3aASx2PV0+LRRNR0hAtjYUBHZQYkk2JjBHEFsaOxytGFZYSWt5YFIVGOVgeTYOMl5AiCA.webp"
     },
     {
-      "id": "mexico-vs-england-2507706",
-      "title": "Mexico vs England",
-      "sport": "football",
-      "competition": "football",
+      "id": "las-vegas-aces-w-vs-indiana-fever-w-basketball-494926",
+      "title": "Las Vegas Aces W vs Indiana Fever W",
+      "sport": "basketball",
+      "competition": "basketball",
       "status": "UPCOMING",
       "teams": {
         "home": {
@@ -666,31 +321,25 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-07-06T01:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKijBIQUXloEheILCFPUQKUyESXE8FkgpYRcxptUoeYMvCLU5nviswGDe4mIQQA.webp"
-    },
-    {
-      "id": "los-angeles-angels-vs-boston-red-sox-2388223",
-      "title": "Los Angeles Angels vs Boston Red Sox",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
+      "matchTimeUTC": "2026-07-05T23:00:00Z",
+      "streams": [
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/las-vegas-aces-w-vs-indiana-fever-w-basketball-494926/1",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
         },
-        "away": {
-          "name": "",
-          "logo": ""
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/las-vegas-aces-w-vs-indiana-fever-w-basketball-494926/2",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
         }
-      },
-      "matchTimeUTC": "2026-07-06T01:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAxgpYAfXWgQ3EHxCmYuECkvWIIeAWBIKfYbPoowKlF0-l6WWW8mWjBPMVEIIA.webp"
+      ],
+      "streamCount": 2,
+      "poster": ""
     },
     {
       "id": "tour-de-france-stage-2-2447749",
@@ -798,35 +447,6 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbiBjAk1KBBAa+IYzFwgU5yyVwFtFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp"
     },
     {
-      "id": "23596",
-      "title": "Oklahoma City Thunder - Atlanta Hawks",
-      "sport": "basketball",
-      "competition": "basketball",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-06T23:00:00Z",
-      "streams": [
-        {
-          "source": "golf",
-          "embedUrl": "https://embed.st/embed/golf/23596/1",
-          "language": "English",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 1,
-      "poster": ""
-    },
-    {
       "id": "memphis-grizzlies-vs-atlanta-hawks-2505203",
       "title": "Memphis Grizzlies vs Atlanta Hawks",
       "sport": "basketball",
@@ -890,8 +510,8 @@
       "poster": ""
     },
     {
-      "id": "ppv-los-angeles-lakers-vs-san-antonio-spurs",
-      "title": "Los Angeles Lakers vs. San Antonio Spurs",
+      "id": "san-antonio-spurs-vs-los-angeles-lakers-2479101",
+      "title": "San Antonio Spurs vs Los Angeles Lakers",
       "sport": "basketball",
       "competition": "basketball",
       "status": "UPCOMING",
@@ -906,24 +526,9 @@
         }
       },
       "matchTimeUTC": "2026-07-06T23:30:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-los-angeles-lakers-vs-san-antonio-spurs/1",
-          "language": "English - ESPNU",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-los-angeles-lakers-vs-san-antonio-spurs/2",
-          "language": "English - ESPNU",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCBLiQEEFknB4I0iuEzgstREVyRIAMbZxwKsbUwQF-SDVl5WDSnLaBQ5QWz0whYElz6nITBuTm1hFScPJTBgjRUIIA.webp"
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKiGAAGMEk7ZSIXiCwgz1ECUshp141hZIKD9qPEowqlD0-lG1OW98VmAwT3ExCCA.webp"
     },
     {
       "id": "st--louis-cardinals-vs-milwaukee-brewers-2388235",
@@ -947,8 +552,8 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rED1lMkIXdxB9dIGLhAozFkiAXaKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp"
     },
     {
-      "id": "ppv-united-states-vs-belgium",
-      "title": "United States vs. Belgium",
+      "id": "usa-vs-belgium-2507707",
+      "title": "USA vs Belgium",
       "sport": "football",
       "competition": "football",
       "status": "UPCOMING",
@@ -963,94 +568,30 @@
         }
       },
       "matchTimeUTC": "2026-07-07T00:00:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-united-states-vs-belgium/1",
-          "language": "English - TSN",
-          "hd": true,
-          "quality": "HD"
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKmPr1QZaiF4gsIY3pTGQiM4kX5gSClhFzGKMKpQ835RtTkfb9GBu4mIQQA.webp"
+    },
+    {
+      "id": "minnesota-lynx-w-vs-connecticut-sun-w-basketball-494928",
+      "title": "Minnesota Lynx W vs Connecticut Sun W",
+      "sport": "basketball",
+      "competition": "basketball",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
         },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-united-states-vs-belgium/2",
-          "language": "English - TSN",
-          "hd": false,
-          "quality": "SD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-united-states-vs-belgium/3",
-          "language": "English - FOX",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-united-states-vs-belgium/4",
-          "language": "English - FOX",
-          "hd": false,
-          "quality": "SD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-united-states-vs-belgium/5",
-          "language": "English - BBC/ITV",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-united-states-vs-belgium/6",
-          "language": "English - BBC/ITV",
-          "hd": false,
-          "quality": "SD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-united-states-vs-belgium/7",
-          "language": "French - beIN Sports 1",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-united-states-vs-belgium/8",
-          "language": "French - beIN Sports 1",
-          "hd": false,
-          "quality": "SD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-united-states-vs-belgium/9",
-          "language": "Spanish - DAZN Spain",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-united-states-vs-belgium/10",
-          "language": "Spanish - DAZN Spain",
-          "hd": false,
-          "quality": "SD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-united-states-vs-belgium/11",
-          "language": "Spanish - Telemundo",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-united-states-vs-belgium/12",
-          "language": "Spanish - Telemundo",
-          "hd": false,
-          "quality": "SD"
+        "away": {
+          "name": "",
+          "logo": ""
         }
-      ],
-      "streamCount": 12,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMYgsIGRGBUQiYRJAkpimdhEgYW4cAiKDIOWTLKFCyShXmQVFOTkChIplsdhCwJLnGOhMG5OOX0yRwJgeHIgg1IDIA.webp"
+      },
+      "matchTimeUTC": "2026-07-07T00:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
     },
     {
       "id": "ppv-golden-state-warriors-blue-vs-brooklyn-nets",
@@ -1089,8 +630,8 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGvFIgUIGCJAlx07CFUBjYFRDDNIRIph7VUuVom6dOrCOAQ9KchFBhBNgtnphCwJLjUOhF1YnHTIHd0kwF1tSWyA.webp"
     },
     {
-      "id": "ppv-memphis-grizzlies-vs-utah-jazz",
-      "title": "Memphis Grizzlies vs. Utah Jazz",
+      "id": "utah-jazz-vs-oklahoma-city-thunder-2505204",
+      "title": "Utah Jazz vs Oklahoma City Thunder",
       "sport": "basketball",
       "competition": "basketball",
       "status": "UPCOMING",
@@ -1105,28 +646,13 @@
         }
       },
       "matchTimeUTC": "2026-07-07T01:00:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-memphis-grizzlies-vs-utah-jazz/1",
-          "language": "English - ESPN",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-memphis-grizzlies-vs-utah-jazz/2",
-          "language": "English - ESPN",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52weCJAhSIGCADGM6RBApgVEDRIgVGrOpDCdpbDrPbF27SsRlR5CKDCCRTbPTCFgSXPLVDnVkdhEzUCcXJnYEcyCCA.webp"
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCDE5p2ViBgheILCFPVTIRCU2WQKFkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp"
     },
     {
-      "id": "23608",
-      "title": "San Diego Padres - Arizona Diamondbacks",
+      "id": "san-diego-padres-vs-arizona-diamondbacks-2388236",
+      "title": "San Diego Padres vs Arizona Diamondbacks",
       "sport": "baseball",
       "competition": "baseball",
       "status": "UPCOMING",
@@ -1141,21 +667,13 @@
         }
       },
       "matchTimeUTC": "2026-07-07T01:40:00Z",
-      "streams": [
-        {
-          "source": "golf",
-          "embedUrl": "https://embed.st/embed/golf/23608/1",
-          "language": "English",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 1,
-      "poster": ""
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJNgYIQMZiG4g+IYzFwgU5yyRAkCwDbr7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
     },
     {
-      "id": "23609",
-      "title": "San Francisco Giants - Toronto Blue Jays",
+      "id": "san-francisco-giants-vs-toronto-blue-jays-2388237",
+      "title": "San Francisco Giants vs Toronto Blue Jays",
       "sport": "baseball",
       "competition": "baseball",
       "status": "UPCOMING",
@@ -1170,21 +688,13 @@
         }
       },
       "matchTimeUTC": "2026-07-07T01:45:00Z",
-      "streams": [
-        {
-          "source": "golf",
-          "embedUrl": "https://embed.st/embed/golf/23609/1",
-          "language": "English",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 1,
-      "poster": ""
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEBt7wwfCom4g+GkDFwgU5yyRBSCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
     },
     {
-      "id": "ppv-milwaukee-bucks-vs-sacramento-kings",
-      "title": "Milwaukee Bucks vs. Sacramento Kings",
+      "id": "los-angeles-sparks-w-vs-seattle-storm-w-basketball-494929",
+      "title": "Los Angeles Sparks W vs Seattle Storm W",
       "sport": "basketball",
       "competition": "basketball",
       "status": "UPCOMING",
@@ -1199,24 +709,30 @@
         }
       },
       "matchTimeUTC": "2026-07-07T02:00:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-milwaukee-bucks-vs-sacramento-kings/1",
-          "language": "English - ESPNU",
-          "hd": true,
-          "quality": "HD"
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "sacramento-kings-vs-milwaukee-bucks-2479100",
+      "title": "Sacramento Kings vs Milwaukee Bucks",
+      "sport": "basketball",
+      "competition": "basketball",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
         },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-milwaukee-bucks-vs-sacramento-kings/2",
-          "language": "English - ESPNU",
-          "hd": false,
-          "quality": "SD"
+        "away": {
+          "name": "",
+          "logo": ""
         }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMYgawkDBAyUsiSJFTs8jcNUpVVEPqxS1hxDRokQ8VSFI7+YQSoLZ6YQsCS5xOoQ9YQVMh1nKzAHYACyCCA.webp"
+      },
+      "matchTimeUTC": "2026-07-07T02:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdiBD9eYHZupaQWTSAMkQ56RcMkWSClhFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp"
     },
     {
       "id": "golden-state-warriors-vs-miami-heat-2479098",
@@ -1240,8 +756,8 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdoxIhpIXtrAhdILIZDUQWrTq17m+YEgpYRcxijCqUPD+UbU5Xvb0YB7iYhBAA.webp"
     },
     {
-      "id": "23610",
-      "title": "Los Angeles Dodgers - Colorado Rockies",
+      "id": "los-angeles-dodgers-vs-colorado-rockies-2388238",
+      "title": "Los Angeles Dodgers vs Colorado Rockies",
       "sport": "baseball",
       "competition": "baseball",
       "status": "UPCOMING",
@@ -1256,21 +772,13 @@
         }
       },
       "matchTimeUTC": "2026-07-07T02:10:00Z",
-      "streams": [
-        {
-          "source": "golf",
-          "embedUrl": "https://embed.st/embed/golf/23610/1",
-          "language": "English",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 1,
-      "poster": ""
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFKRAaSIUVJDcQfECZi4tFlLqMFgSCn2Gz6KMCo1s35ellkamtGBuYqIQQA.webp"
     },
     {
-      "id": "ppv-tour-de-france-stage-4",
-      "title": "Tour de France- Stage 4",
+      "id": "tour-de-france-stage-3-2447750",
+      "title": "Tour de France Stage 3",
       "sport": "other",
       "competition": "other",
       "status": "UPCOMING",
@@ -1285,28 +793,13 @@
         }
       },
       "matchTimeUTC": "2026-07-07T11:00:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-tour-de-france-stage-4/1",
-          "language": "English - TNT Sports 1",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-tour-de-france-stage-4/2",
-          "language": "English - TNT Sports 1",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCADGIGCAggUwRPNlVxIYcDXCQJBSBBLsMkzT1q90spr0SIWkFUX8wgkU2z0whYElyTFIVdWext6AiMwV2B7MgggA.webp"
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VECDJQYbMCRDcQU3AdP6IIFCD4GCwJBT7DZ9FHrYoue8vSyzPTLRg7vSiEEA.webp"
     },
     {
-      "id": "23585",
-      "title": "Argentina - Egypt",
+      "id": "argentina-vs-egypt-2513670",
+      "title": "Argentina vs Egypt",
       "sport": "football",
       "competition": "football",
       "status": "UPCOMING",
@@ -1321,28 +814,286 @@
         }
       },
       "matchTimeUTC": "2026-07-07T16:00:00Z",
-      "streams": [
-        {
-          "source": "golf",
-          "embedUrl": "https://embed.st/embed/golf/23585/1",
-          "language": "English",
-          "hd": true,
-          "quality": "HD"
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBggQPFGFlIQvEFm0hEx6SCunT8FkgpYRcxntUoeYMvCLU5nviswGDe4mIQQA.webp"
+    },
+    {
+      "id": "sabah-baku-vs-the-new-saints-2491744",
+      "title": "Sabah Baku vs The New Saints",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
         },
-        {
-          "source": "golf",
-          "embedUrl": "https://embed.st/embed/golf/23585/2",
-          "language": "English",
-          "hd": true,
-          "quality": "HD"
+        "away": {
+          "name": "",
+          "logo": ""
         }
-      ],
-      "streamCount": 2,
+      },
+      "matchTimeUTC": "2026-07-07T16:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdozBgkwaSCgwQvEFhBnjes4lNmYLJBSwi5jFGFUoe78o2pzP+KzAWmKMoUA.webp"
+    },
+    {
+      "id": "kauno--algiris-vs-drita-2491741",
+      "title": "Kauno Žalgiris vs Drita",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-07T16:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdu3ygwKMGJQheILCFNHppkIhM2WSClhFzGu1Sh57yjanPdb6YHriYhBAA.webp"
+    },
+    {
+      "id": "ararat-armenia-vs-riga-fc-2491740",
+      "title": "Ararat-Armenia vs Riga FC",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-07T16:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCHAgOuRBBC8QWTQZDSTiY1ZZIKWEXMYowqlDxflG1OW-ytgYC7iYhBAA.webp"
+    },
+    {
+      "id": "lincoln-red-imps-vs-inter-club-d-escaldes-2491734",
+      "title": "Lincoln Red Imps vs Inter Club d'Escaldes",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-07T16:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdgAYQIYEg5gkIEiF4gs2kyGkXE585Py6KWEXMYowqlD0-lG1OW9HejBPcTEIIA.webp"
+    },
+    {
+      "id": "vardar-vs-kups-2491732",
+      "title": "Vardar vs KuPS",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-07T17:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKjkRYQEEGN28Q2kCEPSTILSHMoWSClhFzGKMKpQ835RtTkf8rMBgbuL6QA.webp"
+    },
+    {
+      "id": "una-strassen-vs-la-fiorita-2491808",
+      "title": "UNA Strassen vs La Fiorita",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-07T17:15:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCAghqIcCjAhQIXiCy7jIaecS6TIFkgpYRcxvtUoeYMvCLU5nviswGDe4mIQQA.webp"
+    },
+    {
+      "id": "floriana-vs-shamrock-rovers-2491742",
+      "title": "Floriana vs Shamrock Rovers",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-07T17:30:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdvhAoQORsBoheOkCaPSTIRFmNb8wJBSwi5jFGFUoe78o2pzPdvRg7uJiEEA.webp"
+    },
+    {
+      "id": "elbasani-vs-bate-borisov-2491823",
+      "title": "Elbasani vs BATE Borisov",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-07T18:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBQCwYkMAAMCELxBYQ5k9PMhE5xJPzAkFLCLmMUOjlo47yjajktR3owL0YxCCA.webp"
+    },
+    {
+      "id": "st--louis-cardinals-vs-milwaukee-brewers-2387404",
+      "title": "St. Louis Cardinals vs Milwaukee Brewers",
+      "sport": "baseball",
+      "competition": "baseball",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-07T18:15:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEGT7Q4OFCG4g+h4yRAQQUiyD0KmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
+    },
+    {
+      "id": "borac-banja-luka-vs-levski-sofia-2491739",
+      "title": "Borac Banja Luka vs Levski Sofia",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-07T18:30:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKtJD9BYECjBItILCFO8Qm04hMnpLJBSwi5jfapQ8wZeEWpyP+KzAYF7iYhBAA.webp"
+    },
+    {
+      "id": "tre-fiori-vs-larne-2491737",
+      "title": "Tre Fiori vs Larne",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-07T18:30:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdu2pMwJEIhgheILCFNHppvceuL8wJBSwi5jFDo4oeO8oy1jPdvRg7oxiEEA.webp"
+    },
+    {
+      "id": "k--klaksv-k-vs-atert-bissen-2491736",
+      "title": "KÍ Klaksvík vs Atert Bissen",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-07T18:45:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKigbYQ8MGRQheILCFNHppncevwWSClhFzGKPR00c95RtTmb8rMBgboxiEEA.webp"
+    },
+    {
+      "id": "vikingur-reykjavik-vs-gyori-eto-fc-football-1554374",
+      "title": "Vikingur Reykjavik vs Gyori ETO FC",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-07T19:00:00Z",
+      "streams": [],
+      "streamCount": 0,
       "poster": ""
     },
     {
-      "id": "23586",
-      "title": "Switzerland - Colombia",
+      "id": "switzerland-vs-colombia-2513671",
+      "title": "Switzerland vs Colombia",
       "sport": "football",
       "competition": "football",
       "status": "UPCOMING",
@@ -1357,24 +1108,219 @@
         }
       },
       "matchTimeUTC": "2026-07-07T20:00:00Z",
-      "streams": [
-        {
-          "source": "golf",
-          "embedUrl": "https://embed.st/embed/golf/23586/1",
-          "language": "English",
-          "hd": true,
-          "quality": "HD"
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCFrxswAAwSQvEFhCnER6SEspNVlkgpYRcxijCqUPd+UbU5n-FZgMHdxMQggA.webp"
+    },
+    {
+      "id": "baltimore-orioles-vs-chicago-cubs-2388252",
+      "title": "Baltimore Orioles vs Chicago Cubs",
+      "sport": "baseball",
+      "competition": "baseball",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
         },
-        {
-          "source": "golf",
-          "embedUrl": "https://embed.st/embed/golf/23586/2",
-          "language": "English",
-          "hd": true,
-          "quality": "HD"
+        "away": {
+          "name": "",
+          "logo": ""
         }
-      ],
-      "streamCount": 2,
-      "poster": ""
+      },
+      "matchTimeUTC": "2026-07-07T22:35:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMnG4gU2bSC18QRmLj0o9hmAWBIKfYbPo6VKLmDLwiWWa6a0w7mKiEEA.webp"
+    },
+    {
+      "id": "detroit-tigers-vs-athletics-2388251",
+      "title": "Detroit Tigers vs Athletics",
+      "sport": "baseball",
+      "competition": "baseball",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-07T22:40:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VECERwsxPiG4g9GmLhAozFqWYLAkFPsNn0UYFSi6vy9HaPdNaYK5iohBAA.webp"
+    },
+    {
+      "id": "miami-marlins-vs-seattle-mariners-2388249",
+      "title": "Miami Marlins vs Seattle Mariners",
+      "sport": "baseball",
+      "competition": "baseball",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-07T22:40:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VOEmBgQOrHRDcQfHSBi4QKC1alGCwJBT7DZ9FGBUou78vT2jPTLRg7mKiEEA.webp"
+    },
+    {
+      "id": "tampa-bay-rays-vs-new-york-yankees-2388247",
+      "title": "Tampa Bay Rays vs New York Yankees",
+      "sport": "baseball",
+      "competition": "baseball",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-07T22:40:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEH1wbcwJDxDdtIEDC0oQ581JAkCuin2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
+    },
+    {
+      "id": "pittsburgh-pirates-vs-atlanta-braves-2388241",
+      "title": "Pittsburgh Pirates vs Atlanta Braves",
+      "sport": "baseball",
+      "competition": "baseball",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-07T22:40:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbiHpSEIErhAa+IYzH0oQ581JAwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
+    },
+    {
+      "id": "washington-nationals-vs-houston-astros-2388242",
+      "title": "Washington Nationals vs Houston Astros",
+      "sport": "baseball",
+      "competition": "baseball",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-07T22:45:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXCFFgwvKTpDcQfECZgaUICxakGCwJBT7DZ9FGBUou78vSyzPTLTaovQhQA.webp"
+    },
+    {
+      "id": "cincinnati-reds-vs-philadelphia-phillies-2388253",
+      "title": "Cincinnati Reds vs Philadelphia Phillies",
+      "sport": "baseball",
+      "competition": "baseball",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-07T23:10:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEIloCpICBpDcQfECZi4QKC1eMSmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
+    },
+    {
+      "id": "new-york-mets-vs-kansas-city-royals-2388248",
+      "title": "New York Mets vs Kansas City Royals",
+      "sport": "baseball",
+      "competition": "baseball",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-07T23:10:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWmBAyQIFNhDcQfHSBi5dFlFq0FgSCn2Gz6elSi5gy8IllnumGp5iohBAA.webp"
+    },
+    {
+      "id": "minnesota-twins-vs-cleveland-guardians-2388255",
+      "title": "Minnesota Twins vs Cleveland Guardians",
+      "sport": "baseball",
+      "competition": "baseball",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-07T23:40:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJvlxgpIbmG66QfECZi4QKC1ePwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
+    },
+    {
+      "id": "chicago-white-sox-vs-boston-red-sox-2388254",
+      "title": "Chicago White Sox vs Boston Red Sox",
+      "sport": "baseball",
+      "competition": "baseball",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-07T23:40:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFGA3SQMnNxB8QRmLhAozFw42BIKfYbPpa2KLmDLwiWWa6a0w7mKiEEA.webp"
     },
     {
       "id": "ppv-tour-de-france-stage-5",
