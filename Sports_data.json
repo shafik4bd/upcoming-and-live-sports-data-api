@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-07-07T11:40:40Z",
-  "fetchDuration": "51.3s",
-  "totalMatches": 77,
+  "lastUpdated": "2026-07-07T14:12:45Z",
+  "fetchDuration": "85.5s",
+  "totalMatches": 81,
   "liveCount": 3,
-  "upcomingCount": 74,
+  "upcomingCount": 78,
   "matches": [
     {
       "id": "tour-de-france-stage-3-2447750",
@@ -1545,6 +1545,93 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEChBbaTLLBDcQfLSBi4NFzcakFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
     },
     {
+      "id": "23653",
+      "title": "Texas Rangers - Los Angeles Angels",
+      "sport": "baseball",
+      "competition": "baseball",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-09T00:05:00Z",
+      "streams": [
+        {
+          "source": "golf",
+          "embedUrl": "https://embed.st/embed/golf/23653/1",
+          "language": "English",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 1,
+      "poster": ""
+    },
+    {
+      "id": "23654",
+      "title": "San Diego Padres - Arizona Diamondbacks",
+      "sport": "baseball",
+      "competition": "baseball",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-09T02:00:00Z",
+      "streams": [
+        {
+          "source": "golf",
+          "embedUrl": "https://embed.st/embed/golf/23654/1",
+          "language": "English",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 1,
+      "poster": ""
+    },
+    {
+      "id": "23655",
+      "title": "Los Angeles Dodgers - Colorado Rockies",
+      "sport": "baseball",
+      "competition": "baseball",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-09T02:10:00Z",
+      "streams": [
+        {
+          "source": "golf",
+          "embedUrl": "https://embed.st/embed/golf/23655/1",
+          "language": "English",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 1,
+      "poster": ""
+    },
+    {
       "id": "ppv-tour-de-france-stage-6",
       "title": "Tour de France- Stage 6",
       "sport": "other",
@@ -1611,8 +1698,23 @@
         }
       },
       "matchTimeUTC": "2026-07-09T20:00:00Z",
-      "streams": [],
-      "streamCount": 0,
+      "streams": [
+        {
+          "source": "golf",
+          "embedUrl": "https://embed.st/embed/golf/23636/1",
+          "language": "English",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "golf",
+          "embedUrl": "https://embed.st/embed/golf/23636/2",
+          "language": "English",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 2,
       "poster": ""
     },
     {
@@ -1700,6 +1802,42 @@
       ],
       "streamCount": 4,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCADGIGCAggUwRPNlVxIYcDXCQJBSBBLsMkzT1q90spr0SIWkFUX8wgkU2z0whYElyTFIVdWext6AiMwV2B7MgggA.webp"
+    },
+    {
+      "id": "23656",
+      "title": "Spain - Belgium",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-10T19:00:00Z",
+      "streams": [
+        {
+          "source": "golf",
+          "embedUrl": "https://embed.st/embed/golf/23656/1",
+          "language": "English",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "golf",
+          "embedUrl": "https://embed.st/embed/golf/23656/2",
+          "language": "English",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": ""
     },
     {
       "id": "ppv-dolphins-vs-sharks",
