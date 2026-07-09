@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-07-09T08:27:19Z",
-  "fetchDuration": "86.4s",
-  "totalMatches": 92,
-  "liveCount": 1,
-  "upcomingCount": 91,
+  "lastUpdated": "2026-07-09T11:49:34Z",
+  "fetchDuration": "90.7s",
+  "totalMatches": 99,
+  "liveCount": 3,
+  "upcomingCount": 96,
   "matches": [
     {
       "id": "genesis-scottish-open-dp-world-tour-golf-game-162626",
@@ -54,6 +54,48 @@
       ],
       "streamCount": 4,
       "poster": ""
+    },
+    {
+      "id": "tour-de-france-stage-5-2447752",
+      "title": "Tour de France Stage 5",
+      "sport": "other",
+      "competition": "other",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-09T10:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbtBkQQvJDpBTc+7iBIhtKEHxDwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
+    },
+    {
+      "id": "fremantle-football-club-vs-sydney-swans-2495765",
+      "title": "Fremantle Football Club vs Sydney Swans",
+      "sport": "afl",
+      "competition": "afl",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-09T10:10:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDBC9ay4Ei0gpIEoeMgUICBtMkCein2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
     },
     {
       "id": "admin-willow-cricket",
@@ -190,27 +232,6 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBEBDXsQZgdgwwRgBOYAU0hDpqxQFZh5Tg0wmJgATMNTTAWkVqNri0LIinbQ61OvHS5CISiCggGIRPzWq0hNTTV5s2AMb6NNFif4h+VFxux5bFLXnk3aASx2PV0+LRRNR0hAtjYUBHZQYkk2JjBHEFsaOxytGFZYSWt5YFIVGOVgeTYOMl5AiCA.webp"
-    },
-    {
-      "id": "tour-de-france-stage-5-2447752",
-      "title": "Tour de France Stage 5",
-      "sport": "other",
-      "competition": "other",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-09T10:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbtBkQQvJDpBTc+7iBIhtKEHxDwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
     },
     {
       "id": "wimbledon-championships-2026-roland-2026",
@@ -1854,6 +1875,93 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MwkMOA1EAYxAkQiECAgSVwROPjAIGkClIgqILCDmmZpKRqn6TR5WYP8wgkU2z0whYElwyDIVdWXUkyAwIbMFcdKwggA.webp"
     },
     {
+      "id": "23697",
+      "title": "Texas Rangers - Houston Astros",
+      "sport": "baseball",
+      "competition": "baseball",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-11T00:05:00Z",
+      "streams": [
+        {
+          "source": "golf",
+          "embedUrl": "https://embed.st/embed/golf/23697/1",
+          "language": "English",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 1,
+      "poster": ""
+    },
+    {
+      "id": "23698",
+      "title": "Minnesota Twins - Los Angeles Angels",
+      "sport": "baseball",
+      "competition": "baseball",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-11T00:10:00Z",
+      "streams": [
+        {
+          "source": "golf",
+          "embedUrl": "https://embed.st/embed/golf/23698/1",
+          "language": "English",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 1,
+      "poster": ""
+    },
+    {
+      "id": "23699",
+      "title": "St. Louis Cardinals - Atlanta Braves",
+      "sport": "baseball",
+      "competition": "baseball",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-11T00:15:00Z",
+      "streams": [
+        {
+          "source": "golf",
+          "embedUrl": "https://embed.st/embed/golf/23699/1",
+          "language": "English",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 1,
+      "poster": ""
+    },
+    {
       "id": "ppv-boston-celtics-vs-toronto-raptors",
       "title": "Boston Celtics vs. Toronto Raptors",
       "sport": "basketball",
@@ -1890,6 +1998,35 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEEGRIhxIEDWEjg8JSBhzsIFCESIQpDVTlGFicVmCHD45eJIpyEUGEGKC2emELAkuAMb2hZ1ZHBTJ7N2UwZ2BHMgggA.webp"
     },
     {
+      "id": "23700",
+      "title": "San Diego Padres - Toronto Blue Jays",
+      "sport": "baseball",
+      "competition": "baseball",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-11T01:40:00Z",
+      "streams": [
+        {
+          "source": "golf",
+          "embedUrl": "https://embed.st/embed/golf/23700/1",
+          "language": "English",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 1,
+      "poster": ""
+    },
+    {
       "id": "ppv-oklahoma-city-thunder-vs-los-angeles-lakers",
       "title": "Oklahoma City Thunder vs. Los Angeles Lakers",
       "sport": "basketball",
@@ -1924,6 +2061,64 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE522EMJBYQKEBCkgYwGiRAhSIAMZy1EmYr1rt86TSp7zstcPEkU5CKDCCRTbPTCFgSXJvtDnVkcbMnsCYHhyZ2BHMgggA.webp"
+    },
+    {
+      "id": "23701",
+      "title": "Los Angeles Dodgers - Arizona Diamondbacks",
+      "sport": "baseball",
+      "competition": "baseball",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-11T02:10:00Z",
+      "streams": [
+        {
+          "source": "golf",
+          "embedUrl": "https://embed.st/embed/golf/23701/1",
+          "language": "English",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 1,
+      "poster": ""
+    },
+    {
+      "id": "23702",
+      "title": "San Francisco Giants - Colorado Rockies",
+      "sport": "baseball",
+      "competition": "baseball",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-11T02:15:00Z",
+      "streams": [
+        {
+          "source": "golf",
+          "embedUrl": "https://embed.st/embed/golf/23702/1",
+          "language": "English",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 1,
+      "poster": ""
     },
     {
       "id": "ppv-portland-trail-blazers-vs-phoenix-suns",
