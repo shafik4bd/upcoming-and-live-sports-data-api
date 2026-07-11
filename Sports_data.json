@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-07-11T09:20:53Z",
-  "fetchDuration": "74.1s",
-  "totalMatches": 84,
-  "liveCount": 7,
-  "upcomingCount": 77,
+  "lastUpdated": "2026-07-11T10:57:28Z",
+  "fetchDuration": "55.6s",
+  "totalMatches": 98,
+  "liveCount": 10,
+  "upcomingCount": 88,
   "matches": [
     {
       "id": "dolphins-vs-cronulla-sharks-2417298",
@@ -105,27 +105,6 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGMDD9NmkNz0g+IKSFMkDiHEfgFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
     },
     {
-      "id": "tanzania-u17-vs-australia-u17-2523475",
-      "title": "Tanzania U17 vs Australia U17",
-      "sport": "football",
-      "competition": "football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-11T08:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
-    },
-    {
       "id": "world-sbk-uk-round-world-sbk-championship-season-game-4u8337",
       "title": "World SBK UK Round | World SBK Championship Season 🏁",
       "sport": "motor-sports",
@@ -142,23 +121,8 @@
         }
       },
       "matchTimeUTC": "2026-07-11T08:30:00Z",
-      "streams": [
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/world-sbk-uk-round-world-sbk-championship-season-game-4u8337/1",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/world-sbk-uk-round-world-sbk-championship-season-game-4u8337/2",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 2,
+      "streams": [],
+      "streamCount": 0,
       "poster": ""
     },
     {
@@ -202,6 +166,120 @@
         }
       ],
       "streamCount": 3,
+      "poster": ""
+    },
+    {
+      "id": "sydney-roosters-vs-parramatta-eels-2417301",
+      "title": "Sydney Roosters vs Parramatta Eels",
+      "sport": "rugby",
+      "competition": "rugby",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-11T09:35:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKQmAAGdmA05uIPiCkgzJEIcQ5jIAsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp"
+    },
+    {
+      "id": "carlton-blues-vs-hawthorn-hawks-australian-football-3569",
+      "title": "Carlton Blues vs Hawthorn Hawks",
+      "sport": "afl",
+      "competition": "afl",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-11T09:35:00Z",
+      "streams": [
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/carlton-blues-vs-hawthorn-hawks-australian-football-3569/1",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/carlton-blues-vs-hawthorn-hawks-australian-football-3569/2",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": ""
+    },
+    {
+      "id": "japan-rugby-vs-ireland-rugby-2449591",
+      "title": "Japan Rugby vs Ireland Rugby",
+      "sport": "rugby",
+      "competition": "rugby",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-11T10:10:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdkmhl6YWCF4gsIY4hL7D5lIZaaYAkXMYowqlDxflG1OW-ytgumKMQUA.webp"
+    },
+    {
+      "id": "adelaide-crows-vs-gold-coast-suns-australian-football-3570",
+      "title": "Adelaide Crows vs Gold Coast Suns",
+      "sport": "afl",
+      "competition": "afl",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-11T10:10:00Z",
+      "streams": [
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/adelaide-crows-vs-gold-coast-suns-australian-football-3570/1",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/adelaide-crows-vs-gold-coast-suns-australian-football-3570/2",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 2,
       "poster": ""
     },
     {
@@ -339,27 +417,6 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBEBDXsQZgdgwwRgBOYAU0hDpqxQFZh5Tg0wmJgATMNTTAWkVqNri0LIinbQ61OvHS5CISiCggGIRPzWq0hNTTV5s2AMb6NNFif4h+VFxux5bFLXnk3aASx2PV0+LRRNR0hAtjYUBHZQYkk2JjBHEFsaOxytGFZYSWt5YFIVGOVgeTYOMl5AiCA.webp"
-    },
-    {
-      "id": "sydney-roosters-vs-parramatta-eels-2417301",
-      "title": "Sydney Roosters vs Parramatta Eels",
-      "sport": "rugby",
-      "competition": "rugby",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-11T09:35:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKQmAAGdmA05uIPiCkgzJEIcQ5jIAsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp"
     },
     {
       "id": "tour-de-france-stage-8-2447755",
@@ -525,6 +582,27 @@
       "poster": ""
     },
     {
+      "id": "fiji-rugby-vs-england-rugby-2449594",
+      "title": "Fiji Rugby vs England Rugby",
+      "sport": "rugby",
+      "competition": "rugby",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-11T13:10:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdo14JgSTmBQheILCFOISh4yGrWQJFkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp"
+    },
+    {
       "id": "leigh-leopards-vs-castleford-tigers-2395963",
       "title": "Leigh Leopards vs Castleford Tigers",
       "sport": "rugby",
@@ -544,6 +622,69 @@
       "streams": [],
       "streamCount": 0,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJqAFJ+YECG4g+IKSBJ7ziAxFMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
+    },
+    {
+      "id": "ppv-event-03-polaris-38-ppv-03",
+      "title": "Polaris 38  ⭐",
+      "sport": "other",
+      "competition": "other",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-11T14:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "ppv-event-11-ama-supercross-championship-southwick-ppv-11",
+      "title": "AMA Supercross Championship Southwick",
+      "sport": "other",
+      "competition": "other",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-11T15:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "south-africa-rugby-vs-scotland-rugby-2449595",
+      "title": "South Africa Rugby vs Scotland Rugby",
+      "sport": "rugby",
+      "competition": "rugby",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-11T15:30:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdgAZWIFGCRMQJELxBYQ5xEZNnqICDpZIKWEXMa7VKHmDLwi1OS98VmAwH3ExCCA.webp"
     },
     {
       "id": "hull-kingston-rovers-vs-wakefield-trinity-wildcats-2395964",
@@ -609,6 +750,48 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECRARcc5iH3cQUjSEMoQ5-YnN8CwJBVusRYlGBUou78vSyzPTLRg7mKiEEA.webp"
     },
     {
+      "id": "ppv-event-13-motoamerica-superbikes-monterey-ppv-13",
+      "title": "MotoAmerica Superbikes Monterey",
+      "sport": "other",
+      "competition": "other",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-11T17:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "ppv-event-06-senshi-32-grand-prix-ppv-06",
+      "title": "Senshi 32 Grand Prix",
+      "sport": "other",
+      "competition": "other",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-11T17:30:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
       "id": "chicago-white-sox-vs-athletics-2388312",
       "title": "Chicago White Sox vs Athletics",
       "sport": "baseball",
@@ -670,6 +853,27 @@
       "streams": [],
       "streamCount": 0,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXKRCj4YFPxDcQfEFK0hz5xIdMSmSCn2Gz6KMCr1s35elll6mtGBuYqIQQA.webp"
+    },
+    {
+      "id": "argentina-rugby-vs-wales-rugby-2449596",
+      "title": "Argentina Rugby vs Wales Rugby",
+      "sport": "rugby",
+      "competition": "rugby",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-11T19:10:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdvlYheIFCGpNtILCFOISRk9WPaWSClhFzGKMKpQ835RgbEfN9GBu4mIQQA.webp"
     },
     {
       "id": "orlando-magic-vs-miami-heat-2505640",
@@ -1008,6 +1212,27 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJCEQ44UHNxBSQJEPpQgzITeZAKmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
     },
     {
+      "id": "ppv-event-01-ufc-329-prelims-ppv-01",
+      "title": "UFC 329 Prelims 💥",
+      "sport": "other",
+      "competition": "other",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-11T22:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
       "id": "detroit-tigers-vs-philadelphia-phillies-2388310",
       "title": "Detroit Tigers vs Philadelphia Phillies",
       "sport": "baseball",
@@ -1134,6 +1359,27 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKrRCcQtGCBIheILCFOIjeowYjGWSClhFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp"
     },
     {
+      "id": "ppv-event-21-world-of-outlaws-late-models-sharon-ppv-21",
+      "title": "World of Outlaws Late Models Sharon",
+      "sport": "other",
+      "competition": "other",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-11T23:45:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
       "id": "brooklyn-nets-vs-atlanta-hawks-2505645",
       "title": "Brooklyn Nets vs Atlanta Hawks",
       "sport": "basketball",
@@ -1153,6 +1399,69 @@
       "streams": [],
       "streamCount": 0,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdo1rgQIQVhC9dOkIkMwDIEiAg6WSClhFzGKMKpQ835TXI-5WwGBu4mIQQA.webp"
+    },
+    {
+      "id": "ppv-event-23-world-of-outlaws-sprint-cars-wilmot-ppv-32",
+      "title": "World of Outlaws Sprint Cars Wilmot",
+      "sport": "other",
+      "competition": "other",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-12T00:15:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "ppv-event-24-american-sprint-car-series-texarkana-67-ppv-24",
+      "title": "American Sprint Car Series Texarkana 67",
+      "sport": "other",
+      "competition": "other",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-12T00:15:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "ppv-event-25-knoxville-sprint-cars-ppv-25",
+      "title": "Knoxville Sprint Cars",
+      "sport": "other",
+      "competition": "other",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-12T00:30:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
     },
     {
       "id": "san-diego-padres-vs-toronto-blue-jays-2388304",
