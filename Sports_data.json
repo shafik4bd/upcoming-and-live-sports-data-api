@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-07-11T10:57:28Z",
-  "fetchDuration": "55.6s",
-  "totalMatches": 98,
-  "liveCount": 10,
-  "upcomingCount": 88,
+  "lastUpdated": "2026-07-11T11:50:05Z",
+  "fetchDuration": "55.5s",
+  "totalMatches": 100,
+  "liveCount": 14,
+  "upcomingCount": 86,
   "matches": [
     {
       "id": "dolphins-vs-cronulla-sharks-2417298",
@@ -283,6 +283,149 @@
       "poster": ""
     },
     {
+      "id": "ppv-european-darts-open-day-2",
+      "title": "European Darts Open | Day 2",
+      "sport": "darts",
+      "competition": "darts",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-11T11:00:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-european-darts-open-day-2/1",
+          "language": "English - PDC.TV",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-european-darts-open-day-2/2",
+          "language": "English - PDC.TV",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MNRChBksIAMYhhIJfJkxgEEDBARsISUqWTFE4PGA1hpuaStLEJFOR0ChIptnphCwJLlmOhMG5OHUsyRwJTciD1GwggA.webp"
+    },
+    {
+      "id": "ppv-tour-de-france-stage-8",
+      "title": "Tour de France- Stage 8",
+      "sport": "other",
+      "competition": "other",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-11T11:00:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-tour-de-france-stage-8/1",
+          "language": "English - TNT Sports 1",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-tour-de-france-stage-8/2",
+          "language": "English - TNT Sports 1",
+          "hd": false,
+          "quality": "SD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-tour-de-france-stage-8/3",
+          "language": "English - Peacock",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-tour-de-france-stage-8/4",
+          "language": "English - Peacock",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 4,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCADGIGCAggUwRPNlVxIYcDXCQJBSBBLsMkzT1q90spr0SIWkFUX8wgkU2z0whYElyTFIVdWext6AiMwV2B7MgggA.webp"
+    },
+    {
+      "id": "uci-tour-de-france-uci-world-tour-game-13622",
+      "title": "UCI Tour de France | UCI World Tour 🏁",
+      "sport": "other",
+      "competition": "other",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-11T11:15:00Z",
+      "streams": [
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/uci-tour-de-france-uci-world-tour-game-13622/1",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/uci-tour-de-france-uci-world-tour-game-13622/2",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": ""
+    },
+    {
+      "id": "china-u17-vs-nigeria-u17-2523476",
+      "title": "China U17 vs Nigeria U17",
+      "sport": "football",
+      "competition": "football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-11T11:35:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
       "id": "admin-willow-cricket",
       "title": "Willow Cricket",
       "sport": "cricket",
@@ -438,63 +581,6 @@
       "streams": [],
       "streamCount": 0,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rECG5gZKSnM0gpuA9xAkQEEChB9DBYEgp9hs+ijArdbD+XpZZuky0YB5iohBAA.webp"
-    },
-    {
-      "id": "uci-tour-de-france-uci-world-tour-game-13622",
-      "title": "UCI Tour de France | UCI World Tour 🏁",
-      "sport": "other",
-      "competition": "other",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-11T11:15:00Z",
-      "streams": [
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/uci-tour-de-france-uci-world-tour-game-13622/1",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/uci-tour-de-france-uci-world-tour-game-13622/2",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": ""
-    },
-    {
-      "id": "china-u17-vs-nigeria-u17-2523476",
-      "title": "China U17 vs Nigeria U17",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-11T11:35:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
     },
     {
       "id": "wimbledon-championships-2026-roland-2026",
@@ -1401,8 +1487,8 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdo1rgQIQVhC9dOkIkMwDIEiAg6WSClhFzGKMKpQ835TXI-5WwGBu4mIQQA.webp"
     },
     {
-      "id": "ppv-event-23-world-of-outlaws-sprint-cars-wilmot-ppv-32",
-      "title": "World of Outlaws Sprint Cars Wilmot",
+      "id": "ppv-event-24-american-sprint-car-series-texarkana-67-ppv-24",
+      "title": "American Sprint Car Series Texarkana 67",
       "sport": "other",
       "competition": "other",
       "status": "UPCOMING",
@@ -1422,8 +1508,8 @@
       "poster": ""
     },
     {
-      "id": "ppv-event-24-american-sprint-car-series-texarkana-67-ppv-24",
-      "title": "American Sprint Car Series Texarkana 67",
+      "id": "ppv-event-23-world-of-outlaws-sprint-cars-wilmot-ppv-32",
+      "title": "World of Outlaws Sprint Cars Wilmot",
       "sport": "other",
       "competition": "other",
       "status": "UPCOMING",
@@ -1884,8 +1970,8 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEAIghtWYGB4huG7SBghEZy7hAoCwJBT7DZ9FGBUou78vV2jPTLRg7mKiEEA.webp"
     },
     {
-      "id": "washington-mystics-w-vs-seattle-storm-w-basketball-494945",
-      "title": "Washington Mystics W vs Seattle Storm W",
+      "id": "toronto-tempo-w-vs-new-york-liberty-w-basketball-494944",
+      "title": "Toronto Tempo W vs New York Liberty W",
       "sport": "basketball",
       "competition": "basketball",
       "status": "UPCOMING",
@@ -1905,8 +1991,8 @@
       "poster": ""
     },
     {
-      "id": "toronto-tempo-w-vs-new-york-liberty-w-basketball-494944",
-      "title": "Toronto Tempo W vs New York Liberty W",
+      "id": "washington-mystics-w-vs-seattle-storm-w-basketball-494945",
+      "title": "Washington Mystics W vs Seattle Storm W",
       "sport": "basketball",
       "competition": "basketball",
       "status": "UPCOMING",
@@ -1968,8 +2054,8 @@
       "poster": ""
     },
     {
-      "id": "forge-vs-saint-laurent-football-1544848",
-      "title": "Forge vs Saint-Laurent",
+      "id": "atletico-ottawa-vs-supra-du-quebec-football-1544674",
+      "title": "Atlético Ottawa vs Supra du Quebec",
       "sport": "football",
       "competition": "football",
       "status": "UPCOMING",
@@ -1989,8 +2075,8 @@
       "poster": ""
     },
     {
-      "id": "atletico-ottawa-vs-supra-du-quebec-football-1544674",
-      "title": "Atlético Ottawa vs Supra du Quebec",
+      "id": "forge-fc-vs-cs-saint-laurent-4726108",
+      "title": "Forge FC vs CS Saint-Laurent",
       "sport": "football",
       "competition": "football",
       "status": "UPCOMING",
