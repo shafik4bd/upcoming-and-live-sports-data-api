@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-07-12T11:53:24Z",
-  "fetchDuration": "79.0s",
+  "lastUpdated": "2026-07-12T13:03:06Z",
+  "fetchDuration": "59.7s",
   "totalMatches": 78,
-  "liveCount": 7,
-  "upcomingCount": 71,
+  "liveCount": 9,
+  "upcomingCount": 69,
   "matches": [
     {
       "id": "v8-supercars-townsville-400-racing-0059",
@@ -206,8 +206,8 @@
       "poster": ""
     },
     {
-      "id": "ppv-tour-de-france-stage-9",
-      "title": "Tour de France - Stage 9",
+      "id": "tour-de-france-stage-9-2447756",
+      "title": "Tour de France Stage 9",
       "sport": "other",
       "competition": "other",
       "status": "LIVE",
@@ -222,38 +222,94 @@
         }
       },
       "matchTimeUTC": "2026-07-12T11:30:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rECFrcwKbJRDcQU3AdMkQEEChB8bBYEgp9hs+rpUouYMvCJZZnky0YN5iohBAA.webp"
+    },
+    {
+      "id": "berlin-thunder-vs-firenze-red-lions-2475816",
+      "title": "Berlin Thunder vs Firenze Red Lions",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-12T12:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IeKRAoQMiCGEypwCSRABjdVJBYQMRXLXLsi4cvUjtZhTAs6l-MIJFNs9MIWBJcalEPLdOCGcyXwIjMEdgILIIIA.webp"
+    },
+    {
+      "id": "wimbledon-championships-2026-roland-2026",
+      "title": "Wimbledon Championships 2026 🎾",
+      "sport": "tennis",
+      "competition": "tennis",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-12T12:00:00Z",
       "streams": [
         {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-tour-de-france-stage-9/1",
-          "language": "English - TNT Sports 1",
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/wimbledon-championships-2026-roland-2026/1",
+          "language": "",
           "hd": true,
           "quality": "HD"
         },
         {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-tour-de-france-stage-9/2",
-          "language": "English - TNT Sports 1",
-          "hd": false,
-          "quality": "SD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-tour-de-france-stage-9/3",
-          "language": "English - Peacock",
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/wimbledon-championships-2026-roland-2026/2",
+          "language": "",
           "hd": true,
           "quality": "HD"
         },
         {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-tour-de-france-stage-9/4",
-          "language": "English - Peacock",
-          "hd": false,
-          "quality": "SD"
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/wimbledon-championships-2026-roland-2026/3",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/wimbledon-championships-2026-roland-2026/4",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/wimbledon-championships-2026-roland-2026/5",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/wimbledon-championships-2026-roland-2026/6",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
         }
       ],
-      "streamCount": 4,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5M8EaWARgiLCBjAqICCADG2eWpkglclUpAgUE6dKyKtZYdpKG1x-mEESC2emELAkuVcaFPWaWsyY1dxMCcpSQggA.webp"
+      "streamCount": 6,
+      "poster": ""
     },
     {
       "id": "admin-willow-cricket",
@@ -621,91 +677,6 @@
       "streams": [],
       "streamCount": 0,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdlWoheIevmAAGbSCwgziHTGMkQEWyyQUsIuYxRhVKHh-KNqcr316MA9xMQggA.webp"
-    },
-    {
-      "id": "tour-de-france-stage-9-2447756",
-      "title": "Tour de France Stage 9",
-      "sport": "other",
-      "competition": "other",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-12T11:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rECFrcwKbJRDcQU3AdMkQEEChB8bBYEgp9hs+rpUouYMvCJZZnky0YN5iohBAA.webp"
-    },
-    {
-      "id": "wimbledon-championships-2026-roland-2026",
-      "title": "Wimbledon Championships 2026 🎾",
-      "sport": "tennis",
-      "competition": "tennis",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-12T12:00:00Z",
-      "streams": [
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/wimbledon-championships-2026-roland-2026/1",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/wimbledon-championships-2026-roland-2026/2",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/wimbledon-championships-2026-roland-2026/3",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/wimbledon-championships-2026-roland-2026/4",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/wimbledon-championships-2026-roland-2026/5",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/wimbledon-championships-2026-roland-2026/6",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 6,
-      "poster": ""
     },
     {
       "id": "brommapojkarna-vs-sirius-2398839",
