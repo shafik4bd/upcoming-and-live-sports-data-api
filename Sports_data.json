@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-07-12T14:49:33Z",
-  "fetchDuration": "77.9s",
+  "lastUpdated": "2026-07-12T15:53:00Z",
+  "fetchDuration": "59.9s",
   "totalMatches": 80,
-  "liveCount": 11,
-  "upcomingCount": 69,
+  "liveCount": 12,
+  "upcomingCount": 68,
   "matches": [
     {
       "id": "genesis-scottish-open-dp-world-tour-golf-game-162626",
@@ -185,27 +185,6 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rECFrcwKbJRDcQU3AdMkQEEChB8bBYEgp9hs+rpUouYMvCJZZnky0YN5iohBAA.webp"
     },
     {
-      "id": "berlin-thunder-vs-firenze-red-lions-2475816",
-      "title": "Berlin Thunder vs Firenze Red Lions",
-      "sport": "american-football",
-      "competition": "american-football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-12T12:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IeKRAoQMiCGEypwCSRABjdVJBYQMRXLXLsi4cvUjtZhTAs6l-MIJFNs9MIWBJcalEPLdOCGcyXwIjMEdgILIIIA.webp"
-    },
-    {
       "id": "wimbledon-championships-2026-roland-2026",
       "title": "Wimbledon Championships 2026 🎾",
       "sport": "tennis",
@@ -367,6 +346,56 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRFhBSJISfGylgEEMqogyNLCJAxgatShABjEIeXKS67DvWzFvchFBhBIpgpTlCwJLiOehF1YnYUVPAmB5MBclRQggA.webp"
+    },
+    {
+      "id": "rhein-fire-vs-wroc-aw-panthers-2475817",
+      "title": "Rhein Fire vs Wrocław Panthers",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-12T14:55:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICMETDS40pJDxgEiCDISaiKrJLiQAYxAxJS7HK1GdWrCBt6lKchIFCRTUw7CFgSXHodCwbk4JaTIHAmMwQJM1IA.webp"
+    },
+    {
+      "id": "ppv-event-01-amsoil-championship-off-road-ppv-01",
+      "title": "AMSOIL Championship Off Road 💥",
+      "sport": "other",
+      "competition": "other",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-12T15:00:00Z",
+      "streams": [
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/ppv-event-01-amsoil-championship-off-road-ppv-01/1",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 1,
+      "poster": ""
     },
     {
       "id": "admin-willow-cricket",
@@ -736,35 +765,6 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdlWoheIevmAAGbSCwgziHTGMkQEWyyQUsIuYxRhVKHh-KNqcr316MA9xMQggA.webp"
     },
     {
-      "id": "ppv-event-01-amsoil-championship-off-road-ppv-01",
-      "title": "AMSOIL Championship Off Road 💥",
-      "sport": "other",
-      "competition": "other",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-12T15:00:00Z",
-      "streams": [
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/ppv-event-01-amsoil-championship-off-road-ppv-01/1",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 1,
-      "poster": ""
-    },
-    {
       "id": "pittsburgh-pirates-vs-milwaukee-brewers-2388315",
       "title": "Pittsburgh Pirates vs Milwaukee Brewers",
       "sport": "baseball",
@@ -1017,8 +1017,8 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEAIghtWYGB4huG7SBghEZy7hAoCwJBT7DZ9FGBUou78vV2jPTLRg7mKiEEA.webp"
     },
     {
-      "id": "toronto-tempo-w-vs-new-york-liberty-w-basketball-494944",
-      "title": "Toronto Tempo W vs New York Liberty W",
+      "id": "washington-mystics-w-vs-seattle-storm-w-basketball-494945",
+      "title": "Washington Mystics W vs Seattle Storm W",
       "sport": "basketball",
       "competition": "basketball",
       "status": "UPCOMING",
@@ -1038,8 +1038,8 @@
       "poster": ""
     },
     {
-      "id": "washington-mystics-w-vs-seattle-storm-w-basketball-494945",
-      "title": "Washington Mystics W vs Seattle Storm W",
+      "id": "toronto-tempo-w-vs-new-york-liberty-w-basketball-494944",
+      "title": "Toronto Tempo W vs New York Liberty W",
       "sport": "basketball",
       "competition": "basketball",
       "status": "UPCOMING",
@@ -1143,8 +1143,8 @@
       "poster": ""
     },
     {
-      "id": "atletico-ottawa-vs-supra-du-quebec-football-1544674",
-      "title": "Atlético Ottawa vs Supra du Quebec",
+      "id": "forge-vs-saint-laurent-football-1544848",
+      "title": "Forge vs Saint-Laurent",
       "sport": "football",
       "competition": "football",
       "status": "UPCOMING",
@@ -1159,13 +1159,28 @@
         }
       },
       "matchTimeUTC": "2026-07-12T20:00:00Z",
-      "streams": [],
-      "streamCount": 0,
+      "streams": [
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/forge-vs-saint-laurent-football-1544848/1",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/forge-vs-saint-laurent-football-1544848/2",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 2,
       "poster": ""
     },
     {
-      "id": "forge-fc-vs-cs-saint-laurent-4726108",
-      "title": "Forge FC vs CS Saint-Laurent",
+      "id": "atletico-ottawa-vs-supra-du-quebec-football-1544674",
+      "title": "Atlético Ottawa vs Supra du Quebec",
       "sport": "football",
       "competition": "football",
       "status": "UPCOMING",
