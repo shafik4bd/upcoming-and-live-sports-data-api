@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-07-12T05:30:15Z",
-  "fetchDuration": "49.1s",
+  "lastUpdated": "2026-07-12T08:04:40Z",
+  "fetchDuration": "65.8s",
   "totalMatches": 75,
   "liveCount": 10,
   "upcomingCount": 65,
   "matches": [
     {
-      "id": "philadelphia-76ers-vs-indiana-pacers-2505642",
-      "title": "Philadelphia 76ers vs Indiana Pacers",
-      "sport": "basketball",
-      "competition": "basketball",
+      "id": "german-grand-prix-moto2-2417390",
+      "title": "German Grand Prix Moto2",
+      "sport": "motor-sports",
+      "competition": "motor-sports",
       "status": "LIVE",
       "teams": {
         "home": {
@@ -21,10 +21,10 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-07-11T21:30:00Z",
+      "matchTimeUTC": "2026-07-12T00:00:00Z",
       "streams": [],
       "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdlWoheIevmAAGbSCwgziHTGMkQEWyyQUsIuYxRhVKHh-KNqcr316MA9xMQggA.webp"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJgAZgUoqBIhuIPiCkgz+wxBD6cMAsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp"
     },
     {
       "id": "ppv-event-24-american-sprint-car-series-texarkana-67-ppv-24",
@@ -43,16 +43,8 @@
         }
       },
       "matchTimeUTC": "2026-07-12T00:15:00Z",
-      "streams": [
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/ppv-event-24-american-sprint-car-series-texarkana-67-ppv-24/1",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 1,
+      "streams": [],
+      "streamCount": 0,
       "poster": ""
     },
     {
@@ -140,48 +132,6 @@
       "poster": ""
     },
     {
-      "id": "western-bulldogs-vs-west-coast-eagles-2495771",
-      "title": "Western Bulldogs vs West Coast Eagles",
-      "sport": "afl",
-      "competition": "afl",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-12T03:10:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNoTIgQfBCG4gpIFLkPHTRxFILAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp"
-    },
-    {
-      "id": "south-sydney-rabbitohs-vs-newcastle-knights-2417302",
-      "title": "South Sydney Rabbitohs vs Newcastle Knights",
-      "sport": "rugby",
-      "competition": "rugby",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-12T04:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLPyIhcIKSG4g+u7SBL6QiHNvgFgSCn2Gz6KMCpRc35ehtEemtGBuYqIQQA.webp"
-    },
-    {
       "id": "v8-supercars-townsville-400-racing-0059",
       "title": "V8 Supercars Townsville 400 🏁",
       "sport": "motor-sports",
@@ -198,23 +148,8 @@
         }
       },
       "matchTimeUTC": "2026-07-12T05:00:00Z",
-      "streams": [
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/v8-supercars-townsville-400-racing-0059/1",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/v8-supercars-townsville-400-racing-0059/2",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 2,
+      "streams": [],
+      "streamCount": 0,
       "poster": ""
     },
     {
@@ -252,6 +187,48 @@
       ],
       "streamCount": 2,
       "poster": ""
+    },
+    {
+      "id": "manly-sea-eagles-vs-north-queensland-cowboys-2417303",
+      "title": "Manly Sea Eagles vs North Queensland Cowboys",
+      "sport": "rugby",
+      "competition": "rugby",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-12T06:05:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDIFUYG4EhDcQfDSFMkDIRDlMgCein2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
+    },
+    {
+      "id": "brisbane-lions-vs-essendon-football-club-2495773",
+      "title": "Brisbane Lions vs Essendon Football Club",
+      "sport": "afl",
+      "competition": "afl",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-12T06:40:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbiBIgpIAbRAgNOrcZAoQEEDG1WCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
     },
     {
       "id": "admin-willow-cricket",
@@ -600,10 +577,10 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdr2hkUoMNJC8QWECcSGYBkCRAQQ8FkgpYRcxijCqdHD+UbU5OviswGAe4mIQQA.webp"
     },
     {
-      "id": "manly-sea-eagles-vs-north-queensland-cowboys-2417303",
-      "title": "Manly Sea Eagles vs North Queensland Cowboys",
-      "sport": "rugby",
-      "competition": "rugby",
+      "id": "philadelphia-76ers-vs-indiana-pacers-2505642",
+      "title": "Philadelphia 76ers vs Indiana Pacers",
+      "sport": "basketball",
+      "competition": "basketball",
       "status": "UPCOMING",
       "teams": {
         "home": {
@@ -615,10 +592,10 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-07-12T06:05:00Z",
+      "matchTimeUTC": "2026-07-11T21:30:00Z",
       "streams": [],
       "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDIFUYG4EhDcQfDSFMkDIRDlMgCein2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdlWoheIevmAAGbSCwgziHTGMkQEWyyQUsIuYxRhVKHh-KNqcr316MA9xMQggA.webp"
     },
     {
       "id": "melbourne-storm-vs-gold-coast-titans-2417304",
@@ -1044,8 +1021,8 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEAIghtWYGB4huG7SBghEZy7hAoCwJBT7DZ9FGBUou78vV2jPTLRg7mKiEEA.webp"
     },
     {
-      "id": "toronto-tempo-w-vs-new-york-liberty-w-basketball-494944",
-      "title": "Toronto Tempo W vs New York Liberty W",
+      "id": "washington-mystics-w-vs-seattle-storm-w-basketball-494945",
+      "title": "Washington Mystics W vs Seattle Storm W",
       "sport": "basketball",
       "competition": "basketball",
       "status": "UPCOMING",
@@ -1065,8 +1042,8 @@
       "poster": ""
     },
     {
-      "id": "washington-mystics-w-vs-seattle-storm-w-basketball-494945",
-      "title": "Washington Mystics W vs Seattle Storm W",
+      "id": "toronto-tempo-w-vs-new-york-liberty-w-basketball-494944",
+      "title": "Toronto Tempo W vs New York Liberty W",
       "sport": "basketball",
       "competition": "basketball",
       "status": "UPCOMING",
