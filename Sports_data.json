@@ -1,89 +1,10 @@
 {
-  "lastUpdated": "2026-07-12T18:55:20Z",
-  "fetchDuration": "71.0s",
-  "totalMatches": 78,
-  "liveCount": 21,
-  "upcomingCount": 57,
+  "lastUpdated": "2026-07-12T20:03:47Z",
+  "fetchDuration": "63.7s",
+  "totalMatches": 76,
+  "liveCount": 25,
+  "upcomingCount": 51,
   "matches": [
-    {
-      "id": "ppv-european-darts-open-day-3",
-      "title": "European Darts Open | Day 3",
-      "sport": "darts",
-      "competition": "darts",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-12T11:00:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-european-darts-open-day-3/1",
-          "language": "English - PDC.TV",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-european-darts-open-day-3/2",
-          "language": "English - PDC.TV",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MNRChBksIAMYhhIJfJkxgEEDBARsISUqWTFE4PGA1hpuaStLEJFOR0ChIptnphCwJLlmOhMG5OHUsyRwJTciD1GwggA.webp"
-    },
-    {
-      "id": "uci-tour-de-france-uci-world-tour-game-13622",
-      "title": "UCI Tour de France | UCI World Tour 🏁",
-      "sport": "other",
-      "competition": "other",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-12T11:25:00Z",
-      "streams": [
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/uci-tour-de-france-uci-world-tour-game-13622/1",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/uci-tour-de-france-uci-world-tour-game-13622/2",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/uci-tour-de-france-uci-world-tour-game-13622/3",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 3,
-      "poster": ""
-    },
     {
       "id": "wimbledon-championships-2026-roland-2026",
       "title": "Wimbledon Championships 2026 🎾",
@@ -535,6 +456,132 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEAIghtWYGB4huG7SBghEZy7hAoCwJBT7DZ9FGBUou78vV2jPTLRg7mKiEEA.webp"
     },
     {
+      "id": "washington-mystics-vs-seattle-storm-2449105",
+      "title": "Washington Mystics vs Seattle Storm",
+      "sport": "basketball",
+      "competition": "basketball",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-12T19:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbmBDAkIGXxAkQ3XQaMgU5kFYgn4BbRT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
+    },
+    {
+      "id": "toronto-tempo-vs-new-york-liberty-2449317",
+      "title": "Toronto Tempo vs New York Liberty",
+      "sport": "basketball",
+      "competition": "basketball",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-12T19:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCADGIKjJAl5IGCCzAIIDSjVLsICNlLBZIYIgXCQ8IyuuIsKxaqpb+YQSKYGXhYElyStITdWfWFDLQJTcjc1QwggA.webp"
+    },
+    {
+      "id": "new-orleans-pelicans-vs-phoenix-suns-2505648",
+      "title": "New Orleans Pelicans vs Phoenix Suns",
+      "sport": "basketball",
+      "competition": "basketball",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-12T19:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKhBBbeIaSDFYQOw1sQ6YR-Veb5gSClhFzGKMKpQ835RtTkfb9GBu4mIQQA.webp"
+    },
+    {
+      "id": "toronto-tempo-w-vs-new-york-liberty-w-basketball-494944",
+      "title": "Toronto Tempo W vs New York Liberty W",
+      "sport": "basketball",
+      "competition": "basketball",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-12T19:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "washington-mystics-w-vs-seattle-storm-w-basketball-494945",
+      "title": "Washington Mystics W vs Seattle Storm W",
+      "sport": "basketball",
+      "competition": "basketball",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-12T19:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "independiente-rivadavia-vs-tigre-2462450",
+      "title": "Independiente Rivadavia vs Tigre",
+      "sport": "football",
+      "competition": "football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-12T19:15:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
       "id": "admin-willow-cricket",
       "title": "Willow Cricket",
       "sport": "cricket",
@@ -942,132 +989,6 @@
         }
       ],
       "streamCount": 3,
-      "poster": ""
-    },
-    {
-      "id": "washington-mystics-w-vs-seattle-storm-w-basketball-494945",
-      "title": "Washington Mystics W vs Seattle Storm W",
-      "sport": "basketball",
-      "competition": "basketball",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-12T19:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
-    },
-    {
-      "id": "toronto-tempo-w-vs-new-york-liberty-w-basketball-494944",
-      "title": "Toronto Tempo W vs New York Liberty W",
-      "sport": "basketball",
-      "competition": "basketball",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-12T19:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
-    },
-    {
-      "id": "new-orleans-pelicans-vs-phoenix-suns-2505648",
-      "title": "New Orleans Pelicans vs Phoenix Suns",
-      "sport": "basketball",
-      "competition": "basketball",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-12T19:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKhBBbeIaSDFYQOw1sQ6YR-Veb5gSClhFzGKMKpQ835RtTkfb9GBu4mIQQA.webp"
-    },
-    {
-      "id": "toronto-tempo-vs-new-york-liberty-2449317",
-      "title": "Toronto Tempo vs New York Liberty",
-      "sport": "basketball",
-      "competition": "basketball",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-12T19:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCADGIKjJAl5IGCCzAIIDSjVLsICNlLBZIYIgXCQ8IyuuIsKxaqpb+YQSKYGXhYElyStITdWfWFDLQJTcjc1QwggA.webp"
-    },
-    {
-      "id": "washington-mystics-vs-seattle-storm-2449105",
-      "title": "Washington Mystics vs Seattle Storm",
-      "sport": "basketball",
-      "competition": "basketball",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-12T19:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbmBDAkIGXxAkQ3XQaMgU5kFYgn4BbRT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "independiente-rivadavia-vs-tigre-2462450",
-      "title": "Independiente Rivadavia vs Tigre",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-12T19:15:00Z",
-      "streams": [],
-      "streamCount": 0,
       "poster": ""
     },
     {
