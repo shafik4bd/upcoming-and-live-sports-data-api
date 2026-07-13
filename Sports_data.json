@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-13T20:52:59Z",
-  "fetchDuration": "72.6s",
+  "lastUpdated": "2026-07-13T21:48:58Z",
+  "fetchDuration": "47.4s",
   "totalMatches": 61,
   "liveCount": 2,
   "upcomingCount": 59,
@@ -1238,42 +1238,6 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICCHilS4kFhBUFwCDMQkQKBXJAhgiGOJEhhGyWfnC9enSADGWmCnIqBQkU2z0whYEly2nITBuThVLMicCKzBg5WkIIA.webp"
     },
     {
-      "id": "ppv-st-louis-city-sc-vs-sporting-kansas-city",
-      "title": "St. Louis CITY SC vs. Sporting Kansas City",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-17T00:30:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-st-louis-city-sc-vs-sporting-kansas-city/1",
-          "language": "English - Apple TV",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-st-louis-city-sc-vs-sporting-kansas-city/2",
-          "language": "English - Apple TV",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILMAggUIKSBDDgiGopLiQAYxCI1irJuBUQZCJKXSFpWSBjb1ukSnKmBQkU2z0whYElwanITBuTlNVegIlcmCzEyA.webp"
-    },
-    {
       "id": "ppv-chicago-fire-fc-vs-vancouver-whitecaps",
       "title": "Chicago Fire FC vs. Vancouver Whitecaps",
       "sport": "football",
@@ -1308,6 +1272,42 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCERZgNRBBAwQw7CBo0IIpZOCIqWkEs2IUkrcNNl5ijaPIaBQkU2z0whYElwBjFI7DdOG1J6Ah1yf2ANSyA.webp"
+    },
+    {
+      "id": "ppv-st-louis-city-sc-vs-sporting-kansas-city",
+      "title": "St. Louis CITY SC vs. Sporting Kansas City",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-17T00:30:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-st-louis-city-sc-vs-sporting-kansas-city/1",
+          "language": "English - Apple TV",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-st-louis-city-sc-vs-sporting-kansas-city/2",
+          "language": "English - Apple TV",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILMAggUIKSBDDgiGopLiQAYxCI1irJuBUQZCJKXSFpWSBjb1ukSnKmBQkU2z0whYElwanITBuTlNVegIlcmCzEyA.webp"
     },
     {
       "id": "ppv-seattle-sounders-fc-vs-portland-timbers",
