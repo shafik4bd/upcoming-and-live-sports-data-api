@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-07-13T19:16:02Z",
-  "fetchDuration": "54.9s",
+  "lastUpdated": "2026-07-13T20:52:59Z",
+  "fetchDuration": "72.6s",
   "totalMatches": 61,
-  "liveCount": 1,
-  "upcomingCount": 60,
+  "liveCount": 2,
+  "upcomingCount": 59,
   "matches": [
     {
-      "id": "djurg-rden-vs-halmstad-2398840",
-      "title": "Djurgården vs Halmstad",
-      "sport": "football",
-      "competition": "football",
+      "id": "new-york-knicks-vs-detroit-pistons-2505656",
+      "title": "New York Knicks vs Detroit Pistons",
+      "sport": "basketball",
+      "competition": "basketball",
       "status": "LIVE",
       "teams": {
         "home": {
@@ -21,10 +21,31 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-07-13T17:00:00Z",
+      "matchTimeUTC": "2026-07-13T20:00:00Z",
       "streams": [],
       "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMbAIILCCogQIhcpTB4wGmRJy5S8SEQoDMkNvXThJ7Uf2X9VVfzCCRTbPTCFgSXONVDnVghXMlUCNXJnKVIpIA.webp"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdlSi8Q1UGBQhtWECcTaYhkCRDSQi-MCQUsIuYxRhVKHp-KNdYt4O9GCe4mIQQA.webp"
+    },
+    {
+      "id": "indiana-pacers-vs-toronto-raptors-2505657",
+      "title": "Indiana Pacers vs Toronto Raptors",
+      "sport": "basketball",
+      "competition": "basketball",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-13T20:30:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKo1r96JEIl4gsIY-pAwQB3dJAkWSClhFzGKMKpQ835TXI-5WwGBu4mIQQA.webp"
     },
     {
       "id": "admin-willow-cricket",
@@ -206,48 +227,6 @@
       "poster": ""
     },
     {
-      "id": "new-york-knicks-vs-detroit-pistons-2505656",
-      "title": "New York Knicks vs Detroit Pistons",
-      "sport": "basketball",
-      "competition": "basketball",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-13T20:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdlSi8Q1UGBQhtWECcTaYhkCRDSQi-MCQUsIuYxRhVKHp-KNdYt4O9GCe4mIQQA.webp"
-    },
-    {
-      "id": "indiana-pacers-vs-toronto-raptors-2505657",
-      "title": "Indiana Pacers vs Toronto Raptors",
-      "sport": "basketball",
-      "competition": "basketball",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-13T20:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKo1r96JEIl4gsIY-pAwQB3dJAkWSClhFzGKMKpQ835TXI-5WwGBu4mIQQA.webp"
-    },
-    {
       "id": "boston-celtics-vs-atlanta-hawks-2505658",
       "title": "Boston Celtics vs Atlanta Hawks",
       "sport": "basketball",
@@ -372,6 +351,42 @@
       "streams": [],
       "streamCount": 0,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdhBCJwsgAxheIQ1hCnEhmEZAkQJmCyQUsIuYxRhVKHh-KNqcr3xWYDAPcTEIIA.webp"
+    },
+    {
+      "id": "ppv-home-run-derby",
+      "title": "Home Run Derby",
+      "sport": "baseball",
+      "competition": "baseball",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-14T00:00:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-home-run-derby/1",
+          "language": "English - TNT Sports 1 UK",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-home-run-derby/2",
+          "language": "English - TNT Sports 1 UK",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52IYSCzAIIAMalg8UuLkgUyrCBkxVslSRAGY2SSB0hDIRNtNUz6-mEEim2emELAkuWeqFPWCBcydQJFcidpBQggA.webp"
     },
     {
       "id": "minnesota-lynx-w-vs-phoenix-mercury-w-basketball-494949",
@@ -1223,42 +1238,6 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICCHilS4kFhBUFwCDMQkQKBXJAhgiGOJEhhGyWfnC9enSADGWmCnIqBQkU2z0whYEly2nITBuThVLMicCKzBg5WkIIA.webp"
     },
     {
-      "id": "ppv-chicago-fire-fc-vs-vancouver-whitecaps",
-      "title": "Chicago Fire FC vs. Vancouver Whitecaps",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-17T00:30:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-chicago-fire-fc-vs-vancouver-whitecaps/1",
-          "language": "English - Apple TV",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-chicago-fire-fc-vs-vancouver-whitecaps/2",
-          "language": "English - Apple TV",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCERZgNRBBAwQw7CBo0IIpZOCIqWkEs2IUkrcNNl5ijaPIaBQkU2z0whYElwBjFI7DdOG1J6Ah1yf2ANSyA.webp"
-    },
-    {
       "id": "ppv-st-louis-city-sc-vs-sporting-kansas-city",
       "title": "St. Louis CITY SC vs. Sporting Kansas City",
       "sport": "football",
@@ -1293,6 +1272,42 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILMAggUIKSBDDgiGopLiQAYxCI1irJuBUQZCJKXSFpWSBjb1ukSnKmBQkU2z0whYElwanITBuTlNVegIlcmCzEyA.webp"
+    },
+    {
+      "id": "ppv-chicago-fire-fc-vs-vancouver-whitecaps",
+      "title": "Chicago Fire FC vs. Vancouver Whitecaps",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-17T00:30:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-chicago-fire-fc-vs-vancouver-whitecaps/1",
+          "language": "English - Apple TV",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-chicago-fire-fc-vs-vancouver-whitecaps/2",
+          "language": "English - Apple TV",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCERZgNRBBAwQw7CBo0IIpZOCIqWkEs2IUkrcNNl5ijaPIaBQkU2z0whYElwBjFI7DdOG1J6Ah1yf2ANSyA.webp"
     },
     {
       "id": "ppv-seattle-sounders-fc-vs-portland-timbers",
