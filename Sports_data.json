@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-07-13T09:37:41Z",
-  "fetchDuration": "62.2s",
-  "totalMatches": 61,
+  "lastUpdated": "2026-07-13T12:27:53Z",
+  "fetchDuration": "65.8s",
+  "totalMatches": 60,
   "liveCount": 1,
-  "upcomingCount": 60,
+  "upcomingCount": 59,
   "matches": [
     {
-      "id": "vietnam-vs-gangwon-fc-2523477",
-      "title": "Vietnam vs Gangwon FC",
-      "sport": "football",
-      "competition": "football",
+      "id": "atp-wta-tour-nordea-swiss-umag-lasi-open-tn-1",
+      "title": "ATP / WTA Tour: Nordea / Swiss / Umag / Lasi Open 🎾",
+      "sport": "other",
+      "competition": "other",
       "status": "LIVE",
       "teams": {
         "home": {
@@ -21,9 +21,31 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-07-13T08:00:00Z",
-      "streams": [],
-      "streamCount": 0,
+      "matchTimeUTC": "2026-07-13T09:30:00Z",
+      "streams": [
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/atp-wta-tour-nordea-swiss-umag-lasi-open-tn-1/1",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/atp-wta-tour-nordea-swiss-umag-lasi-open-tn-1/2",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/atp-wta-tour-nordea-swiss-umag-lasi-open-tn-1/3",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 3,
       "poster": ""
     },
     {
@@ -161,49 +183,6 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBEBDXsQZgdgwwRgBOYAU0hDpqxQFZh5Tg0wmJgATMNTTAWkVqNri0LIinbQ61OvHS5CISiCggGIRPzWq0hNTTV5s2AMb6NNFif4h+VFxux5bFLXnk3aASx2PV0+LRRNR0hAtjYUBHZQYkk2JjBHEFsaOxytGFZYSWt5YFIVGOVgeTYOMl5AiCA.webp"
-    },
-    {
-      "id": "atp-wta-tour-nordea-swiss-umag-lasi-open-tn-1",
-      "title": "ATP / WTA Tour: Nordea / Swiss / Umag / Lasi Open 🎾",
-      "sport": "other",
-      "competition": "other",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-13T09:30:00Z",
-      "streams": [
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/atp-wta-tour-nordea-swiss-umag-lasi-open-tn-1/1",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/atp-wta-tour-nordea-swiss-umag-lasi-open-tn-1/2",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/atp-wta-tour-nordea-swiss-umag-lasi-open-tn-1/3",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 3,
-      "poster": ""
     },
     {
       "id": "new-york-knicks-vs-detroit-pistons-2505656",
