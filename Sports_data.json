@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-07-14T22:51:01Z",
-  "fetchDuration": "58.4s",
+  "lastUpdated": "2026-07-14T23:44:54Z",
+  "fetchDuration": "60.0s",
   "totalMatches": 53,
-  "liveCount": 4,
-  "upcomingCount": 49,
+  "liveCount": 9,
+  "upcomingCount": 44,
   "matches": [
     {
       "id": "france-vs-spain-2528031",
@@ -95,6 +95,163 @@
         }
       ],
       "streamCount": 1,
+      "poster": ""
+    },
+    {
+      "id": "toronto-tempo-vs-washington-mystics-2449318",
+      "title": "Toronto Tempo vs Washington Mystics",
+      "sport": "basketball",
+      "competition": "basketball",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-14T23:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MVECGCIUIGCGEgsI5RFkgSsqdhAyYwcVk3iAxlLXH5+kOJRmlVW-zCDlBbPTCFgSXMdtDnVghlMls3eHJnYGCyCCA.webp"
+    },
+    {
+      "id": "golden-state-warriors-vs-memphis-grizzlies-2505666",
+      "title": "Golden State Warriors vs Memphis Grizzlies",
+      "sport": "basketball",
+      "competition": "basketball",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-14T23:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKuBAgUYFCEEkQvfVpCJjMIyENZtLJBSwi5jHapQ8wZeEWpyP+KzAYF7iYhBAA.webp"
+    },
+    {
+      "id": "toronto-tempo-w-vs-washington-mystics-w-basketball-494951",
+      "title": "Toronto Tempo W vs Washington Mystics W",
+      "sport": "basketball",
+      "competition": "basketball",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-14T23:00:00Z",
+      "streams": [
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/toronto-tempo-w-vs-washington-mystics-w-basketball-494951/1",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/toronto-tempo-w-vs-washington-mystics-w-basketball-494951/2",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/toronto-tempo-w-vs-washington-mystics-w-basketball-494951/3",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 3,
+      "poster": ""
+    },
+    {
+      "id": "ppv-event-03-short-track-super-series-bridgeport-ppv-03",
+      "title": "Short Track Super Series Bridgeport  ⭐",
+      "sport": "other",
+      "competition": "other",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-14T23:00:00Z",
+      "streams": [
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/ppv-event-03-short-track-super-series-bridgeport-ppv-03/1",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/ppv-event-03-short-track-super-series-bridgeport-ppv-03/2",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": ""
+    },
+    {
+      "id": "ppv-event-04-world-of-outlaws-sprints-attica-ppv-004",
+      "title": "World of Outlaws Sprints Attica",
+      "sport": "other",
+      "competition": "other",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-14T23:15:00Z",
+      "streams": [
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/ppv-event-04-world-of-outlaws-sprints-attica-ppv-004/1",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/ppv-event-04-world-of-outlaws-sprints-attica-ppv-004/2",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 2,
       "poster": ""
     },
     {
@@ -253,111 +410,6 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBEBDXsQZgdgwwRgBOYAU0hDpqxQFZh5Tg0wmJgATMNTTAWkVqNri0LIinbQ61OvHS5CISiCggGIRPzWq0hNTTV5s2AMb6NNFif4h+VFxux5bFLXnk3aASx2PV0+LRRNR0hAtjYUBHZQYkk2JjBHEFsaOxytGFZYSWt5YFIVGOVgeTYOMl5AiCA.webp"
-    },
-    {
-      "id": "toronto-tempo-w-vs-washington-mystics-w-basketball-494951",
-      "title": "Toronto Tempo W vs Washington Mystics W",
-      "sport": "basketball",
-      "competition": "basketball",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-14T23:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
-    },
-    {
-      "id": "golden-state-warriors-vs-memphis-grizzlies-2505666",
-      "title": "Golden State Warriors vs Memphis Grizzlies",
-      "sport": "basketball",
-      "competition": "basketball",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-14T23:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKuBAgUYFCEEkQvfVpCJjMIyENZtLJBSwi5jHapQ8wZeEWpyP+KzAYF7iYhBAA.webp"
-    },
-    {
-      "id": "toronto-tempo-vs-washington-mystics-2449318",
-      "title": "Toronto Tempo vs Washington Mystics",
-      "sport": "basketball",
-      "competition": "basketball",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-14T23:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MVECGCIUIGCGEgsI5RFkgSsqdhAyYwcVk3iAxlLXH5+kOJRmlVW-zCDlBbPTCFgSXMdtDnVghlMls3eHJnYGCyCCA.webp"
-    },
-    {
-      "id": "ppv-event-03-short-track-super-series-bridgeport-ppv-03",
-      "title": "Short Track Super Series Bridgeport  ⭐",
-      "sport": "other",
-      "competition": "other",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-14T23:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
-    },
-    {
-      "id": "ppv-event-04-world-of-outlaws-sprints-attica-ppv-004",
-      "title": "World of Outlaws Sprints Attica",
-      "sport": "other",
-      "competition": "other",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-14T23:15:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
     },
     {
       "id": "chicago-bulls-vs-washington-wizards-2505667",
@@ -1019,42 +1071,6 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICCHilS4kFhBUFwCDMQkQKBXJAhgiGOJEhhGyWfnC9enSADGWmCnIqBQkU2z0whYEly2nITBuThVLMicCKzBg5WkIIA.webp"
     },
     {
-      "id": "ppv-st-louis-city-sc-vs-sporting-kansas-city",
-      "title": "St. Louis CITY SC vs. Sporting Kansas City",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-17T00:30:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-st-louis-city-sc-vs-sporting-kansas-city/1",
-          "language": "English - Apple TV",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-st-louis-city-sc-vs-sporting-kansas-city/2",
-          "language": "English - Apple TV",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILMAggUIKSBDDgiGopLiQAYxCI1irJuBUQZCJKXSFpWSBjb1ukSnKmBQkU2z0whYElwanITBuTlNVegIlcmCzEyA.webp"
-    },
-    {
       "id": "ppv-chicago-fire-fc-vs-vancouver-whitecaps",
       "title": "Chicago Fire FC vs. Vancouver Whitecaps",
       "sport": "football",
@@ -1089,6 +1105,42 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCERZgNRBBAwQw7CBo0IIpZOCIqWkEs2IUkrcNNl5ijaPIaBQkU2z0whYElwBjFI7DdOG1J6Ah1yf2ANSyA.webp"
+    },
+    {
+      "id": "ppv-st-louis-city-sc-vs-sporting-kansas-city",
+      "title": "St. Louis CITY SC vs. Sporting Kansas City",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-17T00:30:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-st-louis-city-sc-vs-sporting-kansas-city/1",
+          "language": "English - Apple TV",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-st-louis-city-sc-vs-sporting-kansas-city/2",
+          "language": "English - Apple TV",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILMAggUIKSBDDgiGopLiQAYxCI1irJuBUQZCJKXSFpWSBjb1ukSnKmBQkU2z0whYElwanITBuTlNVegIlcmCzEyA.webp"
     },
     {
       "id": "ppv-seattle-sounders-fc-vs-portland-timbers",
