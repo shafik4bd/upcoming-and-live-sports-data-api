@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-07-14T04:45:09Z",
-  "fetchDuration": "71.1s",
-  "totalMatches": 71,
-  "liveCount": 5,
+  "lastUpdated": "2026-07-14T07:06:22Z",
+  "fetchDuration": "50.0s",
+  "totalMatches": 69,
+  "liveCount": 3,
   "upcomingCount": 66,
   "matches": [
     {
@@ -69,48 +69,6 @@
       ],
       "streamCount": 1,
       "poster": ""
-    },
-    {
-      "id": "utah-jazz-vs-chicago-bulls-2505661",
-      "title": "Utah Jazz vs Chicago Bulls",
-      "sport": "basketball",
-      "competition": "basketball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-14T01:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKjkZhg2sCGoheILCFOIjMQyBLHDLJBSwi5jFGFUoe78o2pzP+Kw67uJiEEA.webp"
-    },
-    {
-      "id": "milwaukee-bucks-vs-phoenix-suns-2505662",
-      "title": "Milwaukee Bucks vs Phoenix Suns",
-      "sport": "basketball",
-      "competition": "basketball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-14T02:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCFqCOSWCBgheILCFOIjBoyWMh4LXTAEi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp"
     },
     {
       "id": "portland-trail-blazers-vs-minnesota-timberwolves-2505663",
@@ -1412,42 +1370,6 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICCHilS4kFhBUFwCDMQkQKBXJAhgiGOJEhhGyWfnC9enSADGWmCnIqBQkU2z0whYEly2nITBuThVLMicCKzBg5WkIIA.webp"
     },
     {
-      "id": "ppv-chicago-fire-fc-vs-vancouver-whitecaps",
-      "title": "Chicago Fire FC vs. Vancouver Whitecaps",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-17T00:30:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-chicago-fire-fc-vs-vancouver-whitecaps/1",
-          "language": "English - Apple TV",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-chicago-fire-fc-vs-vancouver-whitecaps/2",
-          "language": "English - Apple TV",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCERZgNRBBAwQw7CBo0IIpZOCIqWkEs2IUkrcNNl5ijaPIaBQkU2z0whYElwBjFI7DdOG1J6Ah1yf2ANSyA.webp"
-    },
-    {
       "id": "ppv-st-louis-city-sc-vs-sporting-kansas-city",
       "title": "St. Louis CITY SC vs. Sporting Kansas City",
       "sport": "football",
@@ -1482,6 +1404,42 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILMAggUIKSBDDgiGopLiQAYxCI1irJuBUQZCJKXSFpWSBjb1ukSnKmBQkU2z0whYElwanITBuTlNVegIlcmCzEyA.webp"
+    },
+    {
+      "id": "ppv-chicago-fire-fc-vs-vancouver-whitecaps",
+      "title": "Chicago Fire FC vs. Vancouver Whitecaps",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-17T00:30:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-chicago-fire-fc-vs-vancouver-whitecaps/1",
+          "language": "English - Apple TV",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-chicago-fire-fc-vs-vancouver-whitecaps/2",
+          "language": "English - Apple TV",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCERZgNRBBAwQw7CBo0IIpZOCIqWkEs2IUkrcNNl5ijaPIaBQkU2z0whYElwBjFI7DdOG1J6Ah1yf2ANSyA.webp"
     },
     {
       "id": "ppv-seattle-sounders-fc-vs-portland-timbers",
