@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-07-14T07:06:22Z",
-  "fetchDuration": "50.0s",
+  "lastUpdated": "2026-07-14T09:50:15Z",
+  "fetchDuration": "73.4s",
   "totalMatches": 69,
-  "liveCount": 3,
-  "upcomingCount": 66,
+  "liveCount": 2,
+  "upcomingCount": 67,
   "matches": [
     {
-      "id": "ppv-home-run-derby",
-      "title": "Home Run Derby",
-      "sport": "baseball",
-      "competition": "baseball",
+      "id": "atp-wta-tour-nordea-swiss-umag-lasi-open-tn-1",
+      "title": "ATP / WTA Tour: Nordea / Swiss / Umag / Lasi Open 🎾",
+      "sport": "tennis",
+      "competition": "tennis",
       "status": "LIVE",
       "teams": {
         "home": {
@@ -21,60 +21,38 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-07-14T00:00:00Z",
+      "matchTimeUTC": "2026-07-14T08:30:00Z",
       "streams": [
         {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-home-run-derby/1",
-          "language": "English - TNT Sports 1 UK",
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/atp-wta-tour-nordea-swiss-umag-lasi-open-tn-1/1",
+          "language": "",
           "hd": true,
           "quality": "HD"
         },
         {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-home-run-derby/2",
-          "language": "English - TNT Sports 1 UK",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52IYSCzAIIAMalg8UuLkgUyrCBkxVslSRAGY2SSB0hDIRNtNUz6-mEEim2emELAkuWeqFPWCBcydQJFcidpBQggA.webp"
-    },
-    {
-      "id": "23769",
-      "title": "Monday Night Raw",
-      "sport": "fight",
-      "competition": "fight",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/atp-wta-tour-nordea-swiss-umag-lasi-open-tn-1/2",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
         },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-14T00:00:00Z",
-      "streams": [
         {
-          "source": "golf",
-          "embedUrl": "https://embed.st/embed/golf/23769/1",
-          "language": "English",
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/atp-wta-tour-nordea-swiss-umag-lasi-open-tn-1/3",
+          "language": "",
           "hd": true,
           "quality": "HD"
         }
       ],
-      "streamCount": 1,
+      "streamCount": 3,
       "poster": ""
     },
     {
-      "id": "portland-trail-blazers-vs-minnesota-timberwolves-2505663",
-      "title": "Portland Trail Blazers vs Minnesota Timberwolves",
-      "sport": "basketball",
-      "competition": "basketball",
+      "id": "england-vs-india-first-one-day-international-game-19993637",
+      "title": "England vs India - First one-day international",
+      "sport": "other",
+      "competition": "other",
       "status": "LIVE",
       "teams": {
         "home": {
@@ -86,10 +64,32 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-07-14T03:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmVqDqrECRC8QWECcSGYBvUZCL8wJBSwi5jFGFUoe78ox1jPdvRg7uJiEEA.webp"
+      "matchTimeUTC": "2026-07-14T09:00:00Z",
+      "streams": [
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/england-vs-india-first-one-day-international-game-19993637/1",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/england-vs-india-first-one-day-international-game-19993637/2",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/england-vs-india-first-one-day-international-game-19993637/3",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 3,
+      "poster": ""
     },
     {
       "id": "admin-willow-cricket",
@@ -228,10 +228,10 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBEBDXsQZgdgwwRgBOYAU0hDpqxQFZh5Tg0wmJgATMNTTAWkVqNri0LIinbQ61OvHS5CISiCggGIRPzWq0hNTTV5s2AMb6NNFif4h+VFxux5bFLXnk3aASx2PV0+LRRNR0hAtjYUBHZQYkk2JjBHEFsaOxytGFZYSWt5YFIVGOVgeTYOMl5AiCA.webp"
     },
     {
-      "id": "atp-wta-tour-nordea-swiss-umag-lasi-open-tn-1",
-      "title": "ATP / WTA Tour: Nordea / Swiss / Umag / Lasi Open 🎾",
-      "sport": "tennis",
-      "competition": "tennis",
+      "id": "ppv-home-run-derby",
+      "title": "Home Run Derby",
+      "sport": "baseball",
+      "competition": "baseball",
       "status": "UPCOMING",
       "teams": {
         "home": {
@@ -243,32 +243,25 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-07-14T08:30:00Z",
+      "matchTimeUTC": "2026-07-14T00:00:00Z",
       "streams": [
         {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/atp-wta-tour-nordea-swiss-umag-lasi-open-tn-1/1",
-          "language": "",
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-home-run-derby/1",
+          "language": "English - TNT Sports 1 UK",
           "hd": true,
           "quality": "HD"
         },
         {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/atp-wta-tour-nordea-swiss-umag-lasi-open-tn-1/2",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/atp-wta-tour-nordea-swiss-umag-lasi-open-tn-1/3",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-home-run-derby/2",
+          "language": "English - TNT Sports 1 UK",
+          "hd": false,
+          "quality": "SD"
         }
       ],
-      "streamCount": 3,
-      "poster": ""
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52IYSCzAIIAMalg8UuLkgUyrCBkxVslSRAGY2SSB0hDIRNtNUz6-mEEim2emELAkuWeqFPWCBcydQJFcidpBQggA.webp"
     },
     {
       "id": "tour-de-france-stage-10-2447757",
@@ -290,6 +283,42 @@
       "streams": [],
       "streamCount": 0,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENzAoQAsDuAAGDSCm5j3ECRAQQ2viFtMkFPsNn0UYFSi5fy9LFkfJlowLzFRCCA.webp"
+    },
+    {
+      "id": "uci-tour-de-france-uci-world-tour-game-13622",
+      "title": "UCI Tour de France | UCI World Tour 🏁",
+      "sport": "other",
+      "competition": "other",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-14T11:10:00Z",
+      "streams": [
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/uci-tour-de-france-uci-world-tour-game-13622/1",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/uci-tour-de-france-uci-world-tour-game-13622/2",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": ""
     },
     {
       "id": "kups-vs-vardar-2491750",
@@ -1370,42 +1399,6 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICCHilS4kFhBUFwCDMQkQKBXJAhgiGOJEhhGyWfnC9enSADGWmCnIqBQkU2z0whYEly2nITBuThVLMicCKzBg5WkIIA.webp"
     },
     {
-      "id": "ppv-st-louis-city-sc-vs-sporting-kansas-city",
-      "title": "St. Louis CITY SC vs. Sporting Kansas City",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-17T00:30:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-st-louis-city-sc-vs-sporting-kansas-city/1",
-          "language": "English - Apple TV",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-st-louis-city-sc-vs-sporting-kansas-city/2",
-          "language": "English - Apple TV",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILMAggUIKSBDDgiGopLiQAYxCI1irJuBUQZCJKXSFpWSBjb1ukSnKmBQkU2z0whYElwanITBuTlNVegIlcmCzEyA.webp"
-    },
-    {
       "id": "ppv-chicago-fire-fc-vs-vancouver-whitecaps",
       "title": "Chicago Fire FC vs. Vancouver Whitecaps",
       "sport": "football",
@@ -1440,6 +1433,42 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCERZgNRBBAwQw7CBo0IIpZOCIqWkEs2IUkrcNNl5ijaPIaBQkU2z0whYElwBjFI7DdOG1J6Ah1yf2ANSyA.webp"
+    },
+    {
+      "id": "ppv-st-louis-city-sc-vs-sporting-kansas-city",
+      "title": "St. Louis CITY SC vs. Sporting Kansas City",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-17T00:30:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-st-louis-city-sc-vs-sporting-kansas-city/1",
+          "language": "English - Apple TV",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-st-louis-city-sc-vs-sporting-kansas-city/2",
+          "language": "English - Apple TV",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILMAggUIKSBDDgiGopLiQAYxCI1irJuBUQZCJKXSFpWSBjb1ukSnKmBQkU2z0whYElwanITBuTlNVegIlcmCzEyA.webp"
     },
     {
       "id": "ppv-seattle-sounders-fc-vs-portland-timbers",
