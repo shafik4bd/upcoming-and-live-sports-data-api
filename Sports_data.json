@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-14T20:53:10Z",
-  "fetchDuration": "67.1s",
+  "lastUpdated": "2026-07-14T21:51:18Z",
+  "fetchDuration": "50.7s",
   "totalMatches": 53,
   "liveCount": 2,
   "upcomingCount": 51,
@@ -242,8 +242,16 @@
         }
       },
       "matchTimeUTC": "2026-07-14T22:30:00Z",
-      "streams": [],
-      "streamCount": 0,
+      "streams": [
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/ppv-event-02-slinger-nationals-ppv-02/1",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 1,
       "poster": ""
     },
     {
