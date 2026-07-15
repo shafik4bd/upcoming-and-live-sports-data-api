@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-07-15T07:09:30Z",
-  "fetchDuration": "66.3s",
-  "totalMatches": 61,
-  "liveCount": 4,
+  "lastUpdated": "2026-07-15T09:54:09Z",
+  "fetchDuration": "50.4s",
+  "totalMatches": 58,
+  "liveCount": 1,
   "upcomingCount": 57,
   "matches": [
     {
-      "id": "ppv-mlb-all-star-game",
-      "title": "MLB All Star Game",
-      "sport": "baseball",
-      "competition": "baseball",
+      "id": "atp-wta-tour-nordea-swiss-umag-lasi-open-tn-1",
+      "title": "ATP / WTA Tour: Nordea / Swiss / Umag / Lasi Open 🎾",
+      "sport": "tennis",
+      "competition": "tennis",
       "status": "LIVE",
       "teams": {
         "home": {
@@ -21,125 +21,31 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-07-14T23:30:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-mlb-all-star-game/1",
-          "language": "English - FOX",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-mlb-all-star-game/2",
-          "language": "English - FOX",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCDIQQKScHjBpCiPJDDJIFVXGqaWRWpDaQGiVI0wTIS8JEpyKgUJFNs9MIWBJcAY3tCwbk4VWzJ7AnlyQMVSRSA.webp"
-    },
-    {
-      "id": "ppv-event-05-southern-nationals-harris-ppv-05",
-      "title": "Southern Nationals Harris",
-      "sport": "other",
-      "competition": "other",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-15T00:00:00Z",
+      "matchTimeUTC": "2026-07-15T08:30:00Z",
       "streams": [
         {
           "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/ppv-event-05-southern-nationals-harris-ppv-05/1",
+          "embedUrl": "https://embed.st/embed/echo/atp-wta-tour-nordea-swiss-umag-lasi-open-tn-1/1",
           "language": "",
           "hd": true,
           "quality": "HD"
         },
         {
           "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/ppv-event-05-southern-nationals-harris-ppv-05/2",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": ""
-    },
-    {
-      "id": "23768",
-      "title": "National All-Stars - American All-Stars",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-15T00:00:00Z",
-      "streams": [
-        {
-          "source": "golf",
-          "embedUrl": "https://embed.st/embed/golf/23768/1",
-          "language": "English",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 1,
-      "poster": ""
-    },
-    {
-      "id": "ppv-event-06-lucas-oil-late-models-adams-county-ppv-06",
-      "title": "Lucas Oil Late Models Adams County",
-      "sport": "other",
-      "competition": "other",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-15T00:15:00Z",
-      "streams": [
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/ppv-event-06-lucas-oil-late-models-adams-county-ppv-06/1",
+          "embedUrl": "https://embed.st/embed/echo/atp-wta-tour-nordea-swiss-umag-lasi-open-tn-1/2",
           "language": "",
           "hd": true,
           "quality": "HD"
         },
         {
           "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/ppv-event-06-lucas-oil-late-models-adams-county-ppv-06/2",
+          "embedUrl": "https://embed.st/embed/echo/atp-wta-tour-nordea-swiss-umag-lasi-open-tn-1/3",
           "language": "",
           "hd": true,
           "quality": "HD"
         }
       ],
-      "streamCount": 2,
+      "streamCount": 3,
       "poster": ""
     },
     {
@@ -298,49 +204,6 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBEBDXsQZgdgwwRgBOYAU0hDpqxQFZh5Tg0wmJgATMNTTAWkVqNri0LIinbQ61OvHS5CISiCggGIRPzWq0hNTTV5s2AMb6NNFif4h+VFxux5bFLXnk3aASx2PV0+LRRNR0hAtjYUBHZQYkk2JjBHEFsaOxytGFZYSWt5YFIVGOVgeTYOMl5AiCA.webp"
-    },
-    {
-      "id": "atp-wta-tour-nordea-swiss-umag-lasi-open-tn-1",
-      "title": "ATP / WTA Tour: Nordea / Swiss / Umag / Lasi Open 🎾",
-      "sport": "tennis",
-      "competition": "tennis",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-15T08:30:00Z",
-      "streams": [
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/atp-wta-tour-nordea-swiss-umag-lasi-open-tn-1/1",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/atp-wta-tour-nordea-swiss-umag-lasi-open-tn-1/2",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/atp-wta-tour-nordea-swiss-umag-lasi-open-tn-1/3",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 3,
-      "poster": ""
     },
     {
       "id": "tour-de-france-stage-11-2447758",
@@ -919,8 +782,8 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzduFn5gABhAwQ1ELxBYQ5xCYMmSIFHZZIKWEXMYowqlD0-lG1OW9tejBPcTEIIA.webp"
     },
     {
-      "id": "vitoria-vs-vasco-da-gama-football-1492299",
-      "title": "Vitoria vs Vasco DA Gama",
+      "id": "vitoria-vs-vasco-da-gama-4632758",
+      "title": "Vitoria vs Vasco da Gama",
       "sport": "football",
       "competition": "football",
       "status": "UPCOMING",
@@ -1653,6 +1516,27 @@
       ],
       "streamCount": 4,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5M8EaWARgiLCBjAqICCADG2eWpkglclUpAgUE6dKyKtZYdpKG1x-mEESC2emELAkuVcaFPWaWsyY1dxMCcpSQggA.webp"
+    },
+    {
+      "id": "23787",
+      "title": "France - Semifinal 2 Loser",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-18T21:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
     },
     {
       "id": "ppv-titans-vs-sea-eagles",
