@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-15T09:54:09Z",
-  "fetchDuration": "50.4s",
+  "lastUpdated": "2026-07-15T11:24:20Z",
+  "fetchDuration": "58.9s",
   "totalMatches": 58,
   "liveCount": 1,
   "upcomingCount": 57,
@@ -134,42 +134,6 @@
       "poster": ""
     },
     {
-      "id": "admin-sky-sports-tennis",
-      "title": "Sky Sports Tennis",
-      "sport": "tennis",
-      "competition": "tennis",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/admin-sky-sports-tennis/1",
-          "language": "English",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/admin-sky-sports-tennis/2",
-          "language": "English",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWYLYATmEIFNd4Dh5g1hh0ngLgJngBDFJsLiTBluwsCkycQbPuTZ5gCYAAZxfBLAZioNRZ3aFCKBLIGNiGRTC7xoVMuwizG+WbyZCyfYuCeK+7AJmCpBsckYmHjyK-viahFggjHwQ0iAUINwgJCCpKCCJGSCyilS2nA5chPRgYI5hEEA.webp"
-    },
-    {
       "id": "admin-tennis-channel",
       "title": "Tennis Channel",
       "sport": "tennis",
@@ -204,6 +168,27 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBEBDXsQZgdgwwRgBOYAU0hDpqxQFZh5Tg0wmJgATMNTTAWkVqNri0LIinbQ61OvHS5CISiCggGIRPzWq0hNTTV5s2AMb6NNFif4h+VFxux5bFLXnk3aASx2PV0+LRRNR0hAtjYUBHZQYkk2JjBHEFsaOxytGFZYSWt5YFIVGOVgeTYOMl5AiCA.webp"
+    },
+    {
+      "id": "admin-sky-sports-golf",
+      "title": "Sky Sports Golf",
+      "sport": "golf",
+      "competition": "golf",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWBWYNMATkmHmAENgwCqThhMcYUXq1hCJgApr0iYBxMMzpR4maikpiZaEIjLoQZEDA0b12gCboWtVrxD6NtENYEgsd4BcQhBITjUZJiWTizCLKMkFTfCYwf2B+IQggA.webp"
     },
     {
       "id": "tour-de-france-stage-11-2447758",
@@ -677,8 +662,8 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8reihB9swMDxDctRwxBCaSuEFfgFgSCn2GyNYFSi6vy9LLPdNaYK5iohBAA.webp"
     },
     {
-      "id": "tour-de-france-stage-12-2447759",
-      "title": "Tour de France Stage 12",
+      "id": "ppv-tour-de-france-stage-12",
+      "title": "Tour de France - Stage 12",
       "sport": "other",
       "competition": "other",
       "status": "UPCOMING",
@@ -693,9 +678,38 @@
         }
       },
       "matchTimeUTC": "2026-07-16T11:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLOXgJmzENxBTce4yRAQQKEFZgFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-tour-de-france-stage-12/1",
+          "language": "English - TNT Sports 1",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-tour-de-france-stage-12/2",
+          "language": "English - TNT Sports 1",
+          "hd": false,
+          "quality": "SD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-tour-de-france-stage-12/3",
+          "language": "English - Peacock",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-tour-de-france-stage-12/4",
+          "language": "English - Peacock",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 4,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5M8EaWARgiLCBjAqICCADG2eWpkglclUpAgUE6dKyKtZYdpKG1x-mEESC2emELAkuVcaFPWaWsyY1dxMCcpSQggA.webp"
     },
     {
       "id": "oklahoma-city-thunder-vs-dallas-mavericks-2505678",
@@ -782,8 +796,8 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzduFn5gABhAwQ1ELxBYQ5xCYMmSIFHZZIKWEXMYowqlD0-lG1OW9tejBPcTEIIA.webp"
     },
     {
-      "id": "vitoria-vs-vasco-da-gama-4632758",
-      "title": "Vitoria vs Vasco da Gama",
+      "id": "vitoria-vs-vasco-da-gama-football-1492299",
+      "title": "Vitoria vs Vasco DA Gama",
       "sport": "football",
       "competition": "football",
       "status": "UPCOMING",
