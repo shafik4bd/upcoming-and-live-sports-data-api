@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-07-15T04:44:41Z",
-  "fetchDuration": "52.7s",
-  "totalMatches": 60,
-  "liveCount": 6,
-  "upcomingCount": 54,
+  "lastUpdated": "2026-07-15T07:09:30Z",
+  "fetchDuration": "66.3s",
+  "totalMatches": 61,
+  "liveCount": 4,
+  "upcomingCount": 57,
   "matches": [
     {
       "id": "ppv-mlb-all-star-game",
@@ -141,48 +141,6 @@
       ],
       "streamCount": 2,
       "poster": ""
-    },
-    {
-      "id": "oklahoma-city-thunder-vs-denver-nuggets-2505668",
-      "title": "Oklahoma City Thunder vs Denver Nuggets",
-      "sport": "basketball",
-      "competition": "basketball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-15T01:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCGohpNUNF4gDWECcQGYhkCROaWSClhFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp"
-    },
-    {
-      "id": "los-angeles-lakers-vs-los-angeles-clippers-2505669",
-      "title": "Los Angeles Lakers vs Los Angeles Clippers",
-      "sport": "basketball",
-      "competition": "basketball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-15T02:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKnDFIQcXpBC8QWECcSGYBkCRMh4LJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp"
     },
     {
       "id": "admin-willow-cricket",
@@ -406,6 +364,63 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHzAoQMOcCRgQIbiCm5jFkiAghtfWwX0U+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp"
     },
     {
+      "id": "uci-tour-de-france-uci-world-tour-game-13622",
+      "title": "UCI Tour de France | UCI World Tour 🏁",
+      "sport": "other",
+      "competition": "other",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-15T11:50:00Z",
+      "streams": [
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/uci-tour-de-france-uci-world-tour-game-13622/1",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/uci-tour-de-france-uci-world-tour-game-13622/2",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": ""
+    },
+    {
+      "id": "yorkshire-vikings-vs-somerset-t20-2529307",
+      "title": "Yorkshire Vikings vs Somerset t20",
+      "sport": "cricket",
+      "competition": "cricket",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-15T15:30:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKkjmgYIMrxD6sIYxBA6UIU6eMgWSClhFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp"
+    },
+    {
       "id": "chicago-sky-w-vs-seattle-storm-w-basketball-494952",
       "title": "Chicago Sky W vs Seattle Storm W",
       "sport": "basketball",
@@ -593,6 +608,42 @@
       "streams": [],
       "streamCount": 0,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKvV5hpFcBBC8QWECcSGYBkCRMmWSClhFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp"
+    },
+    {
+      "id": "mlc-qualifier-la-knight-riders-vs-sf-unicorns-game-19993637",
+      "title": "MLC Qualifier: LA Knight Riders vs SF Unicorns",
+      "sport": "other",
+      "competition": "other",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-15T21:30:00Z",
+      "streams": [
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/mlc-qualifier-la-knight-riders-vs-sf-unicorns-game-19993637/1",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/mlc-qualifier-la-knight-riders-vs-sf-unicorns-game-19993637/2",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": ""
     },
     {
       "id": "detroit-pistons-vs-phoenix-suns-2505673",
