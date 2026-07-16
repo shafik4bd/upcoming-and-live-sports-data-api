@@ -1,31 +1,10 @@
 {
-  "lastUpdated": "2026-07-16T13:26:54Z",
-  "fetchDuration": "84.4s",
+  "lastUpdated": "2026-07-16T15:28:36Z",
+  "fetchDuration": "61.8s",
   "totalMatches": 83,
-  "liveCount": 6,
-  "upcomingCount": 77,
+  "liveCount": 5,
+  "upcomingCount": 78,
   "matches": [
-    {
-      "id": "the-open-championship-round-1-2329368",
-      "title": "The Open Championship Round 1",
-      "sport": "golf",
-      "competition": "golf",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-16T05:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rVijApOABjB8Q3EAZIgpIFIZCIQIGLgLAkFPsNn1NK7WzBl4RLFltJlowXzFRCCA.webp"
-    },
     {
       "id": "atp-wta-tour-nordea-swiss-umag-lasi-open-tn-1",
       "title": "ATP / WTA Tour: Nordea / Swiss / Umag / Lasi Open 🎾",
@@ -303,6 +282,27 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBEBDXsQZgdgwwRgBOYAU0hDpqxQFZh5Tg0wmJgATMNTTAWkVqNri0LIinbQ61OvHS5CISiCggGIRPzWq0hNTTV5s2AMb6NNFif4h+VFxux5bFLXnk3aASx2PV0+LRRNR0hAtjYUBHZQYkk2JjBHEFsaOxytGFZYSWt5YFIVGOVgeTYOMl5AiCA.webp"
+    },
+    {
+      "id": "the-open-championship-round-1-2329368",
+      "title": "The Open Championship Round 1",
+      "sport": "golf",
+      "competition": "golf",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-16T05:30:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rVijApOABjB8Q3EAZIgpIFIZCIQIGLgLAkFPsNn1NK7WzBl4RLFltJlowXzFRCCA.webp"
     },
     {
       "id": "lech-poznan-vs-gornik-zabrze-football-1589959",
