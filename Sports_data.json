@@ -1,31 +1,10 @@
 {
-  "lastUpdated": "2026-07-16T17:07:32Z",
-  "fetchDuration": "65.5s",
-  "totalMatches": 81,
+  "lastUpdated": "2026-07-16T19:00:17Z",
+  "fetchDuration": "85.0s",
+  "totalMatches": 80,
   "liveCount": 3,
-  "upcomingCount": 78,
+  "upcomingCount": 77,
   "matches": [
-    {
-      "id": "penrith-panthers-vs-brisbane-broncos-2417305",
-      "title": "Penrith Panthers vs Brisbane Broncos",
-      "sport": "rugby",
-      "competition": "rugby",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-16T09:50:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8reihB9swMDxDctRwxBCaSuEFfgFgSCn2GyNYFSi6vy9LLPdNaYK5iohBAA.webp"
-    },
     {
       "id": "england-vs-india-second-one-day-international-game-19993637",
       "title": "England vs India - Second one-day international",
@@ -90,6 +69,42 @@
         {
           "source": "echo",
           "embedUrl": "https://embed.st/embed/echo/uci-tour-de-france-uci-world-tour-game-13622/2",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": ""
+    },
+    {
+      "id": "lech-poznan-vs-gornik-zabrze-football-1589959",
+      "title": "Lech Poznan vs Gornik Zabrze",
+      "sport": "football",
+      "competition": "football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-16T17:00:00Z",
+      "streams": [
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/lech-poznan-vs-gornik-zabrze-football-1589959/1",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/lech-poznan-vs-gornik-zabrze-football-1589959/2",
           "language": "",
           "hd": true,
           "quality": "HD"
@@ -239,42 +254,6 @@
       "streams": [],
       "streamCount": 0,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rVijApOABjB8Q3EAZIgpIFIZCIQIGLgLAkFPsNn1NK7WzBl4RLFltJlowXzFRCCA.webp"
-    },
-    {
-      "id": "lech-poznan-vs-gornik-zabrze-football-1589959",
-      "title": "Lech Poznan vs Gornik Zabrze",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-16T17:00:00Z",
-      "streams": [
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/lech-poznan-vs-gornik-zabrze-football-1589959/1",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/lech-poznan-vs-gornik-zabrze-football-1589959/2",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": ""
     },
     {
       "id": "bradford-bulls-vs-wakefield-trinity-wildcats-2395967",
