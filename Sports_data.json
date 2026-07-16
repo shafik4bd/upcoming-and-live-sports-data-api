@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-07-16T21:58:30Z",
-  "fetchDuration": "59.3s",
-  "totalMatches": 79,
-  "liveCount": 4,
-  "upcomingCount": 75,
+  "lastUpdated": "2026-07-16T22:57:27Z",
+  "fetchDuration": "82.8s",
+  "totalMatches": 82,
+  "liveCount": 8,
+  "upcomingCount": 74,
   "matches": [
     {
       "id": "bradford-bulls-vs-wakefield-trinity-wildcats-2395967",
@@ -87,6 +87,120 @@
       "matchTimeUTC": "2026-07-16T21:45:00Z",
       "streams": [],
       "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "chicago-bulls-vs-los-angeles-lakers-2505680",
+      "title": "Chicago Bulls vs Los Angeles Lakers",
+      "sport": "basketball",
+      "competition": "basketball",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-16T22:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzduFn5gABhAwQ1ELxBYQ5xCYMmSIFHZZIKWEXMYowqlD0-lG1OW9tejBPcTEIIA.webp"
+    },
+    {
+      "id": "ppv-new-york-mets-vs-philadelphia-phillies",
+      "title": "New York Mets vs. Philadelphia Phillies",
+      "sport": "baseball",
+      "competition": "baseball",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-16T22:00:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-new-york-mets-vs-philadelphia-phillies/1",
+          "language": "English - ESPN",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-new-york-mets-vs-philadelphia-phillies/2",
+          "language": "English - ESPN",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEEIhQgIpacCogFWECRDKyq5TBHSQIYOMQBjeSCkw58YMfnXbEFORkChIptnphCwJLiOOhMG5OGWFSegI7MCCDcIggA.webp"
+    },
+    {
+      "id": "botafogo-vs-santos-2398372",
+      "title": "Botafogo vs Santos",
+      "sport": "football",
+      "competition": "football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-16T22:30:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXCHAoQKMNu4gDfEFJ0nNIRImNSCwJBT7DZ9XSpRcwZeESyyPTLRgXmKiEEA.webp"
+    },
+    {
+      "id": "vitoria-vs-vasco-da-gama-football-1492299",
+      "title": "Vitoria vs Vasco DA Gama",
+      "sport": "football",
+      "competition": "football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-16T22:30:00Z",
+      "streams": [
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/vitoria-vs-vasco-da-gama-football-1492299/1",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/vitoria-vs-vasco-da-gama-football-1492299/2",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 2,
       "poster": ""
     },
     {
@@ -232,82 +346,10 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rVijApOABjB8Q3EAZIgpIFIZCIQIGLgLAkFPsNn1NK7WzBl4RLFltJlowXzFRCCA.webp"
     },
     {
-      "id": "uci-tour-de-france-uci-world-tour-game-13622",
-      "title": "UCI Tour de France | UCI World Tour 🏁",
-      "sport": "other",
-      "competition": "other",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-16T11:30:00Z",
-      "streams": [
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/uci-tour-de-france-uci-world-tour-game-13622/1",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/uci-tour-de-france-uci-world-tour-game-13622/2",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": ""
-    },
-    {
-      "id": "england-vs-india-second-one-day-international-game-19993637",
-      "title": "England vs India - Second one-day international",
-      "sport": "other",
-      "competition": "other",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-16T11:30:00Z",
-      "streams": [
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/england-vs-india-second-one-day-international-game-19993637/1",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/england-vs-india-second-one-day-international-game-19993637/2",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": ""
-    },
-    {
-      "id": "chicago-bulls-vs-los-angeles-lakers-2505680",
-      "title": "Chicago Bulls vs Los Angeles Lakers",
-      "sport": "basketball",
-      "competition": "basketball",
+      "id": "philadelphia-phillies-vs-new-york-mets-2388332",
+      "title": "Philadelphia Phillies vs New York Mets",
+      "sport": "baseball",
+      "competition": "baseball",
       "status": "UPCOMING",
       "teams": {
         "home": {
@@ -322,49 +364,7 @@
       "matchTimeUTC": "2026-07-16T22:00:00Z",
       "streams": [],
       "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzduFn5gABhAwQ1ELxBYQ5xCYMmSIFHZZIKWEXMYowqlD0-lG1OW9tejBPcTEIIA.webp"
-    },
-    {
-      "id": "vitoria-vs-vasco-da-gama-football-1492299",
-      "title": "Vitoria vs Vasco DA Gama",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-16T22:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
-    },
-    {
-      "id": "botafogo-vs-santos-2398372",
-      "title": "Botafogo vs Santos",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-16T22:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXCHAoQKMNu4gDfEFJ0nNIRImNSCwJBT7DZ9XSpRcwZeESyyPTLRgXmKiEEA.webp"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VWvDBSwSEHBzcQfECZghEZyyAjmCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
     },
     {
       "id": "washington-mystics-w-vs-portland-fire-w-basketball-494955",
@@ -383,8 +383,16 @@
         }
       },
       "matchTimeUTC": "2026-07-16T23:00:00Z",
-      "streams": [],
-      "streamCount": 0,
+      "streams": [
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/washington-mystics-w-vs-portland-fire-w-basketball-494955/1",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 1,
       "poster": ""
     },
     {
@@ -428,27 +436,6 @@
       "streams": [],
       "streamCount": 0,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MVEPFLAaECSBjyQwiaRA1lylCBTBEIJQa009IWfv1ZgsrQGMRO-mEEim2emELAkuGzqFPWCBcyHQJdcicrKQggA.webp"
-    },
-    {
-      "id": "philadelphia-phillies-vs-new-york-mets-2388332",
-      "title": "Philadelphia Phillies vs New York Mets",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-16T23:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VWvDBSwSEHBzcQfECZghEZyyAjmCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
     },
     {
       "id": "cf-montreal-vs-toronto-fc-football-1490325",
@@ -533,6 +520,27 @@
       "streams": [],
       "streamCount": 0,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKiAEhZieiBC8QWfSESGYB7SAvN8wJBSwi5jFGFUoe78o2pzPdvRg7uJiEEA.webp"
+    },
+    {
+      "id": "the-open-championship-round-2-2358663",
+      "title": "The Open Championship Round 2",
+      "sport": "golf",
+      "competition": "golf",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-17T00:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rVijApOABjB8Q3EAZIgpIFIZCIQIGLgLAkFPsNn1NK7WzBl4RLFltJlowXzFRCCA.webp"
     },
     {
       "id": "st--louis-city-sc-vs-sporting-kansas-city-2406929",
@@ -682,6 +690,42 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEOF5YwKMFJCJuIfSRBGUICxogg+IEgWBIKfYbPq6VKLmDLwiWLLeTLRgvmKiEEA.webp"
     },
     {
+      "id": "mlc-challenger-sf-unicorns-vs-washington-freedom-game-19993637",
+      "title": "MLC Challenger: SF Unicorns vs Washington Freedom",
+      "sport": "other",
+      "competition": "other",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-17T01:30:00Z",
+      "streams": [
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/mlc-challenger-sf-unicorns-vs-washington-freedom-game-19993637/1",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/mlc-challenger-sf-unicorns-vs-washington-freedom-game-19993637/2",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": ""
+    },
+    {
       "id": "denver-nuggets-vs-portland-trail-blazers-2505684",
       "title": "Denver Nuggets vs Portland Trail Blazers",
       "sport": "basketball",
@@ -766,6 +810,49 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAxgkIeFv4IQ3EHxBSQ5koZ3WYOgsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp"
     },
     {
+      "id": "atp-wta-tour-nordea-swiss-umag-lasi-open-tn-1",
+      "title": "ATP / WTA Tour: Nordea / Swiss / Umag / Lasi Open 🎾",
+      "sport": "other",
+      "competition": "other",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-17T08:30:00Z",
+      "streams": [
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/atp-wta-tour-nordea-swiss-umag-lasi-open-tn-1/1",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/atp-wta-tour-nordea-swiss-umag-lasi-open-tn-1/2",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/atp-wta-tour-nordea-swiss-umag-lasi-open-tn-1/3",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 3,
+      "poster": ""
+    },
+    {
       "id": "sydney-roosters-vs-melbourne-storm-2417308",
       "title": "Sydney Roosters vs Melbourne Storm",
       "sport": "rugby",
@@ -806,6 +893,42 @@
       "streams": [],
       "streamCount": 0,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VWlCRgknfCG4gpufSZIgIIFCGsSmWmP2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
+    },
+    {
+      "id": "uci-tour-de-france-uci-world-tour-game-13622",
+      "title": "UCI Tour de France | UCI World Tour 🏁",
+      "sport": "other",
+      "competition": "other",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-17T11:00:00Z",
+      "streams": [
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/uci-tour-de-france-uci-world-tour-game-13622/1",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/uci-tour-de-france-uci-world-tour-game-13622/2",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": ""
     },
     {
       "id": "boston-red-sox-vs-tampa-bay-rays-2387466",
@@ -1111,8 +1234,8 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECjB8wMiCER7uIPiFMx9Ic1ZCGCwJBT7DZ9TSpRcwZeESyyPTLRgXmKiEEA.webp"
     },
     {
-      "id": "toronto-tempo-w-vs-atlanta-dream-w-basketball-494957",
-      "title": "Toronto Tempo W vs Atlanta Dream W",
+      "id": "indiana-fever-w-vs-seattle-storm-w-basketball-494959",
+      "title": "Indiana Fever W vs Seattle Storm W",
       "sport": "basketball",
       "competition": "basketball",
       "status": "UPCOMING",
@@ -1153,8 +1276,8 @@
       "poster": ""
     },
     {
-      "id": "indiana-fever-w-vs-seattle-storm-w-basketball-494959",
-      "title": "Indiana Fever W vs Seattle Storm W",
+      "id": "toronto-tempo-w-vs-atlanta-dream-w-basketball-494957",
+      "title": "Toronto Tempo W vs Atlanta Dream W",
       "sport": "basketball",
       "competition": "basketball",
       "status": "UPCOMING",
