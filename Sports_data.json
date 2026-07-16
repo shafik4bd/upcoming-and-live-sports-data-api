@@ -1,53 +1,10 @@
 {
-  "lastUpdated": "2026-07-16T15:28:36Z",
-  "fetchDuration": "61.8s",
-  "totalMatches": 83,
-  "liveCount": 5,
+  "lastUpdated": "2026-07-16T17:07:32Z",
+  "fetchDuration": "65.5s",
+  "totalMatches": 81,
+  "liveCount": 3,
   "upcomingCount": 78,
   "matches": [
-    {
-      "id": "atp-wta-tour-nordea-swiss-umag-lasi-open-tn-1",
-      "title": "ATP / WTA Tour: Nordea / Swiss / Umag / Lasi Open 🎾",
-      "sport": "other",
-      "competition": "other",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-16T08:30:00Z",
-      "streams": [
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/atp-wta-tour-nordea-swiss-umag-lasi-open-tn-1/1",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/atp-wta-tour-nordea-swiss-umag-lasi-open-tn-1/2",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/atp-wta-tour-nordea-swiss-umag-lasi-open-tn-1/3",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 3,
-      "poster": ""
-    },
     {
       "id": "penrith-panthers-vs-brisbane-broncos-2417305",
       "title": "Penrith Panthers vs Brisbane Broncos",
@@ -68,27 +25,6 @@
       "streams": [],
       "streamCount": 0,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8reihB9swMDxDctRwxBCaSuEFfgFgSCn2GyNYFSi6vy9LLPdNaYK5iohBAA.webp"
-    },
-    {
-      "id": "tour-de-france-stage-12-2447759",
-      "title": "Tour de France Stage 12",
-      "sport": "other",
-      "competition": "other",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-16T11:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLOXgJmzENxBTce4yRAQQKEFZgFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
     },
     {
       "id": "england-vs-india-second-one-day-international-game-19993637",
@@ -321,8 +257,23 @@
         }
       },
       "matchTimeUTC": "2026-07-16T17:00:00Z",
-      "streams": [],
-      "streamCount": 0,
+      "streams": [
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/lech-poznan-vs-gornik-zabrze-football-1589959/1",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/lech-poznan-vs-gornik-zabrze-football-1589959/2",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 2,
       "poster": ""
     },
     {
