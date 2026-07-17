@@ -1,46 +1,10 @@
 {
-  "lastUpdated": "2026-07-17T18:56:58Z",
-  "fetchDuration": "84.7s",
-  "totalMatches": 96,
+  "lastUpdated": "2026-07-17T20:02:14Z",
+  "fetchDuration": "91.0s",
+  "totalMatches": 95,
   "liveCount": 5,
-  "upcomingCount": 91,
+  "upcomingCount": 90,
   "matches": [
-    {
-      "id": "uci-tour-de-france-uci-world-tour-game-13622",
-      "title": "UCI Tour de France | UCI World Tour 🏁",
-      "sport": "other",
-      "competition": "other",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-17T11:00:00Z",
-      "streams": [
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/uci-tour-de-france-uci-world-tour-game-13622/1",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/uci-tour-de-france-uci-world-tour-game-13622/2",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": ""
-    },
     {
       "id": "live-event_nascar-truck-series-2026-window-world-250-live-stream",
       "title": "Nascar Truck Series 2026 - Window World 250",
@@ -60,35 +24,6 @@
       "matchTimeUTC": "2026-07-17T12:23:00Z",
       "streams": [],
       "streamCount": 0,
-      "poster": ""
-    },
-    {
-      "id": "ppv-event-02-aca-205-magomedov-v-gasanov-ppv-02",
-      "title": "ACA 205 Magomedov v Gasanov 🔥",
-      "sport": "other",
-      "competition": "other",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-17T13:15:00Z",
-      "streams": [
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/ppv-event-02-aca-205-magomedov-v-gasanov-ppv-02/1",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 1,
       "poster": ""
     },
     {
@@ -132,6 +67,48 @@
       "streams": [],
       "streamCount": 0,
       "poster": ""
+    },
+    {
+      "id": "huddersfield-giants-vs-wigan-warriors-2395969",
+      "title": "Huddersfield Giants vs Wigan Warriors",
+      "sport": "rugby",
+      "competition": "rugby",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-17T19:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEIl4hZYdiG4g+IKSBIhz5xDgPwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
+    },
+    {
+      "id": "st-helens-vs-catalans-dragons-2537589",
+      "title": "St Helens vs Catalans Dragons",
+      "sport": "rugby",
+      "competition": "rugby",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-17T19:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGCBK4QtAAwgUIbiD4gNUkBZzGcFg0yQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp"
     },
     {
       "id": "admin-willow-cricket",
@@ -317,48 +294,6 @@
       ],
       "streamCount": 3,
       "poster": ""
-    },
-    {
-      "id": "st-helens-vs-catalans-dragons-2537589",
-      "title": "St Helens vs Catalans Dragons",
-      "sport": "rugby",
-      "competition": "rugby",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-17T19:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGCBK4QtAAwgUIbiD4gNUkBZzGcFg0yQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp"
-    },
-    {
-      "id": "huddersfield-giants-vs-wigan-warriors-2395969",
-      "title": "Huddersfield Giants vs Wigan Warriors",
-      "sport": "rugby",
-      "competition": "rugby",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-17T19:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEIl4hZYdiG4g+IKSBIhz5xDgPwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
     },
     {
       "id": "san-lorenzo-vs-deportivo-riestra-2462448",
@@ -1571,6 +1506,27 @@
       "streams": [],
       "streamCount": 0,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdlRRhZ+YEjAoQvEFhBmIIaiBghpZkBcW79MASLmMtqlDzBl4RNRyPrr0YH7iYhBAA.webp"
+    },
+    {
+      "id": "manchester-united-vs-wrexham-2467926",
+      "title": "Manchester United vs Wrexham",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-18T15:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IKiEQgQMYIgDGIFHJDDVIEhpnjs25ZulqswGomMSLkkFhARJJ5fzCCRTbPTCFgSXPOVDnVghXMmUCOXJnYGCyCCA.webp"
     },
     {
       "id": "south-africa-rugby-vs-wales-rugby-2449601",
