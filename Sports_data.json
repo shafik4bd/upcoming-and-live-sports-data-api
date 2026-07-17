@@ -1,31 +1,10 @@
 {
-  "lastUpdated": "2026-07-17T17:05:04Z",
-  "fetchDuration": "112.8s",
-  "totalMatches": 97,
+  "lastUpdated": "2026-07-17T18:56:58Z",
+  "fetchDuration": "84.7s",
+  "totalMatches": 96,
   "liveCount": 5,
-  "upcomingCount": 92,
+  "upcomingCount": 91,
   "matches": [
-    {
-      "id": "live-event_world-rally-championship-2026-rally-estonia-live-stream",
-      "title": "World Rally Championship 2026 - Rally Estonia",
-      "sport": "motor-sports",
-      "competition": "motor-sports",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-17T10:51:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
-    },
     {
       "id": "uci-tour-de-france-uci-world-tour-game-13622",
       "title": "UCI Tour de France | UCI World Tour 🏁",
@@ -113,10 +92,10 @@
       "poster": ""
     },
     {
-      "id": "belgian-grand-prix-practice-1-2408167",
-      "title": "Belgian Grand Prix Practice 1",
-      "sport": "motor-sports",
-      "competition": "motor-sports",
+      "id": "boston-red-sox-vs-tampa-bay-rays-2387466",
+      "title": "Boston Red Sox vs Tampa Bay Rays",
+      "sport": "baseball",
+      "competition": "baseball",
       "status": "LIVE",
       "teams": {
         "home": {
@@ -128,10 +107,31 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-07-17T15:00:00Z",
+      "matchTimeUTC": "2026-07-17T17:35:00Z",
       "streams": [],
       "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAwh6hAdy0g9fEEYggUuEDBCIrjYEgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDFmipIUeu4g+h4yRAQQOo6akFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
+    },
+    {
+      "id": "benfica-vs-villarreal-2497564",
+      "title": "Benfica vs Villarreal",
+      "sport": "football",
+      "competition": "football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-17T18:45:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
     },
     {
       "id": "admin-willow-cricket",
@@ -637,27 +637,6 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGVJAxKIATm66QRmCEQnzICCBQFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
     },
     {
-      "id": "boston-red-sox-vs-tampa-bay-rays-2387466",
-      "title": "Boston Red Sox vs Tampa Bay Rays",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-17T23:10:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDFmipIUeu4g+h4yRAQQOo6akFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
-    },
-    {
       "id": "atlanta-braves-vs-texas-rangers-2388341",
       "title": "Atlanta Braves vs Texas Rangers",
       "sport": "baseball",
@@ -721,8 +700,8 @@
       "poster": ""
     },
     {
-      "id": "chicago-sky-w-vs-los-angeles-sparks-w-basketball-494958",
-      "title": "Chicago Sky W vs Los Angeles Sparks W",
+      "id": "indiana-fever-w-vs-seattle-storm-w-basketball-494959",
+      "title": "Indiana Fever W vs Seattle Storm W",
       "sport": "basketball",
       "competition": "basketball",
       "status": "UPCOMING",
@@ -742,8 +721,8 @@
       "poster": ""
     },
     {
-      "id": "indiana-fever-w-vs-seattle-storm-w-basketball-494959",
-      "title": "Indiana Fever W vs Seattle Storm W",
+      "id": "chicago-sky-w-vs-los-angeles-sparks-w-basketball-494958",
+      "title": "Chicago Sky W vs Los Angeles Sparks W",
       "sport": "basketball",
       "competition": "basketball",
       "status": "UPCOMING",
