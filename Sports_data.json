@@ -1,10 +1,31 @@
 {
-  "lastUpdated": "2026-07-17T05:13:11Z",
-  "fetchDuration": "93.2s",
-  "totalMatches": 89,
-  "liveCount": 10,
-  "upcomingCount": 79,
+  "lastUpdated": "2026-07-17T07:57:14Z",
+  "fetchDuration": "108.5s",
+  "totalMatches": 98,
+  "liveCount": 9,
+  "upcomingCount": 89,
   "matches": [
+    {
+      "id": "the-open-championship-round-2-2358663",
+      "title": "The Open Championship Round 2",
+      "sport": "golf",
+      "competition": "golf",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-17T00:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rVijApOABjB8Q3EAZIgpIFIZCIQIGLgLAkFPsNn1NK7WzBl4RLFltJlowXzFRCCA.webp"
+    },
     {
       "id": "forge-vs-pacific-2427373",
       "title": "Forge vs Pacific",
@@ -198,27 +219,6 @@
       "poster": ""
     },
     {
-      "id": "denver-nuggets-vs-portland-trail-blazers-2505684",
-      "title": "Denver Nuggets vs Portland Trail Blazers",
-      "sport": "basketball",
-      "competition": "basketball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-17T02:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCGqUQMViBxIQvfSFOJjMIyGk7TLJBSwi5jFGFUoe78oy1jP+KzAYO7iYhBAA.webp"
-    },
-    {
       "id": "seattle-sounders-vs-portland-timbers-2406930",
       "title": "Seattle Sounders vs Portland Timbers",
       "sport": "football",
@@ -238,27 +238,6 @@
       "streams": [],
       "streamCount": 0,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbmD4gZWMQAYQ3EFq1GtJEIkRTDBYEgp9hs+ijAqUXd+Xq7RnplowdzFRCCA.webp"
-    },
-    {
-      "id": "tijuana-vs-tigres-uanl-2487453",
-      "title": "Tijuana vs Tigres UANL",
-      "sport": "football",
-      "competition": "football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-17T03:10:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
     },
     {
       "id": "admin-willow-cricket",
@@ -380,27 +359,6 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBEBDXsQZgdgwwRgBOYAU0hDpqxQFZh5Tg0wmJgATMNTTAWkVqNri0LIinbQ61OvHS5CISiCggGIRPzWq0hNTTV5s2AMb6NNFif4h+VFxux5bFLXnk3aASx2PV0+LRRNR0hAtjYUBHZQYkk2JjBHEFsaOxytGFZYSWt5YFIVGOVgeTYOMl5AiCA.webp"
-    },
-    {
-      "id": "the-open-championship-round-2-2358663",
-      "title": "The Open Championship Round 2",
-      "sport": "golf",
-      "competition": "golf",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-17T00:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rVijApOABjB8Q3EAZIgpIFIZCIQIGLgLAkFPsNn1NK7WzBl4RLFltJlowXzFRCCA.webp"
     },
     {
       "id": "cronulla-sharks-vs-newcastle-knights-2417306",
@@ -869,8 +827,8 @@
       "poster": ""
     },
     {
-      "id": "chicago-sky-w-vs-los-angeles-sparks-w-basketball-494958",
-      "title": "Chicago Sky W vs Los Angeles Sparks W",
+      "id": "toronto-tempo-w-vs-atlanta-dream-w-basketball-494957",
+      "title": "Toronto Tempo W vs Atlanta Dream W",
       "sport": "basketball",
       "competition": "basketball",
       "status": "UPCOMING",
@@ -890,8 +848,8 @@
       "poster": ""
     },
     {
-      "id": "toronto-tempo-w-vs-atlanta-dream-w-basketball-494957",
-      "title": "Toronto Tempo W vs Atlanta Dream W",
+      "id": "chicago-sky-w-vs-los-angeles-sparks-w-basketball-494958",
+      "title": "Chicago Sky W vs Los Angeles Sparks W",
       "sport": "basketball",
       "competition": "basketball",
       "status": "UPCOMING",
@@ -1973,6 +1931,35 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFHWwhaUCCG4g+IYzG0hTFkCSsFgSCn2Gz6KMCo1s35ellkamtGBuYqIQQA.webp"
     },
     {
+      "id": "23826",
+      "title": "Orlando Magic - Boston Celtics",
+      "sport": "basketball",
+      "competition": "basketball",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-18T20:30:00Z",
+      "streams": [
+        {
+          "source": "golf",
+          "embedUrl": "https://embed.st/embed/golf/23826/1",
+          "language": "English",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 1,
+      "poster": ""
+    },
+    {
       "id": "japan-rugby-vs-france-rugby-2449597",
       "title": "Japan Rugby vs France Rugby",
       "sport": "rugby",
@@ -2015,6 +2002,64 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKmTFJswMNhC8QWECYgGTIGCBIgz8FtpgCRcxijCqUPD+UbU5Xvisuh7iYhBAA.webp"
     },
     {
+      "id": "23827",
+      "title": "Milwaukee Bucks - Philadelphia 76ers",
+      "sport": "basketball",
+      "competition": "basketball",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-18T21:00:00Z",
+      "streams": [
+        {
+          "source": "golf",
+          "embedUrl": "https://embed.st/embed/golf/23827/1",
+          "language": "English",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 1,
+      "poster": ""
+    },
+    {
+      "id": "23828",
+      "title": "Memphis Grizzlies - Houston Rockets",
+      "sport": "basketball",
+      "competition": "basketball",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-18T22:30:00Z",
+      "streams": [
+        {
+          "source": "golf",
+          "embedUrl": "https://embed.st/embed/golf/23828/1",
+          "language": "English",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 1,
+      "poster": ""
+    },
+    {
       "id": "pumas-unam-vs-pachuca-2487457",
       "title": "Pumas UNAM vs Pachuca",
       "sport": "football",
@@ -2033,6 +2078,238 @@
       "matchTimeUTC": "2026-07-18T23:00:00Z",
       "streams": [],
       "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "23829",
+      "title": "Washington Wizards - Atlanta Hawks",
+      "sport": "basketball",
+      "competition": "basketball",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-18T23:00:00Z",
+      "streams": [
+        {
+          "source": "golf",
+          "embedUrl": "https://embed.st/embed/golf/23829/1",
+          "language": "English",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 1,
+      "poster": ""
+    },
+    {
+      "id": "23845",
+      "title": "Seattle Mariners - San Francisco Giants",
+      "sport": "baseball",
+      "competition": "baseball",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-19T00:08:00Z",
+      "streams": [
+        {
+          "source": "golf",
+          "embedUrl": "https://embed.st/embed/golf/23845/1",
+          "language": "English",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 1,
+      "poster": ""
+    },
+    {
+      "id": "23844",
+      "title": "New York Yankees - Los Angeles Dodgers",
+      "sport": "baseball",
+      "competition": "baseball",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-19T00:08:00Z",
+      "streams": [
+        {
+          "source": "golf",
+          "embedUrl": "https://embed.st/embed/golf/23844/1",
+          "language": "English",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 1,
+      "poster": ""
+    },
+    {
+      "id": "23830",
+      "title": "Los Angeles Lakers - Golden State Warriors",
+      "sport": "basketball",
+      "competition": "basketball",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-19T00:30:00Z",
+      "streams": [
+        {
+          "source": "golf",
+          "embedUrl": "https://embed.st/embed/golf/23830/1",
+          "language": "English",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 1,
+      "poster": ""
+    },
+    {
+      "id": "23831",
+      "title": "New Orleans Pelicans - Indiana Pacers",
+      "sport": "basketball",
+      "competition": "basketball",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-19T01:00:00Z",
+      "streams": [
+        {
+          "source": "golf",
+          "embedUrl": "https://embed.st/embed/golf/23831/1",
+          "language": "English",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 1,
+      "poster": ""
+    },
+    {
+      "id": "23846",
+      "title": "Athletics - Washington Nationals",
+      "sport": "baseball",
+      "competition": "baseball",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-19T02:05:00Z",
+      "streams": [
+        {
+          "source": "golf",
+          "embedUrl": "https://embed.st/embed/golf/23846/1",
+          "language": "English",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 1,
+      "poster": ""
+    },
+    {
+      "id": "23847",
+      "title": "Los Angeles Angels - Detroit Tigers",
+      "sport": "baseball",
+      "competition": "baseball",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-19T02:07:00Z",
+      "streams": [
+        {
+          "source": "golf",
+          "embedUrl": "https://embed.st/embed/golf/23847/1",
+          "language": "English",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 1,
+      "poster": ""
+    },
+    {
+      "id": "23832",
+      "title": "Phoenix Suns - San Antonio Spurs",
+      "sport": "basketball",
+      "competition": "basketball",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-19T02:30:00Z",
+      "streams": [
+        {
+          "source": "golf",
+          "embedUrl": "https://embed.st/embed/golf/23832/1",
+          "language": "English",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 1,
       "poster": ""
     },
     {
