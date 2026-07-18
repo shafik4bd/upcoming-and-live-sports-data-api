@@ -1,152 +1,10 @@
 {
-  "lastUpdated": "2026-07-18T16:48:21Z",
-  "fetchDuration": "105.4s",
-  "totalMatches": 91,
-  "liveCount": 21,
-  "upcomingCount": 70,
+  "lastUpdated": "2026-07-18T17:51:50Z",
+  "fetchDuration": "103.0s",
+  "totalMatches": 94,
+  "liveCount": 18,
+  "upcomingCount": 76,
   "matches": [
-    {
-      "id": "live-event_indycar-2026-borchetta-bourbon-music-city-grand-prix-live-stream",
-      "title": "IndyCar 2026 - Borchetta Bourbon Music City Grand Prix",
-      "sport": "motor-sports",
-      "competition": "motor-sports",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-18T08:42:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
-    },
-    {
-      "id": "ppv-the-open-championship-round-3",
-      "title": "The Open Championship - Round 3",
-      "sport": "golf",
-      "competition": "golf",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-18T09:00:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-the-open-championship-round-3/1",
-          "language": "English - Sky Sport 4 NZ",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-the-open-championship-round-3/2",
-          "language": "English - Sky Sport 4 NZ",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEMERZSpECnHAIIAMYgyiVTWnwZWNbKXKRk8SBghDwKhbM2sKchFBhBxgtnphCwJLmUOhF1YnYRkHdx0wF0UZCCA.webp"
-    },
-    {
-      "id": "atp-wta-tour-nordea-swiss-umag-lasi-open-tn-1",
-      "title": "ATP / WTA Tour: Nordea / Swiss / Umag / Lasi Open 🎾",
-      "sport": "other",
-      "competition": "other",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-18T09:00:00Z",
-      "streams": [
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/atp-wta-tour-nordea-swiss-umag-lasi-open-tn-1/1",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/atp-wta-tour-nordea-swiss-umag-lasi-open-tn-1/2",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/atp-wta-tour-nordea-swiss-umag-lasi-open-tn-1/3",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 3,
-      "poster": ""
-    },
-    {
-      "id": "canterbury-bankstown-bulldogs-vs-wests-tigers-2417311",
-      "title": "Canterbury Bankstown Bulldogs vs Wests Tigers",
-      "sport": "rugby",
-      "competition": "rugby",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-18T09:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFJAhKzWCD4hu+jVpAlDIRIhwKmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
-    },
-    {
-      "id": "northants-steelbacks-vs-somerset-t20-2535222",
-      "title": "Northants Steelbacks vs Somerset t20",
-      "sport": "cricket",
-      "competition": "cricket",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-18T10:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWvFghRfENz0hdulNoMgQifRKZIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp"
-    },
     {
       "id": "uci-tour-de-france-uci-world-tour-game-13622",
       "title": "UCI Tour de France | UCI World Tour 🏁",
@@ -365,7 +223,7 @@
       "matchTimeUTC": "2026-07-18T15:00:00Z",
       "streams": [],
       "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IKiEQgQMYIgDGIFHJDDVIEhpnjs25ZulqswGomMSLkkFhARJJ5fzCCRTbPTCFgSXPOVDnVghXMmUCOXJnYGCyCCA.webp"
+      "poster": ""
     },
     {
       "id": "rot-wei--oberhausen-vs-borussia-dortmund-2477314",
@@ -566,6 +424,63 @@
       "poster": ""
     },
     {
+      "id": "ppv-bkfc-91-naples-hunt-vs-pugliesi",
+      "title": "BKFC 91: NAPLES HUNT vs. PUGLIESI",
+      "sport": "fight",
+      "competition": "fight",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-18T17:00:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-bkfc-91-naples-hunt-vs-pugliesi/1",
+          "language": "English - Fubo Sports Network",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-bkfc-91-naples-hunt-vs-pugliesi/2",
+          "language": "English - Fubo Sports Network",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IKuJEgYILCHkkQAYxCLhIRInkqIGkcEQy5EAxukhdKSbuHATtkinImBQ-QWz0whYElxKnITBuTntSeg94cmC7cIggA.webp"
+    },
+    {
+      "id": "cleveland-guardians-vs-pittsburgh-pirates-2388338",
+      "title": "Cleveland Guardians vs Pittsburgh Pirates",
+      "sport": "baseball",
+      "competition": "baseball",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-18T17:10:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGVJAxKIATm66QRmCEQnzICCBQFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
+    },
+    {
       "id": "admin-willow-cricket",
       "title": "Willow Cricket",
       "sport": "cricket",
@@ -706,6 +621,27 @@
       "streams": [],
       "streamCount": 0,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rVijApOABjB8Q3EAZIgpIFIZCIQIGLgLAkFPsNn1NK7WzBl4RLFltJlowXzFRCCA.webp"
+    },
+    {
+      "id": "northants-steelbacks-vs-somerset-t20-2535222",
+      "title": "Northants Steelbacks vs Somerset t20",
+      "sport": "cricket",
+      "competition": "cricket",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-18T10:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWvFghRfENz0hdulNoMgQifRKZIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp"
     },
     {
       "id": "chicago-cubs-vs-minnesota-twins-2388354",
@@ -1250,27 +1186,6 @@
       "streams": [],
       "streamCount": 0,
       "poster": ""
-    },
-    {
-      "id": "cleveland-guardians-vs-pittsburgh-pirates-2388338",
-      "title": "Cleveland Guardians vs Pittsburgh Pirates",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-18T23:10:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGVJAxKIATm66QRmCEQnzICCBQFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
     },
     {
       "id": "ppv-event-08-acw-indypendence-day-ppv-08",
@@ -2249,6 +2164,222 @@
       "streams": [],
       "streamCount": 0,
       "poster": ""
+    },
+    {
+      "id": "ppv-tottenham-hotspur-vs-mk-dons",
+      "title": "Tottenham Hotspur vs. MK Dons",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-22T15:00:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-tottenham-hotspur-vs-mk-dons/1",
+          "language": "English - SPURSPLAY",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-tottenham-hotspur-vs-mk-dons/2",
+          "language": "English - SPURSPLAY",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MJEIiogsIkBBABjYPGARgNcSgkhhIGHJ17ppaYflaQILfKVZjdkinJqBQkU2z0whYElwKnITBuTjVhUnoCZXJg1QiIIA.webp"
+    },
+    {
+      "id": "ppv-auckland-fc-vs-tottenham-hotspur",
+      "title": "Auckland FC vs. Tottenham Hotspur",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-26T03:30:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-auckland-fc-vs-tottenham-hotspur/1",
+          "language": "English - SPURSPLAY",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-auckland-fc-vs-tottenham-hotspur/2",
+          "language": "English - SPURSPLAY",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MiRDFLYQMEAGMQ8KYhQhhakKogiQuhRHkgDqpdu3CdKYDRW6r-MIJFNs9MIWBJccq0MetzKSsCYCUwR2BtMgggA.webp"
+    },
+    {
+      "id": "ppv-sydney-fc-vs-tottenham-hotspur",
+      "title": "Sydney FC vs. Tottenham Hotspur",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-29T09:45:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-sydney-fc-vs-tottenham-hotspur/1",
+          "language": "English - SPURSPLAY",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-sydney-fc-vs-tottenham-hotspur/2",
+          "language": "English - SPURSPLAY",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IKiBIhpw4BBARg8JSESysIkaoXAJ0xIkXKp8gMbSQKbfJhzLIGCnKKBQzQWz0whYElymnITBuTkVZMicPZTBguVI5IA.webp"
+    },
+    {
+      "id": "ppv-chelsea-vs-tottenham-hotspur",
+      "title": "Chelsea vs. Tottenham Hotspur",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-01T09:45:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-chelsea-vs-tottenham-hotspur/1",
+          "language": "English - SPURSPLAY",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-chelsea-vs-tottenham-hotspur/2",
+          "language": "English - SPURSPLAY",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFKRCIY4kBBBksckSBDBp6kDE0yaWYDXiaIByTJSqVw5VQn8wgkU2z0whYElwBjCUIesTYVJ6AnVyB2ATMgggA.webp"
+    },
+    {
+      "id": "ppv-tottenham-hotspur-vs-getafe",
+      "title": "Tottenham Hotspur vs. Getafe",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-08T14:00:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-tottenham-hotspur-vs-getafe/1",
+          "language": "English - SPURSPLAY",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-tottenham-hotspur-vs-getafe/2",
+          "language": "English - SPURSPLAY",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcRGAQQWEMOCIs2EDWlkqchXPEiQ02SGA1hIRPI0mYIFCADGI0lJTlJAoQ4LZ6YQsCS5bZyEwbk5JeTJnT3hyEKlHCCA.webp"
+    },
+    {
+      "id": "ppv-tottenham-hotspur-vs-tsg-hoffenheim",
+      "title": "Tottenham Hotspur vs. TSG Hoffenheim",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-15T14:00:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-tottenham-hotspur-vs-tsg-hoffenheim/1",
+          "language": "English - SPURSPLAY",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-tottenham-hotspur-vs-tsg-hoffenheim/2",
+          "language": "English - SPURSPLAY",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MVEBBAwQJEHOlYZwGrLKTEKECmCTFq5XJDxSWiWelzEIbCCrb+YQSKbZ6YQsCS4AxtqGPWCGcybQJgYzBHHVIdIA.webp"
     }
   ]
 }
