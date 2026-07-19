@@ -1,82 +1,10 @@
 {
-  "lastUpdated": "2026-07-19T16:49:31Z",
-  "fetchDuration": "73.9s",
-  "totalMatches": 75,
-  "liveCount": 14,
-  "upcomingCount": 61,
+  "lastUpdated": "2026-07-19T17:53:09Z",
+  "fetchDuration": "86.7s",
+  "totalMatches": 71,
+  "liveCount": 15,
+  "upcomingCount": 56,
   "matches": [
-    {
-      "id": "live-event_nascar-cup-series-2026-window-world-400-live-stream",
-      "title": "Nascar Cup Series 2026 - Window World 400",
-      "sport": "motor-sports",
-      "competition": "motor-sports",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-19T08:45:00Z",
-      "streams": [
-        {
-          "source": "delta",
-          "embedUrl": "https://embed.st/embed/delta/live-event_nascar-cup-series-2026-window-world-400-live-stream/1",
-          "language": "English",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 1,
-      "poster": ""
-    },
-    {
-      "id": "atp-wta-tour-nordea-swiss-umag-lasi-open-finals-tn-1",
-      "title": "ATP / WTA Tour: Nordea / Swiss / Umag / Lasi Open Finals 🎾",
-      "sport": "tennis",
-      "competition": "tennis",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-19T09:30:00Z",
-      "streams": [
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/atp-wta-tour-nordea-swiss-umag-lasi-open-finals-tn-1/1",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/atp-wta-tour-nordea-swiss-umag-lasi-open-finals-tn-1/2",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/atp-wta-tour-nordea-swiss-umag-lasi-open-finals-tn-1/3",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 3,
-      "poster": ""
-    },
     {
       "id": "england-cricket-vs-india-cricket-2524720",
       "title": "England Cricket vs India Cricket",
@@ -263,69 +191,6 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGfGr0wsENxB8QUkCRBmziHBFwFgSCn2Gz6KMCpRc35ellkemtDqi9MFAA.webp"
     },
     {
-      "id": "elfsborg-vs-sirius-2398848",
-      "title": "Elfsborg vs Sirius",
-      "sport": "football",
-      "competition": "football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-19T14:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VWlmbAZ3ELt1SQfECRCGQIRBdMSmSCn2Gz6KMCpRc35eptEemtGBuYqIQQA.webp"
-    },
-    {
-      "id": "hammarby-vs-degerfors-2398851",
-      "title": "Hammarby vs Degerfors",
-      "sport": "football",
-      "competition": "football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-19T14:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLGBRgkYPmCkhD3EAb4gSJwyERmjBYDpj9hs+lpUouYMvCJZZnky0YN5iohBAA.webp"
-    },
-    {
-      "id": "halmstad-vs-h-cken-2477925",
-      "title": "Halmstad vs Häcken",
-      "sport": "football",
-      "competition": "football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-19T14:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJGFEpcIOCRDcQUkHxD7jIEIkswzBYBpj9hs+ik1sUXTeXpZZXky0YB70ohBAA.webp"
-    },
-    {
       "id": "toronto-blue-jays-vs-chicago-white-sox-2388359",
       "title": "Toronto Blue Jays vs Chicago White Sox",
       "sport": "baseball",
@@ -366,6 +231,132 @@
       "streams": [],
       "streamCount": 0,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rXvSQUADGCkhuIPiBMwQiM5ZAkQKAsC0x+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp"
+    },
+    {
+      "id": "dallas-wings-vs-los-angeles-sparks-2449119",
+      "title": "Dallas Wings vs Los Angeles Sparks",
+      "sport": "basketball",
+      "competition": "basketball",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-19T17:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFGCRgUwJMCkgD3QyBIhjKEJZAgIIRHwK6Kj1iLEaVOtmDLwiWLI6TLRgvmKiEEA.webp"
+    },
+    {
+      "id": "dallas-wings-w-vs-los-angeles-sparks-w-basketball-494964",
+      "title": "Dallas Wings W vs Los Angeles Sparks W",
+      "sport": "basketball",
+      "competition": "basketball",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-19T17:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "ppv-event-01-usac-rich-vogler-classic-winchester-ppv-01",
+      "title": "USAC Rich Vogler Classic Winchester  💥",
+      "sport": "other",
+      "competition": "other",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-19T17:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "philadelphia-phillies-vs-new-york-mets-2388361",
+      "title": "Philadelphia Phillies vs New York Mets",
+      "sport": "baseball",
+      "competition": "baseball",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-19T17:35:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VeqFpMQlENxB8QRmCEQnzBvQWBIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp"
+    },
+    {
+      "id": "boston-red-sox-vs-tampa-bay-rays-2388370",
+      "title": "Boston Red Sox vs Tampa Bay Rays",
+      "sport": "baseball",
+      "competition": "baseball",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-19T17:35:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECh4gYdEBFwhuIPiFMwQic1eMaCwJBT7DZ9FGBWa278vSyzNTLRg7mKiEEA.webp"
+    },
+    {
+      "id": "atlanta-braves-vs-texas-rangers-2388371",
+      "title": "Atlanta Braves vs Texas Rangers",
+      "sport": "baseball",
+      "competition": "baseball",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-19T17:35:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbtn7ESIbrpB8QRmCEQnzRkDALAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp"
     },
     {
       "id": "admin-willow-cricket",
@@ -510,10 +501,10 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rVijApOABjB8Q3EAZIgpIFIZCIQIGLgLAkFPsNn1NK7WzBl4RLFltJlowXzFRCCA.webp"
     },
     {
-      "id": "dallas-wings-w-vs-los-angeles-sparks-w-basketball-494964",
-      "title": "Dallas Wings W vs Los Angeles Sparks W",
-      "sport": "basketball",
-      "competition": "basketball",
+      "id": "atp-wta-tour-nordea-swiss-umag-lasi-open-finals-tn-1",
+      "title": "ATP / WTA Tour: Nordea / Swiss / Umag / Lasi Open Finals 🎾",
+      "sport": "tennis",
+      "competition": "tennis",
       "status": "UPCOMING",
       "teams": {
         "home": {
@@ -525,115 +516,32 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-07-19T17:00:00Z",
-      "streams": [],
-      "streamCount": 0,
+      "matchTimeUTC": "2026-07-19T09:30:00Z",
+      "streams": [
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/atp-wta-tour-nordea-swiss-umag-lasi-open-finals-tn-1/1",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/atp-wta-tour-nordea-swiss-umag-lasi-open-finals-tn-1/2",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/atp-wta-tour-nordea-swiss-umag-lasi-open-finals-tn-1/3",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 3,
       "poster": ""
-    },
-    {
-      "id": "dallas-wings-vs-los-angeles-sparks-2449119",
-      "title": "Dallas Wings vs Los Angeles Sparks",
-      "sport": "basketball",
-      "competition": "basketball",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-19T17:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFGCRgUwJMCkgD3QyBIhjKEJZAgIIRHwK6Kj1iLEaVOtmDLwiWLI6TLRgvmKiEEA.webp"
-    },
-    {
-      "id": "ppv-event-01-usac-rich-vogler-classic-winchester-ppv-01",
-      "title": "USAC Rich Vogler Classic Winchester  💥",
-      "sport": "other",
-      "competition": "other",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-19T17:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
-    },
-    {
-      "id": "atlanta-braves-vs-texas-rangers-2388371",
-      "title": "Atlanta Braves vs Texas Rangers",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-19T17:35:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbtn7ESIbrpB8QRmCEQnzRkDALAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp"
-    },
-    {
-      "id": "boston-red-sox-vs-tampa-bay-rays-2388370",
-      "title": "Boston Red Sox vs Tampa Bay Rays",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-19T17:35:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECh4gYdEBFwhuIPiFMwQic1eMaCwJBT7DZ9FGBWa278vSyzNTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "philadelphia-phillies-vs-new-york-mets-2388361",
-      "title": "Philadelphia Phillies vs New York Mets",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-19T17:35:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VeqFpMQlENxB8QRmCEQnzBvQWBIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp"
     },
     {
       "id": "cleveland-guardians-vs-pittsburgh-pirates-2388368",
