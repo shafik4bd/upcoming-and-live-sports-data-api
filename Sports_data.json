@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-07-21T21:59:35Z",
-  "fetchDuration": "104.2s",
+  "lastUpdated": "2026-07-21T22:57:26Z",
+  "fetchDuration": "80.0s",
   "totalMatches": 108,
-  "liveCount": 3,
-  "upcomingCount": 105,
+  "liveCount": 7,
+  "upcomingCount": 101,
   "matches": [
     {
       "id": "mi-london-vs-sunrisers-leeds-2466485",
@@ -89,6 +89,90 @@
       ],
       "streamCount": 3,
       "poster": ""
+    },
+    {
+      "id": "nacional-montevideo-vs-tigre-2478488",
+      "title": "Nacional Montevideo vs Tigre",
+      "sport": "football",
+      "competition": "football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-21T22:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "atletico-mg-vs-bahia-football-1492290",
+      "title": "Atletico-MG vs Bahia",
+      "sport": "football",
+      "competition": "football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-21T22:30:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "philadelphia-phillies-vs-los-angeles-dodgers-2388393",
+      "title": "Philadelphia Phillies vs Los Angeles Dodgers",
+      "sport": "baseball",
+      "competition": "baseball",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-21T22:40:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFFoQQKWWBDcQfECZghEZs4csFgSCn2Gz6KMCt1s35ellm6mtGBuYqIQQA.webp"
+    },
+    {
+      "id": "cleveland-guardians-vs-minnesota-twins-2388399",
+      "title": "Cleveland Guardians vs Minnesota Twins",
+      "sport": "baseball",
+      "competition": "baseball",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-21T22:40:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8reAlIg+YGaG7aQRmCEQmTBk1ILAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp"
     },
     {
       "id": "admin-willow-cricket",
@@ -253,90 +337,6 @@
       ],
       "streamCount": 3,
       "poster": ""
-    },
-    {
-      "id": "nacional-montevideo-vs-tigre-2478488",
-      "title": "Nacional Montevideo vs Tigre",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-21T22:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
-    },
-    {
-      "id": "atletico-mg-vs-bahia-football-1492290",
-      "title": "Atletico-MG vs Bahia",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-21T22:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
-    },
-    {
-      "id": "cleveland-guardians-vs-minnesota-twins-2388399",
-      "title": "Cleveland Guardians vs Minnesota Twins",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-21T22:40:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8reAlIg+YGaG7aQRmCEQmTBk1ILAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp"
-    },
-    {
-      "id": "philadelphia-phillies-vs-los-angeles-dodgers-2388393",
-      "title": "Philadelphia Phillies vs Los Angeles Dodgers",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-21T22:40:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFFoQQKWWBDcQfECZghEZs4csFgSCn2Gz6KMCt1s35ellm6mtGBuYqIQQA.webp"
     },
     {
       "id": "ppv-pittsburgh-pirates-vs-new-york-yankees",
@@ -1607,42 +1607,6 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IYSBggUICLJEgAxguEjgciMEQSQ40nsQlZkycBqIYauVhNZ1KcpoFC1BbPTCFgSXIodCwbk5NVTIHN3hyQPVSdSA.webp"
     },
     {
-      "id": "ppv-houston-dynamo-fc-vs-d-c-united",
-      "title": "Houston Dynamo FC vs. D.C. United",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-23T00:30:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-houston-dynamo-fc-vs-d-c-united/1",
-          "language": "English - Apple TV",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-houston-dynamo-fc-vs-d-c-united/2",
-          "language": "English - Apple TV",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52IEiBTjpMEcAghhIeNhCysIEMCogs8tWpEgIR2QpU7hwRDsRkqKciYFC5BbPTCFgSXAGNHITBuThMrMkd3FTBg+VJ5IA.webp"
-    },
-    {
       "id": "ppv-austin-fc-vs-seattle-sounders-fc",
       "title": "Austin FC vs. Seattle Sounders FC",
       "sport": "football",
@@ -1677,6 +1641,42 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEiADGwGvGAQQwkCGCIqIGKSkgFyrNh3al6xBIXT9C4fJBys41SnIRQYQSKbZ6YQsCS5JJyE3VhdrMicCVXI3eVJ5IA.webp"
+    },
+    {
+      "id": "ppv-houston-dynamo-fc-vs-d-c-united",
+      "title": "Houston Dynamo FC vs. D.C. United",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-23T00:30:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-houston-dynamo-fc-vs-d-c-united/1",
+          "language": "English - Apple TV",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-houston-dynamo-fc-vs-d-c-united/2",
+          "language": "English - Apple TV",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52IEiBTjpMEcAghhIeNhCysIEMCogs8tWpEgIR2QpU7hwRDsRkqKciYFC5BbPTCFgSXAGNHITBuThMrMkd3FTBg+VJ5IA.webp"
     },
     {
       "id": "ppv-colorado-rapids-vs-san-diego-fc",
@@ -2714,6 +2714,42 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IYeJAQQAYxAwQKEFmDSJIEFRBkaKxDGCIl8Q1OBaSZiVqOrlI7SnIRQYQSKbZ6YQsCS4ZJyE3VhdhUnoCQ3I3VQiIIA.webp"
     },
     {
+      "id": "ppv-lafc-vs-sporting-kansas-city",
+      "title": "LAFC vs. Sporting Kansas City",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-26T02:30:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-lafc-vs-sporting-kansas-city/1",
+          "language": "English - Apple TV",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-lafc-vs-sporting-kansas-city/2",
+          "language": "English - Apple TV",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILMEQoRIkFRAxsIYQpARSwCCBILSunSDVLDhlYvkWQKOSfzl1AoTILZ6YQsCS4AxtKFhuTnVhDWkXeHIAzQ0IIA.webp"
+    },
+    {
       "id": "ppv-san-jose-earthquakes-vs-la-galaxy",
       "title": "San Jose Earthquakes vs. LA Galaxy",
       "sport": "football",
@@ -2784,42 +2820,6 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IYdhAwRIRFmDwFIEiBSyQWdWRUBjGfIgaFkmoZ0bVlkNZu9yEUGEEim2emELAkuHSiHluTgcJMj8CYzAnYAcyCCA.webp"
-    },
-    {
-      "id": "ppv-lafc-vs-sporting-kansas-city",
-      "title": "LAFC vs. Sporting Kansas City",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-26T02:30:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-lafc-vs-sporting-kansas-city/1",
-          "language": "English - Apple TV",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-lafc-vs-sporting-kansas-city/2",
-          "language": "English - Apple TV",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILMEQoRIkFRAxsIYQpARSwCCBILSunSDVLDhlYvkWQKOSfzl1AoTILZ6YQsCS4AxtKFhuTnVhDWkXeHIAzQ0IIA.webp"
     },
     {
       "id": "ppv-auckland-fc-vs-tottenham-hotspur",
