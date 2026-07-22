@@ -1,94 +1,10 @@
 {
-  "lastUpdated": "2026-07-22T05:14:22Z",
-  "fetchDuration": "85.9s",
-  "totalMatches": 110,
-  "liveCount": 5,
+  "lastUpdated": "2026-07-22T08:13:25Z",
+  "fetchDuration": "101.8s",
+  "totalMatches": 106,
+  "liveCount": 1,
   "upcomingCount": 105,
   "matches": [
-    {
-      "id": "colorado-rockies-vs-washington-nationals-2388398",
-      "title": "Colorado Rockies vs Washington Nationals",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-22T00:40:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJCClEwYJMA3cQfECZghEZs4bMkC+in2Gz6KMCpRc35ellkemtDqi9MFAA.webp"
-    },
-    {
-      "id": "los-angeles-angels-vs-st--louis-cardinals-2388389",
-      "title": "Los Angeles Angels vs St. Louis Cardinals",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-22T01:38:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VeGBAgpYFGCkhE3EHy0gYh81YsptBYEgp9hs+npUouYMhvpZZnky0YN5iohBAA.webp"
-    },
-    {
-      "id": "seattle-mariners-vs-cincinnati-reds-2388392",
-      "title": "Seattle Mariners vs Cincinnati Reds",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-22T01:40:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VROFoDuYbiD18QRmCEQnzIFJYLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp"
-    },
-    {
-      "id": "arizona-diamondbacks-vs-athletics-2388403",
-      "title": "Arizona Diamondbacks vs Athletics",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-22T01:40:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFSHAowKUCG4g+mkDBCJTpg6ZQFgSCn2Gz62lbrZgy8Illm6mtGCeYqIQQA.webp"
-    },
     {
       "id": "toluca-vs-pumas-unam-2487462",
       "title": "Toluca vs Pumas UNAM",
@@ -312,8 +228,23 @@
         }
       },
       "matchTimeUTC": "2026-07-22T11:20:00Z",
-      "streams": [],
-      "streamCount": 0,
+      "streams": [
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/uci-tour-de-france-uci-world-tour-game-13622/1",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/uci-tour-de-france-uci-world-tour-game-13622/2",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 2,
       "poster": ""
     },
     {
@@ -2155,42 +2086,6 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IYSADGUmSRlZspYFRCqsqkCpDZNIRClLjgERRD0h1c+CN1mSB-mEEimih4WBJckg0KesTYSUDAmBrMCdjJQggA.webp"
     },
     {
-      "id": "ppv-orlando-city-sc-vs-nashville-sc",
-      "title": "Orlando City SC vs. Nashville SC",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-25T23:30:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-orlando-city-sc-vs-nashville-sc/1",
-          "language": "English - Apple TV",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-orlando-city-sc-vs-nashville-sc/2",
-          "language": "English - Apple TV",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGiRAQQMgMYhhU4NLIRgieYjJYpulCERqswGoZAwRIfWWGl12FOTUChIptnphCwJLlmOhMG5ONVsyRwJ7MCDlOwggA.webp"
-    },
-    {
       "id": "ppv-cf-montr-al-vs-inter-miami-cf",
       "title": "CF Montréal vs. Inter Miami CF",
       "sport": "football",
@@ -2371,6 +2266,42 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGhOCJpwKiBggAxiBXCQKcZuUaFqkFlnz1INTBGa1ETSRC9yEUGEEim2emELAkuRSiHluTgdhUnoCKXInYAcyCCA.webp"
     },
     {
+      "id": "ppv-orlando-city-sc-vs-nashville-sc",
+      "title": "Orlando City SC vs. Nashville SC",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-25T23:30:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-orlando-city-sc-vs-nashville-sc/1",
+          "language": "English - Apple TV",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-orlando-city-sc-vs-nashville-sc/2",
+          "language": "English - Apple TV",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGiRAQQMgMYhhU4NLIRgieYjJYpulCERqswGoZAwRIfWWGl12FOTUChIptnphCwJLlmOhMG5ONVsyRwJ7MCDlOwggA.webp"
+    },
+    {
       "id": "ppv-st-louis-city-sc-vs-colorado-rapids",
       "title": "St. Louis CITY SC vs. Colorado Rapids",
       "sport": "football",
@@ -2515,6 +2446,42 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IYeJAQQAYxAwQKEFmDSJIEFRBkaKxDGCIl8Q1OBaSZiVqOrlI7SnIRQYQSKbZ6YQsCS4ZJyE3VhdhUnoCQ3I3VQiIIA.webp"
     },
     {
+      "id": "ppv-san-jose-earthquakes-vs-la-galaxy",
+      "title": "San Jose Earthquakes vs. LA Galaxy",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-26T02:30:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-san-jose-earthquakes-vs-la-galaxy/1",
+          "language": "English - Apple TV",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-san-jose-earthquakes-vs-la-galaxy/2",
+          "language": "English - Apple TV",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEUthBSAxiGnBEUqiHGJVkkiGUwFE8eLLC5IFCBgmRug2ZTlxAoZYLZ6YQsCS5ptoWG6dxYQlbZ3hyP2ADSKA.webp"
+    },
+    {
       "id": "ppv-lafc-vs-sporting-kansas-city",
       "title": "LAFC vs. Sporting Kansas City",
       "sport": "football",
@@ -2585,42 +2552,6 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IYdhAwRIRFmDwFIEiBSyQWdWRUBjGfIgaFkmoZ0bVlkNZu9yEUGEEim2emELAkuHSiHluTgcJMj8CYzAnYAcyCCA.webp"
-    },
-    {
-      "id": "ppv-san-jose-earthquakes-vs-la-galaxy",
-      "title": "San Jose Earthquakes vs. LA Galaxy",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-26T02:30:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-san-jose-earthquakes-vs-la-galaxy/1",
-          "language": "English - Apple TV",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-san-jose-earthquakes-vs-la-galaxy/2",
-          "language": "English - Apple TV",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEUthBSAxiGnBEUqiHGJVkkiGUwFE8eLLC5IFCBgmRug2ZTlxAoZYLZ6YQsCS5ptoWG6dxYQlbZ3hyP2ADSKA.webp"
     },
     {
       "id": "ppv-auckland-fc-vs-tottenham-hotspur",
