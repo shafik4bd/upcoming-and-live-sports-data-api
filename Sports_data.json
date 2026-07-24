@@ -1,110 +1,10 @@
 {
-  "lastUpdated": "2026-07-24T02:56:14Z",
-  "fetchDuration": "76.6s",
-  "totalMatches": 117,
-  "liveCount": 8,
-  "upcomingCount": 109,
+  "lastUpdated": "2026-07-24T05:43:24Z",
+  "fetchDuration": "72.2s",
+  "totalMatches": 113,
+  "liveCount": 3,
+  "upcomingCount": 110,
   "matches": [
-    {
-      "id": "hull-fc-vs-hull-kr-game-184842",
-      "title": "Hull FC vs Hull K R",
-      "sport": "rugby",
-      "competition": "rugby",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-23T19:00:00Z",
-      "streams": [
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/hull-fc-vs-hull-kr-game-184842/1",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/hull-fc-vs-hull-kr-game-184842/2",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/hull-fc-vs-hull-kr-game-184842/3",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 3,
-      "poster": ""
-    },
-    {
-      "id": "detroit-tigers-vs-kansas-city-royals-2388422",
-      "title": "Detroit Tigers vs Kansas City Royals",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-23T22:40:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHCQgU-dmC3cQfECZghEZs4Zx8CwJBVusRYlGBU6278vSyydTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "ppv-event-04-usac-indiana-sprint-week-ims-ppv-004",
-      "title": "USAC Indiana Sprint Week IMS",
-      "sport": "other",
-      "competition": "other",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-23T23:15:00Z",
-      "streams": [
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/ppv-event-04-usac-indiana-sprint-week-ims-ppv-004/1",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/ppv-event-04-usac-indiana-sprint-week-ims-ppv-004/2",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": ""
-    },
     {
       "id": "live-event_iwr-insane-rumble-2026-live-stream",
       "title": "IWR Insane Rumble 2026",
@@ -169,63 +69,6 @@
       ],
       "streamCount": 2,
       "poster": ""
-    },
-    {
-      "id": "saskatchewan-roughriders-vs-edmonton-elks-2432560",
-      "title": "Saskatchewan Roughriders vs Edmonton Elks",
-      "sport": "american-football",
-      "competition": "american-football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-24T01:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLGBlsUpEFJDc9IEiAi4QfEIhBG+BYEgp3WIsSjAqdbD+XpZZOky0YB5iohBAA.webp"
-    },
-    {
-      "id": "ppv-tna-impact",
-      "title": "TNA: Impact",
-      "sport": "fight",
-      "competition": "fight",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-24T01:00:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-tna-impact/1",
-          "language": "English - AMC",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-tna-impact/2",
-          "language": "English - AMC",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMYgQwKiBJSQWUqRCyschSmwTVM3cODxgEZcJAwQKOXqtlE60eRMChIptnphCwJLnFahMG5OEwMyLQJDciDjZQggA.webp"
     },
     {
       "id": "ppv-event-07-jackson-motorplex-sprints-ppv-07",
@@ -368,6 +211,49 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBEBDXsQZgdgwwRgBOYAU0hDpqxQFZh5Tg0wmJgATMNTTAWkVqNri0LIinbQ61OvHS5CISiCggGIRPzWq0hNTTV5s2AMb6NNFif4h+VFxux5bFLXnk3aASx2PV0+LRRNR0hAtjYUBHZQYkk2JjBHEFsaOxytGFZYSWt5YFIVGOVgeTYOMl5AiCA.webp"
+    },
+    {
+      "id": "hull-fc-vs-hull-kr-game-184842",
+      "title": "Hull FC vs Hull K R",
+      "sport": "rugby",
+      "competition": "rugby",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-23T19:00:00Z",
+      "streams": [
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/hull-fc-vs-hull-kr-game-184842/1",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/hull-fc-vs-hull-kr-game-184842/2",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/hull-fc-vs-hull-kr-game-184842/3",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 3,
+      "poster": ""
     },
     {
       "id": "newcastle-knights-vs-sydney-roosters-2417316",
@@ -981,8 +867,8 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXFyZk+uENxA6QIGCEQmT+xFILAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp"
     },
     {
-      "id": "platense-vs-union-santa-fe-football-1493012",
-      "title": "Platense vs Union Santa Fe",
+      "id": "huracan-vs-banfield-football-1493009",
+      "title": "Huracan vs Banfield",
       "sport": "football",
       "competition": "football",
       "status": "UPCOMING",
@@ -1002,8 +888,8 @@
       "poster": ""
     },
     {
-      "id": "huracan-vs-banfield-football-1493009",
-      "title": "Huracan vs Banfield",
+      "id": "platense-vs-union-santa-fe-football-1493012",
+      "title": "Platense vs Union Santa Fe",
       "sport": "football",
       "competition": "football",
       "status": "UPCOMING",
@@ -2151,42 +2037,6 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMjhRswWtCG4g+IKSBTGQFxBEMWCwJBT7DZ9FGBVbtZeESyytTLRg7mKiEEA.webp"
     },
     {
-      "id": "ppv-st-louis-city-sc-vs-colorado-rapids",
-      "title": "St. Louis CITY SC vs. Colorado Rapids",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-26T00:30:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-st-louis-city-sc-vs-colorado-rapids/1",
-          "language": "English - Apple TV",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-st-louis-city-sc-vs-colorado-rapids/2",
-          "language": "English - Apple TV",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MZRCBBUQWGaREgYkkfJIhhweKXUgUkkBGARdmo0ZnKy4naPKGBQlQWz0whYElwBjFI7DdOQw0yX2ctMH8zMgggA.webp"
-    },
-    {
       "id": "ppv-houston-dynamo-fc-vs-austin-fc",
       "title": "Houston Dynamo FC vs. Austin FC",
       "sport": "football",
@@ -2259,6 +2109,42 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MVECRDCRIcVhDyswRPFIgAxiBhrtiRQuA0ICkyhPTJEbCeOjyVgUJFNs9MIWBJc6lE7DdOKwt6AmVyf2ArMgggA.webp"
     },
     {
+      "id": "ppv-st-louis-city-sc-vs-colorado-rapids",
+      "title": "St. Louis CITY SC vs. Colorado Rapids",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-26T00:30:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-st-louis-city-sc-vs-colorado-rapids/1",
+          "language": "English - Apple TV",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-st-louis-city-sc-vs-colorado-rapids/2",
+          "language": "English - Apple TV",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MZRCBBUQWGaREgYkkfJIhhweKXUgUkkBGARdmo0ZnKy4naPKGBQlQWz0whYElwBjFI7DdOQw0yX2ctMH8zMgggA.webp"
+    },
+    {
       "id": "ppv-san-diego-fc-vs-fc-dallas",
       "title": "San Diego FC vs. FC Dallas",
       "sport": "football",
@@ -2295,8 +2181,8 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IYeJAQQAYxAwQKEFmDSJIEFRBkaKxDGCIl8Q1OBaSZiVqOrlI7SnIRQYQSKbZ6YQsCS4ZJyE3VhdhUnoCQ3I3VQiIIA.webp"
     },
     {
-      "id": "ppv-san-jose-earthquakes-vs-la-galaxy",
-      "title": "San Jose Earthquakes vs. LA Galaxy",
+      "id": "ppv-lafc-vs-sporting-kansas-city",
+      "title": "LAFC vs. Sporting Kansas City",
       "sport": "football",
       "competition": "football",
       "status": "UPCOMING",
@@ -2314,21 +2200,21 @@
       "streams": [
         {
           "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-san-jose-earthquakes-vs-la-galaxy/1",
+          "embedUrl": "https://embed.st/embed/admin/ppv-lafc-vs-sporting-kansas-city/1",
           "language": "English - Apple TV",
           "hd": true,
           "quality": "HD"
         },
         {
           "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-san-jose-earthquakes-vs-la-galaxy/2",
+          "embedUrl": "https://embed.st/embed/admin/ppv-lafc-vs-sporting-kansas-city/2",
           "language": "English - Apple TV",
           "hd": false,
           "quality": "SD"
         }
       ],
       "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEUthBSAxiGnBEUqiHGJVkkiGUwFE8eLLC5IFCBgmRug2ZTlxAoZYLZ6YQsCS5ptoWG6dxYQlbZ3hyP2ADSKA.webp"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILMEQoRIkFRAxsIYQpARSwCCBILSunSDVLDhlYvkWQKOSfzl1AoTILZ6YQsCS4AxtKFhuTnVhDWkXeHIAzQ0IIA.webp"
     },
     {
       "id": "ppv-portland-timbers-vs-real-salt-lake",
@@ -2367,8 +2253,8 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IYdhAwRIRFmDwFIEiBSyQWdWRUBjGfIgaFkmoZ0bVlkNZu9yEUGEEim2emELAkuHSiHluTgcJMj8CYzAnYAcyCCA.webp"
     },
     {
-      "id": "ppv-lafc-vs-sporting-kansas-city",
-      "title": "LAFC vs. Sporting Kansas City",
+      "id": "ppv-san-jose-earthquakes-vs-la-galaxy",
+      "title": "San Jose Earthquakes vs. LA Galaxy",
       "sport": "football",
       "competition": "football",
       "status": "UPCOMING",
@@ -2386,21 +2272,21 @@
       "streams": [
         {
           "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-lafc-vs-sporting-kansas-city/1",
+          "embedUrl": "https://embed.st/embed/admin/ppv-san-jose-earthquakes-vs-la-galaxy/1",
           "language": "English - Apple TV",
           "hd": true,
           "quality": "HD"
         },
         {
           "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-lafc-vs-sporting-kansas-city/2",
+          "embedUrl": "https://embed.st/embed/admin/ppv-san-jose-earthquakes-vs-la-galaxy/2",
           "language": "English - Apple TV",
           "hd": false,
           "quality": "SD"
         }
       ],
       "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILMEQoRIkFRAxsIYQpARSwCCBILSunSDVLDhlYvkWQKOSfzl1AoTILZ6YQsCS4AxtKFhuTnVhDWkXeHIAzQ0IIA.webp"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEUthBSAxiGnBEUqiHGJVkkiGUwFE8eLLC5IFCBgmRug2ZTlxAoZYLZ6YQsCS5ptoWG6dxYQlbZ3hyP2ADSKA.webp"
     },
     {
       "id": "ppv-tigres-uanl-vs-atl-tico-de-san-luis",
