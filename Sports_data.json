@@ -1,60 +1,10 @@
 {
-  "lastUpdated": "2026-07-24T14:48:51Z",
-  "fetchDuration": "111.8s",
-  "totalMatches": 129,
-  "liveCount": 12,
-  "upcomingCount": 117,
+  "lastUpdated": "2026-07-24T16:37:29Z",
+  "fetchDuration": "111.6s",
+  "totalMatches": 127,
+  "liveCount": 14,
+  "upcomingCount": 113,
   "matches": [
-    {
-      "id": "newcastle-knights-vs-sydney-roosters-2417316",
-      "title": "Newcastle Knights vs Sydney Roosters",
-      "sport": "rugby",
-      "competition": "rugby",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-24T08:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFNhgkzdmG4gDfDSFMlDIRIimWCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "live-event_tyson-fury-vs-mariusz-wach-live-stream",
-      "title": "Tyson Fury vs Mariusz Wach",
-      "sport": "fight",
-      "competition": "fight",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-24T08:00:00Z",
-      "streams": [
-        {
-          "source": "delta",
-          "embedUrl": "https://embed.st/embed/delta/live-event_tyson-fury-vs-mariusz-wach-live-stream/1",
-          "language": "English",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 1,
-      "poster": ""
-    },
     {
       "id": "live-event_formula-1-2026-hungary-gp-live-stream",
       "title": "Formula 1 2026 - Hungary GP",
@@ -212,27 +162,6 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rcNxAkQ3MGT46QU3Ic3aIIFCGt8CwJBVusRYlHrYoue8vSyzPTLRg7vSiEEA.webp"
     },
     {
-      "id": "hungarian-grand-prix-practice-1-2408172",
-      "title": "Hungarian Grand Prix Practice 1",
-      "sport": "motor-sports",
-      "competition": "motor-sports",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-24T11:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEJzBgUoEChDcQfIyAh7cIGCEQlcBYEgp9hs+ijAqdbD+XpZZOky0WqL0oUA.webp"
-    },
-    {
       "id": "uci-tour-de-france-uci-world-tour-game-13622",
       "title": "UCI Tour de France | UCI World Tour 🏁",
       "sport": "other",
@@ -312,6 +241,27 @@
       "poster": ""
     },
     {
+      "id": "bournemouth-vs-st-pauli-2521611",
+      "title": "Bournemouth vs St Pauli",
+      "sport": "football",
+      "competition": "football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-24T14:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
       "id": "live-event_nascar-truck-series-2026-nascar-craftsman-truck-series-race-at-irp-live-stream",
       "title": "Nascar Truck Series 2026 - NASCAR Craftsman Truck Series Race at IRP",
       "sport": "motor-sports",
@@ -333,6 +283,98 @@
           "source": "delta",
           "embedUrl": "https://embed.st/embed/delta/live-event_nascar-truck-series-2026-nascar-craftsman-truck-series-race-at-irp-live-stream/1",
           "language": "English",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 1,
+      "poster": ""
+    },
+    {
+      "id": "hungarian-grand-prix-practice-1-2408172",
+      "title": "Hungarian Grand Prix Practice 1",
+      "sport": "motor-sports",
+      "competition": "motor-sports",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-24T15:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEJzBgUoEChDcQfIyAh7cIGCEQlcBYEgp9hs+ijAqdbD+XpZZOky0WqL0oUA.webp"
+    },
+    {
+      "id": "rosenborg-vs-manchester-united-2467928",
+      "title": "Rosenborg vs Manchester United",
+      "sport": "football",
+      "competition": "football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-24T16:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MZGiRCSQICNikgUwKiCzZ1WEDTUT5AY2XyYIRHLJq5EVSD2ql-MIJFN19wsCS49SoY9ZzhUnoCYHhyR2AzSKA.webp"
+    },
+    {
+      "id": "radomiak-radom-vs-wieczysta-krak-w-2490196",
+      "title": "Radomiak Radom vs Wieczysta Kraków",
+      "sport": "football",
+      "competition": "football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-24T16:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKvQ5J5OtCF4gsIYwekgUIGOeMhm+YEgpYRcxijCqUPD+UbU5Xvb0YB7iYhBAA.webp"
+    },
+    {
+      "id": "ppv-event-02-mecum-auctions-harrisburg-ppv-02",
+      "title": "Mecum Auctions Harrisburg 🔥",
+      "sport": "other",
+      "competition": "other",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-24T16:00:00Z",
+      "streams": [
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/ppv-event-02-mecum-auctions-harrisburg-ppv-02/1",
+          "language": "",
           "hd": true,
           "quality": "HD"
         }
@@ -462,98 +504,6 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBEBDXsQZgdgwwRgBOYAU0hDpqxQFZh5Tg0wmJgATMNTTAWkVqNri0LIinbQ61OvHS5CISiCggGIRPzWq0hNTTV5s2AMb6NNFif4h+VFxux5bFLXnk3aASx2PV0+LRRNR0hAtjYUBHZQYkk2JjBHEFsaOxytGFZYSWt5YFIVGOVgeTYOMl5AiCA.webp"
     },
     {
-      "id": "bournemouth-vs-st-pauli-2521611",
-      "title": "Bournemouth vs St Pauli",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-24T14:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
-    },
-    {
-      "id": "radomiak-radom-vs-wieczysta-krak-w-2490196",
-      "title": "Radomiak Radom vs Wieczysta Kraków",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-24T16:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKvQ5J5OtCF4gsIYwekgUIGOeMhm+YEgpYRcxijCqUPD+UbU5Xvb0YB7iYhBAA.webp"
-    },
-    {
-      "id": "rosenborg-vs-manchester-united-2467928",
-      "title": "Rosenborg vs Manchester United",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-24T16:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MZGiRCSQICNikgUwKiCzZ1WEDTUT5AY2XyYIRHLJq5EVSD2ql-MIJFN19wsCS49SoY9ZzhUnoCYHhyR2AzSKA.webp"
-    },
-    {
-      "id": "ppv-event-02-mecum-auctions-harrisburg-ppv-02",
-      "title": "Mecum Auctions Harrisburg 🔥",
-      "sport": "other",
-      "competition": "other",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-24T16:00:00Z",
-      "streams": [
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/ppv-event-02-mecum-auctions-harrisburg-ppv-02/1",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 1,
-      "poster": ""
-    },
-    {
       "id": "viborg-vs-odense-bk-2481792",
       "title": "Viborg vs Odense BK",
       "sport": "football",
@@ -634,8 +584,30 @@
         }
       },
       "matchTimeUTC": "2026-07-24T18:30:00Z",
-      "streams": [],
-      "streamCount": 0,
+      "streams": [
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/pogon-szczecin-vs-legia-warszawa-football-1553104/1",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/pogon-szczecin-vs-legia-warszawa-football-1553104/2",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/pogon-szczecin-vs-legia-warszawa-football-1553104/3",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 3,
       "poster": ""
     },
     {
@@ -676,8 +648,16 @@
         }
       },
       "matchTimeUTC": "2026-07-24T19:45:00Z",
-      "streams": [],
-      "streamCount": 0,
+      "streams": [
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/gimnasia-m-vs-central-cordoba-de-santiago-football-1493008/1",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 1,
       "poster": ""
     },
     {
@@ -2250,42 +2230,6 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMjhRswWtCG4g+IKSBTGQFxBEMWCwJBT7DZ9FGBVbtZeESyytTLRg7mKiEEA.webp"
     },
     {
-      "id": "ppv-minnesota-united-fc-vs-vancouver-whitecaps",
-      "title": "Minnesota United FC vs. Vancouver Whitecaps",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-26T00:30:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-minnesota-united-fc-vs-vancouver-whitecaps/1",
-          "language": "English - Apple TV",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-minnesota-united-fc-vs-vancouver-whitecaps/2",
-          "language": "English - Apple TV",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MVECRDCRIcVhDyswRPFIgAxiBhrtiRQuA0ICkyhPTJEbCeOjyVgUJFNs9MIWBJc6lE7DdOKwt6AmVyf2ArMgggA.webp"
-    },
-    {
       "id": "ppv-houston-dynamo-fc-vs-austin-fc",
       "title": "Houston Dynamo FC vs. Austin FC",
       "sport": "football",
@@ -2320,6 +2264,42 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MZYSAkSAxsCohE0kEpALSIGhJQgSICHoXKNq4IgmqYIS-qVZjvchFBhBIptnphCwJLmkohcm5OJ2FSegJTchdgJzIIIA.webp"
+    },
+    {
+      "id": "ppv-minnesota-united-fc-vs-vancouver-whitecaps",
+      "title": "Minnesota United FC vs. Vancouver Whitecaps",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-26T00:30:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-minnesota-united-fc-vs-vancouver-whitecaps/1",
+          "language": "English - Apple TV",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-minnesota-united-fc-vs-vancouver-whitecaps/2",
+          "language": "English - Apple TV",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MVECRDCRIcVhDyswRPFIgAxiBhrtiRQuA0ICkyhPTJEbCeOjyVgUJFNs9MIWBJc6lE7DdOKwt6AmVyf2ArMgggA.webp"
     },
     {
       "id": "ppv-st-louis-city-sc-vs-colorado-rapids",
