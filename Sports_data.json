@@ -1,13 +1,13 @@
 {
-  "lastUpdated": "2026-07-24T21:59:33Z",
-  "fetchDuration": "99.8s",
-  "totalMatches": 125,
-  "liveCount": 10,
-  "upcomingCount": 115,
+  "lastUpdated": "2026-07-24T23:03:50Z",
+  "fetchDuration": "99.4s",
+  "totalMatches": 124,
+  "liveCount": 16,
+  "upcomingCount": 108,
   "matches": [
     {
-      "id": "bournemouth-vs-st-pauli-2521611",
-      "title": "Bournemouth vs St Pauli",
+      "id": "afc-bournemouth-vs-st-pauli-game-2787886",
+      "title": "Bournemouth vs St. Pauli",
       "sport": "football",
       "competition": "football",
       "status": "LIVE",
@@ -21,59 +21,24 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-07-24T14:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
-    },
-    {
-      "id": "live-event_nascar-truck-series-2026-nascar-craftsman-truck-series-race-at-irp-live-stream",
-      "title": "Nascar Truck Series 2026 - NASCAR Craftsman Truck Series Race at IRP",
-      "sport": "motor-sports",
-      "competition": "motor-sports",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-24T14:01:00Z",
+      "matchTimeUTC": "2026-07-24T15:00:00Z",
       "streams": [
         {
-          "source": "delta",
-          "embedUrl": "https://embed.st/embed/delta/live-event_nascar-truck-series-2026-nascar-craftsman-truck-series-race-at-irp-live-stream/1",
-          "language": "English",
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/afc-bournemouth-vs-st-pauli-game-2787886/1",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/afc-bournemouth-vs-st-pauli-game-2787886/2",
+          "language": "",
           "hd": true,
           "quality": "HD"
         }
       ],
-      "streamCount": 1,
-      "poster": ""
-    },
-    {
-      "id": "ppv-event-01-one-friday-fights-163-pompet-v-nat-khat-min-ppv-01",
-      "title": "ONE Friday Fights 163 Pompet v Nat Khat Min 💥",
-      "sport": "other",
-      "competition": "other",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-24T14:30:00Z",
-      "streams": [],
-      "streamCount": 0,
+      "streamCount": 2,
       "poster": ""
     },
     {
@@ -170,27 +135,6 @@
       "poster": ""
     },
     {
-      "id": "betfred-world-matchplay-day-7-2505694",
-      "title": "Betfred World Matchplay Day 7",
-      "sport": "darts",
-      "competition": "darts",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-24T18:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECiLz+CENxBSQJECYgmQiQ3xMFgSCn2Gz6mlSi5gy8IllnumtGCeYqIQQA.webp"
-    },
-    {
       "id": "world-matchplay-darts-darts-1",
       "title": "World Matchplay Darts  🎯",
       "sport": "darts",
@@ -274,6 +218,211 @@
       "streams": [],
       "streamCount": 0,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDLByxWYEhDcQfECZghEZs4cR8CeirdYixKMCpRc35ertEemtGBuYqIQQA.webp"
+    },
+    {
+      "id": "racing-club-vs-gimnasia-y-esgrima-de-la-plata-2397962",
+      "title": "Racing Club vs Gimnasia y Esgrima de La Plata",
+      "sport": "football",
+      "competition": "football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-24T22:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VPiBD8iOCCG4gNUkChDGjJkCTMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
+    },
+    {
+      "id": "hfx-wanderers-vs-supra-du-qu-bec-2427377",
+      "title": "HFX Wanderers vs Supra du Québec",
+      "sport": "football",
+      "competition": "football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-24T22:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCH6rOILCBSbdIYxBAwQiA70PSWSClhFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp"
+    },
+    {
+      "id": "velez-sarsfield-vs-instituto-cordoba-football-1493016",
+      "title": "Velez Sarsfield vs Instituto Cordoba",
+      "sport": "football",
+      "competition": "football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-24T22:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "ppv-event-06-senators-cup-stafford-gameev-6",
+      "title": "PPV EVENT 06: Senators Cup Stafford",
+      "sport": "other",
+      "competition": "other",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-24T22:15:23Z",
+      "streams": [
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/ppv-event-06-senators-cup-stafford-gameev-6/1",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 1,
+      "poster": ""
+    },
+    {
+      "id": "live-event_demetrius-andrade-vs-douglas-ataide-live-stream",
+      "title": "Demetrius Andrade vs Douglas Ataide",
+      "sport": "fight",
+      "competition": "fight",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-24T22:30:00Z",
+      "streams": [
+        {
+          "source": "delta",
+          "embedUrl": "https://embed.st/embed/delta/live-event_demetrius-andrade-vs-douglas-ataide-live-stream/1",
+          "language": "English",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 1,
+      "poster": ""
+    },
+    {
+      "id": "pittsburgh-pirates-vs-chicago-cubs-2388429",
+      "title": "Pittsburgh Pirates vs Chicago Cubs",
+      "sport": "baseball",
+      "competition": "baseball",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-24T22:40:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFAHrusEDBDcQfECf2J9+w4gVMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp"
+    },
+    {
+      "id": "detroit-tigers-vs-kansas-city-royals-2388434",
+      "title": "Detroit Tigers vs Kansas City Royals",
+      "sport": "baseball",
+      "competition": "baseball",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-24T22:40:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEChDcwSYDJR6tIPiFMwQic+e4XTBYEgp9hs+ijAqDbD+XpZZBky0YB5iohBAA.webp"
+    },
+    {
+      "id": "philadelphia-phillies-vs-new-york-yankees-2388423",
+      "title": "Philadelphia Phillies vs New York Yankees",
+      "sport": "baseball",
+      "competition": "baseball",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-24T22:45:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJGDIoElYEhDcQfECZghEZs4ZwgCein2Gz62lSi6by9LLPdNaYJpiohBAA.webp"
+    },
+    {
+      "id": "washington-nationals-vs-arizona-diamondbacks-2388424",
+      "title": "Washington Nationals vs Arizona Diamondbacks",
+      "sport": "baseball",
+      "competition": "baseball",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-24T22:45:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEPxAxgMsom4g+IYzBCJTpgzhQFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
     },
     {
       "id": "admin-willow-cricket",
@@ -440,8 +589,8 @@
       "poster": ""
     },
     {
-      "id": "velez-sarsfield-vs-instituto-cordoba-football-1493016",
-      "title": "Velez Sarsfield vs Instituto Cordoba",
+      "id": "bournemouth-vs-st-pauli-2521611",
+      "title": "Bournemouth vs St Pauli",
       "sport": "football",
       "competition": "football",
       "status": "UPCOMING",
@@ -455,165 +604,10 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-07-24T22:00:00Z",
+      "matchTimeUTC": "2026-07-24T14:00:00Z",
       "streams": [],
       "streamCount": 0,
       "poster": ""
-    },
-    {
-      "id": "hfx-wanderers-vs-supra-du-qu-bec-2427377",
-      "title": "HFX Wanderers vs Supra du Québec",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-24T22:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCH6rOILCBSbdIYxBAwQiA70PSWSClhFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp"
-    },
-    {
-      "id": "racing-club-vs-gimnasia-y-esgrima-de-la-plata-2397962",
-      "title": "Racing Club vs Gimnasia y Esgrima de La Plata",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-24T22:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VPiBD8iOCCG4gNUkChDGjJkCTMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
-    },
-    {
-      "id": "ppv-event-06-senators-cup-stafford-gameev-6",
-      "title": "PPV EVENT 06: Senators Cup Stafford",
-      "sport": "other",
-      "competition": "other",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-24T22:15:23Z",
-      "streams": [
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/ppv-event-06-senators-cup-stafford-gameev-6/1",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 1,
-      "poster": ""
-    },
-    {
-      "id": "detroit-tigers-vs-kansas-city-royals-2388434",
-      "title": "Detroit Tigers vs Kansas City Royals",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-24T22:40:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEChDcwSYDJR6tIPiFMwQic+e4XTBYEgp9hs+ijAqDbD+XpZZBky0YB5iohBAA.webp"
-    },
-    {
-      "id": "pittsburgh-pirates-vs-chicago-cubs-2388429",
-      "title": "Pittsburgh Pirates vs Chicago Cubs",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-24T22:40:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFAHrusEDBDcQfECf2J9+w4gVMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp"
-    },
-    {
-      "id": "washington-nationals-vs-arizona-diamondbacks-2388424",
-      "title": "Washington Nationals vs Arizona Diamondbacks",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-24T22:45:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEPxAxgMsom4g+IYzBCJTpgzhQFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
-    },
-    {
-      "id": "philadelphia-phillies-vs-new-york-yankees-2388423",
-      "title": "Philadelphia Phillies vs New York Yankees",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-24T22:45:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJGDIoElYEhDcQfECZghEZs4ZwgCein2Gz62lSi6by9LLPdNaYJpiohBAA.webp"
     },
     {
       "id": "ppv-event-08-high-limit-racing-stateline-gameev-8",
@@ -2159,42 +2153,6 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMjhRswWtCG4g+IKSBTGQFxBEMWCwJBT7DZ9FGBVbtZeESyytTLRg7mKiEEA.webp"
     },
     {
-      "id": "ppv-houston-dynamo-fc-vs-austin-fc",
-      "title": "Houston Dynamo FC vs. Austin FC",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-26T00:30:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-houston-dynamo-fc-vs-austin-fc/1",
-          "language": "English - Apple TV",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-houston-dynamo-fc-vs-austin-fc/2",
-          "language": "English - Apple TV",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MZYSAkSAxsCohE0kEpALSIGhJQgSICHoXKNq4IgmqYIS-qVZjvchFBhBIptnphCwJLmkohcm5OJ2FSegJTchdgJzIIIA.webp"
-    },
-    {
       "id": "ppv-minnesota-united-fc-vs-vancouver-whitecaps",
       "title": "Minnesota United FC vs. Vancouver Whitecaps",
       "sport": "football",
@@ -2267,6 +2225,42 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MZRCBBUQWGaREgYkkfJIhhweKXUgUkkBGARdmo0ZnKy4naPKGBQlQWz0whYElwBjFI7DdOQw0yX2ctMH8zMgggA.webp"
     },
     {
+      "id": "ppv-houston-dynamo-fc-vs-austin-fc",
+      "title": "Houston Dynamo FC vs. Austin FC",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-26T00:30:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-houston-dynamo-fc-vs-austin-fc/1",
+          "language": "English - Apple TV",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-houston-dynamo-fc-vs-austin-fc/2",
+          "language": "English - Apple TV",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MZYSAkSAxsCohE0kEpALSIGhJQgSICHoXKNq4IgmqYIS-qVZjvchFBhBIptnphCwJLmkohcm5OJ2FSegJTchdgJzIIIA.webp"
+    },
+    {
       "id": "ppv-san-diego-fc-vs-fc-dallas",
       "title": "San Diego FC vs. FC Dallas",
       "sport": "football",
@@ -2301,42 +2295,6 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IYeJAQQAYxAwQKEFmDSJIEFRBkaKxDGCIl8Q1OBaSZiVqOrlI7SnIRQYQSKbZ6YQsCS4ZJyE3VhdhUnoCQ3I3VQiIIA.webp"
-    },
-    {
-      "id": "ppv-lafc-vs-sporting-kansas-city",
-      "title": "LAFC vs. Sporting Kansas City",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-26T02:30:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-lafc-vs-sporting-kansas-city/1",
-          "language": "English - Apple TV",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-lafc-vs-sporting-kansas-city/2",
-          "language": "English - Apple TV",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILMEQoRIkFRAxsIYQpARSwCCBILSunSDVLDhlYvkWQKOSfzl1AoTILZ6YQsCS4AxtKFhuTnVhDWkXeHIAzQ0IIA.webp"
     },
     {
       "id": "ppv-portland-timbers-vs-real-salt-lake",
@@ -2409,6 +2367,42 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEUthBSAxiGnBEUqiHGJVkkiGUwFE8eLLC5IFCBgmRug2ZTlxAoZYLZ6YQsCS5ptoWG6dxYQlbZ3hyP2ADSKA.webp"
+    },
+    {
+      "id": "ppv-lafc-vs-sporting-kansas-city",
+      "title": "LAFC vs. Sporting Kansas City",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-26T02:30:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-lafc-vs-sporting-kansas-city/1",
+          "language": "English - Apple TV",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-lafc-vs-sporting-kansas-city/2",
+          "language": "English - Apple TV",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILMEQoRIkFRAxsIYQpARSwCCBILSunSDVLDhlYvkWQKOSfzl1AoTILZ6YQsCS4AxtKFhuTnVhDWkXeHIAzQ0IIA.webp"
     },
     {
       "id": "ppv-santos-vs-atlas",
