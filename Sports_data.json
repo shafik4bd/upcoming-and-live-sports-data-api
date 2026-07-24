@@ -1,53 +1,10 @@
 {
-  "lastUpdated": "2026-07-24T20:14:44Z",
-  "fetchDuration": "124.5s",
-  "totalMatches": 127,
-  "liveCount": 11,
-  "upcomingCount": 116,
+  "lastUpdated": "2026-07-24T21:59:33Z",
+  "fetchDuration": "99.8s",
+  "totalMatches": 125,
+  "liveCount": 10,
+  "upcomingCount": 115,
   "matches": [
-    {
-      "id": "liv-golf-uk-round-2-jcb-golf-country-club-game-162626",
-      "title": "LIV Golf UK | ROUND 2 - JCB Golf & Country Club",
-      "sport": "other",
-      "competition": "other",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-24T12:15:00Z",
-      "streams": [
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/liv-golf-uk-round-2-jcb-golf-country-club-game-162626/1",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/liv-golf-uk-round-2-jcb-golf-country-club-game-162626/2",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/liv-golf-uk-round-2-jcb-golf-country-club-game-162626/3",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 3,
-      "poster": ""
-    },
     {
       "id": "bournemouth-vs-st-pauli-2521611",
       "title": "Bournemouth vs St Pauli",
@@ -96,6 +53,27 @@
         }
       ],
       "streamCount": 1,
+      "poster": ""
+    },
+    {
+      "id": "ppv-event-01-one-friday-fights-163-pompet-v-nat-khat-min-ppv-01",
+      "title": "ONE Friday Fights 163 Pompet v Nat Khat Min 💥",
+      "sport": "other",
+      "competition": "other",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-24T14:30:00Z",
+      "streams": [],
+      "streamCount": 0,
       "poster": ""
     },
     {
@@ -213,49 +191,6 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECiLz+CENxBSQJECYgmQiQ3xMFgSCn2Gz6mlSi5gy8IllnumtGCeYqIQQA.webp"
     },
     {
-      "id": "pogon-szczecin-vs-legia-warszawa-football-1553104",
-      "title": "Pogon Szczecin vs Legia Warszawa",
-      "sport": "football",
-      "competition": "football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-24T18:30:00Z",
-      "streams": [
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/pogon-szczecin-vs-legia-warszawa-football-1553104/1",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/pogon-szczecin-vs-legia-warszawa-football-1553104/2",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/pogon-szczecin-vs-legia-warszawa-football-1553104/3",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 3,
-      "poster": ""
-    },
-    {
       "id": "world-matchplay-darts-darts-1",
       "title": "World Matchplay Darts  🎯",
       "sport": "darts",
@@ -320,10 +255,10 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEIhQgYcsN0ghuIPiCkgSIS5cQ4LIAsCQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp"
     },
     {
-      "id": "gimnasia-m-vs-central-cordoba-de-santiago-football-1493008",
-      "title": "Gimnasia M. vs Central Cordoba de Santiago",
-      "sport": "football",
-      "competition": "football",
+      "id": "milwaukee-brewers-vs-colorado-rockies-2388433",
+      "title": "Milwaukee Brewers vs Colorado Rockies",
+      "sport": "baseball",
+      "competition": "baseball",
       "status": "LIVE",
       "teams": {
         "home": {
@@ -335,18 +270,10 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-07-24T19:45:00Z",
-      "streams": [
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/gimnasia-m-vs-central-cordoba-de-santiago-football-1493008/1",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 1,
-      "poster": ""
+      "matchTimeUTC": "2026-07-24T20:10:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDLByxWYEhDcQfECZghEZs4cR8CeirdYixKMCpRc35ertEemtGBuYqIQQA.webp"
     },
     {
       "id": "admin-willow-cricket",
@@ -511,27 +438,6 @@
       ],
       "streamCount": 3,
       "poster": ""
-    },
-    {
-      "id": "milwaukee-brewers-vs-colorado-rockies-2388433",
-      "title": "Milwaukee Brewers vs Colorado Rockies",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-24T20:10:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDLByxWYEhDcQfECZghEZs4cR8CeirdYixKMCpRc35ertEemtGBuYqIQQA.webp"
     },
     {
       "id": "velez-sarsfield-vs-instituto-cordoba-football-1493016",
