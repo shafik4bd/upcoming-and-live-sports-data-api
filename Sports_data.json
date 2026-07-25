@@ -1,67 +1,10 @@
 {
-  "lastUpdated": "2026-07-25T17:04:44Z",
-  "fetchDuration": "105.6s",
-  "totalMatches": 145,
+  "lastUpdated": "2026-07-25T18:57:31Z",
+  "fetchDuration": "102.0s",
+  "totalMatches": 142,
   "liveCount": 21,
-  "upcomingCount": 124,
+  "upcomingCount": 121,
   "matches": [
-    {
-      "id": "uci-tour-de-france-uci-world-tour-game-13622",
-      "title": "UCI Tour de France | UCI World Tour 🏁",
-      "sport": "other",
-      "competition": "other",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-25T09:20:00Z",
-      "streams": [
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/uci-tour-de-france-uci-world-tour-game-13622/1",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/uci-tour-de-france-uci-world-tour-game-13622/2",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": ""
-    },
-    {
-      "id": "hungarian-grand-prix-practice-3-2408174",
-      "title": "Hungarian Grand Prix Practice 3",
-      "sport": "motor-sports",
-      "competition": "motor-sports",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-25T10:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAxgBKfmBBsQ3EH2MgIIFLhAwQiE42BIKfYbPoowKnW0-l6WWR0mWjBPMVEIIA.webp"
-    },
     {
       "id": "fortuna-d-sseldorf-vs-borussia-dortmund-2527384",
       "title": "Fortuna Düsseldorf vs Borussia Dortmund",
@@ -127,42 +70,6 @@
       "poster": ""
     },
     {
-      "id": "liv-golf-uk-round-2-jcb-golf-country-club-game-162626",
-      "title": "LIV Golf UK | ROUND 2 - JCB Golf & Country Club",
-      "sport": "other",
-      "competition": "other",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-25T12:15:00Z",
-      "streams": [
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/liv-golf-uk-round-2-jcb-golf-country-club-game-162626/1",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/liv-golf-uk-round-2-jcb-golf-country-club-game-162626/2",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": ""
-    },
-    {
       "id": "ufc-fight-night-282-ankalaev-vs-guskov-2476378",
       "title": "UFC Fight Night 282 Ankalaev vs Guskov",
       "sport": "fight",
@@ -184,6 +91,27 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCF4gUYWbX2aQWECYhGTF6SGoh4LJBSwi5jHapQ8wZeEWpyP+KzAYF7iYhBAA.webp"
     },
     {
+      "id": "anthony-joshua-vs-kristian-prenga-2545850",
+      "title": "Anthony Joshua vs Kristian Prenga",
+      "sport": "fight",
+      "competition": "fight",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-25T13:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdijAgQWEHBRMQvHdpAQTKI2ZCXJ+YEgpYRcxptUGOYMvCLU5Bvb0YN7iYhBAA.webp"
+    },
+    {
       "id": "kickers-offenbach-vs-bayer-leverkusen-2480143",
       "title": "Kickers Offenbach vs Bayer Leverkusen",
       "sport": "football",
@@ -203,42 +131,6 @@
       "streams": [],
       "streamCount": 0,
       "poster": ""
-    },
-    {
-      "id": "ppv-anthony-joshua-vs-kristian-prenga",
-      "title": "Anthony Joshua vs. Kristian Prenga",
-      "sport": "fight",
-      "competition": "fight",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-25T13:00:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-anthony-joshua-vs-kristian-prenga/1",
-          "language": "English - DAZN PPV",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-anthony-joshua-vs-kristian-prenga/2",
-          "language": "English - DAZN PPV",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMYh4pEMJAQQMEFlnBpJRYuAKUIGipUKlNBZKwitEbNZUbjKclYFCRTaw7CFgSXOIdCwbk4rYVJ6AjVyQO0wiCA.webp"
     },
     {
       "id": "az-alkmaar-vs-olympiakos-piraeus-game-415151",
@@ -298,48 +190,6 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHzAhgABlhEQIbhpBSQJQ5cQ4+IeAWBIKfYbPoowKlF0-l6WWW8mWjBPMVEIIA.webp"
     },
     {
-      "id": "bolton-wanderers-vs-everton-2502567",
-      "title": "Bolton Wanderers vs Everton",
-      "sport": "football",
-      "competition": "football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-25T14:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
-    },
-    {
-      "id": "celtic-vs-ac-milan-2502569",
-      "title": "Celtic vs AC Milan",
-      "sport": "football",
-      "competition": "football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-25T14:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
-    },
-    {
       "id": "crewe-alexandra-vs-birmingham-city-2502570",
       "title": "Crewe Alexandra vs Birmingham City",
       "sport": "football",
@@ -358,84 +208,6 @@
       "matchTimeUTC": "2026-07-25T14:00:00Z",
       "streams": [],
       "streamCount": 0,
-      "poster": ""
-    },
-    {
-      "id": "queens-park-rangers-vs-fiorentina-2502578",
-      "title": "Queens Park Rangers vs Fiorentina",
-      "sport": "football",
-      "competition": "football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-25T14:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
-    },
-    {
-      "id": "schalke-04-vs-fagiano-okayama-2542005",
-      "title": "Schalke 04 vs Fagiano Okayama",
-      "sport": "football",
-      "competition": "football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-25T14:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
-    },
-    {
-      "id": "gornik-zabrze-vs-slask-wroclaw-football-1553101",
-      "title": "Gornik Zabrze vs Slask Wroclaw",
-      "sport": "football",
-      "competition": "football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-25T15:30:00Z",
-      "streams": [
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/gornik-zabrze-vs-slask-wroclaw-football-1553101/1",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/gornik-zabrze-vs-slask-wroclaw-football-1553101/2",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 2,
       "poster": ""
     },
     {
@@ -460,77 +232,6 @@
       "poster": ""
     },
     {
-      "id": "lausanne-sport-vs-grasshoppers-2493326",
-      "title": "Lausanne-Sport vs Grasshoppers",
-      "sport": "football",
-      "competition": "football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-25T16:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHBQg+RMGxDdtRnIb4gpGoyQLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp"
-    },
-    {
-      "id": "servette-vs-basel-2493327",
-      "title": "Servette vs Basel",
-      "sport": "football",
-      "competition": "football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-25T16:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFGD4goWMCm0huILVpxGtUkDCsgpBYEgp9hs+hpUouYMvCJZZnky0YN5iohBAA.webp"
-    },
-    {
-      "id": "aarhus-vs-brondby-football-1548975",
-      "title": "Aarhus vs Brondby",
-      "sport": "football",
-      "competition": "football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-25T16:00:00Z",
-      "streams": [
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/aarhus-vs-brondby-football-1548975/1",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 1,
-      "poster": ""
-    },
-    {
       "id": "leigh-leopards-vs-warrington-wolves-2395978",
       "title": "Leigh Leopards vs Warrington Wolves",
       "sport": "rugby",
@@ -550,6 +251,290 @@
       "streams": [],
       "streamCount": 0,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VPiA2iUuUCG6aQUkCRBmziRDFwFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
+    },
+    {
+      "id": "ppv-pro-motocross-washougal",
+      "title": "Pro Motocross: Washougal",
+      "sport": "motor-sports",
+      "competition": "motor-sports",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-25T17:00:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-pro-motocross-washougal/1",
+          "language": "English - Peacock",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-pro-motocross-washougal/2",
+          "language": "English - Peacock",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCEkBjcSBggqIRBDkgsIFSFIiQwjbqWTsIKSOMRg8bXppW9KYFQf8wgswWz0whYElxSHIVdWC2FtBw8rMFdgCzIIIA.webp"
+    },
+    {
+      "id": "live-event_dave-allen-vs-dan-garber-live-stream",
+      "title": "Dave Allen vs Dan Garber",
+      "sport": "fight",
+      "competition": "fight",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-25T17:00:00Z",
+      "streams": [
+        {
+          "source": "delta",
+          "embedUrl": "https://embed.st/embed/delta/live-event_dave-allen-vs-dan-garber-live-stream/1",
+          "language": "English",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 1,
+      "poster": ""
+    },
+    {
+      "id": "detroit-tigers-vs-kansas-city-royals-2388448",
+      "title": "Detroit Tigers vs Kansas City Royals",
+      "sport": "baseball",
+      "competition": "baseball",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-25T17:10:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHxDgUgmCD3cNW-SER6DIErgLAkFPsNn0UYFTravy9LLJ1NaYK5iohBAA.webp"
+    },
+    {
+      "id": "estudiantes-de-r-o-cuarto-vs-tigre-2397956",
+      "title": "Estudiantes de Río Cuarto vs Tigre",
+      "sport": "football",
+      "competition": "football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-25T17:45:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rRL1H4QvbjpB8QUkCiMGzpvXwLAkFa6xFiUYFSi6vy9LLPdNaYK5iohBAA.webp"
+    },
+    {
+      "id": "standard-li-ge-vs-juventus-2480152",
+      "title": "Standard Liège vs Juventus",
+      "sport": "football",
+      "competition": "football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-25T18:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "zbrojovka-brno-vs-sparta-prague-2497730",
+      "title": "Zbrojovka Brno vs Sparta Prague",
+      "sport": "football",
+      "competition": "football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-25T18:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdtOzzgYOiF4gsIY9RCmUICyWMhF+YEgpYRcxijCqUPD+UbU5Xvb0umKMoUA.webp"
+    },
+    {
+      "id": "pga-tour-3m-open-day-3-pga-526234",
+      "title": "PGA Tour: 3M Open Day 3🏌",
+      "sport": "other",
+      "competition": "other",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-25T18:00:00Z",
+      "streams": [
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/pga-tour-3m-open-day-3-pga-526234/1",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/pga-tour-3m-open-day-3-pga-526234/2",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": ""
+    },
+    {
+      "id": "lech-pozna--vs-cracovia-2490193",
+      "title": "Lech Poznań vs Cracovia",
+      "sport": "football",
+      "competition": "football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-25T18:15:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCDHsADDTC99IXiCwgzx6SBQgYVs0ZZIKWEXMYowqlD0-lG1OW98VmAwT3ExCCA.webp"
+    },
+    {
+      "id": "luzern-vs-thun-2493328",
+      "title": "Luzern vs Thun",
+      "sport": "football",
+      "competition": "football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-25T18:30:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGA2BI5YviG4g9enAb0kQKQyAtMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp"
+    },
+    {
+      "id": "sporting-cp-vs-monaco-2502548",
+      "title": "Sporting CP vs Monaco",
+      "sport": "football",
+      "competition": "football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-25T18:30:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "ppv-world-matchplay-semifinals",
+      "title": "World Matchplay - Semifinals",
+      "sport": "darts",
+      "competition": "darts",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-25T18:30:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-world-matchplay-semifinals/1",
+          "language": "English - Sky Sport Select NZ",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-world-matchplay-semifinals/2",
+          "language": "English - Sky Sport Select NZ",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MNCCBDAJJECjkiRILMCohE8YJokSUSiVhAS1h+cMnZlc9RdHkIoMIMUFs9MIWBJcAYz1CnVgdhUnpXTTAnaVCIIA.webp"
     },
     {
       "id": "admin-willow-cricket",
@@ -673,71 +658,8 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBEBDXsQZgdgwwRgBOYAU0hDpqxQFZh5Tg0wmJgATMNTTAWkVqNri0LIinbQ61OvHS5CISiCggGIRPzWq0hNTTV5s2AMb6NNFif4h+VFxux5bFLXnk3aASx2PV0+LRRNR0hAtjYUBHZQYkk2JjBHEFsaOxytGFZYSWt5YFIVGOVgeTYOMl5AiCA.webp"
     },
     {
-      "id": "detroit-tigers-vs-kansas-city-royals-2388448",
-      "title": "Detroit Tigers vs Kansas City Royals",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-25T17:10:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHxDgUgmCD3cNW-SER6DIErgLAkFPsNn0UYFTravy9LLJ1NaYK5iohBAA.webp"
-    },
-    {
-      "id": "estudiantes-de-r-o-cuarto-vs-tigre-2397956",
-      "title": "Estudiantes de Río Cuarto vs Tigre",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-25T17:45:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rRL1H4QvbjpB8QUkCiMGzpvXwLAkFa6xFiUYFSi6vy9LLPdNaYK5iohBAA.webp"
-    },
-    {
-      "id": "zbrojovka-brno-vs-sparta-prague-2497730",
-      "title": "Zbrojovka Brno vs Sparta Prague",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-25T18:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdtOzzgYOiF4gsIY9RCmUICyWMhF+YEgpYRcxijCqUPD+UbU5Xvb0umKMoUA.webp"
-    },
-    {
-      "id": "pga-tour-3m-open-day-3-pga-526234",
-      "title": "PGA Tour: 3M Open Day 3🏌",
+      "id": "ppv-event-15-amsoil-championship-off-road-pppv15",
+      "title": "AMSOIL Championship Off Road",
       "sport": "other",
       "competition": "other",
       "status": "UPCOMING",
@@ -751,50 +673,22 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-07-25T18:00:00Z",
+      "matchTimeUTC": "2026-07-25T17:00:00Z",
       "streams": [
         {
           "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/pga-tour-3m-open-day-3-pga-526234/1",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/pga-tour-3m-open-day-3-pga-526234/2",
+          "embedUrl": "https://embed.st/embed/echo/ppv-event-15-amsoil-championship-off-road-pppv15/1",
           "language": "",
           "hd": true,
           "quality": "HD"
         }
       ],
-      "streamCount": 2,
+      "streamCount": 1,
       "poster": ""
     },
     {
-      "id": "ppv-event-15-ama-supercross-championship-washougal-pppv15",
-      "title": "AMA Supercross Championship Washougal",
-      "sport": "other",
-      "competition": "other",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-25T18:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
-    },
-    {
-      "id": "lech-pozna--vs-cracovia-2490193",
-      "title": "Lech Poznań vs Cracovia",
+      "id": "porto-vs-aston-villa-2529464",
+      "title": "Porto vs Aston Villa",
       "sport": "football",
       "competition": "football",
       "status": "UPCOMING",
@@ -808,31 +702,10 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-07-25T18:15:00Z",
+      "matchTimeUTC": "2026-07-25T19:00:00Z",
       "streams": [],
       "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCDHsADDTC99IXiCwgzx6SBQgYVs0ZZIKWEXMYowqlD0-lG1OW98VmAwT3ExCCA.webp"
-    },
-    {
-      "id": "luzern-vs-thun-2493328",
-      "title": "Luzern vs Thun",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-25T18:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGA2BI5YviG4g9enAb0kQKQyAtMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp"
+      "poster": ""
     },
     {
       "id": "toulouse-olympique-vs-catalans-dragons-2395979",
@@ -876,6 +749,35 @@
         {
           "source": "echo",
           "embedUrl": "https://embed.st/embed/echo/newells-old-boys-vs-talleres-cordoba-football-1493011/1",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 1,
+      "poster": ""
+    },
+    {
+      "id": "ppv-event-16-ama-supercross-championship-washougal-ppv16",
+      "title": "AMA Supercross Championship Washougal",
+      "sport": "other",
+      "competition": "other",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-25T20:00:00Z",
+      "streams": [
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/ppv-event-16-ama-supercross-championship-washougal-ppv16/1",
           "language": "",
           "hd": true,
           "quality": "HD"
@@ -2091,6 +1993,42 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEFxlsoEENxB8DuPUZIgURlAWBIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp"
     },
     {
+      "id": "liv-golf-uk-round-4-jcb-golf-country-club-game-162626",
+      "title": "LIV Golf UK | ROUND 4 - JCB Golf & Country Club",
+      "sport": "other",
+      "competition": "other",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-26T12:05:00Z",
+      "streams": [
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/liv-golf-uk-round-4-jcb-golf-country-club-game-162626/1",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/liv-golf-uk-round-4-jcb-golf-country-club-game-162626/2",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": ""
+    },
+    {
       "id": "rakow-czestochowa-vs-wisla-plock-football-1553106",
       "title": "Raków Częstochowa vs Wisla Plock",
       "sport": "football",
@@ -2856,8 +2794,8 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rVrRQ8wMlCG4g+IKSD0mQIRBH3GCwJBT7DZ9FGBVa278vSyytTLRg7mKiEEA.webp"
     },
     {
-      "id": "remo-vs-vitoria-football-1492307",
-      "title": "Remo vs Vitoria",
+      "id": "palmeiras-vs-atletico-mg-football-1492306",
+      "title": "Palmeiras vs Atletico-MG",
       "sport": "football",
       "competition": "football",
       "status": "UPCOMING",
@@ -2877,8 +2815,8 @@
       "poster": ""
     },
     {
-      "id": "palmeiras-vs-atletico-mg-football-1492306",
-      "title": "Palmeiras vs Atletico-MG",
+      "id": "remo-vs-vitoria-football-1492307",
+      "title": "Remo vs Vitoria",
       "sport": "football",
       "competition": "football",
       "status": "UPCOMING",
