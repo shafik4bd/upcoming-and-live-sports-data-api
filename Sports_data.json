@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-07-25T14:58:24Z",
-  "fetchDuration": "147.1s",
-  "totalMatches": 148,
-  "liveCount": 18,
-  "upcomingCount": 130,
+  "lastUpdated": "2026-07-25T16:01:56Z",
+  "fetchDuration": "141.2s",
+  "totalMatches": 147,
+  "liveCount": 19,
+  "upcomingCount": 128,
   "matches": [
     {
       "id": "tour-de-france-stage-20-2447767",
@@ -445,10 +445,10 @@
       "poster": ""
     },
     {
-      "id": "2nd-qualifying-hungaroring-formula-1-2675",
-      "title": "2nd Qualifying | Hungaroring |",
-      "sport": "motor-sports",
-      "competition": "motor-sports",
+      "id": "gornik-zabrze-vs-slask-wroclaw-football-1553101",
+      "title": "Gornik Zabrze vs Slask Wroclaw",
+      "sport": "football",
+      "competition": "football",
       "status": "LIVE",
       "teams": {
         "home": {
@@ -460,38 +460,45 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-07-25T14:22:00Z",
+      "matchTimeUTC": "2026-07-25T15:30:00Z",
       "streams": [
         {
           "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/2nd-qualifying-hungaroring-formula-1-2675/1",
+          "embedUrl": "https://embed.st/embed/echo/gornik-zabrze-vs-slask-wroclaw-football-1553101/1",
           "language": "",
           "hd": true,
           "quality": "HD"
         },
         {
           "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/2nd-qualifying-hungaroring-formula-1-2675/2",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/2nd-qualifying-hungaroring-formula-1-2675/3",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/2nd-qualifying-hungaroring-formula-1-2675/4",
+          "embedUrl": "https://embed.st/embed/echo/gornik-zabrze-vs-slask-wroclaw-football-1553101/2",
           "language": "",
           "hd": true,
           "quality": "HD"
         }
       ],
-      "streamCount": 4,
+      "streamCount": 2,
+      "poster": ""
+    },
+    {
+      "id": "ppv-event-14-amsoil-championship-off-road-ppv14",
+      "title": "AMSOIL Championship Off Road",
+      "sport": "other",
+      "competition": "other",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-25T15:45:00Z",
+      "streams": [],
+      "streamCount": 0,
       "poster": ""
     },
     {
@@ -616,63 +623,6 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBEBDXsQZgdgwwRgBOYAU0hDpqxQFZh5Tg0wmJgATMNTTAWkVqNri0LIinbQ61OvHS5CISiCggGIRPzWq0hNTTV5s2AMb6NNFif4h+VFxux5bFLXnk3aASx2PV0+LRRNR0hAtjYUBHZQYkk2JjBHEFsaOxytGFZYSWt5YFIVGOVgeTYOMl5AiCA.webp"
     },
     {
-      "id": "gornik-zabrze-vs-slask-wroclaw-football-1553101",
-      "title": "Gornik Zabrze vs Slask Wroclaw",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-25T15:30:00Z",
-      "streams": [
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/gornik-zabrze-vs-slask-wroclaw-football-1553101/1",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/gornik-zabrze-vs-slask-wroclaw-football-1553101/2",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": ""
-    },
-    {
-      "id": "ppv-event-14-amsoil-championship-off-road-ppv14",
-      "title": "AMSOIL Championship Off Road",
-      "sport": "other",
-      "competition": "other",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-25T15:45:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
-    },
-    {
       "id": "aarhus-vs-brondby-football-1548975",
       "title": "Aarhus vs Brondby",
       "sport": "football",
@@ -689,8 +639,16 @@
         }
       },
       "matchTimeUTC": "2026-07-25T16:00:00Z",
-      "streams": [],
-      "streamCount": 0,
+      "streams": [
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/aarhus-vs-brondby-football-1548975/1",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 1,
       "poster": ""
     },
     {
@@ -956,8 +914,16 @@
         }
       },
       "matchTimeUTC": "2026-07-25T20:00:00Z",
-      "streams": [],
-      "streamCount": 0,
+      "streams": [
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/newells-old-boys-vs-talleres-cordoba-football-1493011/1",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 1,
       "poster": ""
     },
     {
