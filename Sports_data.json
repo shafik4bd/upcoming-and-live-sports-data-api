@@ -1,31 +1,10 @@
 {
-  "lastUpdated": "2026-07-26T11:57:21Z",
-  "fetchDuration": "66.6s",
-  "totalMatches": 93,
-  "liveCount": 6,
-  "upcomingCount": 87,
+  "lastUpdated": "2026-07-26T13:09:18Z",
+  "fetchDuration": "69.4s",
+  "totalMatches": 92,
+  "liveCount": 11,
+  "upcomingCount": 81,
   "matches": [
-    {
-      "id": "live-event_formula-e-2026-gp-tokyo-2-live-stream",
-      "title": "Formula E 2026 - GP Tokyo 2",
-      "sport": "motor-sports",
-      "competition": "motor-sports",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-26T04:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
-    },
     {
       "id": "north-melbourne-kangaroos-vs-st-kilda-saints-australian-football-3589",
       "title": "North Melbourne Kangaroos vs St Kilda Saints",
@@ -199,6 +178,185 @@
       "poster": ""
     },
     {
+      "id": "young-boys-vs-sion-2493329",
+      "title": "Young Boys vs Sion",
+      "sport": "football",
+      "competition": "football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-26T12:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEFxlsoEENxB8DuPUZIgURlAWBIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp"
+    },
+    {
+      "id": "ajax-vs-burnley-2504451",
+      "title": "Ajax vs Burnley",
+      "sport": "football",
+      "competition": "football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-26T12:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "sonderjyske-vs-fc-midtjylland-football-1548976",
+      "title": "Sonderjyske vs FC Midtjylland",
+      "sport": "football",
+      "competition": "football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-26T12:00:00Z",
+      "streams": [
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/sonderjyske-vs-fc-midtjylland-football-1548976/1",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 1,
+      "poster": ""
+    },
+    {
+      "id": "atp-wta-tour-generali-estoril-hamburg-prague-open-tn-1",
+      "title": "ATP / WTA Tour: Generali / Estoril / Hamburg / Prague Open 🎾",
+      "sport": "tennis",
+      "competition": "tennis",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-26T12:00:00Z",
+      "streams": [
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/atp-wta-tour-generali-estoril-hamburg-prague-open-tn-1/1",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/atp-wta-tour-generali-estoril-hamburg-prague-open-tn-1/2",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/atp-wta-tour-generali-estoril-hamburg-prague-open-tn-1/3",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 3,
+      "poster": ""
+    },
+    {
+      "id": "liv-golf-uk-round-4-jcb-golf-country-club-game-162626",
+      "title": "LIV Golf UK | ROUND 4 - JCB Golf & Country Club",
+      "sport": "golf",
+      "competition": "golf",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-26T12:05:00Z",
+      "streams": [
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/liv-golf-uk-round-4-jcb-golf-country-club-game-162626/1",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/liv-golf-uk-round-4-jcb-golf-country-club-game-162626/2",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": ""
+    },
+    {
+      "id": "rakow-czestochowa-vs-wisla-plock-football-1553106",
+      "title": "Raków Częstochowa vs Wisla Plock",
+      "sport": "football",
+      "competition": "football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-26T12:45:00Z",
+      "streams": [
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/rakow-czestochowa-vs-wisla-plock-football-1553106/1",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 1,
+      "poster": ""
+    },
+    {
       "id": "admin-willow-cricket",
       "title": "Willow Cricket",
       "sport": "cricket",
@@ -320,8 +478,8 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBEBDXsQZgdgwwRgBOYAU0hDpqxQFZh5Tg0wmJgATMNTTAWkVqNri0LIinbQ61OvHS5CISiCggGIRPzWq0hNTTV5s2AMb6NNFif4h+VFxux5bFLXnk3aASx2PV0+LRRNR0hAtjYUBHZQYkk2JjBHEFsaOxytGFZYSWt5YFIVGOVgeTYOMl5AiCA.webp"
     },
     {
-      "id": "sonderjyske-vs-fc-midtjylland-football-1548976",
-      "title": "Sonderjyske vs FC Midtjylland",
+      "id": "pec-zwolle-vs-aek-athens-2521649",
+      "title": "PEC Zwolle vs AEK Athens",
       "sport": "football",
       "competition": "football",
       "status": "UPCOMING",
@@ -335,138 +493,9 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-07-26T12:00:00Z",
-      "streams": [
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/sonderjyske-vs-fc-midtjylland-football-1548976/1",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 1,
-      "poster": ""
-    },
-    {
-      "id": "ajax-vs-burnley-2504451",
-      "title": "Ajax vs Burnley",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-26T12:00:00Z",
+      "matchTimeUTC": "2026-07-26T13:00:00Z",
       "streams": [],
       "streamCount": 0,
-      "poster": ""
-    },
-    {
-      "id": "young-boys-vs-sion-2493329",
-      "title": "Young Boys vs Sion",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-26T12:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEFxlsoEENxB8DuPUZIgURlAWBIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp"
-    },
-    {
-      "id": "atp-wta-tour-generali-estoril-hamburg-prague-open-tn-1",
-      "title": "ATP / WTA Tour: Generali / Estoril / Hamburg / Prague Open 🎾",
-      "sport": "tennis",
-      "competition": "tennis",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-26T12:00:00Z",
-      "streams": [
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/atp-wta-tour-generali-estoril-hamburg-prague-open-tn-1/1",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/atp-wta-tour-generali-estoril-hamburg-prague-open-tn-1/2",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/atp-wta-tour-generali-estoril-hamburg-prague-open-tn-1/3",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 3,
-      "poster": ""
-    },
-    {
-      "id": "liv-golf-uk-round-4-jcb-golf-country-club-game-162626",
-      "title": "LIV Golf UK | ROUND 4 - JCB Golf & Country Club",
-      "sport": "golf",
-      "competition": "golf",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-26T12:05:00Z",
-      "streams": [
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/liv-golf-uk-round-4-jcb-golf-country-club-game-162626/1",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/liv-golf-uk-round-4-jcb-golf-country-club-game-162626/2",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 2,
       "poster": ""
     },
     {
@@ -485,7 +514,7 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-07-26T12:15:00Z",
+      "matchTimeUTC": "2026-07-26T13:15:00Z",
       "streams": [
         {
           "source": "echo",
@@ -513,56 +542,6 @@
       "poster": ""
     },
     {
-      "id": "rakow-czestochowa-vs-wisla-plock-football-1553106",
-      "title": "Raków Częstochowa vs Wisla Plock",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-26T12:45:00Z",
-      "streams": [
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/rakow-czestochowa-vs-wisla-plock-football-1553106/1",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 1,
-      "poster": ""
-    },
-    {
-      "id": "pec-zwolle-vs-aek-athens-2521649",
-      "title": "PEC Zwolle vs AEK Athens",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-26T13:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
-    },
-    {
       "id": "trabzonspor-vs-eintracht-frankfurt-game-1515151",
       "title": "Trabzonspor vs Eintracht Frankfurt",
       "sport": "football",
@@ -579,8 +558,30 @@
         }
       },
       "matchTimeUTC": "2026-07-26T13:30:00Z",
-      "streams": [],
-      "streamCount": 0,
+      "streams": [
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/trabzonspor-vs-eintracht-frankfurt-game-1515151/1",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/trabzonspor-vs-eintracht-frankfurt-game-1515151/2",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/trabzonspor-vs-eintracht-frankfurt-game-1515151/3",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 3,
       "poster": ""
     },
     {
