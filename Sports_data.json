@@ -1,197 +1,10 @@
 {
-  "lastUpdated": "2026-07-26T08:12:52Z",
-  "fetchDuration": "78.3s",
-  "totalMatches": 99,
-  "liveCount": 12,
+  "lastUpdated": "2026-07-26T10:39:00Z",
+  "fetchDuration": "73.3s",
+  "totalMatches": 95,
+  "liveCount": 8,
   "upcomingCount": 87,
   "matches": [
-    {
-      "id": "ppv-team-spoon-vs-team-coop",
-      "title": "TEAM SPOON vs. TEAM COOP",
-      "sport": "basketball",
-      "competition": "basketball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-26T00:30:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-team-spoon-vs-team-coop/1",
-          "language": "English - ABC",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-team-spoon-vs-team-coop/2",
-          "language": "English - ABC",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52wKiGEgY2EBEkgAxsERYQaiCJBlENYeJCIS64PPlSz0k8eMppKcpoFCRTbPTCFgSXIodCwbk5NfTIHAhVyQNNSUyA.webp"
-    },
-    {
-      "id": "team-cooper-w-vs-team-weatherspoon-w-basketball-503755",
-      "title": "Team Cooper W vs Team Weatherspoon W",
-      "sport": "basketball",
-      "competition": "basketball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-26T00:30:00Z",
-      "streams": [
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/team-cooper-w-vs-team-weatherspoon-w-basketball-503755/1",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/team-cooper-w-vs-team-weatherspoon-w-basketball-503755/2",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/team-cooper-w-vs-team-weatherspoon-w-basketball-503755/3",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 3,
-      "poster": ""
-    },
-    {
-      "id": "live-event_errol-spence-jr-vs-tim-tszyu-live-stream",
-      "title": "Errol Spence Jr vs Tim Tszyu",
-      "sport": "fight",
-      "competition": "fight",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-26T01:00:00Z",
-      "streams": [
-        {
-          "source": "delta",
-          "embedUrl": "https://embed.st/embed/delta/live-event_errol-spence-jr-vs-tim-tszyu-live-stream/1",
-          "language": "English",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "delta",
-          "embedUrl": "https://embed.st/embed/delta/live-event_errol-spence-jr-vs-tim-tszyu-live-stream/2",
-          "language": "English",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": ""
-    },
-    {
-      "id": "ppv-event-13-bkb-57-anarchy-in-the-uk-ppv-13",
-      "title": "BKB 57 Anarchy in the UK",
-      "sport": "other",
-      "competition": "other",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-26T01:00:00Z",
-      "streams": [
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/ppv-event-13-bkb-57-anarchy-in-the-uk-ppv-13/1",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/ppv-event-13-bkb-57-anarchy-in-the-uk-ppv-13/2",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": ""
-    },
-    {
-      "id": "ppv-event-12-pfl-dc-jean-v-musaev-ppv-12",
-      "title": "PFL DC Jean v Musaev",
-      "sport": "other",
-      "competition": "other",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-26T01:00:00Z",
-      "streams": [
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/ppv-event-12-pfl-dc-jean-v-musaev-ppv-12/1",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/ppv-event-12-pfl-dc-jean-v-musaev-ppv-12/2",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": ""
-    },
     {
       "id": "auckland-fc-vs-tottenham-hotspur-2467931",
       "title": "Auckland FC vs Tottenham Hotspur",
@@ -384,6 +197,35 @@
       "poster": ""
     },
     {
+      "id": "live-event_nascar-cup-series-2026-brickyard-400-live-stream",
+      "title": "Nascar Cup Series 2026 - Brickyard 400",
+      "sport": "motor-sports",
+      "competition": "motor-sports",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-26T08:45:00Z",
+      "streams": [
+        {
+          "source": "delta",
+          "embedUrl": "https://embed.st/embed/delta/live-event_nascar-cup-series-2026-brickyard-400-live-stream/1",
+          "language": "English",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 1,
+      "poster": ""
+    },
+    {
       "id": "admin-willow-cricket",
       "title": "Willow Cricket",
       "sport": "cricket",
@@ -521,8 +363,16 @@
         }
       },
       "matchTimeUTC": "2026-07-26T12:00:00Z",
-      "streams": [],
-      "streamCount": 0,
+      "streams": [
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/sonderjyske-vs-fc-midtjylland-football-1548976/1",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 1,
       "poster": ""
     },
     {
