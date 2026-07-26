@@ -1,73 +1,10 @@
 {
-  "lastUpdated": "2026-07-26T10:39:00Z",
-  "fetchDuration": "73.3s",
-  "totalMatches": 95,
-  "liveCount": 8,
+  "lastUpdated": "2026-07-26T11:57:21Z",
+  "fetchDuration": "66.6s",
+  "totalMatches": 93,
+  "liveCount": 6,
   "upcomingCount": 87,
   "matches": [
-    {
-      "id": "auckland-fc-vs-tottenham-hotspur-2467931",
-      "title": "Auckland FC vs Tottenham Hotspur",
-      "sport": "football",
-      "competition": "football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-26T03:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
-    },
-    {
-      "id": "tigres-uanl-vs-atl-tico-de-san-luis-2487463",
-      "title": "Tigres UANL vs Atlético de San Luis",
-      "sport": "football",
-      "competition": "football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-26T03:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBQ1KHMLOkheILCFMQQ5mBc03F+YEgpYRcxltUoeYMvCLU5nvb0YN7iYhBAA.webp"
-    },
-    {
-      "id": "tokyo-eprix-free-practice-3-2495034",
-      "title": "Tokyo ePrix Free Practice 3",
-      "sport": "motor-sports",
-      "competition": "motor-sports",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-26T04:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEOBghaUbiD16+IEsZBG9JqSBTaCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
     {
       "id": "live-event_formula-e-2026-gp-tokyo-2-live-stream",
       "title": "Formula E 2026 - GP Tokyo 2",
@@ -145,6 +82,42 @@
       "streams": [],
       "streamCount": 0,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFHJAzaMlCG4g+WkCZL6QiRHvgFgSCn2Gz6KMCo1s35ellkamtGBuYqIQQA.webp"
+    },
+    {
+      "id": "formula-e-tokyo-eprix-free-practice-2-tokyo-street-circuit-game-499954",
+      "title": "Formula E Tokyo ePrix | Free Practice 2 - Tokyo Street Circuit",
+      "sport": "motor-sports",
+      "competition": "motor-sports",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-26T06:30:00Z",
+      "streams": [
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/formula-e-tokyo-eprix-free-practice-2-tokyo-street-circuit-game-499954/1",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/formula-e-tokyo-eprix-free-practice-2-tokyo-street-circuit-game-499954/2",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": ""
     },
     {
       "id": "f3-hungary-f2-hungary-game-19996",
