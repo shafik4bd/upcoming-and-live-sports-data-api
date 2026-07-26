@@ -1,75 +1,10 @@
 {
-  "lastUpdated": "2026-07-26T05:54:06Z",
-  "fetchDuration": "99.9s",
-  "totalMatches": 100,
+  "lastUpdated": "2026-07-26T08:12:52Z",
+  "fetchDuration": "78.3s",
+  "totalMatches": 99,
   "liveCount": 12,
-  "upcomingCount": 88,
+  "upcomingCount": 87,
   "matches": [
-    {
-      "id": "ppv-event-11-fight-to-win-322-ppv-11",
-      "title": "Fight to Win 322",
-      "sport": "other",
-      "competition": "other",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-26T00:00:00Z",
-      "streams": [
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/ppv-event-11-fight-to-win-322-ppv-11/1",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 1,
-      "poster": ""
-    },
-    {
-      "id": "ppv-event-03-bkfc-fight-night-reyno-v-krejci-ppv-03",
-      "title": "BKFC Fight Night Reyno v Krejci ⭐",
-      "sport": "other",
-      "competition": "other",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-26T00:00:00Z",
-      "streams": [
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/ppv-event-03-bkfc-fight-night-reyno-v-krejci-ppv-03/1",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "echo",
-          "embedUrl": "https://embed.st/embed/echo/ppv-event-03-bkfc-fight-night-reyno-v-krejci-ppv-03/2",
-          "language": "",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": ""
-    },
     {
       "id": "ppv-team-spoon-vs-team-coop",
       "title": "TEAM SPOON vs. TEAM COOP",
@@ -150,8 +85,8 @@
       "poster": ""
     },
     {
-      "id": "errol-spence-jr--vs-tim-tszyu-2483552",
-      "title": "Errol Spence Jr. vs Tim Tszyu",
+      "id": "live-event_errol-spence-jr-vs-tim-tszyu-live-stream",
+      "title": "Errol Spence Jr vs Tim Tszyu",
       "sport": "fight",
       "competition": "fight",
       "status": "LIVE",
@@ -166,9 +101,24 @@
         }
       },
       "matchTimeUTC": "2026-07-26T01:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmhAktxRNJC8QWECYhGTIFCH3UjLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp"
+      "streams": [
+        {
+          "source": "delta",
+          "embedUrl": "https://embed.st/embed/delta/live-event_errol-spence-jr-vs-tim-tszyu-live-stream/1",
+          "language": "English",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "delta",
+          "embedUrl": "https://embed.st/embed/delta/live-event_errol-spence-jr-vs-tim-tszyu-live-stream/2",
+          "language": "English",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": ""
     },
     {
       "id": "ppv-event-13-bkb-57-anarchy-in-the-uk-ppv-13",
@@ -198,6 +148,42 @@
         {
           "source": "echo",
           "embedUrl": "https://embed.st/embed/echo/ppv-event-13-bkb-57-anarchy-in-the-uk-ppv-13/2",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": ""
+    },
+    {
+      "id": "ppv-event-12-pfl-dc-jean-v-musaev-ppv-12",
+      "title": "PFL DC Jean v Musaev",
+      "sport": "other",
+      "competition": "other",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-26T01:00:00Z",
+      "streams": [
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/ppv-event-12-pfl-dc-jean-v-musaev-ppv-12/1",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/ppv-event-12-pfl-dc-jean-v-musaev-ppv-12/2",
           "language": "",
           "hd": true,
           "quality": "HD"
@@ -249,10 +235,10 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBQ1KHMLOkheILCFMQQ5mBc03F+YEgpYRcxltUoeYMvCLU5nvb0YN7iYhBAA.webp"
     },
     {
-      "id": "brisbane-lions-vs-port-adelaide-football-club-2495790",
-      "title": "Brisbane Lions vs Port Adelaide Football Club",
-      "sport": "afl",
-      "competition": "afl",
+      "id": "tokyo-eprix-free-practice-3-2495034",
+      "title": "Tokyo ePrix Free Practice 3",
+      "sport": "motor-sports",
+      "competition": "motor-sports",
       "status": "LIVE",
       "teams": {
         "home": {
@@ -264,31 +250,10 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-07-26T03:10:00Z",
+      "matchTimeUTC": "2026-07-26T04:30:00Z",
       "streams": [],
       "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rPiBRhe3XGCQhdUkBBAaQZkDBAlcJgsCQU+w2fS0qUXMGXhEssl5MtGA+YqIQQA.webp"
-    },
-    {
-      "id": "st--george-illawara-dragons-vs-gold-coast-titans-2417322",
-      "title": "St. George Illawara Dragons vs Gold Coast Titans",
-      "sport": "rugby",
-      "competition": "rugby",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-26T04:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFMCnY2IKNxD6+IKSFMkDIRIlMgCwJBT7DZ9FGBUa278vSyyNTLRg7mKiEEA.webp"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEOBghaUbiD16+IEsZBG9JqSBTaCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
     },
     {
       "id": "live-event_formula-e-2026-gp-tokyo-2-live-stream",
@@ -345,6 +310,77 @@
         }
       ],
       "streamCount": 2,
+      "poster": ""
+    },
+    {
+      "id": "manly-sea-eagles-vs-cronulla-sharks-2417324",
+      "title": "Manly Sea Eagles vs Cronulla Sharks",
+      "sport": "rugby",
+      "competition": "rugby",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-26T06:05:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFHJAzaMlCG4g+WkCZL6QiRHvgFgSCn2Gz6KMCo1s35ellkamtGBuYqIQQA.webp"
+    },
+    {
+      "id": "f3-hungary-f2-hungary-game-19996",
+      "title": "F3: Hungary | F2: Hungary  🏁",
+      "sport": "motor-sports",
+      "competition": "motor-sports",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-26T06:35:00Z",
+      "streams": [
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/f3-hungary-f2-hungary-game-19996/1",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/f3-hungary-f2-hungary-game-19996/2",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/f3-hungary-f2-hungary-game-19996/3",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "echo",
+          "embedUrl": "https://embed.st/embed/echo/f3-hungary-f2-hungary-game-19996/4",
+          "language": "",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 4,
       "poster": ""
     },
     {
@@ -467,27 +503,6 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBEBDXsQZgdgwwRgBOYAU0hDpqxQFZh5Tg0wmJgATMNTTAWkVqNri0LIinbQ61OvHS5CISiCggGIRPzWq0hNTTV5s2AMb6NNFif4h+VFxux5bFLXnk3aASx2PV0+LRRNR0hAtjYUBHZQYkk2JjBHEFsaOxytGFZYSWt5YFIVGOVgeTYOMl5AiCA.webp"
-    },
-    {
-      "id": "manly-sea-eagles-vs-cronulla-sharks-2417324",
-      "title": "Manly Sea Eagles vs Cronulla Sharks",
-      "sport": "rugby",
-      "competition": "rugby",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-26T06:05:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFHJAzaMlCG4g+WkCZL6QiRHvgFgSCn2Gz6KMCo1s35ellkamtGBuYqIQQA.webp"
     },
     {
       "id": "sonderjyske-vs-fc-midtjylland-football-1548976",
