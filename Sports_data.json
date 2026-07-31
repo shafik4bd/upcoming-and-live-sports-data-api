@@ -1,10 +1,31 @@
 {
-  "lastUpdated": "2026-07-31T20:57:29Z",
-  "fetchDuration": "121.8s",
-  "totalMatches": 127,
-  "liveCount": 16,
+  "lastUpdated": "2026-07-31T22:00:11Z",
+  "fetchDuration": "86.1s",
+  "totalMatches": 128,
+  "liveCount": 17,
   "upcomingCount": 111,
   "matches": [
+    {
+      "id": "ppv-event-01-one-friday-fights-164-watcharaphon-v-hamidi-ppv-01",
+      "title": "ONE Friday Fights 164 Watcharaphon v Hamidi 💥",
+      "sport": "other",
+      "competition": "other",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-31T14:30:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
     {
       "id": "world-rally-championship-finland-game-4u8337",
       "title": "World Rally Championship Finland 🏁",
@@ -192,7 +213,7 @@
       "matchTimeUTC": "2026-07-31T18:45:00Z",
       "streams": [],
       "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5Mw4FRABjEMJAkQKECGzz5wCCHjBEchXKWbEmuVhBYN0xedkiQJ0inIRQYQSKbZ6YQsCS4pJyE3VhdxMicCHXI3DVINIA.webp"
+      "poster": ""
     },
     {
       "id": "birmingham-city-vs-barcelona-2521699",
@@ -213,7 +234,7 @@
       "matchTimeUTC": "2026-07-31T18:45:00Z",
       "streams": [],
       "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGsNIgYIEFJIgAxsAjiQwkPFLYRIVVhHAqe3RskLZcsqq1YlSlOQigwgwwR2OwhYElyLHIVdWZ3N6Dy0wVxVtCCA.webp"
+      "poster": ""
     },
     {
       "id": "leigh-leopards-vs-wigan-warriors-2395982",
@@ -235,27 +256,6 @@
       "streams": [],
       "streamCount": 0,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWiRApgMkJRDcQfEFJCaQFkIkTGpBYEgp9hs+ijArtbD+XpZZ2ky0YB5iohBAA.webp"
-    },
-    {
-      "id": "dundee-united-vs-rangers-2494410",
-      "title": "Dundee United vs Rangers",
-      "sport": "football",
-      "competition": "football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-31T19:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKhBD1pYaSBIgsIXoZBnqxkCi0gLRlCyQUsIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp"
     },
     {
       "id": "ppv-event-02-portable-v-okocha-2-ppv-02",
@@ -370,6 +370,35 @@
       "streams": [],
       "streamCount": 0,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKimx8w-MAxC8QWECZIgzh6iETGsLJBTvtR4zapQ8wZeEWpyP+KzAYF7iYhBAA.webp"
+    },
+    {
+      "id": "24079",
+      "title": "PFL : Usman Nurmagomedov - Archie Colgan",
+      "sport": "fight",
+      "competition": "fight",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-31T21:00:00Z",
+      "streams": [
+        {
+          "source": "golf",
+          "embedUrl": "https://embed.st/embed/golf/24079/1",
+          "language": "English",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 1,
+      "poster": ""
     },
     {
       "id": "admin-willow-cricket",
@@ -1081,8 +1110,8 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNq15ZgYECRDcQfIyAgHcJxPpAFgSCn2Gz6KMCpRc35ettEemtGBuYqIQQA.webp"
     },
     {
-      "id": "atletico-san-luis-vs-club-tijuana-football-1550913",
-      "title": "Atletico San Luis vs Club Tijuana",
+      "id": "fc-juarez-vs-unam-pumas-football-1550914",
+      "title": "FC Juarez vs U.N.A.M. - Pumas",
       "sport": "football",
       "competition": "football",
       "status": "UPCOMING",
@@ -1102,8 +1131,8 @@
       "poster": ""
     },
     {
-      "id": "fc-juarez-vs-unam-pumas-football-1550914",
-      "title": "FC Juarez vs U.N.A.M. - Pumas",
+      "id": "atletico-san-luis-vs-club-tijuana-football-1550913",
+      "title": "Atletico San Luis vs Club Tijuana",
       "sport": "football",
       "competition": "football",
       "status": "UPCOMING",
@@ -2411,42 +2440,6 @@
       "poster": ""
     },
     {
-      "id": "ppv-atlas-vs-monterrey",
-      "title": "Atlas vs. Monterrey",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-02T01:00:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-atlas-vs-monterrey/1",
-          "language": "Spanish - TUDN",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-atlas-vs-monterrey/2",
-          "language": "Spanish - TUDN",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52IkCmAQQiKiDI05w8SglSpaxNK0glMkAeEhpC3SCzypk-mEEim2emELAkuAMaSht1hHtlJAmB4clt1MgggA.webp"
-    },
-    {
       "id": "ppv-le-n-vs-pachuca",
       "title": "León vs. Pachuca",
       "sport": "football",
@@ -2481,6 +2474,42 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52IGCBQgIILNJBVxpScEURswGcJDwR2EAZDKSCnSBMGJMo7rn5y6gUL0ENKcoWBJcAY3dCwbk51YVJ6V10wQM0wiCA.webp"
+    },
+    {
+      "id": "ppv-atlas-vs-monterrey",
+      "title": "Atlas vs. Monterrey",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-02T01:00:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-atlas-vs-monterrey/1",
+          "language": "Spanish - TUDN",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-atlas-vs-monterrey/2",
+          "language": "Spanish - TUDN",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52IkCmAQQiKiDI05w8SglSpaxNK0glMkAeEhpC3SCzypk-mEEim2emELAkuAMaSht1hHtlJAmB4clt1MgggA.webp"
     },
     {
       "id": "24076",
