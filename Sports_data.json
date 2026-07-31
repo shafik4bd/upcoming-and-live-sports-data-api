@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-07-31T11:25:32Z",
-  "fetchDuration": "146.4s",
+  "lastUpdated": "2026-07-31T13:46:41Z",
+  "fetchDuration": "83.6s",
   "totalMatches": 126,
-  "liveCount": 4,
-  "upcomingCount": 122,
+  "liveCount": 3,
+  "upcomingCount": 123,
   "matches": [
     {
       "id": "shanghai-masters-snooker-pick3",
@@ -67,27 +67,6 @@
       "streams": [],
       "streamCount": 0,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFCD5gkFYNhDdNIKSFMkDIRBFymCwHTH7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "fremantle-football-club-vs-western-bulldogs-2495793",
-      "title": "Fremantle Football Club vs Western Bulldogs",
-      "sport": "afl",
-      "competition": "afl",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-07-31T10:10:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJMA2s+uSCG4gph-SaMhjBiUyQU+w2fRRgVKLs-L0ss101phnYqIQQA.webp"
     },
     {
       "id": "admin-willow-cricket",
@@ -272,6 +251,42 @@
       "streams": [],
       "streamCount": 0,
       "poster": ""
+    },
+    {
+      "id": "ppv-sparta-praha-vs-zl-n",
+      "title": "Sparta Praha vs. Zlín",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-07-31T17:00:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-sparta-praha-vs-zl-n/1",
+          "language": "Czech - Oneplay Sport 1",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-sparta-praha-vs-zl-n/2",
+          "language": "Czech - Oneplay Sport 1",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MiAMYhhwCKWDxswKiBWSUIMlhCSYUkFpUh5ICYbLCQymCJDqItyynKyBQkU0VOwhYElzinITBuTllpMicCeXJgmTkIIA.webp"
     },
     {
       "id": "nec-nijmegen-vs-sevilla-2521689",
@@ -2217,6 +2232,78 @@
       "poster": ""
     },
     {
+      "id": "ppv-minnesota-united-fc-vs-san-diego-fc",
+      "title": "Minnesota United FC vs. San Diego FC",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-02T00:30:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-minnesota-united-fc-vs-san-diego-fc/1",
+          "language": "English - Apple TV",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-minnesota-united-fc-vs-san-diego-fc/2",
+          "language": "English - Apple TV",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52IMjQggqIeMAikRIZcPlqsSmSmAySykMJBZpIAMb6QO4HLlSNEbfzCCRTbPTCFgSXKe1DnVgVVMm0Ca3JnNTIIIA.webp"
+    },
+    {
+      "id": "ppv-chicago-fire-fc-vs-charlotte-fc",
+      "title": "Chicago Fire FC vs. Charlotte FC",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-02T00:30:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-chicago-fire-fc-vs-charlotte-fc/1",
+          "language": "English - Apple TV",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-chicago-fire-fc-vs-charlotte-fc/2",
+          "language": "English - Apple TV",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEiADG4kcHhzsIeRFlUQwxYjISs6xdMQoQMRRp3AaNM8ZTkVAobILZ6YQsCS5JtoWG6cVM3pneTA-YBUyCCA.webp"
+    },
+    {
       "id": "ppv-sporting-kansas-city-vs-houston-dynamo-fc",
       "title": "Sporting Kansas City vs. Houston Dynamo FC",
       "sport": "football",
@@ -2287,78 +2374,6 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEiBDZJIRChAwQVcaRHAaZZWSwgd8+QGMlIkMODxzuy1J0H1slOQigwgtQWz0whYElwHHIVdWZzMyRw8LMFdgZzIIIA.webp"
-    },
-    {
-      "id": "ppv-chicago-fire-fc-vs-charlotte-fc",
-      "title": "Chicago Fire FC vs. Charlotte FC",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-02T00:30:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-chicago-fire-fc-vs-charlotte-fc/1",
-          "language": "English - Apple TV",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-chicago-fire-fc-vs-charlotte-fc/2",
-          "language": "English - Apple TV",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEiADG4kcHhzsIeRFlUQwxYjISs6xdMQoQMRRp3AaNM8ZTkVAobILZ6YQsCS5JtoWG6cVM3pneTA-YBUyCCA.webp"
-    },
-    {
-      "id": "ppv-minnesota-united-fc-vs-san-diego-fc",
-      "title": "Minnesota United FC vs. San Diego FC",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-02T00:30:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-minnesota-united-fc-vs-san-diego-fc/1",
-          "language": "English - Apple TV",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-minnesota-united-fc-vs-san-diego-fc/2",
-          "language": "English - Apple TV",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52IMjQggqIeMAikRIZcPlqsSmSmAySykMJBZpIAMb6QO4HLlSNEbfzCCRTbPTCFgSXKe1DnVgVVMm0Ca3JnNTIIIA.webp"
     },
     {
       "id": "24075",
@@ -2585,42 +2600,6 @@
       "poster": ""
     },
     {
-      "id": "ppv-la-galaxy-vs-fc-dallas",
-      "title": "LA Galaxy vs. FC Dallas",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-02T02:30:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-la-galaxy-vs-fc-dallas/1",
-          "language": "English - Apple TV",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-la-galaxy-vs-fc-dallas/2",
-          "language": "English - Apple TV",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEiCwgYIFCBpZg8YBGwiR80iGVVxIfQGNZII-sTKywpRolldq3uVUCh6gmpTlCwJLgOehMG5OVSsyT3dlMCCVUhUgA.webp"
-    },
-    {
       "id": "ppv-portland-timbers-vs-seattle-sounders-fc",
       "title": "Portland Timbers vs. Seattle Sounders FC",
       "sport": "football",
@@ -2655,6 +2634,42 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MNEiBilgVEDQjAIIJSGwgJWZSE1TNsndhFyQq4VrNKp8IwGMU5BQKEimh+2ELAkuO87DdOBWFpewJgazB-RWkIIA.webp"
+    },
+    {
+      "id": "ppv-la-galaxy-vs-fc-dallas",
+      "title": "LA Galaxy vs. FC Dallas",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-02T02:30:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-la-galaxy-vs-fc-dallas/1",
+          "language": "English - Apple TV",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-la-galaxy-vs-fc-dallas/2",
+          "language": "English - Apple TV",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEiCwgYIFCBpZg8YBGwiR80iGVVxIfQGNZII-sTKywpRolldq3uVUCh6gmpTlCwJLgOehMG5OVSsyT3dlMCCVUhUgA.webp"
     },
     {
       "id": "ppv-cruz-azul-vs-atlante",
