@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-08-02T15:56:10Z",
-  "fetchDuration": "72.5s",
-  "totalMatches": 93,
-  "liveCount": 19,
-  "upcomingCount": 74,
+  "lastUpdated": "2026-08-02T16:52:08Z",
+  "fetchDuration": "64.9s",
+  "totalMatches": 91,
+  "liveCount": 21,
+  "upcomingCount": 70,
   "matches": [
     {
       "id": "shanghai-masters-snooker-pick3",
@@ -132,27 +132,6 @@
       "poster": ""
     },
     {
-      "id": "brondby-vs-viborg-football-1548983",
-      "title": "Brondby vs Viborg",
-      "sport": "football",
-      "competition": "football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-02T14:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
-    },
-    {
       "id": "berlin-thunder-vs-london-warriors-2475827",
       "title": "Berlin Thunder vs London Warriors",
       "sport": "american-football",
@@ -193,48 +172,6 @@
       "streams": [],
       "streamCount": 0,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKmLIwGIekhC8QWECYi6QJIyDMwQ0lkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp"
-    },
-    {
-      "id": "sion-vs-luzern-2493336",
-      "title": "Sion vs Luzern",
-      "sport": "football",
-      "competition": "football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-02T14:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECGAy+IGMAAM7ENxA6dOEzqnGQEDQWBIKfYbPoowKlF0-l6WWW8mWjBPMVEIIA.webp"
-    },
-    {
-      "id": "grasshoppers-vs-lugano-2493337",
-      "title": "Grasshoppers vs Lugano",
-      "sport": "football",
-      "competition": "football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-02T14:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFKDBSQEEAKQhue4ziN8Q2szoLAkFPsNn0UYFRravy9LLI1NaYK5iohBAA.webp"
     },
     {
       "id": "trabzonspor-vs-udinese-2549418",
@@ -405,6 +342,141 @@
       "poster": ""
     },
     {
+      "id": "silkeborg-if-vs-fc-copenhagen-2481802",
+      "title": "Silkeborg IF vs FC Copenhagen",
+      "sport": "football",
+      "competition": "football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-02T16:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdrwr1aMYNJC8QWECeogzhkiCv7J+YEgpYRcxijCqUPD+UbU5Xvb0YB7iYhBAA.webp"
+    },
+    {
+      "id": "ppv-silkeborg-if-vs-f-c-k-benhavn",
+      "title": "Silkeborg IF vs. F.C. København",
+      "sport": "football",
+      "competition": "football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-02T16:00:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-silkeborg-if-vs-f-c-k-benhavn/1",
+          "language": "DK - TV3+",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-silkeborg-if-vs-f-c-k-benhavn/2",
+          "language": "DK - TV3+",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MVEBBHAaZcQGMQJEFlLAIIDSmwga48TBAxg8aRO0qVk8UuFrTILfzCCpBbPTCFgSXHK1DnVklbMi03EzBnOzIIIA.webp"
+    },
+    {
+      "id": "ppv-sunderland-vs-wrexham",
+      "title": "Sunderland vs. Wrexham",
+      "sport": "football",
+      "competition": "football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-02T16:00:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-sunderland-vs-wrexham/1",
+          "language": "English - ESPN",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-sunderland-vs-wrexham/2",
+          "language": "English - ESPN",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEECGBUJIROOk1hIFCCXSsqkOuBzSmiHqUllmmBOwgNAY2AQU5AwKEim2emELAkuK-aFhuTgNhUnoCHXIA21CIIA.webp"
+    },
+    {
+      "id": "psv-eindhoven-vs-az-alkmaar-football-1599182",
+      "title": "PSV Eindhoven vs AZ Alkmaar",
+      "sport": "football",
+      "competition": "football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-02T16:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "genk-vs-twente-2521795",
+      "title": "Genk vs Twente",
+      "sport": "football",
+      "competition": "football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-02T16:30:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
       "id": "admin-willow-cricket",
       "title": "Willow Cricket",
       "sport": "cricket",
@@ -526,63 +598,6 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBEBDXsQZgdgwwRgBOYAU0hDpqxQFZh5Tg0wmJgATMNTTAWkVqNri0LIinbQ61OvHS5CISiCggGIRPzWq0hNTTV5s2AMb6NNFif4h+VFxux5bFLXnk3aASx2PV0+LRRNR0hAtjYUBHZQYkk2JjBHEFsaOxytGFZYSWt5YFIVGOVgeTYOMl5AiCA.webp"
     },
     {
-      "id": "psv-eindhoven-vs-az-alkmaar-football-1599182",
-      "title": "PSV Eindhoven vs AZ Alkmaar",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-02T16:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
-    },
-    {
-      "id": "ppv-silkeborg-if-vs-f-c-k-benhavn",
-      "title": "Silkeborg IF vs. F.C. København",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-02T16:00:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-silkeborg-if-vs-f-c-k-benhavn/1",
-          "language": "DK - TV3+",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-silkeborg-if-vs-f-c-k-benhavn/2",
-          "language": "DK - TV3+",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MVEBBHAaZcQGMQJEFlLAIIDSmwga48TBAxg8aRO0qVk8UuFrTILfzCCpBbPTCFgSXHK1DnVklbMi03EzBnOzIIIA.webp"
-    },
-    {
       "id": "wrexham-vs-sunderland-2529350",
       "title": "Wrexham vs Sunderland",
       "sport": "football",
@@ -602,48 +617,6 @@
       "streams": [],
       "streamCount": 0,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEECGBUJIROOk1hIFCCXSsqkOuBzSmiHqUllmmBOwgNAY2AQU5AwKEim2emELAkuK-aFhuTgNhUnoCHXIA21CIIA.webp"
-    },
-    {
-      "id": "silkeborg-if-vs-fc-copenhagen-2481802",
-      "title": "Silkeborg IF vs FC Copenhagen",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-02T16:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdrwr1aMYNJC8QWECeogzhkiCv7J+YEgpYRcxijCqUPD+UbU5Xvb0YB7iYhBAA.webp"
-    },
-    {
-      "id": "genk-vs-twente-2521795",
-      "title": "Genk vs Twente",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-02T16:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
     },
     {
       "id": "rapid-vienna-vs-scr-altach-2499708",
@@ -1768,8 +1741,8 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEPxAzCtKSG4g+IEiAggYWkFZT7DBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp"
     },
     {
-      "id": "atlanta-dream-w-vs-las-vegas-aces-w-basketball-494995",
-      "title": "Atlanta Dream W vs Las Vegas Aces W",
+      "id": "new-york-liberty-w-vs-seattle-storm-w-basketball-494997",
+      "title": "New York Liberty W vs Seattle Storm W",
       "sport": "basketball",
       "competition": "basketball",
       "status": "UPCOMING",
@@ -1789,8 +1762,8 @@
       "poster": ""
     },
     {
-      "id": "new-york-liberty-w-vs-seattle-storm-w-basketball-494997",
-      "title": "New York Liberty W vs Seattle Storm W",
+      "id": "atlanta-dream-w-vs-las-vegas-aces-w-basketball-494995",
+      "title": "Atlanta Dream W vs Las Vegas Aces W",
       "sport": "basketball",
       "competition": "basketball",
       "status": "UPCOMING",
