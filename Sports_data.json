@@ -1,52 +1,10 @@
 {
-  "lastUpdated": "2026-08-02T10:28:20Z",
-  "fetchDuration": "80.2s",
+  "lastUpdated": "2026-08-02T11:56:41Z",
+  "fetchDuration": "73.6s",
   "totalMatches": 104,
-  "liveCount": 4,
-  "upcomingCount": 100,
+  "liveCount": 3,
+  "upcomingCount": 101,
   "matches": [
-    {
-      "id": "la-galaxy-vs-fc-dallas-2406976",
-      "title": "LA Galaxy vs FC Dallas",
-      "sport": "football",
-      "competition": "football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-02T02:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENxD0wYErjCbNfEMaMg9iRMb4FgSCjdYixKXWxRdd5ellkemtDqi9MFAA.webp"
-    },
-    {
-      "id": "portland-timbers-vs-seattle-sounders-2406977",
-      "title": "Portland Timbers vs Seattle Sounders",
-      "sport": "football",
-      "competition": "football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-02T02:45:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFCRgQIKduBIQ3EHxNGzJEIkSmQBAxT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
     {
       "id": "wests-tigers-vs-parramatta-eels-2417333",
       "title": "Wests Tigers vs Parramatta Eels",
@@ -85,6 +43,27 @@
         }
       },
       "matchTimeUTC": "2026-08-02T06:40:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "shanghai-masters-snooker-pick3",
+      "title": "Shanghai Masters Snooker  🎱",
+      "sport": "other",
+      "competition": "other",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-02T11:30:00Z",
       "streams": [],
       "streamCount": 0,
       "poster": ""
@@ -209,111 +188,6 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBEBDXsQZgdgwwRgBOYAU0hDpqxQFZh5Tg0wmJgATMNTTAWkVqNri0LIinbQ61OvHS5CISiCggGIRPzWq0hNTTV5s2AMb6NNFif4h+VFxux5bFLXnk3aASx2PV0+LRRNR0hAtjYUBHZQYkk2JjBHEFsaOxytGFZYSWt5YFIVGOVgeTYOMl5AiCA.webp"
-    },
-    {
-      "id": "st--louis-city-sc-vs-real-salt-lake-2406974",
-      "title": "St. Louis City SC vs Real Salt Lake",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-02T00:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VZWxAoQZRNxB8DIfYZIhEiQ1ILAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp"
-    },
-    {
-      "id": "sporting-kansas-city-vs-houston-dynamo-2406973",
-      "title": "Sporting Kansas City vs Houston Dynamo",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-02T00:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKBBC8wwJCH3cQfEDBBSjWkIkMojBXRT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "minnesota-united-vs-san-diego-fc-2406972",
-      "title": "Minnesota United vs San Diego FC",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-02T00:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAdzBJoMNiG4g+h-cZIhEiIyQLBtuvsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp"
-    },
-    {
-      "id": "chicago-fire-vs-charlotte-fc-2406971",
-      "title": "Chicago Fire vs Charlotte FC",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-02T00:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAQJQgSIGGxDcQfXSClGDIRDhjaCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "colorado-rapids-vs-austin-fc-2406975",
-      "title": "Colorado Rapids vs Austin FC",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-02T01:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VWvSQgQwAAzAt3EHxAwQU4yCOIcJECQIGKfYbPoowKlF0-l6WWW8mWjBPMVEIIA.webp"
     },
     {
       "id": "fc-nordsjaelland-vs-randers-fc-football-1548982",
@@ -484,6 +358,27 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKtRDh61YGFgheILFpAQQiEsbMgYWlkgpYRcxijCqUPD+Ua6xXviseh7iYhBAA.webp"
     },
     {
+      "id": "volendam-vs-ajax-2521789",
+      "title": "Volendam vs Ajax",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-02T12:30:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
       "id": "legia-warszawa-vs-zaglebie-lubin-football-1553113",
       "title": "Legia Warszawa vs Zaglebie Lubin",
       "sport": "football",
@@ -500,6 +395,48 @@
         }
       },
       "matchTimeUTC": "2026-08-02T12:45:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "legia-warsaw-vs-zag--bie-lubin-2490199",
+      "title": "Legia Warsaw vs Zagłębie Lubin",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-02T12:45:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rYNCw8QM0Nx0gShkH2MgzJgsCQU+w2fRRgVKLs-L0to101phnYqIQQA.webp"
+    },
+    {
+      "id": "feyenoord-vs-atalanta-2521791",
+      "title": "Feyenoord vs Atalanta",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-02T13:00:00Z",
       "streams": [],
       "streamCount": 0,
       "poster": ""
@@ -799,6 +736,27 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBQhZVXmBACQvEFhBnqRzSEQXzLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp"
     },
     {
+      "id": "-l-sk-wroc-aw-vs-rak-w-cz-stochowa-2490198",
+      "title": "Śląsk Wrocław vs Raków Częstochowa",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-02T15:30:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLAzEAGENzB9dIKSBImQB0yCMgY5gsCQU+w2fRRgVKLh-L0NoryZaMA8xUQggA.webp"
+    },
+    {
       "id": "psv-eindhoven-vs-az-alkmaar-football-1599182",
       "title": "PSV Eindhoven vs AZ Alkmaar",
       "sport": "football",
@@ -836,8 +794,23 @@
         }
       },
       "matchTimeUTC": "2026-08-02T16:00:00Z",
-      "streams": [],
-      "streamCount": 0,
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-silkeborg-if-vs-f-c-k-benhavn/1",
+          "language": "DK - TV3+",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-silkeborg-if-vs-f-c-k-benhavn/2",
+          "language": "DK - TV3+",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MVEBBHAaZcQGMQJEFlLAIIDSmwga48TBAxg8aRO0qVk8UuFrTILfzCCpBbPTCFgSXHK1DnVklbMi03EzBnOzIIIA.webp"
     },
     {
@@ -881,6 +854,27 @@
       "streams": [],
       "streamCount": 0,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdrwr1aMYNJC8QWECeogzhkiCv7J+YEgpYRcxijCqUPD+UbU5Xvb0YB7iYhBAA.webp"
+    },
+    {
+      "id": "genk-vs-twente-2521795",
+      "title": "Genk vs Twente",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-02T16:30:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
     },
     {
       "id": "rapid-vienna-vs-scr-altach-2499708",
@@ -1177,6 +1171,27 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdoLCs+FNCF4gsIY9RCmUICyUsgYLJBSwi5jFGFUoe78o2pzP+Npg7uJiEEA.webp"
     },
     {
+      "id": "rocket-classic-day-4-pga-tour-golf-pga-526234",
+      "title": "Rocket Classic Day 4 | PGA Tour Golf 🏌",
+      "sport": "other",
+      "competition": "other",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-02T18:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
       "id": "houston-astros-vs-texas-rangers-2388557",
       "title": "Houston Astros vs Texas Rangers",
       "sport": "baseball",
@@ -1387,42 +1402,6 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKSAghuYUVA3cQfEBpQmjISwZAoCwJBT7DZ9FLrYouu8vSyzPTLRg7vR6QA.webp"
     },
     {
-      "id": "ppv-lollapalooza-chicago-2026-channel-1",
-      "title": "Lollapalooza Chicago 2026 | Channel 1",
-      "sport": "other",
-      "competition": "other",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-02T20:00:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-lollapalooza-chicago-2026-channel-1/1",
-          "language": "English - Disney+",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-lollapalooza-chicago-2026-channel-1/2",
-          "language": "English - Disney+",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcSnEgspaSBLTgVOSGAQ5ChfDUgaWEMLkBjbCBRLdIRIZjzgiKuf5hBIptnphCwJLiPmhF1YINzJzAntyFzVSNSA.webp"
-    },
-    {
       "id": "ppv-lollapalooza-chicago-2026-channel-2",
       "title": "Lollapalooza Chicago 2026 | Channel 2",
       "sport": "other",
@@ -1450,6 +1429,42 @@
         {
           "source": "admin",
           "embedUrl": "https://embed.st/embed/admin/ppv-lollapalooza-chicago-2026-channel-2/2",
+          "language": "English - Disney+",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcSnEgspaSBLTgVOSGAQ5ChfDUgaWEMLkBjbCBRLdIRIZjzgiKuf5hBIptnphCwJLiPmhF1YINzJzAntyFzVSNSA.webp"
+    },
+    {
+      "id": "ppv-lollapalooza-chicago-2026-channel-1",
+      "title": "Lollapalooza Chicago 2026 | Channel 1",
+      "sport": "other",
+      "competition": "other",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-02T20:00:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-lollapalooza-chicago-2026-channel-1/1",
+          "language": "English - Disney+",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-lollapalooza-chicago-2026-channel-1/2",
           "language": "English - Disney+",
           "hd": false,
           "quality": "SD"
