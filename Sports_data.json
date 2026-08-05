@@ -1,76 +1,13 @@
 {
-  "lastUpdated": "2026-08-05T05:40:17Z",
-  "fetchDuration": "116.5s",
-  "totalMatches": 171,
-  "liveCount": 4,
+  "lastUpdated": "2026-08-05T08:23:27Z",
+  "fetchDuration": "98.9s",
+  "totalMatches": 168,
+  "liveCount": 1,
   "upcomingCount": 167,
   "matches": [
     {
-      "id": "ppv-event-01-ama-loretta-lynn-natl-mx-championship-ppv-01",
-      "title": "AMA Loretta Lynn Nat'l MX Championship 💥",
-      "sport": "other",
-      "competition": "other",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-04T22:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
-    },
-    {
-      "id": "seattle-mariners-vs-detroit-tigers-2388575",
-      "title": "Seattle Mariners vs Detroit Tigers",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-05T01:40:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENxB8tOmMw06SIFCCNSQMEIghWCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "arizona-diamondbacks-vs-san-diego-padres-2388587",
-      "title": "Arizona Diamondbacks vs San Diego Padres",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-05T01:40:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENzAoQ2rNnYaQfECRAQQMEFKM3zKAsCQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp"
-    },
-    {
-      "id": "vancouver-whitecaps-vs-atlante-2546532",
-      "title": "Vancouver Whitecaps vs Atlante",
+      "id": "villarreal-vs-levante-2537272",
+      "title": "Villarreal vs Levante",
       "sport": "football",
       "competition": "football",
       "status": "LIVE",
@@ -84,10 +21,10 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-08-05T02:30:00Z",
+      "matchTimeUTC": "2026-08-05T08:00:00Z",
       "streams": [],
       "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCF40QjaqB2aQWECZImQZxLwsmWSClhFzGKMKpQ835XXI-5WwGBu4mIQQA.webp"
+      "poster": ""
     },
     {
       "id": "admin-willow-cricket",
@@ -400,29 +337,8 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCztsFYTAKbBgLBpgCckKArNACbrDnACGw8wADAcNcBJg5hs-AhUYpgUtgGMCkkCxAyQ5EOoggY6rSE37dIBUs2J8O7SpQh4NYEiwzJUsPgSQmPSXyGvRhCCA.webp"
     },
     {
-      "id": "villarreal-vs-levante-2537272",
-      "title": "Villarreal vs Levante",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-05T08:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
-    },
-    {
-      "id": "k-league-stars-vs-manchester-city-gamefri-131",
-      "title": "K-League Stars vs Manchester City",
+      "id": "live_club-friendly-games_k-league-allstars-man-city-live-streaming-599744736",
+      "title": "K-League Allstars vs Manchester City",
       "sport": "football",
       "competition": "football",
       "status": "UPCOMING",
@@ -437,8 +353,16 @@
         }
       },
       "matchTimeUTC": "2026-08-05T11:00:00Z",
-      "streams": [],
-      "streamCount": 0,
+      "streams": [
+        {
+          "source": "delta",
+          "embedUrl": "https://embed.st/embed/delta/live_club-friendly-games_k-league-allstars-man-city-live-streaming-599744736/1",
+          "language": "English",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 1,
       "poster": ""
     },
     {
@@ -460,7 +384,7 @@
       "matchTimeUTC": "2026-08-05T11:00:00Z",
       "streams": [],
       "streamCount": 0,
-      "poster": ""
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IKiBDBEkmcBrD5IEiAggY87CJABjYBG2SUqySeHqQiLMvFbzJFOQMChIplsdhCwJLh2OhMG5OA0UyRwJpciD9Un0gA.webp"
     },
     {
       "id": "chelsea-vs-juventus-2467935",
@@ -481,7 +405,7 @@
       "matchTimeUTC": "2026-08-05T11:30:00Z",
       "streams": [],
       "streamCount": 0,
-      "poster": ""
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MiLCCzAqIGuNIgSIeMBUyYIAMYgUO5cAiSRIkBAMgNhmYZiljSiCnJmBQ4wWz0whYElyanITBuTjNhOycPFTBggzsIIA.webp"
     },
     {
       "id": "agf-aarhus-vs-sabah-baku-2552931",
@@ -568,6 +492,27 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKohggQHGjRC8QWbSBImziQ9KMskFLCLmMUYVSh6vyjanPf5WwGCu4mIQQA.webp"
     },
     {
+      "id": "mallorca-vs-paris-saint-germain-2521803",
+      "title": "Mallorca vs Paris Saint-Germain",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-05T18:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcShCSawkFinjsU0uJBUQEEDBCIYS+YgDGa4IhBL1xrMHWSIplOXsChIptnphCwJLkOOhMG5Oe2FSegJTciDgezIIIA.webp"
+    },
+    {
       "id": "houston-astros-vs-toronto-blue-jays-2388588",
       "title": "Houston Astros vs Toronto Blue Jays",
       "sport": "baseball",
@@ -652,6 +597,27 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdqDgwQEEIkS8QWECZImQZxNRDb4LJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp"
     },
     {
+      "id": "arsenal-vs-real-betis-2467936",
+      "title": "Arsenal vs Real Betis",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-05T18:30:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MiFMAjAqIGmSwgFMiCGEgU6kDGDxSskCVUiQAYxCIQk7CEtqNlsitHkpAoSKbZ6YQsCS4TCSEwbk4pYVJ6Ah1yEKtHIA.webp"
+    },
+    {
       "id": "texas-rangers-vs-san-francisco-giants-2388589",
       "title": "Texas Rangers vs San Francisco Giants",
       "sport": "baseball",
@@ -671,27 +637,6 @@
       "streams": [],
       "streamCount": 0,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8reEVaiWIbiD66QJECYggUJkDF0FgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
-    },
-    {
-      "id": "mallorca-vs-paris-saint-germain-2521803",
-      "title": "Mallorca vs Paris Saint-Germain",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-05T19:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
     },
     {
       "id": "colorado-rockies-vs-tampa-bay-rays-2388595",
@@ -3313,6 +3258,42 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEESEQBjEChBZsIMiRCqVKRRuEgYpJZJ0gZVVSBMwjBjRBA3xVDfzCCRTbPTCFgSXFI1DnVnFhUnoCYHhyZ2BxMgggA.webp"
     },
     {
+      "id": "ppv-swansea-city-vs-birmingham-city",
+      "title": "Swansea City vs. Birmingham City",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-08T14:00:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-swansea-city-vs-birmingham-city/1",
+          "language": "English - Paramount+",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-swansea-city-vs-birmingham-city/2",
+          "language": "English - Paramount+",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IYcCogyEiCCnxS8kHJQgAxhpApgc4SEQxxymoiy7lE-RGwiR2nfzCC7BW48LAkudTqHPWGwkyHTdFMGddUl0gA.webp"
+    },
+    {
       "id": "ppv-tottenham-hotspur-vs-getafe",
       "title": "Tottenham Hotspur vs. Getafe",
       "sport": "football",
@@ -3419,42 +3400,6 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGCBTZgEEFRAkQwkFhkhZE5QGNgNVTUTyUIEyeOK9I0sEQQRprFP5hBVgtKeFgSXFqlCXVjthayl3eHIXGWsIIA.webp"
-    },
-    {
-      "id": "ppv-swansea-city-vs-birmingham-city",
-      "title": "Swansea City vs. Birmingham City",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-08T14:00:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-swansea-city-vs-birmingham-city/1",
-          "language": "English - Paramount+",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-swansea-city-vs-birmingham-city/2",
-          "language": "English - Paramount+",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IYcCogyEiCCnxS8kHJQgAxhpApgc4SEQxxymoiy7lE-RGwiR2nfzCC7BW48LAkudTqHPWGwkyHTdFMGddUl0gA.webp"
     },
     {
       "id": "ppv-west-ham-united-vs-portsmouth",
