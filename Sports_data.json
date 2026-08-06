@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-08-06T10:32:31Z",
-  "fetchDuration": "101.8s",
-  "totalMatches": 164,
-  "liveCount": 3,
+  "lastUpdated": "2026-08-06T12:54:18Z",
+  "fetchDuration": "138.0s",
+  "totalMatches": 162,
+  "liveCount": 1,
   "upcomingCount": 161,
   "matches": [
     {
-      "id": "los-angeles-fc-vs-cd-guadalajara-2483228",
-      "title": "Los Angeles FC vs CD Guadalajara",
-      "sport": "football",
-      "competition": "football",
+      "id": "ppv-ama-motocross-championship-at-loretta-lynn-s-day-3",
+      "title": "AMA Motocross Championship at Loretta Lynn's - Day 3",
+      "sport": "motor-sports",
+      "competition": "motor-sports",
       "status": "LIVE",
       "teams": {
         "home": {
@@ -21,52 +21,25 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-08-06T02:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKvDAgQMECmAAGEBBC8QWbSBKXriM2b35gSClhFzGKMKv0dv5Rmo5fSd6MG9xMQggA.webp"
-    },
-    {
-      "id": "western-bulldogs-vs-north-melbourne-football-club-2495801",
-      "title": "Western Bulldogs vs North Melbourne Football Club",
-      "sport": "afl",
-      "competition": "afl",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
+      "matchTimeUTC": "2026-08-06T12:30:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-ama-motocross-championship-at-loretta-lynn-s-day-3/1",
+          "language": "English - FloRacing",
+          "hd": true,
+          "quality": "HD"
         },
-        "away": {
-          "name": "",
-          "logo": ""
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-ama-motocross-championship-at-loretta-lynn-s-day-3/2",
+          "language": "English - FloRacing",
+          "hd": false,
+          "quality": "SD"
         }
-      },
-      "matchTimeUTC": "2026-08-06T09:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBTzgSBPJCJeILCFOIT0kJcQkQk-DopYRcxijCqtHD+UbU5Wg70YB7iYhBAA.webp"
-    },
-    {
-      "id": "gold-coast-titans-vs-north-queensland-cowboys-2417335",
-      "title": "Gold Coast Titans vs North Queensland Cowboys",
-      "sport": "rugby",
-      "competition": "rugby",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-06T09:50:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VemlwgUDUCG4g+IKSFMl9IRBBDntTJBT7DZ9FGBU6278vSyydTLRg7mKiEEA.webp"
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRCBBUQZYaWCIAxiBQK1EtSSkgIwCDPEhFmkDEkgsUkQpBz42VfzCDrBbPTCFgSXItVDnVl05MlU3ezBnPXkIIA.webp"
     },
     {
       "id": "admin-willow-cricket",
@@ -2239,8 +2212,8 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdigEDctFCF4gsIYyWMhTiA9RCL8wJBSwi5jFGFWaO78o2pzNdvRg7uJiEEA.webp"
     },
     {
-      "id": "connecticut-sun-w-vs-phoenix-mercury-w-basketball-495006",
-      "title": "Connecticut Sun W vs Phoenix Mercury W",
+      "id": "washington-mystics-w-vs-atlanta-dream-w-basketball-495007",
+      "title": "Washington Mystics W vs Atlanta Dream W",
       "sport": "basketball",
       "competition": "basketball",
       "status": "UPCOMING",
@@ -2260,8 +2233,8 @@
       "poster": ""
     },
     {
-      "id": "washington-mystics-w-vs-atlanta-dream-w-basketball-495007",
-      "title": "Washington Mystics W vs Atlanta Dream W",
+      "id": "connecticut-sun-w-vs-phoenix-mercury-w-basketball-495006",
+      "title": "Connecticut Sun W vs Phoenix Mercury W",
       "sport": "basketball",
       "competition": "basketball",
       "status": "UPCOMING",
@@ -2763,42 +2736,6 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IYcAjBEwkInjSQMEChErJ0tTGzjspJSAhyQWEDRLqJR09sQRV-MIJFM9DwsCS4AxqqFPWKQkyVQJNMCcNMgggA.webp"
     },
     {
-      "id": "ppv-derby-county-vs-lincoln-city",
-      "title": "Derby County vs. Lincoln City",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-08T14:00:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-derby-county-vs-lincoln-city/1",
-          "language": "English - Paramount+",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-derby-county-vs-lincoln-city/2",
-          "language": "English - Paramount+",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGCBTZgEEFRAkQwkFhkhZE5QGNgNVTUTyUIEyeOK9I0sEQQRprFP5hBVgtKeFgSXFqlCXVjthayl3eHIXGWsIIA.webp"
-    },
-    {
       "id": "ppv-west-ham-united-vs-portsmouth",
       "title": "West Ham United vs. Portsmouth",
       "sport": "football",
@@ -2833,6 +2770,42 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEiHilgiFKRAQQNKiADGwRSiXayErAvHYQW4TOMz5MSeJD6QSufzCCRTbPTCFgSXKrlDnVghXMjkCCzBnDWkIIA.webp"
+    },
+    {
+      "id": "ppv-tottenham-hotspur-vs-getafe",
+      "title": "Tottenham Hotspur vs. Getafe",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-08T14:00:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-tottenham-hotspur-vs-getafe/1",
+          "language": "English - SPURSPLAY",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-tottenham-hotspur-vs-getafe/2",
+          "language": "English - SPURSPLAY",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRCBABjESGHAIILCBQgqkkGSwLgNYWs1zSOiMHhmVK3aTVmdiKSnKmBQkU2z0whYElyO3MG5OU3kyJwI7MCCdMgggA.webp"
     },
     {
       "id": "ppv-swansea-city-vs-birmingham-city",
@@ -2907,8 +2880,8 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEESEQBjEChBZsIMiRCqVKRRuEgYpJZJ0gZVVSBMwjBjRBA3xVDfzCCRTbPTCFgSXFI1DnVnFhUnoCYHhyZ2BxMgggA.webp"
     },
     {
-      "id": "ppv-tottenham-hotspur-vs-getafe",
-      "title": "Tottenham Hotspur vs. Getafe",
+      "id": "ppv-derby-county-vs-lincoln-city",
+      "title": "Derby County vs. Lincoln City",
       "sport": "football",
       "competition": "football",
       "status": "UPCOMING",
@@ -2926,21 +2899,21 @@
       "streams": [
         {
           "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-tottenham-hotspur-vs-getafe/1",
-          "language": "English - SPURSPLAY",
+          "embedUrl": "https://embed.st/embed/admin/ppv-derby-county-vs-lincoln-city/1",
+          "language": "English - Paramount+",
           "hd": true,
           "quality": "HD"
         },
         {
           "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-tottenham-hotspur-vs-getafe/2",
-          "language": "English - SPURSPLAY",
+          "embedUrl": "https://embed.st/embed/admin/ppv-derby-county-vs-lincoln-city/2",
+          "language": "English - Paramount+",
           "hd": false,
           "quality": "SD"
         }
       ],
       "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRCBABjESGHAIILCBQgqkkGSwLgNYWs1zSOiMHhmVK3aTVmdiKSnKmBQkU2z0whYElyO3MG5OU3kyJwI7MCCdMgggA.webp"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGCBTZgEEFRAkQwkFhkhZE5QGNgNVTUTyUIEyeOK9I0sEQQRprFP5hBVgtKeFgSXFqlCXVjthayl3eHIXGWsIIA.webp"
     },
     {
       "id": "ppv-burnley-vs-notts-county",
@@ -3824,42 +3797,6 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRAGMQJEChAwQVEFhARVweBtLZFqkBJ0GZc4SJDD9s9Vh0WDK-OQigwgkU2z0whYElwSUIXJuTmdTMkCCLTBXYGcyCCA.webp"
     },
     {
-      "id": "ppv-ifk-g-teborg-vs-kalmar-ff",
-      "title": "IFK Göteborg vs. Kalmar FF",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-09T14:30:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-ifk-g-teborg-vs-kalmar-ff/1",
-          "language": "Swedish - TV4 Sportkanalen",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-ifk-g-teborg-vs-kalmar-ff/2",
-          "language": "Swedish - TV4 Sportkanalen",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEiHjBEWECGAQQEEeLmlppSdlUBjEHpTjpIGosWGYqiVOHAaWFOWUChIptnphCwJLh2OhMG5OZVsyRwINMCCFdQggA.webp"
-    },
-    {
       "id": "ppv-halmstads-bk-vs-gais",
       "title": "Halmstads BK vs. GAIS",
       "sport": "football",
@@ -3894,6 +3831,42 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MVEBGAQQiYSCwgYIxSDkLhU+cHEBjEPvjZgiGoj0wQ4uRprSFKEDpTlJAoSKZHnYQsCS4ndzBuTkkNMmcCY3JgqVIpIA.webp"
+    },
+    {
+      "id": "ppv-ifk-g-teborg-vs-kalmar-ff",
+      "title": "IFK Göteborg vs. Kalmar FF",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-09T14:30:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-ifk-g-teborg-vs-kalmar-ff/1",
+          "language": "Swedish - TV4 Sportkanalen",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-ifk-g-teborg-vs-kalmar-ff/2",
+          "language": "Swedish - TV4 Sportkanalen",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEiHjBEWECGAQQEEeLmlppSdlUBjEHpTjpIGosWGYqiVOHAaWFOWUChIptnphCwJLh2OhMG5OZVsyRwINMCCFdQggA.webp"
     },
     {
       "id": "ppv-mansfield-town-vs-sheffield-united",
@@ -3968,42 +3941,6 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IeNmASsICCDIQRIYaRBVxILFJAhtclBq00V+2SADGwU8M0X5KcooFCRTSQ7CFgSXOYdCwbk5FFTIHAilyQKtSKyA.webp"
     },
     {
-      "id": "ppv-cruz-azul-vs-new-york-city-fc",
-      "title": "Cruz Azul vs. New York City FC",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-09T23:30:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-cruz-azul-vs-new-york-city-fc/1",
-          "language": "English - Apple TV",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-cruz-azul-vs-new-york-city-fc/2",
-          "language": "English - Apple TV",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5M8YInGIqIGsOAQQEUiCwhhIcWpggYIpbuA1FyxTJCyJVsiXVKU5ZQKEim2emELAkuAMYOhMG5OZXkyBwIrMCCFUgUgA.webp"
-    },
-    {
       "id": "ppv-philadelphia-union-vs-necaxa",
       "title": "Philadelphia Union vs. Necaxa",
       "sport": "football",
@@ -4038,6 +3975,42 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MJEIhriU2YBFIgUExQqUQQVEFhDjNmxOPikROncBpH1AYxDrR5eQKEimsmWELAkuKzKFhuTnlhYxkCYCMwALljCCA.webp"
+    },
+    {
+      "id": "ppv-cruz-azul-vs-new-york-city-fc",
+      "title": "Cruz Azul vs. New York City FC",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-09T23:30:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-cruz-azul-vs-new-york-city-fc/1",
+          "language": "English - Apple TV",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-cruz-azul-vs-new-york-city-fc/2",
+          "language": "English - Apple TV",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5M8YInGIqIGsOAQQEUiCwhhIcWpggYIpbuA1FyxTJCyJVsiXVKU5ZQKEim2emELAkuAMYOhMG5OZXkyBwIrMCCFUgUgA.webp"
     },
     {
       "id": "ppv-nashville-sc-vs-atl-tico-de-san-luis",
