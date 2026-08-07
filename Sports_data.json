@@ -1,13 +1,13 @@
 {
-  "lastUpdated": "2026-08-07T21:33:23Z",
-  "fetchDuration": "150.7s",
-  "totalMatches": 183,
-  "liveCount": 11,
-  "upcomingCount": 172,
+  "lastUpdated": "2026-08-07T22:28:06Z",
+  "fetchDuration": "108.0s",
+  "totalMatches": 187,
+  "liveCount": 16,
+  "upcomingCount": 171,
   "matches": [
     {
-      "id": "ppv-event-05-ama-loretta-lynn-natl-mx-championship-ppv-05",
-      "title": "AMA Loretta Lynn Nat'l MX Championship",
+      "id": "ppv-event-01-one-friday-fights-165-petninmungkorn-v-pet-ppv-01",
+      "title": "ONE Friday Fights 165 Petninmungkorn v Pet 💥",
       "sport": "other",
       "competition": "other",
       "status": "LIVE",
@@ -21,7 +21,7 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-08-07T14:00:00Z",
+      "matchTimeUTC": "2026-08-07T14:30:00Z",
       "streams": [],
       "streamCount": 0,
       "poster": ""
@@ -88,27 +88,6 @@
       "streams": [],
       "streamCount": 0,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKrxAhOYFKxDSQmrFpAQQKC1fMnpLJBSwi5jFGFV6O78o2py9+KzAYO7iYhBAA.webp"
-    },
-    {
-      "id": "middlesbrough-vs-wrexham-2503739",
-      "title": "Middlesbrough vs Wrexham",
-      "sport": "football",
-      "competition": "football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-07T19:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCDjh61YElgheILCFMQQKC1ZIgbF-HopYRcxijCqUPD+Ua6xXg70YB7iYhBAA.webp"
     },
     {
       "id": "62",
@@ -276,6 +255,180 @@
         {
           "source": "golf",
           "embedUrl": "https://embed.st/embed/golf/67/1",
+          "language": "English",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 1,
+      "poster": ""
+    },
+    {
+      "id": "68",
+      "title": "Chicago White Sox - Cleveland Guardians",
+      "sport": "baseball",
+      "competition": "baseball",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-07T21:40:00Z",
+      "streams": [
+        {
+          "source": "golf",
+          "embedUrl": "https://embed.st/embed/golf/68/1",
+          "language": "English",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 1,
+      "poster": ""
+    },
+    {
+      "id": "69",
+      "title": "Milwaukee Brewers - Minnesota Twins",
+      "sport": "baseball",
+      "competition": "baseball",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-07T21:40:00Z",
+      "streams": [
+        {
+          "source": "golf",
+          "embedUrl": "https://embed.st/embed/golf/69/1",
+          "language": "English",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 1,
+      "poster": ""
+    },
+    {
+      "id": "97",
+      "title": "Emanuel Moreno vs Guillermo Gutierrez",
+      "sport": "fight",
+      "competition": "fight",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-07T22:00:00Z",
+      "streams": [
+        {
+          "source": "golf",
+          "embedUrl": "https://embed.st/embed/golf/97/1",
+          "language": "English",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 1,
+      "poster": ""
+    },
+    {
+      "id": "70",
+      "title": "Kansas City Royals - Chicago Cubs",
+      "sport": "baseball",
+      "competition": "baseball",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-07T22:10:00Z",
+      "streams": [
+        {
+          "source": "golf",
+          "embedUrl": "https://embed.st/embed/golf/70/1",
+          "language": "English",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 1,
+      "poster": ""
+    },
+    {
+      "id": "71",
+      "title": "Texas Rangers - Baltimore Orioles",
+      "sport": "baseball",
+      "competition": "baseball",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-07T22:15:00Z",
+      "streams": [
+        {
+          "source": "golf",
+          "embedUrl": "https://embed.st/embed/golf/71/1",
+          "language": "English",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 1,
+      "poster": ""
+    },
+    {
+      "id": "72",
+      "title": "St. Louis Cardinals - Colorado Rockies",
+      "sport": "baseball",
+      "competition": "baseball",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-07T22:15:00Z",
+      "streams": [
+        {
+          "source": "golf",
+          "embedUrl": "https://embed.st/embed/golf/72/1",
           "language": "English",
           "hd": true,
           "quality": "HD"
@@ -616,8 +769,8 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdigEDctFCF4gsIYyWMhTiA9RCL8wJBSwi5jFGFWaO78o2pzNdvRg7uJiEEA.webp"
     },
     {
-      "id": "washington-mystics-w-vs-atlanta-dream-w-basketball-495007",
-      "title": "Washington Mystics W vs Atlanta Dream W",
+      "id": "connecticut-sun-w-vs-phoenix-mercury-w-basketball-495006",
+      "title": "Connecticut Sun W vs Phoenix Mercury W",
       "sport": "basketball",
       "competition": "basketball",
       "status": "UPCOMING",
@@ -637,8 +790,8 @@
       "poster": ""
     },
     {
-      "id": "connecticut-sun-w-vs-phoenix-mercury-w-basketball-495006",
-      "title": "Connecticut Sun W vs Phoenix Mercury W",
+      "id": "washington-mystics-w-vs-atlanta-dream-w-basketball-495007",
+      "title": "Washington Mystics W vs Atlanta Dream W",
       "sport": "basketball",
       "competition": "basketball",
       "status": "UPCOMING",
@@ -1091,27 +1244,6 @@
       "streams": [],
       "streamCount": 0,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCCwh6IPiFrSQvTSFMkQKI6ZPUjLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp"
-    },
-    {
-      "id": "ppv-event-03-cage-fury-fc-158-ppv-03",
-      "title": "Cage Fury FC 158 ⭐",
-      "sport": "other",
-      "competition": "other",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-08T02:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
     },
     {
       "id": "san-francisco-giants-vs-detroit-tigers-2388618",
@@ -3461,42 +3593,6 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRDQkgSIYSBTYQSxCGBUQWYBEUwQAYyUgYpeeI1mlWEBEO65hhfzCCRTbPTCFgSXHoVDnVm1hUnoCYHhyZy1QiCA.webp"
     },
     {
-      "id": "ppv-malm-ff-vs-degerfors-if",
-      "title": "Malmö FF vs. Degerfors IF",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-09T12:00:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-malm-ff-vs-degerfors-if/1",
-          "language": "Swedish - TV4 Sport Live 1",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-malm-ff-vs-degerfors-if/2",
-          "language": "Swedish - TV4 Sport Live 1",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRAGMQJEChAwQVEFhARVweBtLZFqkBJ0GZc4SJDD9s9Vh0WDK-OQigwgkU2z0whYElwSUIXJuTmdTMkCCLTBXYGcyCCA.webp"
-    },
-    {
       "id": "ppv-hammarby-if-vs-bk-h-cken",
       "title": "Hammarby IF vs. BK Häcken",
       "sport": "football",
@@ -3531,6 +3627,42 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCAggq0kMLkjFJSSDJSAxivkyZy+VhUoRIdcZ2TSJkNapH+YQYoLZ6YQsCS51RoQ9YQlemd4cgdgALUgA.webp"
+    },
+    {
+      "id": "ppv-malm-ff-vs-degerfors-if",
+      "title": "Malmö FF vs. Degerfors IF",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-09T12:00:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-malm-ff-vs-degerfors-if/1",
+          "language": "Swedish - TV4 Sport Live 1",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-malm-ff-vs-degerfors-if/2",
+          "language": "Swedish - TV4 Sport Live 1",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRAGMQJEChAwQVEFhARVweBtLZFqkBJ0GZc4SJDD9s9Vh0WDK-OQigwgkU2z0whYElwSUIXJuTmdTMkCCLTBXYGcyCCA.webp"
     },
     {
       "id": "104",
