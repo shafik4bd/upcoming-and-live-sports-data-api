@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-08-08T05:39:28Z",
-  "fetchDuration": "197.3s",
-  "totalMatches": 308,
-  "liveCount": 13,
+  "lastUpdated": "2026-08-08T06:39:41Z",
+  "fetchDuration": "127.1s",
+  "totalMatches": 307,
+  "liveCount": 12,
   "upcomingCount": 295,
   "matches": [
     {
@@ -27,10 +27,10 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBQcQtLexIheILCFMHT0kImqmQMFkgpYRcxijCqtHD+UbU5WviswGAe4mIQQA.webp"
     },
     {
-      "id": "live-event_friday-night-smackdown-live-stream",
-      "title": "Friday Night SmackDown",
-      "sport": "fight",
-      "competition": "fight",
+      "id": "ppv-event-05-ama-loretta-lynn-natl-mx-championship-ppv-05",
+      "title": "AMA Loretta Lynn Nat'l MX Championship",
+      "sport": "other",
+      "competition": "other",
       "status": "LIVE",
       "teams": {
         "home": {
@@ -43,16 +43,8 @@
         }
       },
       "matchTimeUTC": "2026-08-08T00:00:00Z",
-      "streams": [
-        {
-          "source": "delta",
-          "embedUrl": "https://embed.st/embed/delta/live-event_friday-night-smackdown-live-stream/1",
-          "language": "English",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 1,
+      "streams": [],
+      "streamCount": 0,
       "poster": ""
     },
     {
@@ -98,8 +90,8 @@
       "poster": ""
     },
     {
-      "id": "ppv-event-05-ama-loretta-lynn-natl-mx-championship-ppv-05",
-      "title": "AMA Loretta Lynn Nat'l MX Championship",
+      "id": "wwe-friday-night-smackdown-game-2457754",
+      "title": "WWE: Friday Night Smackdown",
       "sport": "other",
       "competition": "other",
       "status": "LIVE",
@@ -190,69 +182,6 @@
       "poster": ""
     },
     {
-      "id": "san-francisco-giants-vs-detroit-tigers-2388618",
-      "title": "San Francisco Giants vs Detroit Tigers",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-08T02:15:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCCwh6+SmF6QQvTSFMkQKI6ZPUQzXUgpYRcxijCqUPD+UbU5Xrr0YB7iYhBAA.webp"
-    },
-    {
-      "id": "vancouver-whitecaps-vs-ju-rez-2483239",
-      "title": "Vancouver Whitecaps vs Juárez",
-      "sport": "football",
-      "competition": "football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-08T02:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdkhAxQIQfQgheukCZImQZxEeq6WSClhFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp"
-    },
-    {
-      "id": "melbourne-demons-vs-fremantle-dockers-australian-football-3599",
-      "title": "Melbourne Demons vs Fremantle Dockers",
-      "sport": "afl",
-      "competition": "afl",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-08T03:15:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
-    },
-    {
       "id": "98",
       "title": "David Nyika vs Floyd Masson",
       "sport": "fight",
@@ -308,6 +237,48 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRChAQQMsmSzAqIGCBJSQSmSpkz42DSGHBpkycOXj9ERRuPKU5awKEim2emELAkuAMYOhMG5OayMyBwJgPTAg41JjIA.webp"
+    },
+    {
+      "id": "snooker-china-open-pick3",
+      "title": "Snooker China Open 🎱",
+      "sport": "billiards",
+      "competition": "billiards",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-08T06:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "sydney-swans-vs-port-adelaide-football-club-2495804",
+      "title": "Sydney Swans vs Port Adelaide Football Club",
+      "sport": "afl",
+      "competition": "afl",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-08T06:15:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VWgAZgSYBrC9E3EFJB8QJY6ZAQQRi-ALaKfYbPoowKlF0-l6WWW8mWjBPMVEIIA.webp"
     },
     {
       "id": "admin-willow-cricket",
@@ -2867,27 +2838,6 @@
       "poster": ""
     },
     {
-      "id": "ferencvarosi-tc-vs-real-madrid-football-1604780",
-      "title": "Ferencvarosi TC vs Real Madrid",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-08T17:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
-    },
-    {
       "id": "racing-ferrol-vs-real-madrid-ii-football-1598595",
       "title": "Racing Ferrol vs Real Madrid II",
       "sport": "football",
@@ -2911,6 +2861,27 @@
     {
       "id": "sporting-hasselt-vs-spouwen-mopertingen-football-1548951",
       "title": "Sporting Hasselt vs Spouwen-Mopertingen",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-08T17:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "ferencvarosi-tc-vs-real-madrid-football-1604780",
+      "title": "Ferencvarosi TC vs Real Madrid",
       "sport": "football",
       "competition": "football",
       "status": "UPCOMING",
