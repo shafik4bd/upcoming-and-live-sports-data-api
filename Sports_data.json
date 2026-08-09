@@ -1,96 +1,10 @@
 {
-  "lastUpdated": "2026-08-09T05:44:38Z",
-  "fetchDuration": "91.5s",
-  "totalMatches": 163,
-  "liveCount": 11,
-  "upcomingCount": 152,
+  "lastUpdated": "2026-08-09T06:42:27Z",
+  "fetchDuration": "89.3s",
+  "totalMatches": 158,
+  "liveCount": 7,
+  "upcomingCount": 151,
   "matches": [
-    {
-      "id": "mvpw-05-johnson-vs-thorslund-2483614",
-      "title": "MVPW 05 Johnson vs Thorslund",
-      "sport": "fight",
-      "competition": "fight",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-08T22:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBRMQUcPGwheILCFOITJ6SBIgYplkgpYRcxijCqtHD+UbU5WviswGAe4mIQQA.webp"
-    },
-    {
-      "id": "120",
-      "title": "IndyCar Series vs Grand Prix of Portland",
-      "sport": "motor-sports",
-      "competition": "motor-sports",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-08T22:00:00Z",
-      "streams": [
-        {
-          "source": "golf",
-          "embedUrl": "https://embed.st/embed/golf/120/1",
-          "language": "English",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 1,
-      "poster": ""
-    },
-    {
-      "id": "ppv-kill-tony-live-from-msg-saturday",
-      "title": "Kill Tony Live from MSG | Saturday",
-      "sport": "other",
-      "competition": "other",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-08T22:30:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-kill-tony-live-from-msg-saturday/1",
-          "language": "English - PPV",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-kill-tony-live-from-msg-saturday/2",
-          "language": "English - PPV",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFMCogSICMDlksIYSCXxgiORGmTdwjTvVZsupUv1yVMbCADGkifzCCRTE48LAkuWxKHPWS1J6Ag1yZ3lgiCA.webp"
-    },
     {
       "id": "ppv-event-23-world-of-outlaws-sprint-cars-i55-federated-ppv-32",
       "title": "World of Outlaws Sprint Cars I55 Federated",
@@ -192,27 +106,6 @@
       "poster": ""
     },
     {
-      "id": "greater-western-sydney-giants-vs-gold-coast-football-club-2495807",
-      "title": "Greater Western Sydney Giants vs Gold Coast Football Club",
-      "sport": "afl",
-      "competition": "afl",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-09T03:10:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCEQo+TENU0heILCFOIT0kJcQkQi-MCQUsIuYxRhV2jp-KNqctoO9GCe4mIQQA.webp"
-    },
-    {
       "id": "toluca-vs-los-angeles-fc-2483244",
       "title": "Toluca vs Los Angeles FC",
       "sport": "football",
@@ -234,44 +127,8 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmGCawIMmRAheILAd2mSIREcQwWSClhFzGKMKpQ835RtTkf8rFpu4mIQQA.webp"
     },
     {
-      "id": "ppv-toluca-vs-lafc",
-      "title": "Toluca vs. LAFC",
-      "sport": "football",
-      "competition": "football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-09T03:10:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-toluca-vs-lafc/1",
-          "language": "English - Apple TV",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-toluca-vs-lafc/2",
-          "language": "English - Apple TV",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGMCrjsIFJJAKICkMJDxgEDQpEgpAYxAkQmxChUrS0qUqU0yRvXP5hBIptnphCwJLkdDybk5NYVJ6AmB1MBcNMIggA.webp"
-    },
-    {
-      "id": "canberra-raiders-vs-newcastle-knights-2417342",
-      "title": "Canberra Raiders vs Newcastle Knights",
+      "id": "st--george-illawara-dragons-vs-cronulla-sharks-2417343",
+      "title": "St. George Illawara Dragons vs Cronulla Sharks",
       "sport": "rugby",
       "competition": "rugby",
       "status": "LIVE",
@@ -285,10 +142,31 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-08-09T04:00:00Z",
+      "matchTimeUTC": "2026-08-09T06:05:00Z",
       "streams": [],
       "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLGD4gSuOexDcQWqSFM7DiCKZAoCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELSxyQfECGAAGENx0gpekCWMaQEECg0FgSCn2Gz6KMCpRdv5ei1RXyZaMG8xUQggA.webp"
+    },
+    {
+      "id": "west-coast-eagles-vs-collingwood-football-club-2495808",
+      "title": "West Coast Eagles vs Collingwood Football Club",
+      "sport": "afl",
+      "competition": "afl",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-09T06:10:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEAPhg+YJCHrcQhqRpAkQJvvqMX9BYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp"
     },
     {
       "id": "admin-willow-cricket",
@@ -601,10 +479,10 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCztsFYTAKbBgLBpgCckKArNACbrDnACGw8wADAcNcBJg5hs-AhUYpgUtgGMCkkCxAyQ5EOoggYITXWUgUqncoWG1Kw-mN7N5GsCRYZkqWHwJITHpL5C3owgggA.webp"
     },
     {
-      "id": "liv-golf-new-york-atp1000",
-      "title": "LIV Golf New York",
-      "sport": "golf",
-      "competition": "golf",
+      "id": "ppv-kill-tony-live-from-msg-saturday",
+      "title": "Kill Tony Live from MSG | Saturday",
+      "sport": "other",
+      "competition": "other",
       "status": "UPCOMING",
       "teams": {
         "home": {
@@ -616,31 +494,25 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-08-08T16:15:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
-    },
-    {
-      "id": "st--george-illawara-dragons-vs-cronulla-sharks-2417343",
-      "title": "St. George Illawara Dragons vs Cronulla Sharks",
-      "sport": "rugby",
-      "competition": "rugby",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
+      "matchTimeUTC": "2026-08-08T22:30:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-kill-tony-live-from-msg-saturday/1",
+          "language": "English - PPV",
+          "hd": true,
+          "quality": "HD"
         },
-        "away": {
-          "name": "",
-          "logo": ""
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-kill-tony-live-from-msg-saturday/2",
+          "language": "English - PPV",
+          "hd": false,
+          "quality": "SD"
         }
-      },
-      "matchTimeUTC": "2026-08-09T06:05:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELSxyQfECGAAGENx0gpekCWMaQEECg0FgSCn2Gz6KMCpRdv5ei1RXyZaMG8xUQggA.webp"
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFMCogSICMDlksIYSCXxgiORGmTdwjTvVZsupUv1yVMbCADGkifzCCRTE48LAkuWxKHPWS1J6Ag1yZ3lgiCA.webp"
     },
     {
       "id": "radomiak-radom-vs-ael-limassol-2566527",
