@@ -1,31 +1,10 @@
 {
-  "lastUpdated": "2026-08-10T19:50:26Z",
-  "fetchDuration": "94.8s",
-  "totalMatches": 139,
-  "liveCount": 3,
+  "lastUpdated": "2026-08-10T20:34:52Z",
+  "fetchDuration": "127.9s",
+  "totalMatches": 138,
+  "liveCount": 2,
   "upcomingCount": 136,
   "matches": [
-    {
-      "id": "volos-vs-kalamata-2566534",
-      "title": "Volos vs Kalamata",
-      "sport": "football",
-      "competition": "football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-10T18:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
-    },
     {
       "id": "plymouth-argyle-vs-exeter-city-2503752",
       "title": "Plymouth Argyle vs Exeter City",
@@ -3878,42 +3857,6 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MZYSDIQQKENIkBjEMqrLswVdNnLt2EBJJzg05UsNlEMEZP0pyEUGEEim6u2ELAkuBXaFPWB2FSegJgeHInYxCIIA.webp"
     },
     {
-      "id": "ppv-chicago-fire-fc-vs-portland-timbers",
-      "title": "Chicago Fire FC vs. Portland Timbers",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-16T22:00:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-chicago-fire-fc-vs-portland-timbers/1",
-          "language": "English - Apple TV",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-chicago-fire-fc-vs-portland-timbers/2",
-          "language": "English - Apple TV",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IKiCzAIIMlhAyYCkCGCIlNOSukgU46Wt2l98xPFJrsk5Uf5hBIptnphCwJLgDGKIeW6cIRzIfAkswewMyCCA.webp"
-    },
-    {
       "id": "ppv-new-york-city-fc-vs-philadelphia-union",
       "title": "New York City FC vs. Philadelphia Union",
       "sport": "football",
@@ -3948,6 +3891,42 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEMCogYIYSADGIROKlSIwRChFLg6+JJAoQ6koZBksCgxavDtpmFv5hBIptnphCwJLnlahF1Z1OzItAg1yF11SXSA.webp"
+    },
+    {
+      "id": "ppv-chicago-fire-fc-vs-portland-timbers",
+      "title": "Chicago Fire FC vs. Portland Timbers",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-16T22:00:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-chicago-fire-fc-vs-portland-timbers/1",
+          "language": "English - Apple TV",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-chicago-fire-fc-vs-portland-timbers/2",
+          "language": "English - Apple TV",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IKiCzAIIMlhAyYCkCGCIlNOSukgU46Wt2l98xPFJrsk5Uf5hBIptnphCwJLgDGKIeW6cIRzIfAkswewMyCCA.webp"
     },
     {
       "id": "ppv-am-rica-vs-atl-tico-de-san-luis",
