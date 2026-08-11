@@ -1,31 +1,10 @@
 {
-  "lastUpdated": "2026-08-11T12:47:04Z",
-  "fetchDuration": "167.0s",
-  "totalMatches": 177,
-  "liveCount": 4,
+  "lastUpdated": "2026-08-11T14:16:37Z",
+  "fetchDuration": "166.7s",
+  "totalMatches": 176,
+  "liveCount": 3,
   "upcomingCount": 173,
   "matches": [
-    {
-      "id": "juventus-vs-palermo-2467940",
-      "title": "Juventus vs Palermo",
-      "sport": "football",
-      "competition": "football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-11T10:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
-    },
     {
       "id": "gangwon-fc-vs-gamba-osaka-2504149",
       "title": "Gangwon FC vs Gamba Osaka",
@@ -226,7 +205,7 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-08-11T14:00:00Z",
+      "matchTimeUTC": "2026-08-11T15:00:00Z",
       "streams": [],
       "streamCount": 0,
       "poster": ""
@@ -439,7 +418,7 @@
       "matchTimeUTC": "2026-08-11T17:00:00Z",
       "streams": [],
       "streamCount": 0,
-      "poster": ""
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKihohqlEDHkheILCFPSQEECUMgUevSyQUsIuY02qUPMGXhEdYl74rMBgPuJiEEA.webp"
     },
     {
       "id": "nec-nijmegen-vs-olympiakos-piraeus-football-1598829",
@@ -2618,42 +2597,6 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IeNhEgUIKiHkkQAY1khhUlNhBYtEiKXkbgErNIMzNiiyOyb+YQTYKS7hYElxLNQh633qyTWcJMAdgfTIIIA.webp"
     },
     {
-      "id": "ppv-lafc-vs-quer-taro",
-      "title": "LAFC vs. Querétaro",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-13T02:30:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-lafc-vs-quer-taro/1",
-          "language": "English - Apple TV",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-lafc-vs-quer-taro/2",
-          "language": "English - Apple TV",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52I4BBBUQAY2CJhskMPnYpISTJCIYILCF0gN2+Saymj0ndr0aU5CKDCDxBbPTCFgSXDPtDnVkcVMns3eHJnCVIJIA.webp"
-    },
-    {
       "id": "ppv-seattle-sounders-fc-vs-guadalajara",
       "title": "Seattle Sounders FC vs. Guadalajara",
       "sport": "football",
@@ -2688,6 +2631,42 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILNhAQQNEiDLDSwRChABjSYgnxgVECGDThU3aXUhVxmNhs0JWCynIRQYQSKY2nYQsCS41JyE3VhdFMicCZXI3QyUIIA.webp"
+    },
+    {
+      "id": "ppv-lafc-vs-quer-taro",
+      "title": "LAFC vs. Querétaro",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-13T02:30:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-lafc-vs-quer-taro/1",
+          "language": "English - Apple TV",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-lafc-vs-quer-taro/2",
+          "language": "English - Apple TV",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52I4BBBUQAY2CJhskMPnYpISTJCIYILCF0gN2+Saymj0ndr0aU5CKDCDxBbPTCFgSXDPtDnVkcVMns3eHJnCVIJIA.webp"
     },
     {
       "id": "ppv-panthers-vs-roosters",
@@ -3505,6 +3484,42 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEiBQhEEaSCrjsIWQGMQWSevkhhwGohAgVwWSmx6TIkDCNabG2ZPIRQYQSKbmzYQsCS4VMyE3VhddMjMCYHhyN0syCCA.webp"
     },
     {
+      "id": "ppv-cf-montr-al-vs-d-c-united",
+      "title": "CF Montréal vs. D.C. United",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-15T23:30:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-cf-montr-al-vs-d-c-united/1",
+          "language": "English - Apple TV",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-cf-montr-al-vs-d-c-united/2",
+          "language": "English - Apple TV",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5M8YBBCIQIkCilzsE2ZKwKyZSRFkg5IGmuEgsyxGrKIYxlOW0ChIpkpthCwJLgDGNoWG6dtYVJ6AmBxMD9lTSA.webp"
+    },
+    {
       "id": "ppv-atlanta-united-fc-vs-red-bull-new-york",
       "title": "Atlanta United FC vs. Red Bull New York",
       "sport": "football",
@@ -3575,42 +3590,6 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IYSBggIkkFlLAZMRQsQSS4kBqqaAxiF3AdZGfGzjSB2SjmzR5CKDCCRTbPTCFgSXLpRDybk5HYQV-AmAzMGcVEyA.webp"
-    },
-    {
-      "id": "ppv-cf-montr-al-vs-d-c-united",
-      "title": "CF Montréal vs. D.C. United",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-15T23:30:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-cf-montr-al-vs-d-c-united/1",
-          "language": "English - Apple TV",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-cf-montr-al-vs-d-c-united/2",
-          "language": "English - Apple TV",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5M8YBBCIQIkCilzsE2ZKwKyZSRFkg5IGmuEgsyxGrKIYxlOW0ChIpkpthCwJLgDGNoWG6dtYVJ6AmBxMD9lTSA.webp"
     },
     {
       "id": "ppv-orlando-city-sc-vs-fc-cincinnati",
