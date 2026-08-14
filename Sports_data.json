@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-08-14T11:40:48Z",
-  "fetchDuration": "184.4s",
-  "totalMatches": 271,
+  "lastUpdated": "2026-08-14T12:48:51Z",
+  "fetchDuration": "208.3s",
+  "totalMatches": 269,
   "liveCount": 5,
-  "upcomingCount": 266,
+  "upcomingCount": 264,
   "matches": [
     {
       "id": "snooker-china-open-pick3",
@@ -238,48 +238,6 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBEBDXsQZgdgwwRgBOYAU0hDpqxQFZh5Tg0wmJgATMNTTAWkVqNri0LIinbQ61OvHS5CISiCggGIRPzWq0hNTTV5s2AMb6NNFif4h+VFxux5bFLXnk3aASx2PV0+LRRNR0hAtjYUBHZQYkk2JjBHEFsaOxytGFZYSWt5YFIVGOVgeTYOMl5AiCA.webp"
-    },
-    {
-      "id": "karlovac-vs-trnje-zagreb-2553360",
-      "title": "Karlovac vs Trnje Zagreb",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-14T08:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
-    },
-    {
-      "id": "zagorec-vs-granicar-durdevac-football-1607290",
-      "title": "Zagorec vs Graničar Đurđevac",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-14T12:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
     },
     {
       "id": "ppv-event-02-aca-206-vakhaev-v-aliakbari-ppv-02",
@@ -4949,42 +4907,6 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5Mw0qRBYRICDKwhE0iItXjhqlTBApZIEqsQhgiKvpDbdC8VRTk5AoSKbZ6YQsCS4AxnaFhuTjlxMjsCE3IA4DkyCCA.webp"
     },
     {
-      "id": "ppv-real-salt-lake-vs-minnesota-united-fc",
-      "title": "Real Salt Lake vs. Minnesota United FC",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-16T01:30:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-real-salt-lake-vs-minnesota-united-fc/1",
-          "language": "English - Apple TV",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-real-salt-lake-vs-minnesota-united-fc/2",
-          "language": "English - Apple TV",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEiGHAaEiRBDxgiKVIkBjEChBZJSkDD1ZS48UunaQVTdcVlhllOQigwgkU2z0whYElxrHIVdWZ1V6AjMwV2BnMgggA.webp"
-    },
-    {
       "id": "ppv-colorado-rapids-vs-sporting-kansas-city",
       "title": "Colorado Rapids vs. Sporting Kansas City",
       "sport": "football",
@@ -5019,6 +4941,42 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICCGEgs0yaUkgAxiBjAqIFPJBqQuiMEQlxBtdl1zEwgxuASsp0eX0ChIptnphCwJLkWahMG5OfSsyTQITMCDbUlsgA.webp"
+    },
+    {
+      "id": "ppv-real-salt-lake-vs-minnesota-united-fc",
+      "title": "Real Salt Lake vs. Minnesota United FC",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-16T01:30:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-real-salt-lake-vs-minnesota-united-fc/1",
+          "language": "English - Apple TV",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-real-salt-lake-vs-minnesota-united-fc/2",
+          "language": "English - Apple TV",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEiGHAaEiRBDxgiKVIkBjEChBZJSkDD1ZS48UunaQVTdcVlhllOQigwgkU2z0whYElxrHIVdWZ1V6AjMwV2BnMgggA.webp"
     },
     {
       "id": "288",
