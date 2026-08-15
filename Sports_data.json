@@ -1,75 +1,10 @@
 {
-  "lastUpdated": "2026-08-15T05:19:55Z",
-  "fetchDuration": "144.4s",
-  "totalMatches": 315,
-  "liveCount": 14,
-  "upcomingCount": 301,
+  "lastUpdated": "2026-08-15T06:25:32Z",
+  "fetchDuration": "177.5s",
+  "totalMatches": 313,
+  "liveCount": 13,
+  "upcomingCount": 300,
   "matches": [
-    {
-      "id": "live-event_2026-truck-series-at-richmond-live-stream",
-      "title": "2026 Truck Series at Richmond",
-      "sport": "motor-sports",
-      "competition": "motor-sports",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-14T23:30:00Z",
-      "streams": [
-        {
-          "source": "delta",
-          "embedUrl": "https://embed.st/embed/delta/live-event_2026-truck-series-at-richmond-live-stream/1",
-          "language": "English",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 1,
-      "poster": ""
-    },
-    {
-      "id": "ppv-cage-fury-fc-159",
-      "title": "Cage Fury FC 159",
-      "sport": "fight",
-      "competition": "fight",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-15T00:00:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-cage-fury-fc-159/1",
-          "language": "English - UFC Fight Pass",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-cage-fury-fc-159/2",
-          "language": "English - UFC Fight Pass",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGCBTYQiCNIDGIKiAgg1iFJOBysM4DRIzJakMP1KQhtZppzhKpVP5hBIptnphCwJLnlShF1Y7UnoCYHhyF21QiCA.webp"
-    },
     {
       "id": "ppv-australia-vs-bangladesh",
       "title": "Australia vs. Bangladesh",
@@ -164,6 +99,27 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMYhEKYFRDCQMEFhAlFE4BAlTs2EBE2rg8UiJApVIGsM2GbCtXPEz+YQSKa6XhYElzOhcm5OAxsyGQJjcjdbMgggA.webp"
     },
     {
+      "id": "ppv-event-03-cage-fury-fc-159-ppv-03",
+      "title": "Cage Fury FC 159  ⭐",
+      "sport": "other",
+      "competition": "other",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-15T01:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
       "id": "ppv-event-21-lucas-oil-topless-100v-batesville-ppv-21",
       "title": "Lucas Oil Topless 100v Batesville",
       "sport": "other",
@@ -183,27 +139,6 @@
       "streams": [],
       "streamCount": 0,
       "poster": ""
-    },
-    {
-      "id": "los-angeles-angels-vs-kansas-city-royals-2388714",
-      "title": "Los Angeles Angels vs Kansas City Royals",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-15T01:38:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCE30ADGCQheICAZBZNIEiBQnNZ6yhZIKWEXMYowqlD0-lG1OW98VmAwT3ExCCA.webp"
     },
     {
       "id": "athletics-vs-texas-rangers-2388719",
@@ -269,7 +204,7 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdv3YyQ9JCF4gsIYyRAp9xw2ZAkWSClhFzGKMKpQ835RtTkf8rMBgbuJiEEA.webp"
     },
     {
-      "id": "richmond-tigers-vs-st-kilda-saints-australian-football-3607",
+      "id": "richmond-tigers-vs-st-kilda-saints-australian-football-3541",
       "title": "Richmond Tigers vs St Kilda Saints",
       "sport": "afl",
       "competition": "afl",
@@ -366,6 +301,27 @@
       "streams": [],
       "streamCount": 0,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBIhagrCHCJeIPfukgIm89pAxzLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp"
+    },
+    {
+      "id": "north-melbourne-kangaroos-vs-geelong-cats-australian-football-3539",
+      "title": "North Melbourne Kangaroos vs Geelong Cats",
+      "sport": "afl",
+      "competition": "afl",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-15T05:45:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
     },
     {
       "id": "admin-willow-cricket",
@@ -655,27 +611,6 @@
       "streams": [],
       "streamCount": 0,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCztsFYTAKbBgLBpgCckKArNACbrDnACGw8wADAcNcBJg5hs-AhUYpgUtgGMCkkCxAyQ5EOoggY6rSE37dIBUs2J8O7SpQh4NYEiwzJUsPgSQmPSXyGvRhCCA.webp"
-    },
-    {
-      "id": "fedex-playoffs-st-jude-championship-day-2-pga-tour-golf-pga-526234",
-      "title": "Fedex Playoffs St. Jude Championship Day 2 | PGA Tour Golf 🏌",
-      "sport": "golf",
-      "competition": "golf",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-14T16:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
     },
     {
       "id": "deportiva-minera-vs-cartagena-lu-ii-football-1626990",
@@ -4530,6 +4465,27 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKtRAQQ9FMFkgQvEFkMhNmmCBTWQJEyyQUsIuYxRhVejp-KNqcnr4rMBgnuJiEEA.webp"
     },
     {
+      "id": "liverpool-vs-como-2482899",
+      "title": "Liverpool vs Como",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-16T10:30:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
       "id": "hansa-rostock-vs-waldhof-mannheim-2525335",
       "title": "Hansa Rostock vs Waldhof Mannheim",
       "sport": "football",
@@ -5475,27 +5431,6 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKtRC8QMENOzBpWkFhBmIIFDpAWLurCyQUH7UeJRhVKHp-KNqct74rMBgnuJiEEA.webp"
     },
     {
-      "id": "liverpool-vs-como-2482899",
-      "title": "Liverpool vs Como",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-16T17:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
-    },
-    {
       "id": "reus-fc-reddis-vs-atl-tic-lleida-2566562",
       "title": "Reus FC Reddis vs Atlètic Lleida",
       "sport": "football",
@@ -5769,8 +5704,8 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBzgcY+mBC9NIYyRAoDxy9QMskFLCLmMUYVSh6vyjanPf5WwGCu4mIQQA.webp"
     },
     {
-      "id": "gornik-zabrze-vs-wisla-krakow-football-1553129",
-      "title": "Gornik Zabrze vs Wisla Krakow",
+      "id": "wisla-plock-vs-lech-poznan-football-1553135",
+      "title": "Wisla Plock vs Lech Poznan",
       "sport": "football",
       "competition": "football",
       "status": "UPCOMING",
@@ -5790,8 +5725,8 @@
       "poster": ""
     },
     {
-      "id": "wisla-plock-vs-lech-poznan-football-1553135",
-      "title": "Wisla Plock vs Lech Poznan",
+      "id": "gornik-zabrze-vs-wisla-krakow-football-1553129",
+      "title": "Gornik Zabrze vs Wisla Krakow",
       "sport": "football",
       "competition": "football",
       "status": "UPCOMING",
