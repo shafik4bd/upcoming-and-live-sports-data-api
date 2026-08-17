@@ -1,31 +1,10 @@
 {
-  "lastUpdated": "2026-08-17T09:35:06Z",
-  "fetchDuration": "154.6s",
+  "lastUpdated": "2026-08-17T10:26:39Z",
+  "fetchDuration": "176.7s",
   "totalMatches": 172,
-  "liveCount": 2,
-  "upcomingCount": 170,
+  "liveCount": 1,
+  "upcomingCount": 171,
   "matches": [
-    {
-      "id": "ppv-event-09-primos-pro-wrestling-sorched-summer-2-ppv-09",
-      "title": "Primos Pro Wrestling Sorched Summer 2",
-      "sport": "other",
-      "competition": "other",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-17T02:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
-    },
     {
       "id": "seattle-sounders-vs-vancouver-whitecaps-2406992",
       "title": "Seattle Sounders vs Vancouver Whitecaps",
@@ -608,6 +587,27 @@
       "streams": [],
       "streamCount": 0,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdhBDwawaSFmheILCFMkQKEEdN7Ek-MCQUsIuYxRhVKHp-KNqct4O9GCe4mIQQA.webp"
+    },
+    {
+      "id": "ppv-event-02-super-dirtcar-series-brewerton-ppv-02",
+      "title": "Super DIRTcar Series Brewerton 🔥",
+      "sport": "other",
+      "competition": "other",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-17T22:45:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
     },
     {
       "id": "internacional-vs-remo-2398416",
@@ -1947,42 +1947,6 @@
       "poster": ""
     },
     {
-      "id": "ppv-toronto-fc-vs-charlotte-fc",
-      "title": "Toronto FC vs. Charlotte FC",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-19T23:30:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-toronto-fc-vs-charlotte-fc/1",
-          "language": "English - Apple TV",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-toronto-fc-vs-charlotte-fc/2",
-          "language": "English - Apple TV",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGhBARSI4DRIgAxtiXZgklHJkKQIGOINkqIFCHjBzkq3KUmlm-mEGyCah4WBJcizUKetpYRlNV3MwJ3UZCCA.webp"
-    },
-    {
       "id": "ppv-philadelphia-union-vs-inter-miami-cf",
       "title": "Philadelphia Union vs. Inter Miami CF",
       "sport": "football",
@@ -2017,6 +1981,78 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MwkCBEhxEYBAkgsIGCERKVKYFRABjbKqnx9SmmXmyj22dpQgyo8rIFCRTbPTCFgSXDs1Cwbk5ZYVJ6AmAjMEC5MIggA.webp"
+    },
+    {
+      "id": "ppv-d-c-united-vs-new-england-revolution",
+      "title": "D.C. United vs. New England Revolution",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-19T23:30:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-d-c-united-vs-new-england-revolution/1",
+          "language": "English - Apple TV",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-d-c-united-vs-new-england-revolution/2",
+          "language": "English - Apple TV",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICCGHAI07CHjAqIAMbBES4SBhqVIyeJCGYIJYazzDi0hbJY1ciCnIyBQkU2z0whYElzKnITBuThkpMicCezBg2TIIIA.webp"
+    },
+    {
+      "id": "ppv-toronto-fc-vs-charlotte-fc",
+      "title": "Toronto FC vs. Charlotte FC",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-19T23:30:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-toronto-fc-vs-charlotte-fc/1",
+          "language": "English - Apple TV",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-toronto-fc-vs-charlotte-fc/2",
+          "language": "English - Apple TV",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGhBARSI4DRIgAxtiXZgklHJkKQIGOINkqIFCHjBzkq3KUmlm-mEGyCah4WBJcizUKetpYRlNV3MwJ3UZCCA.webp"
     },
     {
       "id": "ppv-red-bull-new-york-vs-nashville-sc",
@@ -2055,42 +2091,6 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IYSBjBEAY1IgsIFNgXAqIeCPkkN4kDpi6Qa8dKXAIShSDmIU+kBGX8wgrQWz0whYElwzlIVdWCC0yZQ9NMFcLUgsgA.webp"
     },
     {
-      "id": "ppv-fc-cincinnati-vs-new-york-city-fc",
-      "title": "FC Cincinnati vs. New York City FC",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-19T23:30:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-fc-cincinnati-vs-new-york-city-fc/1",
-          "language": "English - Apple TV",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-fc-cincinnati-vs-new-york-city-fc/2",
-          "language": "English - Apple TV",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5M8YBBAoQAYxCISs2SJCSYIGllUbgVEFmCIQIYfqXDsU+auy6dpqeQigwgkU1spyhYElwyvIVdWZwsyLwJDclcJUgkgA.webp"
-    },
-    {
       "id": "ppv-orlando-city-sc-vs-chicago-fire-fc",
       "title": "Orlando City SC vs. Chicago Fire FC",
       "sport": "football",
@@ -2127,8 +2127,8 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IKiGHiQEEAGNgiLCBXK5IeCNIiQJFdKzBZEbYcOI9E5cqkp9JFORMChWgtnphCwJLjmOhMG5OE2FtR3dNMCCjbQggA.webp"
     },
     {
-      "id": "ppv-d-c-united-vs-new-england-revolution",
-      "title": "D.C. United vs. New England Revolution",
+      "id": "ppv-fc-cincinnati-vs-new-york-city-fc",
+      "title": "FC Cincinnati vs. New York City FC",
       "sport": "football",
       "competition": "football",
       "status": "UPCOMING",
@@ -2146,21 +2146,21 @@
       "streams": [
         {
           "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-d-c-united-vs-new-england-revolution/1",
+          "embedUrl": "https://embed.st/embed/admin/ppv-fc-cincinnati-vs-new-york-city-fc/1",
           "language": "English - Apple TV",
           "hd": true,
           "quality": "HD"
         },
         {
           "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-d-c-united-vs-new-england-revolution/2",
+          "embedUrl": "https://embed.st/embed/admin/ppv-fc-cincinnati-vs-new-york-city-fc/2",
           "language": "English - Apple TV",
           "hd": false,
           "quality": "SD"
         }
       ],
       "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICCGHAI07CHjAqIAMbBES4SBhqVIyeJCGYIJYazzDi0hbJY1ciCnIyBQkU2z0whYElzKnITBuThkpMicCezBg2TIIIA.webp"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5M8YBBAoQAYxCISs2SJCSYIGllUbgVEFmCIQIYfqXDsU+auy6dpqeQigwgkU1spyhYElwyvIVdWZwsyLwJDclcJUgkgA.webp"
     },
     {
       "id": "ppv-columbus-crew-vs-cf-montr-al",
@@ -2437,6 +2437,42 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52ILCAjZSwCCBDBEKEPFkgSIGLOA0JVcaXnThIzdnEhl+kxIDGllOSkChIptMdhCwJLluOhMG5OKRMyRwJFciDtMgggA.webp"
     },
     {
+      "id": "ppv-la-galaxy-vs-san-jose-earthquakes",
+      "title": "LA Galaxy vs. San Jose Earthquakes",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-20T02:30:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-la-galaxy-vs-san-jose-earthquakes/1",
+          "language": "English - Apple TV",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-la-galaxy-vs-san-jose-earthquakes/2",
+          "language": "English - Apple TV",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCCwhhk2VRAL5EbCHikQMFRA3rEUtfIlkswQ9hEjpG8SnLKBQiwXO2whYElwBjW0LDdOZWFSemc1MH9gZTIIIA.webp"
+    },
+    {
       "id": "ppv-vancouver-whitecaps-vs-houston-dynamo-fc",
       "title": "Vancouver Whitecaps vs. Houston Dynamo FC",
       "sport": "football",
@@ -2507,42 +2543,6 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IKiEkwQKEFlIh4wCCAjKQMZaWzAJKdfqUrDk9VnEy5wJcNWr9-MIJFMdDwsCS4AxvqFPWNWFtfQJrcictMgggA.webp"
-    },
-    {
-      "id": "ppv-la-galaxy-vs-san-jose-earthquakes",
-      "title": "LA Galaxy vs. San Jose Earthquakes",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-20T02:30:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-la-galaxy-vs-san-jose-earthquakes/1",
-          "language": "English - Apple TV",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-la-galaxy-vs-san-jose-earthquakes/2",
-          "language": "English - Apple TV",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCCwhhk2VRAL5EbCHikQMFRA3rEUtfIlkswQ9hEjpG8SnLKBQiwXO2whYElwBjW0LDdOZWFSemc1MH9gZTIIIA.webp"
     },
     {
       "id": "ppv-storm-vs-panthers",
@@ -4525,42 +4525,6 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MwkBAnAaVEGUQwJU8WXEQRIRTSwbxOsrJJyQhkCGDxs0kSnLqBQkUyu2whYElwBjW0LDdOdWFSegILcn9gdTIIIA.webp"
     },
     {
-      "id": "ppv-venezia-vs-lecce",
-      "title": "Venezia vs. Lecce",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-23T16:30:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-venezia-vs-lecce/1",
-          "language": "English - Serie A",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-venezia-vs-lecce/2",
-          "language": "English - Serie A",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRFhAQQZCMEQgQNSTWEgAxiBSKdmlCI0GYGkCpBrJJcaSmlgVffzCCRTbPTCFgSXOv1DnVjlhO30CeXJnYDlZIA.webp"
-    },
-    {
       "id": "ppv-frosinone-vs-juventus",
       "title": "Frosinone vs. Juventus",
       "sport": "football",
@@ -4595,6 +4559,42 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCCogUwCMHilSIGCGHyQJEIgDG2PWTkSahkCGDGQJiWqPrR5OQKEimemWELAkubTKFhuTjk1MhkCeXIA2UUIIA.webp"
+    },
+    {
+      "id": "ppv-venezia-vs-lecce",
+      "title": "Venezia vs. Lecce",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-23T16:30:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-venezia-vs-lecce/1",
+          "language": "English - Serie A",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-venezia-vs-lecce/2",
+          "language": "English - Serie A",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRFhAQQZCMEQgQNSTWEgAxiBSKdmlCI0GYGkCpBrJJcaSmlgVffzCCRTbPTCFgSXOv1DnVjlhO30CeXJnYDlZIA.webp"
     },
     {
       "id": "ppv-getafe-vs-racing-santander",
