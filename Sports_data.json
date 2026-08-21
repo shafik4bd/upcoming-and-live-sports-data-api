@@ -1,31 +1,10 @@
 {
-  "lastUpdated": "2026-08-21T07:39:34Z",
-  "fetchDuration": "239.2s",
-  "totalMatches": 263,
-  "liveCount": 5,
-  "upcomingCount": 258,
+  "lastUpdated": "2026-08-21T08:33:16Z",
+  "fetchDuration": "209.9s",
+  "totalMatches": 261,
+  "liveCount": 4,
+  "upcomingCount": 257,
   "matches": [
-    {
-      "id": "ppv-event-01-southern-nationals-toccoa-ppv-01",
-      "title": "Southern Nationals Toccoa 💥",
-      "sport": "other",
-      "competition": "other",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-21T00:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
-    },
     {
       "id": "ppv-event-02-ufc-bjj-10-tackett-v-gracie-ppv-02",
       "title": "UFC BJJ 10 Tackett v Gracie 🔥",
@@ -90,10 +69,10 @@
       "poster": ""
     },
     {
-      "id": "533",
-      "title": "Donell Jones - Joe",
-      "sport": "fight",
-      "competition": "fight",
+      "id": "canberra-raiders-vs-brisbane-broncos-2417354",
+      "title": "Canberra Raiders vs Brisbane Broncos",
+      "sport": "rugby",
+      "competition": "rugby",
       "status": "LIVE",
       "teams": {
         "home": {
@@ -105,18 +84,10 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-08-21T03:00:00Z",
-      "streams": [
-        {
-          "source": "golf",
-          "embedUrl": "https://embed.st/embed/golf/533/1",
-          "language": "English",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 1,
-      "poster": ""
+      "matchTimeUTC": "2026-08-21T08:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VeORBbIIFCG4g+IKVpAl9IROZPwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
     },
     {
       "id": "admin-willow-cricket",
@@ -406,27 +377,6 @@
       "streams": [],
       "streamCount": 0,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCztsFYTAKbBgLBpgCckKArNACbrDnACGw8wADAcNcBJg5hs-AhUYpgUtgGMCkkCxAyQ5EOoggY6rSE37dIBUs2J8O7SpQh4NYEiwzJUsPgSQmPSXyGvRhCCA.webp"
-    },
-    {
-      "id": "canberra-raiders-vs-brisbane-broncos-2417354",
-      "title": "Canberra Raiders vs Brisbane Broncos",
-      "sport": "rugby",
-      "competition": "rugby",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-21T08:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VeORBbIIFCG4g+IKVpAl9IROZPwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
     },
     {
       "id": "england-vs-pakistan-first-test-cricket-hundred-1",
@@ -4743,42 +4693,6 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAQAYGYXlJB8Q3fSD0oTIC4j04FTJBT7DZ9FGBUoub8vSyyPTWjA3MVEIIA.webp"
     },
     {
-      "id": "ppv-st-louis-city-sc-vs-houston-dynamo-fc",
-      "title": "St. Louis CITY SC vs. Houston Dynamo FC",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-23T00:30:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-st-louis-city-sc-vs-houston-dynamo-fc/1",
-          "language": "English - Apple TV",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-st-louis-city-sc-vs-houston-dynamo-fc/2",
-          "language": "English - Apple TV",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEKRHipWEGRIgU2EDXkh4wGokRYpMTSADGpI3MkRgiFEeW9yFgUJFNs9MIWBJchpULDdOC2FJJQJLcn9gCzIIIA.webp"
-    },
-    {
       "id": "ppv-austin-fc-vs-philadelphia-union",
       "title": "Austin FC vs. Philadelphia Union",
       "sport": "football",
@@ -4849,6 +4763,42 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEiBQhhIkCFlSZwkFRABjaZNKz42YBBX7x04KvlYjMEAeVTdvchFBhBIpnpTlCwJLjWehF1YnGTJPAmBdMBd9bQggA.webp"
+    },
+    {
+      "id": "ppv-st-louis-city-sc-vs-houston-dynamo-fc",
+      "title": "St. Louis CITY SC vs. Houston Dynamo FC",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-23T00:30:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-st-louis-city-sc-vs-houston-dynamo-fc/1",
+          "language": "English - Apple TV",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-st-louis-city-sc-vs-houston-dynamo-fc/2",
+          "language": "English - Apple TV",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEKRHipWEGRIgU2EDXkh4wGokRYpMTSADGpI3MkRgiFEeW9yFgUJFNs9MIWBJchpULDdOC2FJJQJLcn9gCzIIIA.webp"
     },
     {
       "id": "ppv-le-n-vs-monterrey",
@@ -4959,42 +4909,6 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRDGBUQwkBBBYQk+FJDSUcmeNXSYIDSENzSC8VsPrgiaQGMFKchFBhBIptnphCwJLhsOhF1YnYVJ6AityF2AnMgggA.webp"
     },
     {
-      "id": "ppv-san-diego-fc-vs-colorado-rapids",
-      "title": "San Diego FC vs. Colorado Rapids",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-23T02:30:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-san-diego-fc-vs-colorado-rapids/1",
-          "language": "English - Apple TV",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-san-diego-fc-vs-colorado-rapids/2",
-          "language": "English - Apple TV",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MwkDAkgQwRJKogFNEtMXAIIFJpDiVw9cAXSY2A1m0pSs0iHjrL-MIJFNTDwsCS4AxpaFPWCBcySwJrMCcDMgggA.webp"
-    },
-    {
       "id": "ppv-lafc-vs-portland-timbers",
       "title": "LAFC vs. Portland Timbers",
       "sport": "football",
@@ -5029,6 +4943,42 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MwkBKogU2EDXjZgNMlIDGIMuPXiIILNJAxDsmbuGypU-QohKZ-MIJFNF9wsCS5VMoY9a3zMhkCYAUwR2BbMgggA.webp"
+    },
+    {
+      "id": "ppv-san-diego-fc-vs-colorado-rapids",
+      "title": "San Diego FC vs. Colorado Rapids",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-23T02:30:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-san-diego-fc-vs-colorado-rapids/1",
+          "language": "English - Apple TV",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-san-diego-fc-vs-colorado-rapids/2",
+          "language": "English - Apple TV",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MwkDAkgQwRJKogFNEtMXAIIFJpDiVw9cAXSY2A1m0pSs0iHjrL-MIJFNTDwsCS4AxpaFPWCBcySwJrMCcDMgggA.webp"
     },
     {
       "id": "ppv-san-jose-earthquakes-vs-minnesota-united-fc",
@@ -5211,42 +5161,6 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MiLCEkkQKEIgDGIGlmCIYwGtMkoNS1SJAwQEqiAjY5IYcAjHShy1h38wgkU2z0whYElzydIVdWc2syHQJ9MFcbUhsgA.webp"
     },
     {
-      "id": "ppv-manchester-city-vs-afc-bournemouth",
-      "title": "Manchester City vs. AFC Bournemouth",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-23T13:00:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-manchester-city-vs-afc-bournemouth/1",
-          "language": "English - Premier League",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-manchester-city-vs-afc-bournemouth/2",
-          "language": "English - Premier League",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMYgswCCBSkZEqcrIkQVdSBhzsIYSHgiF+lHJDntsmAqxLhpefzCCjBbPTCFgSXOPlDnVggjMnk3QzBnGQUIIA.webp"
-    },
-    {
       "id": "ppv-brighton-hove-albion-vs-aston-villa",
       "title": "Brighton & Hove Albion vs. Aston Villa",
       "sport": "football",
@@ -5281,6 +5195,42 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRIgDGILKRAkQEUthA0sIYSGkhgVedmAQQKFdJSqNl9edmaQi1Sf5hBIpgaeFgSXJJNCXViVhZRMCYHhyF0NlCCA.webp"
+    },
+    {
+      "id": "ppv-manchester-city-vs-afc-bournemouth",
+      "title": "Manchester City vs. AFC Bournemouth",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-23T13:00:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-manchester-city-vs-afc-bournemouth/1",
+          "language": "English - Premier League",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-manchester-city-vs-afc-bournemouth/2",
+          "language": "English - Premier League",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMYgswCCBSkZEqcrIkQVdSBhzsIYSHgiF+lHJDntsmAqxLhpefzCCjBbPTCFgSXOPlDnVggjMnk3QzBnGQUIIA.webp"
     },
     {
       "id": "ppv-angers-vs-lille",
@@ -5535,42 +5485,6 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IKiEQBjYPBEgIwCCCkg1JSSBghhmmmWHyUs2Zt01lNXbu1rFVY-zCCRTbPTCFgSXFONDnVkVDMmMCEzBnJVIlIA.webp"
     },
     {
-      "id": "ppv-torino-vs-ac-milan",
-      "title": "Torino vs. AC Milan",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-23T18:45:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-torino-vs-ac-milan/1",
-          "language": "English - Serie A",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-torino-vs-ac-milan/2",
-          "language": "English - Serie A",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEESCwgU04BBCJhc4FRA1VKbCADG2OSHlTxWEXrLylNeBJJqdm-mEGmCeh4WBJc2zUKetxJTJNV2swJ2VzIA.webp"
-    },
-    {
       "id": "ppv-atalanta-vs-sassuolo",
       "title": "Atalanta vs. Sassuolo",
       "sport": "football",
@@ -5605,6 +5519,42 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IccJBkqISZInjZIeCOUgswGjMQoQEEDPExgOqaUUrE4gMbAIKchFBhBIptnphCwJLmsOhF1YnYVJ6AhNyFzswiCA.webp"
+    },
+    {
+      "id": "ppv-torino-vs-ac-milan",
+      "title": "Torino vs. AC Milan",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-23T18:45:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-torino-vs-ac-milan/1",
+          "language": "English - Serie A",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-torino-vs-ac-milan/2",
+          "language": "English - Serie A",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEESCwgU04BBCJhc4FRA1VKbCADG2OSHlTxWEXrLylNeBJJqdm-mEGmCeh4WBJc2zUKetxJTJNV2swJ2VzIA.webp"
     },
     {
       "id": "ppv-paris-saint-germain-vs-stade-rennais",
@@ -6039,42 +5989,6 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MNKiHgiQIYBMRYQMOZOCISICDJA0tAYxVSNEbGp0g9IRShBlh2KynImBQkU1NOwhYElx6nITBuThN7MicCNXJg4BMyCCA.webp"
     },
     {
-      "id": "ppv-bodo-glimt-vs-nec-nijmegen",
-      "title": "Bodo/Glimt vs. NEC Nijmegen",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-25T19:00:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-bodo-glimt-vs-nec-nijmegen/1",
-          "language": "English - UEFA Champions League Qualifying",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-bodo-glimt-vs-nec-nijmegen/2",
-          "language": "English - UEFA Champions League Qualifying",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE522EBBCISIGWSogAxuJggQIiSFVZSW2RpQgFZRBFIa18cWtHkzAoSKbZ6YQsCS5FKR2G6czYXMfAmArMD9gMzIIIA.webp"
-    },
-    {
       "id": "ppv-lask-linz-vs-celtic",
       "title": "LASK Linz vs. Celtic",
       "sport": "football",
@@ -6111,8 +6025,8 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IMhBHYRIeMAiyQVEMJAwQWEAGNSIFPOyL9iHcpIgQwZZuEyUsg6PKSBQqQWn6whYElxb9ITBuTklbMn0POTBggwkgA.webp"
     },
     {
-      "id": "ppv-lyon-vs-fenerbahce",
-      "title": "Lyon vs. Fenerbahce",
+      "id": "ppv-bodo-glimt-vs-nec-nijmegen",
+      "title": "Bodo/Glimt vs. NEC Nijmegen",
       "sport": "football",
       "competition": "football",
       "status": "UPCOMING",
@@ -6126,25 +6040,25 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-08-26T19:00:00Z",
+      "matchTimeUTC": "2026-08-25T19:00:00Z",
       "streams": [
         {
           "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-lyon-vs-fenerbahce/1",
+          "embedUrl": "https://embed.st/embed/admin/ppv-bodo-glimt-vs-nec-nijmegen/1",
           "language": "English - UEFA Champions League Qualifying",
           "hd": true,
           "quality": "HD"
         },
         {
           "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-lyon-vs-fenerbahce/2",
+          "embedUrl": "https://embed.st/embed/admin/ppv-bodo-glimt-vs-nec-nijmegen/2",
           "language": "English - UEFA Champions League Qualifying",
           "hd": false,
           "quality": "SD"
         }
       ],
       "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MiAMakQEaSHEgSCkPGwgsIGCCprg27fMSJNIbLuAzFiRSDm2IwXuXsChIpqZTlCwJLnGehMG5Oe2FSegIHciDzcIggA.webp"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE522EBBCISIGWSogAxuJggQIiSFVZSW2RpQgFZRBFIa18cWtHkzAoSKbZ6YQsCS5FKR2G6czYXMfAmArMD9gMzIIIA.webp"
     },
     {
       "id": "ppv-aek-athens-vs-levski-sofia",
@@ -6181,6 +6095,42 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCCogQIkDGCJpUrJJDwF2ccAggdM9SukBjVVk2IpRhXO2kQWFOQigwgkU2z0whYElxHHIVdWZ2FSegINMFdbMgggA.webp"
+    },
+    {
+      "id": "ppv-lyon-vs-fenerbahce",
+      "title": "Lyon vs. Fenerbahce",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-26T19:00:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-lyon-vs-fenerbahce/1",
+          "language": "English - UEFA Champions League Qualifying",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-lyon-vs-fenerbahce/2",
+          "language": "English - UEFA Champions League Qualifying",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MiAMakQEaSHEgSCkPGwgsIGCCprg27fMSJNIbLuAzFiRSDm2IwXuXsChIpqZTlCwJLnGehMG5Oe2FSegIHciDzcIggA.webp"
     },
     {
       "id": "ppv-nk-celje-vs-slovan-bratislava",
