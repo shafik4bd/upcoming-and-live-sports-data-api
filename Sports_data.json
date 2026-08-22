@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-08-22T03:39:31Z",
-  "fetchDuration": "284.3s",
-  "totalMatches": 315,
-  "liveCount": 32,
-  "upcomingCount": 283,
+  "lastUpdated": "2026-08-22T04:28:55Z",
+  "fetchDuration": "298.7s",
+  "totalMatches": 310,
+  "liveCount": 24,
+  "upcomingCount": 286,
   "matches": [
     {
       "id": "live-event_nfl-network-live-stream",
@@ -56,56 +56,6 @@
       "poster": ""
     },
     {
-      "id": "live-event_bison-kombat-9-live-stream",
-      "title": "Bison Kombat 9",
-      "sport": "fight",
-      "competition": "fight",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-21T22:00:00Z",
-      "streams": [
-        {
-          "source": "delta",
-          "embedUrl": "https://embed.st/embed/delta/live-event_bison-kombat-9-live-stream/1",
-          "language": "English",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 1,
-      "poster": ""
-    },
-    {
-      "id": "pittsburgh-steelers-vs-new-york-jets-2475352",
-      "title": "Pittsburgh Steelers vs New York Jets",
-      "sport": "american-football",
-      "competition": "american-football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-21T23:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbiBK5gABmYgYIDXxCmIIE1tNTTpgsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp"
-    },
-    {
       "id": "live-event_amanda-serrano-vs-lucrecia-anabella-manzur-live-stream",
       "title": "Amanda Serrano vs Lucrecia Anabella Manzur",
       "sport": "fight",
@@ -133,111 +83,6 @@
       ],
       "streamCount": 1,
       "poster": ""
-    },
-    {
-      "id": "new-york-yankees-vs-toronto-blue-jays-2388804",
-      "title": "New York Yankees vs Toronto Blue Jays",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-21T23:05:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMiFAgYDMHxDcQ+kCBIgUBk1f0KmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
-    },
-    {
-      "id": "miami-marlins-vs-washington-nationals-2388799",
-      "title": "Miami Marlins vs Washington Nationals",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-21T23:10:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rUdxCIoKEFJCa+IYyRC7Nx40ZgFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
-    },
-    {
-      "id": "boston-red-sox-vs-san-francisco-giants-2388811",
-      "title": "Boston Red Sox vs San Francisco Giants",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-21T23:10:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rUCjAoQ4JMCQhuIPjpAkQ2o6dMSmSCn2Gz6mlSi5gy8IllnumtGCeYqIQQA.webp"
-    },
-    {
-      "id": "baltimore-orioles-vs-tampa-bay-rays-2388812",
-      "title": "Baltimore Orioles vs Tampa Bay Rays",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-21T23:15:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECjB8wUndgYhuIPiFMkNh01dONgSCn2Gz6mlSi5gy8IllnumtGCeYqIQQA.webp"
-    },
-    {
-      "id": "jacksonville-jaguars-vs-carolina-panthers-2475353",
-      "title": "Jacksonville Jaguars vs Carolina Panthers",
-      "sport": "american-football",
-      "competition": "american-football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-21T23:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFCBSctGqSG4g+IYxEMgSxkHo0wCwJBT7DZ9FGBVa278vSyytTLRg7mKiEEA.webp"
     },
     {
       "id": "chicago-white-sox-vs-new-york-mets-2388806",
@@ -478,27 +323,6 @@
       "streams": [],
       "streamCount": 0,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJNXhhwEECRDcQfECd3H9JqSBQGCwDTH7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "tigres-uanl-vs-atlante-2487493",
-      "title": "Tigres UANL vs Atlante",
-      "sport": "football",
-      "competition": "football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-22T01:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VAVRwxgSEHu4g+ekBBMgYIEuZAGUBHRT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
     },
     {
       "id": "edmonton-elks-vs-winnipeg-blue-bombers-2432577",
@@ -1485,6 +1309,27 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdlCTlqIXdJC8QWXUZCIYBkChAQDLLTAEi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp"
     },
     {
+      "id": "preston-vs-wolves-football-1563100",
+      "title": "Preston vs Wolves",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-22T14:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
       "id": "qpr-vs-bolton-football-1563101",
       "title": "QPR vs Bolton",
       "sport": "football",
@@ -1508,27 +1353,6 @@
     {
       "id": "swansea-vs-sheffield-utd-football-1563103",
       "title": "Swansea vs Sheffield Utd",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-22T14:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
-    },
-    {
-      "id": "preston-vs-wolves-football-1563100",
-      "title": "Preston vs Wolves",
       "sport": "football",
       "competition": "football",
       "status": "UPCOMING",
@@ -3270,8 +3094,8 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDGAAGMKN5MtIbiD4gSZkChCIIIKSFsoCwJBT7DZ9FLrYouu8nosWT8mWjAfelEIIA.webp"
     },
     {
-      "id": "gimnasia-lp-vs-gimnasia-m-football-1493082",
-      "title": "Gimnasia L.P. vs Gimnasia M.",
+      "id": "atletico-tucuman-vs-instituto-cordoba-football-1493078",
+      "title": "Atletico Tucuman vs Instituto Cordoba",
       "sport": "football",
       "competition": "football",
       "status": "UPCOMING",
@@ -3291,8 +3115,8 @@
       "poster": ""
     },
     {
-      "id": "atletico-tucuman-vs-instituto-cordoba-football-1493078",
-      "title": "Atletico Tucuman vs Instituto Cordoba",
+      "id": "gimnasia-lp-vs-gimnasia-m-football-1493082",
+      "title": "Gimnasia L.P. vs Gimnasia M.",
       "sport": "football",
       "competition": "football",
       "status": "UPCOMING",
@@ -3682,6 +3506,27 @@
       "streams": [],
       "streamCount": 0,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEClwg4veAhDcQfECYjaQiTYcTwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
+    },
+    {
+      "id": "new-york-liberty-vs-indiana-fever-2449184",
+      "title": "New York Liberty vs Indiana Fever",
+      "sport": "basketball",
+      "competition": "basketball",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-22T23:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNtzAgQMfiETcQUkCRCGUIC9og6QCpkgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp"
     },
     {
       "id": "baltimore-orioles-vs-tampa-bay-rays-2388821",
@@ -4287,6 +4132,27 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWmDGbCMENxB8QRiCBO6SIXfpIFgSCn2Gz6KMCpRc35ellkemGm5iohBAA.webp"
     },
     {
+      "id": "los-angeles-sparks-vs-connecticut-sun-2449185",
+      "title": "Los Angeles Sparks vs Connecticut Sun",
+      "sport": "basketball",
+      "competition": "basketball",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-23T01:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLMCkgYYsCG76QWkoZQgzIEBBB8jBYEgp9hs+ijAqUXD+XobRXky0YB5iohBAA.webp"
+    },
+    {
       "id": "independiente-medellin-vs-cucuta-football-1549739",
       "title": "Independiente Medellin vs Cucuta",
       "sport": "football",
@@ -4327,6 +4193,27 @@
       "streams": [],
       "streamCount": 0,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMGBQM2YEGxDcQfEFIMgIRkIhJmJTJBT7DZ9FGBVadZeESyytTLQaovQhQA.webp"
+    },
+    {
+      "id": "phoenix-mercury-vs-atlanta-dream-2449186",
+      "title": "Phoenix Mercury vs Atlanta Dream",
+      "sport": "basketball",
+      "competition": "basketball",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-23T02:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFGD5gQIRIikhuIAyUMgU5nSAghTjYEgp9hs+hpUouYMvCJZZnky0YN5iohBAA.webp"
     },
     {
       "id": "ppv-lafc-vs-portland-timbers",
@@ -5940,8 +5827,8 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFKJSQULHRDcQfECZgmQKC1eMWmSCn2Gz6KMCpRc35entEemtGBuYqIQQA.webp"
     },
     {
-      "id": "vitoria-vs-bahia-football-1492349",
-      "title": "Vitoria vs Bahia",
+      "id": "rb-bragantino-vs-gremio-football-1492341",
+      "title": "RB Bragantino vs Gremio",
       "sport": "football",
       "competition": "football",
       "status": "UPCOMING",
@@ -5961,8 +5848,8 @@
       "poster": ""
     },
     {
-      "id": "rb-bragantino-vs-gremio-football-1492341",
-      "title": "RB Bragantino vs Gremio",
+      "id": "vitoria-vs-bahia-football-1492349",
+      "title": "Vitoria vs Bahia",
       "sport": "football",
       "competition": "football",
       "status": "UPCOMING",
@@ -6780,42 +6667,6 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MNKiHgiQIYBMRYQMOZOCISICDJA0tAYxVSNEbGp0g9IRShBlh2KynImBQkU1NOwhYElx6nITBuThN7MicCNXJg4BMyCCA.webp"
     },
     {
-      "id": "ppv-bodo-glimt-vs-nec-nijmegen",
-      "title": "Bodo/Glimt vs. NEC Nijmegen",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-25T19:00:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-bodo-glimt-vs-nec-nijmegen/1",
-          "language": "English - UEFA Champions League Qualifying",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-bodo-glimt-vs-nec-nijmegen/2",
-          "language": "English - UEFA Champions League Qualifying",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE522EBBCISIGWSogAxuJggQIiSFVZSW2RpQgFZRBFIa18cWtHkzAoSKbZ6YQsCS5FKR2G6czYXMfAmArMD9gMzIIIA.webp"
-    },
-    {
       "id": "ppv-lask-linz-vs-celtic",
       "title": "LASK Linz vs. Celtic",
       "sport": "football",
@@ -6852,8 +6703,8 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IMhBHYRIeMAiyQVEMJAwQWEAGNSIFPOyL9iHcpIgQwZZuEyUsg6PKSBQqQWn6whYElxb9ITBuTklbMn0POTBggwkgA.webp"
     },
     {
-      "id": "ppv-aek-athens-vs-levski-sofia",
-      "title": "AEK Athens vs. Levski Sofia",
+      "id": "ppv-bodo-glimt-vs-nec-nijmegen",
+      "title": "Bodo/Glimt vs. NEC Nijmegen",
       "sport": "football",
       "competition": "football",
       "status": "UPCOMING",
@@ -6867,29 +6718,29 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-08-26T19:00:00Z",
+      "matchTimeUTC": "2026-08-25T19:00:00Z",
       "streams": [
         {
           "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-aek-athens-vs-levski-sofia/1",
+          "embedUrl": "https://embed.st/embed/admin/ppv-bodo-glimt-vs-nec-nijmegen/1",
           "language": "English - UEFA Champions League Qualifying",
           "hd": true,
           "quality": "HD"
         },
         {
           "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-aek-athens-vs-levski-sofia/2",
+          "embedUrl": "https://embed.st/embed/admin/ppv-bodo-glimt-vs-nec-nijmegen/2",
           "language": "English - UEFA Champions League Qualifying",
           "hd": false,
           "quality": "SD"
         }
       ],
       "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCCogQIkDGCJpUrJJDwF2ccAggdM9SukBjVVk2IpRhXO2kQWFOQigwgkU2z0whYElxHHIVdWZ2FSegINMFdbMgggA.webp"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE522EBBCISIGWSogAxuJggQIiSFVZSW2RpQgFZRBFIa18cWtHkzAoSKbZ6YQsCS5FKR2G6czYXMfAmArMD9gMzIIIA.webp"
     },
     {
-      "id": "ppv-lyon-vs-fenerbahce",
-      "title": "Lyon vs. Fenerbahce",
+      "id": "ppv-viking-fk-vs-dinamo-zagreb",
+      "title": "Viking FK vs. Dinamo Zagreb",
       "sport": "football",
       "competition": "football",
       "status": "UPCOMING",
@@ -6907,21 +6758,21 @@
       "streams": [
         {
           "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-lyon-vs-fenerbahce/1",
+          "embedUrl": "https://embed.st/embed/admin/ppv-viking-fk-vs-dinamo-zagreb/1",
           "language": "English - UEFA Champions League Qualifying",
           "hd": true,
           "quality": "HD"
         },
         {
           "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-lyon-vs-fenerbahce/2",
+          "embedUrl": "https://embed.st/embed/admin/ppv-viking-fk-vs-dinamo-zagreb/2",
           "language": "English - UEFA Champions League Qualifying",
           "hd": false,
           "quality": "SD"
         }
       ],
       "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MiAMakQEaSHEgSCkPGwgsIGCCprg27fMSJNIbLuAzFiRSDm2IwXuXsChIpqZTlCwJLnGehMG5Oe2FSegIHciDzcIggA.webp"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICCBggUIKuJAkFSiCOAqa8bMDko1ITXKzyJE4bNXr98uSV38wg1QS13CwJLgDGuoQ9YrhUnpnTTAHNSCIIA.webp"
     },
     {
       "id": "ppv-nk-celje-vs-slovan-bratislava",
@@ -6960,8 +6811,8 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEiAggYIGhGCJ5wySBSrsIZcokhgUmVU0gsm0iF2ItwQzD3TSKcvIFCRTbPTCFgSXAGNHITBuTiVSegIFcmC9cIggA.webp"
     },
     {
-      "id": "ppv-viking-fk-vs-dinamo-zagreb",
-      "title": "Viking FK vs. Dinamo Zagreb",
+      "id": "ppv-lyon-vs-fenerbahce",
+      "title": "Lyon vs. Fenerbahce",
       "sport": "football",
       "competition": "football",
       "status": "UPCOMING",
@@ -6979,21 +6830,57 @@
       "streams": [
         {
           "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-viking-fk-vs-dinamo-zagreb/1",
+          "embedUrl": "https://embed.st/embed/admin/ppv-lyon-vs-fenerbahce/1",
           "language": "English - UEFA Champions League Qualifying",
           "hd": true,
           "quality": "HD"
         },
         {
           "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-viking-fk-vs-dinamo-zagreb/2",
+          "embedUrl": "https://embed.st/embed/admin/ppv-lyon-vs-fenerbahce/2",
           "language": "English - UEFA Champions League Qualifying",
           "hd": false,
           "quality": "SD"
         }
       ],
       "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICCBggUIKuJAkFSiCOAqa8bMDko1ITXKzyJE4bNXr98uSV38wg1QS13CwJLgDGuoQ9YrhUnpnTTAHNSCIIA.webp"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MiAMakQEaSHEgSCkPGwgsIGCCprg27fMSJNIbLuAzFiRSDm2IwXuXsChIpqZTlCwJLnGehMG5Oe2FSegIHciDzcIggA.webp"
+    },
+    {
+      "id": "ppv-aek-athens-vs-levski-sofia",
+      "title": "AEK Athens vs. Levski Sofia",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-26T19:00:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-aek-athens-vs-levski-sofia/1",
+          "language": "English - UEFA Champions League Qualifying",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-aek-athens-vs-levski-sofia/2",
+          "language": "English - UEFA Champions League Qualifying",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCCogQIkDGCJpUrJJDwF2ccAggdM9SukBjVVk2IpRhXO2kQWFOQigwgkU2z0whYElxHHIVdWZ2FSegINMFdbMgggA.webp"
     }
   ]
 }
