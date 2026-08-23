@@ -1,52 +1,10 @@
 {
-  "lastUpdated": "2026-08-23T07:28:46Z",
-  "fetchDuration": "161.3s",
-  "totalMatches": 166,
-  "liveCount": 10,
+  "lastUpdated": "2026-08-23T08:22:16Z",
+  "fetchDuration": "126.9s",
+  "totalMatches": 163,
+  "liveCount": 7,
   "upcomingCount": 156,
   "matches": [
-    {
-      "id": "ppv-event-04-brand-risk-15-mcbroom-v-temper-ppv-004",
-      "title": "Brand Risk 15 McBroom v Temper",
-      "sport": "other",
-      "competition": "other",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-23T00:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
-    },
-    {
-      "id": "ppv-event-09-amw-superbowl-of-wrestling-ppv-09",
-      "title": "AMW Superbowl of Wrestling",
-      "sport": "other",
-      "competition": "other",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-23T00:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
-    },
     {
       "id": "ppv-event-24-world-of-outlaws-sprint-cars-jackson-ppv-24",
       "title": "World of Outlaws Sprint Cars Jackson",
@@ -127,27 +85,6 @@
         }
       },
       "matchTimeUTC": "2026-08-23T01:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
-    },
-    {
-      "id": "essendon-bombers-vs-port-adelaide-power-australian-football-3546",
-      "title": "Essendon Bombers vs Port Adelaide Power",
-      "sport": "afl",
-      "competition": "afl",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-23T02:20:00Z",
       "streams": [],
       "streamCount": 0,
       "poster": ""
@@ -1822,8 +1759,8 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFKJSQULHRDcQfECZgmQKC1eMWmSCn2Gz6KMCpRc35entEemtGBuYqIQQA.webp"
     },
     {
-      "id": "vitoria-vs-bahia-football-1492349",
-      "title": "Vitoria vs Bahia",
+      "id": "rb-bragantino-vs-gremio-football-1492341",
+      "title": "RB Bragantino vs Gremio",
       "sport": "football",
       "competition": "football",
       "status": "UPCOMING",
@@ -1843,8 +1780,8 @@
       "poster": ""
     },
     {
-      "id": "rb-bragantino-vs-gremio-football-1492341",
-      "title": "RB Bragantino vs Gremio",
+      "id": "vitoria-vs-bahia-football-1492349",
+      "title": "Vitoria vs Bahia",
       "sport": "football",
       "competition": "football",
       "status": "UPCOMING",
@@ -3292,42 +3229,6 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MNKiHgiQIYBMRYQMOZOCISICDJA0tAYxVSNEbGp0g9IRShBlh2KynImBQkU1NOwhYElx6nITBuThN7MicCNXJg4BMyCCA.webp"
     },
     {
-      "id": "ppv-bodo-glimt-vs-nec-nijmegen",
-      "title": "Bodo/Glimt vs. NEC Nijmegen",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-25T19:00:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-bodo-glimt-vs-nec-nijmegen/1",
-          "language": "English - UEFA Champions League Qualifying",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-bodo-glimt-vs-nec-nijmegen/2",
-          "language": "English - UEFA Champions League Qualifying",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE522EBBCISIGWSogAxuJggQIiSFVZSW2RpQgFZRBFIa18cWtHkzAoSKbZ6YQsCS5FKR2G6czYXMfAmArMD9gMzIIIA.webp"
-    },
-    {
       "id": "ppv-lask-linz-vs-celtic",
       "title": "LASK Linz vs. Celtic",
       "sport": "football",
@@ -3362,6 +3263,42 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IMhBHYRIeMAiyQVEMJAwQWEAGNSIFPOyL9iHcpIgQwZZuEyUsg6PKSBQqQWn6whYElxb9ITBuTklbMn0POTBggwkgA.webp"
+    },
+    {
+      "id": "ppv-bodo-glimt-vs-nec-nijmegen",
+      "title": "Bodo/Glimt vs. NEC Nijmegen",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-25T19:00:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-bodo-glimt-vs-nec-nijmegen/1",
+          "language": "English - UEFA Champions League Qualifying",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-bodo-glimt-vs-nec-nijmegen/2",
+          "language": "English - UEFA Champions League Qualifying",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE522EBBCISIGWSogAxuJggQIiSFVZSW2RpQgFZRBFIa18cWtHkzAoSKbZ6YQsCS5FKR2G6czYXMfAmArMD9gMzIIIA.webp"
     },
     {
       "id": "573",
@@ -3654,78 +3591,6 @@
       "poster": ""
     },
     {
-      "id": "ppv-viking-fk-vs-dinamo-zagreb",
-      "title": "Viking FK vs. Dinamo Zagreb",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-26T19:00:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-viking-fk-vs-dinamo-zagreb/1",
-          "language": "English - UEFA Champions League Qualifying",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-viking-fk-vs-dinamo-zagreb/2",
-          "language": "English - UEFA Champions League Qualifying",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICCBggUIKuJAkFSiCOAqa8bMDko1ITXKzyJE4bNXr98uSV38wg1QS13CwJLgDGuoQ9YrhUnpnTTAHNSCIIA.webp"
-    },
-    {
-      "id": "ppv-nk-celje-vs-slovan-bratislava",
-      "title": "NK Celje vs. Slovan Bratislava",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-26T19:00:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-nk-celje-vs-slovan-bratislava/1",
-          "language": "English - UEFA Champions League Qualifying",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-nk-celje-vs-slovan-bratislava/2",
-          "language": "English - UEFA Champions League Qualifying",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEiAggYIGhGCJ5wySBSrsIZcokhgUmVU0gsm0iF2ItwQzD3TSKcvIFCRTbPTCFgSXAGNHITBuTiVSegIFcmC9cIggA.webp"
-    },
-    {
       "id": "ppv-lyon-vs-fenerbahce",
       "title": "Lyon vs. Fenerbahce",
       "sport": "football",
@@ -3762,6 +3627,42 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MiAMakQEaSHEgSCkPGwgsIGCCprg27fMSJNIbLuAzFiRSDm2IwXuXsChIpqZTlCwJLnGehMG5Oe2FSegIHciDzcIggA.webp"
     },
     {
+      "id": "ppv-viking-fk-vs-dinamo-zagreb",
+      "title": "Viking FK vs. Dinamo Zagreb",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-26T19:00:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-viking-fk-vs-dinamo-zagreb/1",
+          "language": "English - UEFA Champions League Qualifying",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-viking-fk-vs-dinamo-zagreb/2",
+          "language": "English - UEFA Champions League Qualifying",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICCBggUIKuJAkFSiCOAqa8bMDko1ITXKzyJE4bNXr98uSV38wg1QS13CwJLgDGuoQ9YrhUnpnTTAHNSCIIA.webp"
+    },
+    {
       "id": "ppv-aek-athens-vs-levski-sofia",
       "title": "AEK Athens vs. Levski Sofia",
       "sport": "football",
@@ -3796,6 +3697,42 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCCogQIkDGCJpUrJJDwF2ccAggdM9SukBjVVk2IpRhXO2kQWFOQigwgkU2z0whYElxHHIVdWZ2FSegINMFdbMgggA.webp"
+    },
+    {
+      "id": "ppv-nk-celje-vs-slovan-bratislava",
+      "title": "NK Celje vs. Slovan Bratislava",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-26T19:00:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-nk-celje-vs-slovan-bratislava/1",
+          "language": "English - UEFA Champions League Qualifying",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-nk-celje-vs-slovan-bratislava/2",
+          "language": "English - UEFA Champions League Qualifying",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEiAggYIGhGCJ5wySBSrsIZcokhgUmVU0gsm0iF2ItwQzD3TSKcvIFCRTbPTCFgSXAGNHITBuTiVSegIFcmC9cIggA.webp"
     }
   ]
 }
