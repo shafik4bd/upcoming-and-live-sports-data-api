@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-08-23T06:28:42Z",
-  "fetchDuration": "130.5s",
-  "totalMatches": 168,
-  "liveCount": 12,
+  "lastUpdated": "2026-08-23T07:28:46Z",
+  "fetchDuration": "161.3s",
+  "totalMatches": 166,
+  "liveCount": 10,
   "upcomingCount": 156,
   "matches": [
     {
-      "id": "live-event_brand-risk-15-mcbroom-vs-temper-live-stream",
-      "title": "Brand Risk 15: McBroom vs Temper",
-      "sport": "fight",
-      "competition": "fight",
+      "id": "ppv-event-04-brand-risk-15-mcbroom-v-temper-ppv-004",
+      "title": "Brand Risk 15 McBroom v Temper",
+      "sport": "other",
+      "competition": "other",
       "status": "LIVE",
       "teams": {
         "home": {
@@ -21,17 +21,9 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-08-22T23:00:00Z",
-      "streams": [
-        {
-          "source": "delta",
-          "embedUrl": "https://embed.st/embed/delta/live-event_brand-risk-15-mcbroom-vs-temper-live-stream/1",
-          "language": "English",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 1,
+      "matchTimeUTC": "2026-08-23T00:00:00Z",
+      "streams": [],
+      "streamCount": 0,
       "poster": ""
     },
     {
@@ -140,27 +132,6 @@
       "poster": ""
     },
     {
-      "id": "arizona-cardinals-vs-dallas-cowboys-2480390",
-      "title": "Arizona Cardinals vs Dallas Cowboys",
-      "sport": "american-football",
-      "competition": "american-football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-23T02:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLESTVaYENxB8QRiAZAkjpmCCkFgWmP2Gz6KMCpRc35ellkemOm5iohBAA.webp"
-    },
-    {
       "id": "essendon-bombers-vs-port-adelaide-power-australian-football-3546",
       "title": "Essendon Bombers vs Port Adelaide Power",
       "sport": "afl",
@@ -180,27 +151,6 @@
       "streams": [],
       "streamCount": 0,
       "poster": ""
-    },
-    {
-      "id": "gold-coast-titans-vs-cronulla-sharks-2417360",
-      "title": "Gold Coast Titans vs Cronulla Sharks",
-      "sport": "rugby",
-      "competition": "rugby",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-23T04:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLGBDBNiLMAAMIbiD4gpICySMhE5mBYLAkFPsNn0UYFSi5fy9PVEfJlowLzFRCCA.webp"
     },
     {
       "id": "sydney-swans-vs-north-melbourne-football-club-2568212",
@@ -891,8 +841,8 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKSHhgBUOEhDcQfECZw5DJEJePwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
     },
     {
-      "id": "grasshoppers-vs-fc-sion-football-1555368",
-      "title": "Grasshoppers vs FC Sion",
+      "id": "fc-lugano-vs-fc-st-gallen-football-1555369",
+      "title": "FC Lugano vs FC ST. Gallen",
       "sport": "football",
       "competition": "football",
       "status": "UPCOMING",
@@ -912,8 +862,8 @@
       "poster": ""
     },
     {
-      "id": "fc-lugano-vs-fc-st-gallen-football-1555369",
-      "title": "FC Lugano vs FC ST. Gallen",
+      "id": "grasshoppers-vs-fc-sion-football-1555368",
+      "title": "Grasshoppers vs FC Sion",
       "sport": "football",
       "competition": "football",
       "status": "UPCOMING",
@@ -1872,8 +1822,8 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFKJSQULHRDcQfECZgmQKC1eMWmSCn2Gz6KMCpRc35entEemtGBuYqIQQA.webp"
     },
     {
-      "id": "rb-bragantino-vs-gremio-football-1492341",
-      "title": "RB Bragantino vs Gremio",
+      "id": "vitoria-vs-bahia-football-1492349",
+      "title": "Vitoria vs Bahia",
       "sport": "football",
       "competition": "football",
       "status": "UPCOMING",
@@ -1893,8 +1843,8 @@
       "poster": ""
     },
     {
-      "id": "vitoria-vs-bahia-football-1492349",
-      "title": "Vitoria vs Bahia",
+      "id": "rb-bragantino-vs-gremio-football-1492341",
+      "title": "RB Bragantino vs Gremio",
       "sport": "football",
       "competition": "football",
       "status": "UPCOMING",
@@ -3704,42 +3654,6 @@
       "poster": ""
     },
     {
-      "id": "ppv-lyon-vs-fenerbahce",
-      "title": "Lyon vs. Fenerbahce",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-26T19:00:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-lyon-vs-fenerbahce/1",
-          "language": "English - UEFA Champions League Qualifying",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-lyon-vs-fenerbahce/2",
-          "language": "English - UEFA Champions League Qualifying",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MiAMakQEaSHEgSCkPGwgsIGCCprg27fMSJNIbLuAzFiRSDm2IwXuXsChIpqZTlCwJLnGehMG5Oe2FSegIHciDzcIggA.webp"
-    },
-    {
       "id": "ppv-viking-fk-vs-dinamo-zagreb",
       "title": "Viking FK vs. Dinamo Zagreb",
       "sport": "football",
@@ -3810,6 +3724,42 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEiAggYIGhGCJ5wySBSrsIZcokhgUmVU0gsm0iF2ItwQzD3TSKcvIFCRTbPTCFgSXAGNHITBuTiVSegIFcmC9cIggA.webp"
+    },
+    {
+      "id": "ppv-lyon-vs-fenerbahce",
+      "title": "Lyon vs. Fenerbahce",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-26T19:00:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-lyon-vs-fenerbahce/1",
+          "language": "English - UEFA Champions League Qualifying",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-lyon-vs-fenerbahce/2",
+          "language": "English - UEFA Champions League Qualifying",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MiAMakQEaSHEgSCkPGwgsIGCCprg27fMSJNIbLuAzFiRSDm2IwXuXsChIpqZTlCwJLnGehMG5Oe2FSegIHciDzcIggA.webp"
     },
     {
       "id": "ppv-aek-athens-vs-levski-sofia",
