@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-24T11:21:16Z",
-  "fetchDuration": "111.1s",
+  "lastUpdated": "2026-08-24T12:32:51Z",
+  "fetchDuration": "81.8s",
   "totalMatches": 105,
   "liveCount": 1,
   "upcomingCount": 104,
@@ -1955,42 +1955,6 @@
       "poster": ""
     },
     {
-      "id": "ppv-viking-fk-vs-dinamo-zagreb",
-      "title": "Viking FK vs. Dinamo Zagreb",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-26T19:00:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-viking-fk-vs-dinamo-zagreb/1",
-          "language": "English - UEFA Champions League Qualifying",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-viking-fk-vs-dinamo-zagreb/2",
-          "language": "English - UEFA Champions League Qualifying",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICCBggUIKuJAkFSiCOAqa8bMDko1ITXKzyJE4bNXr98uSV38wg1QS13CwJLgDGuoQ9YrhUnpnTTAHNSCIIA.webp"
-    },
-    {
       "id": "ppv-aek-athens-vs-levski-sofia",
       "title": "AEK Athens vs. Levski Sofia",
       "sport": "football",
@@ -2097,6 +2061,42 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEiAggYIGhGCJ5wySBSrsIZcokhgUmVU0gsm0iF2ItwQzD3TSKcvIFCRTbPTCFgSXAGNHITBuTiVSegIFcmC9cIggA.webp"
+    },
+    {
+      "id": "ppv-viking-fk-vs-dinamo-zagreb",
+      "title": "Viking FK vs. Dinamo Zagreb",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-26T19:00:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-viking-fk-vs-dinamo-zagreb/1",
+          "language": "English - UEFA Champions League Qualifying",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-viking-fk-vs-dinamo-zagreb/2",
+          "language": "English - UEFA Champions League Qualifying",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICCBggUIKuJAkFSiCOAqa8bMDko1ITXKzyJE4bNXr98uSV38wg1QS13CwJLgDGuoQ9YrhUnpnTTAHNSCIIA.webp"
     },
     {
       "id": "590",
