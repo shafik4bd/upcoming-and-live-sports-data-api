@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-08-25T10:25:38Z",
-  "fetchDuration": "158.0s",
+  "lastUpdated": "2026-08-25T11:21:54Z",
+  "fetchDuration": "160.9s",
   "totalMatches": 191,
   "liveCount": 1,
   "upcomingCount": 190,
   "matches": [
     {
-      "id": "ppv-event-02-wild-thing-kart-series-stafford-ppv-02",
-      "title": "Wild Thing Kart Series Stafford 🔥",
-      "sport": "other",
-      "competition": "other",
+      "id": "ppv-players-championship-26",
+      "title": "Players Championship 26",
+      "sport": "darts",
+      "competition": "darts",
       "status": "LIVE",
       "teams": {
         "home": {
@@ -21,10 +21,81 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-08-24T23:15:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
+      "matchTimeUTC": "2026-08-25T11:00:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-players-championship-26/1",
+          "language": "English - Board 1",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-players-championship-26/2",
+          "language": "English - Board 1",
+          "hd": false,
+          "quality": "SD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-players-championship-26/3",
+          "language": "English - Board 2",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-players-championship-26/4",
+          "language": "English - Board 2",
+          "hd": false,
+          "quality": "SD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-players-championship-26/5",
+          "language": "English - Board 3",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-players-championship-26/6",
+          "language": "English - Board 3",
+          "hd": false,
+          "quality": "SD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-players-championship-26/7",
+          "language": "English - Board 4",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-players-championship-26/8",
+          "language": "English - Board 4",
+          "hd": false,
+          "quality": "SD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-players-championship-26/9",
+          "language": "German - Board 1",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-players-championship-26/10",
+          "language": "German - Board 1",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 10,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMbAIICFKkhEiECCoSZIEiGEadyxChApgqmBrnSQczTFLH5JI-zCCRTbPTCFgSXOKNDnVllhWyMCYHhyZyspIA.webp"
     },
     {
       "id": "admin-willow-cricket",
@@ -3508,6 +3579,42 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEEBFIgqILMHjBJCuTMQopwkClnAZNGWQUlpIGBJOrd2EAGNb6-mEEim2emELAkuG+qFPWSWFSegJ5cidFEIggA.webp"
     },
     {
+      "id": "ppv-sassuolo-vs-torino",
+      "title": "Sassuolo vs. Torino",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-29T16:30:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-sassuolo-vs-torino/1",
+          "language": "English - Serie A",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-sassuolo-vs-torino/2",
+          "language": "English - Serie A",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGNhBkIIFLOBUQWbMHiqQM4aRCItNNYpTrlWEAGMlluTKOnDR-mEEimKh4WBJcZo0KesIFzIjAlVyJ2BA6SA.webp"
+    },
+    {
       "id": "ppv-borussia-dortmund-vs-hamburg-sv",
       "title": "Borussia Dortmund vs. Hamburg SV",
       "sport": "football",
@@ -3542,42 +3649,6 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MJEIhAgIIFCADG2KSCzSJ2YIhgbhIXTKrTNpdTVVSZMKZr3AqKchFBhBIphodhCwJLnkOhF1YnYVJ6AmMwF2AnMgggA.webp"
-    },
-    {
-      "id": "ppv-fiorentina-vs-frosinone",
-      "title": "Fiorentina vs. Frosinone",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-29T16:30:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-fiorentina-vs-frosinone/1",
-          "language": "English - Serie A",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-fiorentina-vs-frosinone/2",
-          "language": "English - Serie A",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEiADGILCGEjSIeMAjjxK0gogqpIKnoMgQ2squ1ng+1RMmWQMFOW0ChCgtnphCwJLkmOhMG5ObXkyR3dlMCCNUyA.webp"
     },
     {
       "id": "ppv-tottenham-hotspur-vs-newcastle-united",
@@ -3616,8 +3687,8 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MJECGCIUwKiADGIYQqXYRIMhBBYpILcuXz1ylKrnKsIGNpumyo8hFBhBIpmplhCwJLnkyhF1YnYVJ6AilyF2AnTSA.webp"
     },
     {
-      "id": "ppv-sassuolo-vs-torino",
-      "title": "Sassuolo vs. Torino",
+      "id": "ppv-fiorentina-vs-frosinone",
+      "title": "Fiorentina vs. Frosinone",
       "sport": "football",
       "competition": "football",
       "status": "UPCOMING",
@@ -3635,21 +3706,21 @@
       "streams": [
         {
           "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-sassuolo-vs-torino/1",
+          "embedUrl": "https://embed.st/embed/admin/ppv-fiorentina-vs-frosinone/1",
           "language": "English - Serie A",
           "hd": true,
           "quality": "HD"
         },
         {
           "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-sassuolo-vs-torino/2",
+          "embedUrl": "https://embed.st/embed/admin/ppv-fiorentina-vs-frosinone/2",
           "language": "English - Serie A",
           "hd": false,
           "quality": "SD"
         }
       ],
       "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGNhBkIIFLOBUQWbMHiqQM4aRCItNNYpTrlWEAGMlluTKOnDR-mEEimKh4WBJcZo0KesIFzIjAlVyJ2BA6SA.webp"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEiADGILCGEjSIeMAjjxK0gogqpIKnoMgQ2squ1ng+1RMmWQMFOW0ChCgtnphCwJLkmOhMG5ObXkyR3dlMCCNUyA.webp"
     },
     {
       "id": "ppv-real-sociedad-vs-espanyol",
@@ -5020,6 +5091,42 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MJEDBApswRPFKkQSiMAghEKEFi0yaVEPv2IAxiGHqQ4sms2TxxkdP5hBIpjKeFgSXMelCXVhVhBWkCWXIXVQUIIA.webp"
     },
     {
+      "id": "ppv-cagliari-vs-inter-milan",
+      "title": "Cagliari vs. Inter Milan",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-30T18:45:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-cagliari-vs-inter-milan/1",
+          "language": "English - Serie A",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-cagliari-vs-inter-milan/2",
+          "language": "English - Serie A",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEbMCogy4qQGMQ84BBCISikCpjZVpEMM2GsIOSNWLJweMo1YRKcuIFCRTCQ7CFgSXHIdCwbk5xYVJ6AityQOUwiCA.webp"
+    },
+    {
       "id": "ppv-as-monaco-vs-marseille",
       "title": "AS Monaco vs. Marseille",
       "sport": "football",
@@ -5090,42 +5197,6 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFKRAxgEGeJBkSIWcJBYQqmGuDxgVDdhGljiFSESqapjQdHlZAoUYKGJYQsCS4AxhKFhuThVjCRddMACZYwggA.webp"
-    },
-    {
-      "id": "ppv-cagliari-vs-inter-milan",
-      "title": "Cagliari vs. Inter Milan",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-30T18:45:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-cagliari-vs-inter-milan/1",
-          "language": "English - Serie A",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-cagliari-vs-inter-milan/2",
-          "language": "English - Serie A",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEbMCogy4qQGMQ84BBCISikCpjZVpEMM2GsIOSNWLJweMo1YRKcuIFCRTCQ7CFgSXHIdCwbk5xYVJ6AityQOUwiCA.webp"
     },
     {
       "id": "ppv-celta-vigo-vs-athletic-club",
