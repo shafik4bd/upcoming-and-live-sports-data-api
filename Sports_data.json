@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-08-25T14:38:57Z",
-  "fetchDuration": "174.6s",
-  "totalMatches": 184,
+  "lastUpdated": "2026-08-25T15:38:11Z",
+  "fetchDuration": "212.2s",
+  "totalMatches": 186,
   "liveCount": 1,
-  "upcomingCount": 183,
+  "upcomingCount": 185,
   "matches": [
     {
       "id": "ppv-players-championship-26",
@@ -1520,7 +1520,7 @@
       "matchTimeUTC": "2026-08-26T18:45:00Z",
       "streams": [],
       "streamCount": 0,
-      "poster": ""
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MiRAGNgVEFhHAIIGCDLCQ69WpALSI9dJCJFWkGpjZgRkDOVZ1KchFBhB8ghYdhCwJLgkOhF1YnYV0Hd3hyFx0yCCA.webp"
     },
     {
       "id": "tottenham-hotspur-vs-charlton-athletic-2570488",
@@ -1541,7 +1541,7 @@
       "matchTimeUTC": "2026-08-26T18:45:00Z",
       "streams": [],
       "streamCount": 0,
-      "poster": ""
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52ICOJA1hIMhGCIYwaSCwiQw0iCVYQKKSES6QwCfHUBjBSBtVZUhSnLyBQkU2z0whYElwWnITBuTnlNMicCBXJg01JTIA.webp"
     },
     {
       "id": "newcastle-united-vs-west-bromwich-albion-2570485",
@@ -1562,7 +1562,7 @@
       "matchTimeUTC": "2026-08-26T18:45:00Z",
       "streams": [],
       "streamCount": 0,
-      "poster": ""
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MwkCGAQQAYwkjgiaWWkxgVEChDiUCmvAXTpkg9JpkVIMogkzd-MIIUFs9MIWBJcdoeW6cIBTJdFwMwRylSKSA.webp"
     },
     {
       "id": "ppv-lyon-vs-fenerbahce",
@@ -1619,7 +1619,7 @@
       "matchTimeUTC": "2026-08-26T19:00:00Z",
       "streams": [],
       "streamCount": 0,
-      "poster": ""
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEiBgjgNCMDlZ5IOfGziQGlJJkyQqxVWXbEU4SJDCQNQ1gvBe5OQKHSC2emELAkuAMYoXMG5OOTMyALdVMCD5UnkgA.webp"
     },
     {
       "id": "viking-vs-dinamo-zagreb-2570484",
@@ -2258,6 +2258,42 @@
       "poster": ""
     },
     {
+      "id": "ppv-chelsea-vs-luton-town",
+      "title": "Chelsea vs. Luton Town",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-27T18:30:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-chelsea-vs-luton-town/1",
+          "language": "English - Carabao Cup",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-chelsea-vs-luton-town/2",
+          "language": "English - Carabao Cup",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MVEFhABjYBBAxpIJVlkTgNCCOxrEM4fJGLJiFOuCISIeIYVysp-mEFaC2emELAkuKaaFPWTWFSeldrMCdZEIggA.webp"
+    },
+    {
       "id": "ppv-celta-vigo-vs-osasuna",
       "title": "Celta Vigo vs. Osasuna",
       "sport": "football",
@@ -2292,6 +2328,42 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MZYSDIQQKENIkBjEMqrLswVdNnLt2EBJJzg05UsNlEMEZP0pyEUGEEim6u2ELAkuBXaFPWB2FSegJgeHInYxCIIA.webp"
+    },
+    {
+      "id": "ppv-fulham-vs-afc-wimbledon",
+      "title": "Fulham vs. AFC Wimbledon",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-27T19:00:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-fulham-vs-afc-wimbledon/1",
+          "language": "English - Carabao Cup",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-fulham-vs-afc-wimbledon/2",
+          "language": "English - Carabao Cup",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRMOwgaJcSBDAqIFKRABjEFmUhhOkLI0aIykdPUgYp4-IhSNs3uVsChIptnphCwJLjUqhMG5OW0kyFQJgeHIg4FsyCCA.webp"
     },
     {
       "id": "ppv-barcelona-vs-athletic-club",
@@ -2590,42 +2662,6 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IYSCogAxiBgyQEEIhCLVwJfFLjJy4FM3Zds4RuCIyWUkaslJKchFBhBIptnphCwJLmkOhF1YnUzIHAnNyFzMyCCA.webp"
     },
     {
-      "id": "ppv-ac-milan-vs-venezia",
-      "title": "AC Milan vs. Venezia",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-28T18:45:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-ac-milan-vs-venezia/1",
-          "language": "English - Serie A",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-ac-milan-vs-venezia/2",
-          "language": "English - Serie A",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52I4FRAkQWbMERYQNYSBSkQMEBHkzS6lWu3SQqqcCMa58HQGM1-MIPEE59wsCS47Q8t07bhPTUXazBHcz0IIA.webp"
-    },
-    {
       "id": "ppv-afc-fylde-vs-forest-green-rovers",
       "title": "AFC Fylde vs. Forest Green Rovers",
       "sport": "football",
@@ -2660,6 +2696,42 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IMhBCSUUkSERUQMbEtVlh8qapAgZOgMY7du0nMU1FIYIhgpyEUGEEim2emELAkufXaFPWB2FTOwJrcidgBwkgA.webp"
+    },
+    {
+      "id": "ppv-ac-milan-vs-venezia",
+      "title": "AC Milan vs. Venezia",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-28T18:45:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-ac-milan-vs-venezia/1",
+          "language": "English - Serie A",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-ac-milan-vs-venezia/2",
+          "language": "English - Serie A",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52I4FRAkQWbMERYQNYSBSkQMEBHkzS6lWu3SQqqcCMa58HQGM1-MIPEE59wsCS47Q8t07bhPTUXazBHcz0IIA.webp"
     },
     {
       "id": "ppv-lille-vs-paris-saint-germain",
@@ -4815,42 +4887,6 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IYcBokQNCCHiSRIGEuEg5IYAsQqIwDSDJyaWEAGNzhkZOUgUl3uT0Ch1gtnphCwJLjMpXMG5OPQkyAPcFMCD9Un0gA.webp"
     },
     {
-      "id": "ppv-fc-augsburg-vs-schalke-04",
-      "title": "FC Augsburg vs. Schalke 04",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-30T15:30:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-fc-augsburg-vs-schalke-04/1",
-          "language": "English - Bundesliga",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-fc-augsburg-vs-schalke-04/2",
-          "language": "English - Bundesliga",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IKiCzjsIkDGwgQwCCBKLSiucBqIJKEIjXzE+-YoDG2g+K3DsKchFBhBIpjIdhCwJLnMOhF1YnOzIHAmB4chdlUmUgA.webp"
-    },
-    {
       "id": "ppv-manchester-united-vs-ipswich-town",
       "title": "Manchester United vs. Ipswich Town",
       "sport": "football",
@@ -4885,6 +4921,42 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IYcBqIYIaSCkgQpcSBKLSwCKpABjEBE2btWqvslGDwkDGyz5KcgYFCRTbPTCFgSXDodCwbk5LDQcCYHhyQMMyCCA.webp"
+    },
+    {
+      "id": "ppv-fc-augsburg-vs-schalke-04",
+      "title": "FC Augsburg vs. Schalke 04",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-30T15:30:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-fc-augsburg-vs-schalke-04/1",
+          "language": "English - Bundesliga",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-fc-augsburg-vs-schalke-04/2",
+          "language": "English - Bundesliga",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IKiCzjsIkDGwgQwCCBKLSiucBqIJKEIjXzE+-YoDG2g+K3DsKchFBhBIpjIdhCwJLnMOhF1YnOzIHAmB4chdlUmUgA.webp"
     },
     {
       "id": "ppv-napoli-vs-como",
@@ -4959,6 +5031,42 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MJEDBApswRPFKkQSiMAghEKEFi0yaVEPv2IAxiGHqQ4sms2TxxkdP5hBIpjKeFgSXMelCXVhVhBWkCWXIXVQUIIA.webp"
     },
     {
+      "id": "ppv-cagliari-vs-inter-milan",
+      "title": "Cagliari vs. Inter Milan",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-30T18:45:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-cagliari-vs-inter-milan/1",
+          "language": "English - Serie A",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-cagliari-vs-inter-milan/2",
+          "language": "English - Serie A",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEbMCogy4qQGMQ84BBCISikCpjZVpEMM2GsIOSNWLJweMo1YRKcuIFCRTCQ7CFgSXHIdCwbk5xYVJ6AityQOUwiCA.webp"
+    },
+    {
       "id": "ppv-as-monaco-vs-marseille",
       "title": "AS Monaco vs. Marseille",
       "sport": "football",
@@ -5029,42 +5137,6 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFKRAxgEGeJBkSIWcJBYQqmGuDxgVDdhGljiFSESqapjQdHlZAoUYKGJYQsCS4AxhKFhuThVjCRddMACZYwggA.webp"
-    },
-    {
-      "id": "ppv-cagliari-vs-inter-milan",
-      "title": "Cagliari vs. Inter Milan",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-30T18:45:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-cagliari-vs-inter-milan/1",
-          "language": "English - Serie A",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-cagliari-vs-inter-milan/2",
-          "language": "English - Serie A",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEbMCogy4qQGMQ84BBCISikCpjZVpEMM2GsIOSNWLJweMo1YRKcuIFCRTCQ7CFgSXHIdCwbk5xYVJ6AityQOUwiCA.webp"
     },
     {
       "id": "ppv-celta-vigo-vs-athletic-club",
