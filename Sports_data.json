@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-08-25T15:38:11Z",
-  "fetchDuration": "212.2s",
+  "lastUpdated": "2026-08-25T16:29:24Z",
+  "fetchDuration": "185.0s",
   "totalMatches": 186,
-  "liveCount": 1,
-  "upcomingCount": 185,
+  "liveCount": 3,
+  "upcomingCount": 183,
   "matches": [
     {
       "id": "ppv-players-championship-26",
@@ -96,6 +96,48 @@
       ],
       "streamCount": 10,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMbAIICFKkhEiECCoSZIEiGEadyxChApgqmBrnSQczTFLH5JI-zCCRTbPTCFgSXOKNDnVllhWyMCYHhyZyspIA.webp"
+    },
+    {
+      "id": "abha-vs-al-khaleej-2573321",
+      "title": "Abha vs Al-Khaleej",
+      "sport": "football",
+      "competition": "football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-25T16:05:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdu2kheIEMDD7tILLuMhEKc1YghpLJBSwi5jFGFUoe78o2pzP+Kz67uJiEEA.webp"
+    },
+    {
+      "id": "al-taawon-vs-al-fayha-football-1602993",
+      "title": "Al Taawon vs Al-Fayha",
+      "sport": "football",
+      "competition": "football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-25T16:10:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
     },
     {
       "id": "admin-willow-cricket",
@@ -281,48 +323,6 @@
         }
       ],
       "streamCount": 1,
-      "poster": ""
-    },
-    {
-      "id": "abha-vs-al-khaleej-2573321",
-      "title": "Abha vs Al-Khaleej",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-25T16:05:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdu2kheIEMDD7tILLuMhEKc1YghpLJBSwi5jFGFUoe78o2pzP+Kz67uJiEEA.webp"
-    },
-    {
-      "id": "al-taawon-vs-al-fayha-football-1602993",
-      "title": "Al Taawon vs Al-Fayha",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-25T16:10:00Z",
-      "streams": [],
-      "streamCount": 0,
       "poster": ""
     },
     {
@@ -3159,8 +3159,8 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MVEMInAIILCDI0IwRCRBqlqrNOwTZIeMpABjXTMQwpMk+LKSSKckoFCRTbPTCFgSXEYdCwbk4lYVJ6AmVyQO0yCCA.webp"
     },
     {
-      "id": "ppv-mainz-vs-sc-paderborn-07",
-      "title": "Mainz vs. SC Paderborn 07",
+      "id": "ppv-rb-leipzig-vs-borussia-m-nchengladbach",
+      "title": "RB Leipzig vs. Borussia Mönchengladbach",
       "sport": "football",
       "competition": "football",
       "status": "UPCOMING",
@@ -3178,21 +3178,21 @@
       "streams": [
         {
           "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-mainz-vs-sc-paderborn-07/1",
+          "embedUrl": "https://embed.st/embed/admin/ppv-rb-leipzig-vs-borussia-m-nchengladbach/1",
           "language": "English - Bundesliga",
           "hd": true,
           "quality": "HD"
         },
         {
           "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-mainz-vs-sc-paderborn-07/2",
+          "embedUrl": "https://embed.st/embed/admin/ppv-rb-leipzig-vs-borussia-m-nchengladbach/2",
           "language": "English - Bundesliga",
           "hd": false,
           "quality": "SD"
         }
       ],
       "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEiADGpcSBilgVEMokoRIeNnFaam4RuXYRRiMYhyQSrAuGk1-MIOMEj9wsCS5JaoY9anbMjUXTTBHYFMyCCA.webp"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGlhCIqIWVmARg0kMJDyZi1WRJql2cWpAwlR4DOFmQAYxUgUeqvf5hBIptnphCwJLiv2hF1ZNUnoCPTAXBVCIIA.webp"
     },
     {
       "id": "ppv-1-fc-union-berlin-vs-eintracht-frankfurt",
@@ -3267,8 +3267,8 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52IGCJA0sIYSBCSUIMohQjFIGTTnyq8kAGNSyqSAgh4wGnoOGQ+chFBhB6gtnphCwJLgNqhF1YnYVJ6d0swF2AnMgggA.webp"
     },
     {
-      "id": "ppv-rb-leipzig-vs-borussia-m-nchengladbach",
-      "title": "RB Leipzig vs. Borussia Mönchengladbach",
+      "id": "ppv-mainz-vs-sc-paderborn-07",
+      "title": "Mainz vs. SC Paderborn 07",
       "sport": "football",
       "competition": "football",
       "status": "UPCOMING",
@@ -3286,21 +3286,21 @@
       "streams": [
         {
           "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-rb-leipzig-vs-borussia-m-nchengladbach/1",
+          "embedUrl": "https://embed.st/embed/admin/ppv-mainz-vs-sc-paderborn-07/1",
           "language": "English - Bundesliga",
           "hd": true,
           "quality": "HD"
         },
         {
           "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-rb-leipzig-vs-borussia-m-nchengladbach/2",
+          "embedUrl": "https://embed.st/embed/admin/ppv-mainz-vs-sc-paderborn-07/2",
           "language": "English - Bundesliga",
           "hd": false,
           "quality": "SD"
         }
       ],
       "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGlhCIqIWVmARg0kMJDyZi1WRJql2cWpAwlR4DOFmQAYxUgUeqvf5hBIptnphCwJLiv2hF1ZNUnoCPTAXBVCIIA.webp"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEiADGpcSBilgVEMokoRIeNnFaam4RuXYRRiMYhyQSrAuGk1-MIOMEj9wsCS5JaoY9anbMjUXTTBHYFMyCCA.webp"
     },
     {
       "id": "ppv-sv-elversberg-vs-bayer-leverkusen",
@@ -5031,42 +5031,6 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MJEDBApswRPFKkQSiMAghEKEFi0yaVEPv2IAxiGHqQ4sms2TxxkdP5hBIpjKeFgSXMelCXVhVhBWkCWXIXVQUIIA.webp"
     },
     {
-      "id": "ppv-cagliari-vs-inter-milan",
-      "title": "Cagliari vs. Inter Milan",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-30T18:45:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-cagliari-vs-inter-milan/1",
-          "language": "English - Serie A",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-cagliari-vs-inter-milan/2",
-          "language": "English - Serie A",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEbMCogy4qQGMQ84BBCISikCpjZVpEMM2GsIOSNWLJweMo1YRKcuIFCRTCQ7CFgSXHIdCwbk5xYVJ6AityQOUwiCA.webp"
-    },
-    {
       "id": "ppv-as-monaco-vs-marseille",
       "title": "AS Monaco vs. Marseille",
       "sport": "football",
@@ -5137,6 +5101,42 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFKRAxgEGeJBkSIWcJBYQqmGuDxgVDdhGljiFSESqapjQdHlZAoUYKGJYQsCS4AxhKFhuThVjCRddMACZYwggA.webp"
+    },
+    {
+      "id": "ppv-cagliari-vs-inter-milan",
+      "title": "Cagliari vs. Inter Milan",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-30T18:45:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-cagliari-vs-inter-milan/1",
+          "language": "English - Serie A",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-cagliari-vs-inter-milan/2",
+          "language": "English - Serie A",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEbMCogy4qQGMQ84BBCISikCpjZVpEMM2GsIOSNWLJweMo1YRKcuIFCRTCQ7CFgSXHIdCwbk5xYVJ6AityQOUwiCA.webp"
     },
     {
       "id": "ppv-celta-vigo-vs-athletic-club",
