@@ -1,797 +1,10 @@
 {
-  "lastUpdated": "2026-08-29T03:03:01Z",
-  "fetchDuration": "299.5s",
-  "totalMatches": 313,
-  "liveCount": 40,
-  "upcomingCount": 273,
+  "lastUpdated": "2026-08-29T09:49:05Z",
+  "fetchDuration": "206.5s",
+  "totalMatches": 295,
+  "liveCount": 11,
+  "upcomingCount": 284,
   "matches": [
-    {
-      "id": "live-event_nfl-network-live-stream",
-      "title": "NFL Network",
-      "sport": "american-football",
-      "competition": "american-football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-28T20:00:00Z",
-      "streams": [
-        {
-          "source": "delta",
-          "embedUrl": "https://embed.st/embed/delta/live-event_nfl-network-live-stream/1",
-          "language": "English",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 1,
-      "poster": ""
-    },
-    {
-      "id": "corey-marksman-vs-christian-barreto-2594489",
-      "title": "Corey Marksman vs Christian Barreto",
-      "sport": "fight",
-      "competition": "fight",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-28T21:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKoxIhpkECmDSQvEFhBnTKEImpW9VlkgpYRcxijCr9HD+UbU5+viswGAe4mIQQA.webp"
-    },
-    {
-      "id": "lfa-240-sanders-vs-gomez-2557429",
-      "title": "LFA 240 Sanders vs Gomez",
-      "sport": "fight",
-      "competition": "fight",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-28T22:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdrzBkYIabBCJeILCFMmUBkDuu6WSClhFzGKLRxQ8t5RtTkf8rMBgboxiEEA.webp"
-    },
-    {
-      "id": "detroit-tigers-vs-los-angeles-dodgers-2388902",
-      "title": "Detroit Tigers vs Los Angeles Dodgers",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-28T22:40:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJDxBSQ3EChAkdIPiFOH9u0-sMkCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "washington-nationals-vs-miami-marlins-2388892",
-      "title": "Washington Nationals vs Miami Marlins",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-28T22:45:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbrjAoEIbmBK6QfECYMpDJ8xCMFgSCn2Gz62lSi77y9LLPdNaYPpiohBAA.webp"
-    },
-    {
-      "id": "ppv-event-09-lucas-oil-late-models-port-royal-ppv-09",
-      "title": "Lucas Oil Late Models Port Royal",
-      "sport": "other",
-      "competition": "other",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-28T22:45:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
-    },
-    {
-      "id": "miami-dolphins-vs-atlanta-falcons-2475366",
-      "title": "Miami Dolphins vs Atlanta Falcons",
-      "sport": "american-football",
-      "competition": "american-football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-28T23:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJMDDEsYJLhDcQfECYhGQJE+cMgCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "carolina-panthers-vs-houston-texans-2475367",
-      "title": "Carolina Panthers vs Houston Texans",
-      "sport": "american-football",
-      "competition": "american-football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-28T23:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rViB79KPENxB8QRiAZAkjp-SgLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp"
-    },
-    {
-      "id": "live-event_brotherly-love-boxing-price-vs-guevara-live-stream",
-      "title": "Brotherly Love Boxing: Price vs Guevara",
-      "sport": "fight",
-      "competition": "fight",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-28T23:00:00Z",
-      "streams": [
-        {
-          "source": "delta",
-          "embedUrl": "https://embed.st/embed/delta/live-event_brotherly-love-boxing-price-vs-guevara-live-stream/1",
-          "language": "English",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 1,
-      "poster": ""
-    },
-    {
-      "id": "new-york-mets-vs-houston-astros-2388891",
-      "title": "New York Mets vs Houston Astros",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-28T23:10:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENxAx2YTYikaQfECZIgUhkxYggpBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp"
-    },
-    {
-      "id": "tampa-bay-rays-vs-san-diego-padres-2388894",
-      "title": "Tampa Bay Rays vs San Diego Padres",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-28T23:10:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKSA0hQsMNxD6+IYyRAoDxsyAhmCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "cleveland-guardians-vs-kansas-city-royals-2388898",
-      "title": "Cleveland Guardians vs Kansas City Royals",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-28T23:10:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEL3jZKwJCBIaQfECYMpDJ8wca6KfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp"
-    },
-    {
-      "id": "toronto-blue-jays-vs-seattle-mariners-2388893",
-      "title": "Toronto Blue Jays vs Seattle Mariners",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-28T23:15:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rcEjBJgABmDbE3EHxCmSIFCCOnLEG000x+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp"
-    },
-    {
-      "id": "new-york-yankees-vs-boston-red-sox-2388897",
-      "title": "New York Yankees vs Boston Red Sox",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-28T23:15:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJc2AzuYECG4g+ekCRAp9x86YlMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp"
-    },
-    {
-      "id": "atlanta-braves-vs-colorado-rockies-2388904",
-      "title": "Atlanta Braves vs Colorado Rockies",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-28T23:15:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8reBTAgyJEFJDcQfECd0oDJkOd18CwJBVusRYlGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "ppv-event-12-world-of-outlaws-sprint-cars-river-cities-ppv-12",
-      "title": "World of Outlaws Sprint Cars River Cities",
-      "sport": "other",
-      "competition": "other",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-28T23:15:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
-    },
-    {
-      "id": "new-york-jets-vs-new-york-giants-2475369",
-      "title": "New York Jets vs New York Giants",
-      "sport": "american-football",
-      "competition": "american-football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-28T23:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAywQtJJTBIQ3EHxCmIxkCVMWcEpkgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp"
-    },
-    {
-      "id": "jacksonville-jaguars-vs-tampa-bay-buccaneers-2475370",
-      "title": "Jacksonville Jaguars vs Tampa Bay Buccaneers",
-      "sport": "american-football",
-      "competition": "american-football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-28T23:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8reGBRzYIFCBghuIPiFMRjIEqYs54BYEgp9hs+ijAqtbD+XpZZWky0YB5iohBAA.webp"
-    },
-    {
-      "id": "milwaukee-brewers-vs-texas-rangers-2388900",
-      "title": "Milwaukee Brewers vs Texas Rangers",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-28T23:40:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHzAoQUsCBD113DfpAkQ24-u3mFTJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "kansas-city-chiefs-vs-seattle-seahawks-2475371",
-      "title": "Kansas City Chiefs vs Seattle Seahawks",
-      "sport": "american-football",
-      "competition": "american-football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-29T00:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VWkyTAkIARBDddIY-r4gSxozgWaKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp"
-    },
-    {
-      "id": "philadelphia-eagles-vs-cincinnati-bengals-2475372",
-      "title": "Philadelphia Eagles vs Cincinnati Bengals",
-      "sport": "american-football",
-      "competition": "american-football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-29T00:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VWuBmjuIFCB18QRiCEMkjp3CBIFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
-    },
-    {
-      "id": "dallas-cowboys-vs-new-orleans-saints-2480392",
-      "title": "Dallas Cowboys vs New Orleans Saints",
-      "sport": "american-football",
-      "competition": "american-football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-29T00:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFLjBTYYbiA16+IYxBBGSxs7jMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
-    },
-    {
-      "id": "green-bay-packers-vs-arizona-cardinals-2480393",
-      "title": "Green Bay Packers vs Arizona Cardinals",
-      "sport": "american-football",
-      "competition": "american-football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-29T00:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEBBCipW4mBDcQfECc3GSJo7hAoCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "ppv-wwe-friday-night-smackdown",
-      "title": "WWE Friday Night Smackdown",
-      "sport": "fight",
-      "competition": "fight",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-29T00:00:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-wwe-friday-night-smackdown/1",
-          "language": "English - USA",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-wwe-friday-night-smackdown/2",
-          "language": "English - USA",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MZRAGMQ0rCBgiQVacBqJEKELNnjSIRCU1yRweCpAal0idkV6U5CKDCDjBbPTCFgSXBPtDnVkdhUno3UzBnYEcyCCA.webp"
-    },
-    {
-      "id": "winston-salem-open-final-atp-250-tn-1",
-      "title": "Winston-Salem Open Final (ATP 250) 🎾",
-      "sport": "other",
-      "competition": "other",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-29T00:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
-    },
-    {
-      "id": "ppv-event-03-shooto-brazil-139-ppv-03",
-      "title": "Shooto Brazil 139 ⭐",
-      "sport": "other",
-      "competition": "other",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-29T00:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
-    },
-    {
-      "id": "minnesota-twins-vs-chicago-white-sox-2388899",
-      "title": "Minnesota Twins vs Chicago White Sox",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-29T00:10:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFCAggSIXmS3cQfECZ0bDJjTvgFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
-    },
-    {
-      "id": "st--louis-cardinals-vs-pittsburgh-pirates-2388895",
-      "title": "St. Louis Cardinals vs Pittsburgh Pirates",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-29T00:15:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEBBBbaoPiBghuIPVpIgUhreZBmYBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp"
-    },
-    {
-      "id": "ppv-event-22-world-of-outlaws-late-models-adams-ppv-22",
-      "title": "World of Outlaws Late Models Adams",
-      "sport": "other",
-      "competition": "other",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-29T00:15:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
-    },
-    {
-      "id": "winnipeg-blue-bombers-vs-montreal-alouettes-2432580",
-      "title": "Winnipeg Blue Bombers vs Montreal Alouettes",
-      "sport": "american-football",
-      "competition": "american-football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-29T00:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKiDG9aKENxB89uEIkO6QBgwWBIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp"
-    },
-    {
-      "id": "denver-broncos-vs-minnesota-vikings-2480394",
-      "title": "Denver Broncos vs Minnesota Vikings",
-      "sport": "american-football",
-      "competition": "american-football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-29T01:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLGBnci3ECRC6+IYxBBH9xo4hgFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
-    },
-    {
-      "id": "northern-colorado-vs-weber-state-2593829",
-      "title": "Northern Colorado vs Weber State",
-      "sport": "american-football",
-      "competition": "american-football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-29T01:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rHDKRz+YbiD1SQKEBBB8jIErkuWCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "necaxa-vs-cruz-azul-2487497",
-      "title": "Necaxa vs Cruz Azul",
-      "sport": "football",
-      "competition": "football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-29T01:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rPmF5IwUsKJIhuIPiFMQQ5mCANWcjYNpj9hs+ij1sUXPeXpZZXky0YB70ohBAA.webp"
-    },
-    {
-      "id": "atlante-vs-le-n-2487498",
-      "title": "Atlante vs León",
-      "sport": "football",
-      "competition": "football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-29T01:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEBrIDEUDdxB8NICMZAwQJM7hDwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "los-angeles-angels-vs-philadelphia-phillies-2388901",
-      "title": "Los Angeles Angels vs Philadelphia Phillies",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-29T01:38:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAxF1wKWHAwQ3EHxCmSIFIdMWQ5kgWBIKfYbPoowKlF0-l6WWW8mWjBPMVEIIA.webp"
-    },
-    {
-      "id": "athletics-vs-baltimore-orioles-2388905",
-      "title": "Athletics vs Baltimore Orioles",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-29T01:40:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFGDItgSUCG4g+IYyRAp9xsyFNmmSCn2Gz6GlSi6by9LLPdNaYJpiohBAA.webp"
-    },
     {
       "id": "cal-poly-vs-idaho-2593830",
       "title": "Cal Poly vs Idaho",
@@ -814,10 +27,10 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAxhuIblvYgYOkFJAoQEEH1MgS5o-ALAkFPsNn0UYFSi5fy9LFkfJlowLzFRCCA.webp"
     },
     {
-      "id": "los-angeles-sparks-vs-washington-mystics-2449197",
-      "title": "Los Angeles Sparks vs Washington Mystics",
-      "sport": "basketball",
-      "competition": "basketball",
+      "id": "gold-coast-titans-vs-south-sydney-rabbitohs-2417365",
+      "title": "Gold Coast Titans vs South Sydney Rabbitohs",
+      "sport": "rugby",
+      "competition": "rugby",
       "status": "LIVE",
       "teams": {
         "home": {
@@ -829,16 +42,16 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-08-29T02:00:00Z",
+      "matchTimeUTC": "2026-08-29T05:00:00Z",
       "streams": [],
       "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEBqzAwwKRSQhuIKSBKGQKCxpAQbGgsCQU+w2fRRgVKLp-L0tot5MtGCeYqIQQA.webp"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLMxCiwwKSAghuIPiD0gthkIj0lcBYEgp9hs+ijAqUXD+XobRXky0YB5iohBAA.webp"
     },
     {
-      "id": "las-vegas-aces-vs-toronto-tempo-2449331",
-      "title": "Las Vegas Aces vs Toronto Tempo",
-      "sport": "basketball",
-      "competition": "basketball",
+      "id": "wuhan-open-2026-wuhan-china-pick3",
+      "title": "Wuhan Open 2026 - Wuhan, China 🎱",
+      "sport": "other",
+      "competition": "other",
       "status": "LIVE",
       "teams": {
         "home": {
@@ -850,16 +63,16 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-08-29T02:00:00Z",
+      "matchTimeUTC": "2026-08-29T06:00:00Z",
       "streams": [],
       "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGCGEh42YImEiQKEAGNSIKhq0QQu5VJgi56kMAikzIEtKOJzU3uXMChRgrJTlCwJLhWehMG5OewtPdxkwILMLCCA.webp"
+      "poster": ""
     },
     {
-      "id": "san-francisco-giants-vs-arizona-diamondbacks-2388896",
-      "title": "San Francisco Giants vs Arizona Diamondbacks",
-      "sport": "baseball",
-      "competition": "baseball",
+      "id": "motogp-grand-prix-of-aragon-game-122273",
+      "title": "MotoGP Grand Prix of Aragon  🏁",
+      "sport": "other",
+      "competition": "other",
       "status": "LIVE",
       "teams": {
         "home": {
@@ -871,10 +84,214 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-08-29T02:15:00Z",
+      "matchTimeUTC": "2026-08-29T06:40:00Z",
       "streams": [],
       "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGWHKiQwKSG4g+IYyRAp9xsyFMSmSCn2Gz6KMCpRc35ellkemtJqi9MFAA.webp"
+      "poster": ""
+    },
+    {
+      "id": "ppv-ufc-fight-night-nurmagomedov-vs-song",
+      "title": "UFC Fight Night: Nurmagomedov vs. Song",
+      "sport": "fight",
+      "competition": "fight",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-29T07:00:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-ufc-fight-night-nurmagomedov-vs-song/1",
+          "language": "English - Paramount+",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-ufc-fight-night-nurmagomedov-vs-song/2",
+          "language": "English - Paramount+",
+          "hd": false,
+          "quality": "SD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-ufc-fight-night-nurmagomedov-vs-song/3",
+          "language": "Spanish - Paramount+",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-ufc-fight-night-nurmagomedov-vs-song/4",
+          "language": "Spanish - Paramount+",
+          "hd": false,
+          "quality": "SD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-ufc-fight-night-nurmagomedov-vs-song/5",
+          "language": "Portuguese - Paramount+",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-ufc-fight-night-nurmagomedov-vs-song/6",
+          "language": "Portuguese - Paramount+",
+          "hd": false,
+          "quality": "SD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-ufc-fight-night-nurmagomedov-vs-song/7",
+          "language": "German - DAZN",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-ufc-fight-night-nurmagomedov-vs-song/8",
+          "language": "German - DAZN",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 8,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCDKIQwRCRDCQiCVRAQlk0pO0xxelCAMBjBcBpZg6mol3xsIIynIRQYQSKbZ6YQsCS5HIXJuThdhUnoCWXI3SwiIIA.webp"
+    },
+    {
+      "id": "sydney-roosters-vs-dolphins-2417366",
+      "title": "Sydney Roosters vs Dolphins",
+      "sport": "rugby",
+      "competition": "rugby",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-29T07:30:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECGZhNAwkhDcQfEFI0gSBkIlMWpBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp"
+    },
+    {
+      "id": "live-event_indycar-2026-snap-on-milwaukee-mile-250-race-2-live-stream",
+      "title": "IndyCar 2026 - Snap-on Milwaukee Mile 250 Race 2",
+      "sport": "motor-sports",
+      "competition": "motor-sports",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-29T08:11:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "live-event_nascar-cup-series-2026-coke-zero-sugar-400-live-stream",
+      "title": "Nascar Cup Series 2026 - Coke Zero Sugar 400",
+      "sport": "motor-sports",
+      "competition": "motor-sports",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-29T08:45:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "england-vs-pakistan-second-test-cricket-hundred-1",
+      "title": "England vs Pakistan",
+      "sport": "other",
+      "competition": "other",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-29T09:15:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "north-queensland-cowboys-vs-wests-tigers-2417367",
+      "title": "North Queensland Cowboys vs Wests Tigers",
+      "sport": "rugby",
+      "competition": "rugby",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-29T09:35:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKiFm1EKENxB8QUkCZJ6QiY8cbAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp"
+    },
+    {
+      "id": "melbourne-demons-vs-carlton-blues-australian-football-3624",
+      "title": "Melbourne Demons vs Carlton Blues",
+      "sport": "afl",
+      "competition": "afl",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-29T09:35:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
     },
     {
       "id": "nflstreams_live",
@@ -1068,90 +485,6 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IMmUQQQKEInjAqICNlIgliDWqziQWYCpolxwRAGMT+6cOVre5FQKEimqlOULAkuM+6FhuThVhUnoCU3IAg1CIIA.webp"
-    },
-    {
-      "id": "tijuana-vs-pumas-unam-2487499",
-      "title": "Tijuana vs Pumas UNAM",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-29T03:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHHiwwSEOBzcQfPSAimNIEhZwKmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
-    },
-    {
-      "id": "gold-coast-titans-vs-south-sydney-rabbitohs-2417365",
-      "title": "Gold Coast Titans vs South Sydney Rabbitohs",
-      "sport": "rugby",
-      "competition": "rugby",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-29T05:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLMxCiwwKSAghuIPiD0gthkIj0lcBYEgp9hs+ijAqUXD+XobRXky0YB5iohBAA.webp"
-    },
-    {
-      "id": "sydney-roosters-vs-dolphins-2417366",
-      "title": "Sydney Roosters vs Dolphins",
-      "sport": "rugby",
-      "competition": "rugby",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-29T07:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECGZhNAwkhDcQfEFI0gSBkIlMWpBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp"
-    },
-    {
-      "id": "north-queensland-cowboys-vs-wests-tigers-2417367",
-      "title": "North Queensland Cowboys vs Wests Tigers",
-      "sport": "rugby",
-      "competition": "rugby",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-29T09:35:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKiFm1EKENxB8QUkCZJ6QiY8cbAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp"
     },
     {
       "id": "portimonense-vs-leixoes-football-1576473",
@@ -1377,6 +710,27 @@
       "streams": [],
       "streamCount": 0,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJCBilczEFJDcQfECZwQ9RkCgMGCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
+    },
+    {
+      "id": "wolverhampton-wanderers-vs-stoke-city-2501274",
+      "title": "Wolverhampton Wanderers vs Stoke City",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-29T11:30:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEChAQQMYEj24Q3EHxBmc2qSY06QUgnop9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp"
     },
     {
       "id": "blackpool-vs-peterborough-united-2500725",
@@ -1735,14 +1089,14 @@
         {
           "source": "admin",
           "embedUrl": "https://embed.st/embed/admin/ppv-fc-cologne-vs-tsg-hoffenheim/1",
-          "language": "English - Bundesliga",
+          "language": "English - Fandango",
           "hd": true,
           "quality": "HD"
         },
         {
           "source": "admin",
           "embedUrl": "https://embed.st/embed/admin/ppv-fc-cologne-vs-tsg-hoffenheim/2",
-          "language": "English - Bundesliga",
+          "language": "English - Fandango",
           "hd": false,
           "quality": "SD"
         }
@@ -1980,6 +1334,27 @@
       "streams": [],
       "streamCount": 0,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEOCTAADDuAySIbiD4bcICCCkmQKEDA0FgSCn2Gz6KMCpRdv5eixZXyZaMG8xUQggA.webp"
+    },
+    {
+      "id": "cardiff-city-vs-sheffield-united-2501276",
+      "title": "Cardiff City vs Sheffield United",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-29T14:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VcLzZQsYFCG4g+IYzgggphkHpiGCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
     },
     {
       "id": "southampton-vs-millwall-2501275",
@@ -2465,27 +1840,6 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEBBAwtoMCmYhuIPiFOaSGkClxWNBYEgp9hs+ijAr9bD+XpZZ+ky0YB5iohBAA.webp"
     },
     {
-      "id": "south-africa-rugby-vs-new-zealand-rugby-2496229",
-      "title": "South Africa Rugby vs New Zealand Rugby",
-      "sport": "rugby",
-      "competition": "rugby",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-08-29T14:05:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECRAykYPiBS4Q3EHpBaQEDReswtBYDpj9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp"
-    },
-    {
       "id": "arouca-vs-maritimo-football-1575475",
       "title": "Arouca vs Maritimo",
       "sport": "football",
@@ -2612,6 +1966,48 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rPmA1YGIKIm4g+IYxBAoQMXVcQKmSCn2Gz6KMCpRc35ettEemtGBuYqIQQA.webp"
     },
     {
+      "id": "ppv-event-16-ama-supercross-championship-crawfordsville-ppv16",
+      "title": "AMA Supercross Championship Crawfordsville",
+      "sport": "other",
+      "competition": "other",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-29T15:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "south-africa-rugby-vs-new-zealand-rugby-2496229",
+      "title": "South Africa Rugby vs New Zealand Rugby",
+      "sport": "rugby",
+      "competition": "rugby",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-29T15:10:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECRAykYPiBS4Q3EHpBaQEDReswtBYDpj9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp"
+    },
+    {
       "id": "strasbourg-vs-lens-2489474",
       "title": "Strasbourg vs Lens",
       "sport": "football",
@@ -2715,6 +2111,48 @@
       "streams": [],
       "streamCount": 0,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VPiAG0+YEKRDdNRnIY1TcIGCHgFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
+    },
+    {
+      "id": "fedex-playoffs-tour-championship-day-3-atp1000",
+      "title": "Fedex Playoffs Tour Championship Day 3",
+      "sport": "other",
+      "competition": "other",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-29T16:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "ppv-event-07-finishers-summer-bash-ppv-07",
+      "title": "Finishers Summer Bash",
+      "sport": "other",
+      "competition": "other",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-29T16:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
     },
     {
       "id": "al-kholood-vs-al-ahli-2573331",
@@ -2864,6 +2302,27 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rfCAggY-BCBIhuIPvtMoQiLYimGCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
     },
     {
+      "id": "ppv-event-08-apfc-ipbl-hyderabad-v-delhi-ppv-08",
+      "title": "APFC IPBL Hyderabad v Delhi",
+      "sport": "other",
+      "competition": "other",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-29T16:30:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
       "id": "az-alkmaar-vs-go-ahead-eagles-2489093",
       "title": "AZ Alkmaar vs Go Ahead Eagles",
       "sport": "football",
@@ -2967,6 +2426,27 @@
       "streams": [],
       "streamCount": 0,
       "poster": ""
+    },
+    {
+      "id": "new-york-liberty-vs-chicago-sky-2449198",
+      "title": "New York Liberty vs Chicago Sky",
+      "sport": "basketball",
+      "competition": "basketball",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-29T17:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAwgpYELhACIIblpAkjIFBd0hDZvgWBIK91iLEowKlF0-l6WWW8mWjBPMVEIIA.webp"
     },
     {
       "id": "new-york-yankees-vs-boston-red-sox-2387836",
@@ -3431,6 +2911,27 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWmGBTsxfCG4g+IY1JAQQJC-pCIpBYEgp9hs+ijAqUXD+XpZZXkwaHmKiEEA.webp"
     },
     {
+      "id": "ppv-event-09-true-grit-wrestling-new-grit-rising-ppv-09",
+      "title": "True Grit Wrestling New Grit Rising",
+      "sport": "other",
+      "competition": "other",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-29T19:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
       "id": "toronto-blue-jays-vs-seattle-mariners-2388907",
       "title": "Toronto Blue Jays vs Seattle Mariners",
       "sport": "baseball",
@@ -3788,6 +3289,27 @@
       "poster": ""
     },
     {
+      "id": "ppv-event-10-top-level-pro-24-summer-jam-ppv-10",
+      "title": "Top Level Pro 24 Summer Jam",
+      "sport": "other",
+      "competition": "other",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-29T22:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
       "id": "atlas-vs-club-queretaro-football-1550942",
       "title": "Atlas vs Club Queretaro",
       "sport": "football",
@@ -4091,6 +3613,48 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbiF7BYYURE0g+IGCCmGDiDRpgFgSCn2Gz6KXWxRdd5ellkemtGBu9HpAA.webp"
     },
     {
+      "id": "ppv-event-22-world-of-outlaws-sprint-cars-red-river-ppv-22",
+      "title": "World of Outlaws Sprint Cars Red River",
+      "sport": "other",
+      "competition": "other",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-30T00:15:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "ppv-event-24-world-of-outlaws-late-models-shelby-ppv-24",
+      "title": "World of Outlaws Late Models Shelby",
+      "sport": "other",
+      "competition": "other",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-30T00:15:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
       "id": "vasco-da-gama-vs-cruzeiro-2398440",
       "title": "Vasco da Gama vs Cruzeiro",
       "sport": "football",
@@ -4259,6 +3823,27 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rGWDB8QMYGFwhuIbSBAQzOkCUs4+BYEgp3WIsSjAqUXD+XpZZXky0mqL0oUA.webp"
     },
     {
+      "id": "ppv-event-11-lara-v-ornelas-ppv-11",
+      "title": "Lara v Ornelas",
+      "sport": "other",
+      "competition": "other",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-30T01:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
       "id": "club-america-vs-puebla-football-1550944",
       "title": "Club America vs Puebla",
       "sport": "football",
@@ -4275,6 +3860,48 @@
         }
       },
       "matchTimeUTC": "2026-08-30T01:05:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "ppv-event-12-lopez-v-cruz-en-espanol-ppv-12",
+      "title": "Lopez v Cruz (En Espanol)",
+      "sport": "other",
+      "competition": "other",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-30T01:05:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "ppv-event-13-bkb-58-trujillo-v-terrill-ppv-13",
+      "title": "BKB 58 Trujillo v Terrill",
+      "sport": "other",
+      "competition": "other",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-30T01:10:00Z",
       "streams": [],
       "streamCount": 0,
       "poster": ""
@@ -4320,6 +3947,27 @@
       "streams": [],
       "streamCount": 0,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rGQAYQMEKKQhuBkH20gpxo4iu6CwJBT7DZ9FGBUoub8vSyyPTWjA3MVEIIA.webp"
+    },
+    {
+      "id": "phoenix-mercury-vs-toronto-tempo-2449332",
+      "title": "Phoenix Mercury vs Toronto Tempo",
+      "sport": "basketball",
+      "competition": "basketball",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-08-30T02:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEiBggq0kCknjFEBQGNVkkSGXxgiYZpr6s2Uif0Spa-aPIRQYQSKYmU5QsCS4VroQ9Z3zegJdcgdgOzIIIA.webp"
     },
     {
       "id": "athletics-vs-baltimore-orioles-2388919",
@@ -6556,14 +6204,14 @@
         {
           "source": "admin",
           "embedUrl": "https://embed.st/embed/admin/ppv-lecce-vs-as-roma/1",
-          "language": "English - Serie A",
+          "language": "English - Paramount+",
           "hd": true,
           "quality": "HD"
         },
         {
           "source": "admin",
           "embedUrl": "https://embed.st/embed/admin/ppv-lecce-vs-as-roma/2",
-          "language": "English - Serie A",
+          "language": "English - Paramount+",
           "hd": false,
           "quality": "SD"
         }
@@ -6628,14 +6276,14 @@
         {
           "source": "admin",
           "embedUrl": "https://embed.st/embed/admin/ppv-atalanta-vs-bologna/1",
-          "language": "English - Serie A",
+          "language": "English - Paramount+",
           "hd": true,
           "quality": "HD"
         },
         {
           "source": "admin",
           "embedUrl": "https://embed.st/embed/admin/ppv-atalanta-vs-bologna/2",
-          "language": "English - Serie A",
+          "language": "English - Paramount+",
           "hd": false,
           "quality": "SD"
         }
