@@ -1,52 +1,10 @@
 {
-  "lastUpdated": "2026-09-19T10:03:23Z",
-  "fetchDuration": "87.4s",
-  "totalMatches": 149,
-  "liveCount": 4,
-  "upcomingCount": 145,
+  "lastUpdated": "2026-09-19T14:06:09Z",
+  "fetchDuration": "141.4s",
+  "totalMatches": 163,
+  "liveCount": 21,
+  "upcomingCount": 142,
   "matches": [
-    {
-      "id": "los-angeles-dodgers-vs-san-francisco-giants-2601488",
-      "title": "Los Angeles Dodgers vs San Francisco Giants",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-19T02:15:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VCCDiiyAjdxB8QRoyhAbEMMyAlMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp"
-    },
-    {
-      "id": "austria-qualifying-1-2568417",
-      "title": "Austria Qualifying 1",
-      "sport": "motor-sports",
-      "competition": "motor-sports",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-19T08:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IKiADG2EBBDDgEYIjmT54kSCzzluufEUgUIA8KMmpwGomMkQ97fnJKBQkU2z0whYElySUNzBuTiUFMkCCXTBgxVJFIA.webp"
-    },
     {
       "id": "live-event_nascar-cup-series-2026-bass-pro-shops-night-race-live-stream",
       "title": "Nascar Cup Series 2026 - Bass Pro Shops Night Race",
@@ -69,10 +27,10 @@
       "poster": ""
     },
     {
-      "id": "sydney-roosters-vs-cronulla-sharks-2604960",
-      "title": "Sydney Roosters vs Cronulla Sharks",
-      "sport": "rugby",
-      "competition": "rugby",
+      "id": "live-event_motogp-2026-motorrad-grand-prix-von-oesterreich-live-stream",
+      "title": "MotoGP 2026 - Motorrad Grand Prix von Österreich",
+      "sport": "motor-sports",
+      "competition": "motor-sports",
       "status": "LIVE",
       "teams": {
         "home": {
@@ -84,10 +42,440 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-09-19T09:50:00Z",
+      "matchTimeUTC": "2026-09-19T10:22:00Z",
       "streams": [],
       "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rXvDBkkCENz0g+IKSFMkDifSj0FgOmP2Gz6KLWxRct5ellkemtGBu9KIQQA.webp"
+      "poster": ""
+    },
+    {
+      "id": "ppv-world-series-of-darts-finals-day-3-afternoon-session",
+      "title": "World Series of Darts Finals | Day 3 - Afternoon Session",
+      "sport": "darts",
+      "competition": "darts",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T11:00:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-world-series-of-darts-finals-day-3-afternoon-session/1",
+          "language": "English - PDC.TV",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-world-series-of-darts-finals-day-3-afternoon-session/2",
+          "language": "English - PDC.TV",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCDI0IIGCGGTs2EFUlqFqxFJAyZWcSEQKJciSFnjgMxAGMU5CKDCCRTJfbCFgSXHaHluTkdhUnoCYHhyZytQiCA.webp"
+    },
+    {
+      "id": "perth-wildcats-vs-south-east-melbourne-phoenix-2487883",
+      "title": "Perth Wildcats vs South East Melbourne Phoenix",
+      "sport": "basketball",
+      "competition": "basketball",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T11:30:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbiBIgpFMLhAa+m41JAptIRKYlMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp"
+    },
+    {
+      "id": "tottenham-hotspur-vs-aston-villa-2494044",
+      "title": "Tottenham Hotspur vs Aston Villa",
+      "sport": "football",
+      "competition": "football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T11:30:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbmHAQQ8TWBIhuIPiFMmT2mKZAGSBYEgp9hs+in1sUXfeXpZZXky0YB70ohBAA.webp"
+    },
+    {
+      "id": "rochdale-vs-oldham-athletic-2500218",
+      "title": "Rochdale vs Oldham Athletic",
+      "sport": "football",
+      "competition": "football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T11:30:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEOBRzgSIhu4g+G3CAggppkDBMKmumP2Gz6KMCq1s35elllamtGBuYqIQQA.webp"
+    },
+    {
+      "id": "millwall-vs-west-ham-united-2501338",
+      "title": "Millwall vs West Ham United",
+      "sport": "football",
+      "competition": "football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T11:30:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbmFH1WvMCG4g+IYzgggphkChAkrBYEgp9hs+ik1sUXTeXpZZXky0YB70WkA.webp"
+    },
+    {
+      "id": "stoke-city-vs-sheffield-united-2501341",
+      "title": "Stoke City vs Sheffield United",
+      "sport": "football",
+      "competition": "football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T11:30:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFP2AAGEPVYQQ3EHxCmcBqcZAoQliUyQU+w2fRRgVGth-L0ssjSZaMA8xUQggA.webp"
+    },
+    {
+      "id": "hartlepool-united-vs-worthing-2528256",
+      "title": "Hartlepool United vs Worthing",
+      "sport": "football",
+      "competition": "football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T11:30:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MiCCAjB4IkClnDgVSSEVY5KgMayaukDFIhNIRIm01hIZWuwn5-MIJFNs9MIWBJcm+UMespRTJ5AmlyR2ApMgggA.webp"
+    },
+    {
+      "id": "osasuna-vs-rayo-vallecano-2506238",
+      "title": "Osasuna vs Rayo Vallecano",
+      "sport": "football",
+      "competition": "football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T12:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAwgofEChC1uIQzpBbdIGGZIX9BYEgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp"
+    },
+    {
+      "id": "brommapojkarna-vs-ifk-g-teborg-2398919",
+      "title": "Brommapojkarna vs IFK Göteborg",
+      "sport": "football",
+      "competition": "football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T13:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEIj4huYAfATaQWkCAgaQJI6fONgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
+    },
+    {
+      "id": "v-ster-s-vs-malm--2477944",
+      "title": "Västerås vs Malmö",
+      "sport": "football",
+      "competition": "football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T13:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELykg4WOcAAMGkHxCmIIRCVMgtVhUyQU+w2fRRgVKLh-L1doryZaMA8xUQggA.webp"
+    },
+    {
+      "id": "udinese-vs-cagliari-2482179",
+      "title": "Udinese vs Cagliari",
+      "sport": "football",
+      "competition": "football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T13:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFCBDN2IURu4g+u4xsSJTIGAWBIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp"
+    },
+    {
+      "id": "bologna-vs-torino-2482182",
+      "title": "Bologna vs Torino",
+      "sport": "football",
+      "competition": "football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T13:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VPpBD14YErhDcQfEHr0oQiCCBgXcBYEgp9hs+il1sUXXeXpZZXky0YB70ohBAA.webp"
+    },
+    {
+      "id": "paul-ricard-race-bol-d-or-fim-endurance-world-championship-1789822800",
+      "title": "Paul Ricard — Race: Bol d’Or",
+      "sport": "motor-sports",
+      "competition": "motor-sports",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T13:00:00Z",
+      "streams": [
+        {
+          "source": "hotel",
+          "embedUrl": "https://embed.st/embed/hotel/paul-ricard-race-bol-d-or-fim-endurance-world-championship-1789822800/1",
+          "language": "Main",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 1,
+      "poster": ""
+    },
+    {
+      "id": "werder-bremen-vs-augsburg-2508361",
+      "title": "Werder Bremen vs Augsburg",
+      "sport": "football",
+      "competition": "football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T13:30:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VOHHBSQo7dxDaQRgyEQwTJAwWBIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp"
+    },
+    {
+      "id": "borussia-m-nchengladbach-vs-mainz-2508362",
+      "title": "Borussia Mönchengladbach vs Mainz",
+      "sport": "football",
+      "competition": "football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T13:30:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFG5hwSXMxDcQfECQ0gYZwyDMoCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
+    },
+    {
+      "id": "eintracht-frankfurt-vs-freiburg-2508364",
+      "title": "Eintracht Frankfurt vs Freiburg",
+      "sport": "football",
+      "competition": "football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T13:30:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rXlNykQmzdxB8QJEBBAwTIfZuMoCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
+    },
+    {
+      "id": "hamburg-vs-k-ln-2508367",
+      "title": "Hamburg vs Köln",
+      "sport": "football",
+      "competition": "football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T13:30:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJMAAMwGSE5SQ3EHxCnEMYyAMmIxgsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp"
+    },
+    {
+      "id": "live_bundesliga_mgladbach-mainz-05-live-streaming-617141808",
+      "title": "Borussia M'gladbach vs 1. FSV Mainz 05",
+      "sport": "football",
+      "competition": "football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T13:30:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "tt-assen-race-1-british-superbike-championship-1789825500",
+      "title": "TT Assen — Race 1",
+      "sport": "motor-sports",
+      "competition": "motor-sports",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T13:45:00Z",
+      "streams": [
+        {
+          "source": "hotel",
+          "embedUrl": "https://embed.st/embed/hotel/tt-assen-race-1-british-superbike-championship-1789825500/1",
+          "language": "Main",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 1,
+      "poster": ""
     },
     {
       "id": "nflstreams_live",
@@ -145,6 +533,42 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBEBDXsQZgdgwwRgBOYAU0hDpqxQFZh5Tg0wmJgATMNTTAWkVqNri0LIinbQ61OvHS5CISiCggGIRPzWq0hNTTV5s2AMb6NNFif4h+VFxux5bFLXnk3aASx2PV0+LRRNR0hAtjYUBHZQYkk2JjBHEFsaOxytGFZYSWt5YFIVGOVgeTYOMl5AiCA.webp"
+    },
+    {
+      "id": "ppv-sky-sports-golf",
+      "title": "Sky Sports Golf",
+      "sport": "golf",
+      "competition": "golf",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-sky-sports-golf/1",
+          "language": "English - NOWTV",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-sky-sports-golf/2",
+          "language": "English - NOWTV",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFOJAkQMUiHhyaiLNhBZxwBSogga64Wt2lNakzQPTZOgMZqU5CKDCCRTbPTCFgSXNftDnVkdhY3sCTXJnYEcyCCA.webp"
     },
     {
       "id": "ppv-fox-cricket",
@@ -283,10 +707,10 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IMmUQQQKEInjAqICNlIgliDWqziQWYCpolxwRAGMT+6cOVre5FQKEimqlOULAkuM+6FhuThVhUnoCU3IAg1CIIA.webp"
     },
     {
-      "id": "new-york-city-fc-vs-new-york-red-bulls-2407083",
-      "title": "New York City FC vs New York Red Bulls",
-      "sport": "football",
-      "competition": "football",
+      "id": "los-angeles-dodgers-vs-san-francisco-giants-2601488",
+      "title": "Los Angeles Dodgers vs San Francisco Giants",
+      "sport": "baseball",
+      "competition": "baseball",
       "status": "UPCOMING",
       "teams": {
         "home": {
@@ -298,10 +722,10 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-09-18T23:30:00Z",
+      "matchTimeUTC": "2026-09-19T02:15:00Z",
       "streams": [],
       "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VPiF5SwKYEh6aQGmCClHDiHNxDwCein2Gz6KMCt1s35ellm6mtGBuYqIQQA.webp"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VCCDiiyAjdxB8QRoyhAbEMMyAlMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp"
     },
     {
       "id": "-ster-vs-norrk-ping-2412686",
@@ -325,8 +749,8 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8reGDJZgABn4gUIbiD4gzEEIhImQU3CAVMkFPsNn0Umtii6by9bVEfJlowL3pRCCA.webp"
     },
     {
-      "id": "hartlepool-united-vs-worthing-2528256",
-      "title": "Hartlepool United vs Worthing",
+      "id": "ppv-goal-rush",
+      "title": "Goal Rush",
       "sport": "football",
       "competition": "football",
       "status": "UPCOMING",
@@ -340,304 +764,10 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-09-19T11:30:00Z",
+      "matchTimeUTC": "2026-09-19T14:00:00Z",
       "streams": [],
       "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MiCCAjB4IkClnDgVSSEVY5KgMayaukDFIhNIRIm01hIZWuwn5-MIJFNs9MIWBJcm+UMespRTJ5AmlyR2ApMgggA.webp"
-    },
-    {
-      "id": "stoke-city-vs-sheffield-united-2501341",
-      "title": "Stoke City vs Sheffield United",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-19T11:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFP2AAGEPVYQQ3EHxCmcBqcZAoQliUyQU+w2fRRgVGth-L0ssjSZaMA8xUQggA.webp"
-    },
-    {
-      "id": "millwall-vs-west-ham-united-2501338",
-      "title": "Millwall vs West Ham United",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-19T11:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbmFH1WvMCG4g+IYzgggphkChAkrBYEgp9hs+ik1sUXTeXpZZXky0YB70WkA.webp"
-    },
-    {
-      "id": "rochdale-vs-oldham-athletic-2500218",
-      "title": "Rochdale vs Oldham Athletic",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-19T11:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEOBRzgSIhu4g+G3CAggppkDBMKmumP2Gz6KMCq1s35elllamtGBuYqIQQA.webp"
-    },
-    {
-      "id": "tottenham-hotspur-vs-aston-villa-2494044",
-      "title": "Tottenham Hotspur vs Aston Villa",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-19T11:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbmHAQQ8TWBIhuIPiFMmT2mKZAGSBYEgp9hs+in1sUXfeXpZZXky0YB70ohBAA.webp"
-    },
-    {
-      "id": "osasuna-vs-rayo-vallecano-2506238",
-      "title": "Osasuna vs Rayo Vallecano",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-19T12:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAwgofEChC1uIQzpBbdIGGZIX9BYEgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp"
-    },
-    {
-      "id": "bologna-vs-torino-2482182",
-      "title": "Bologna vs Torino",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-19T13:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VPpBD14YErhDcQfEHr0oQiCCBgXcBYEgp9hs+il1sUXXeXpZZXky0YB70ohBAA.webp"
-    },
-    {
-      "id": "udinese-vs-cagliari-2482179",
-      "title": "Udinese vs Cagliari",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-19T13:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFCBDN2IURu4g+u4xsSJTIGAWBIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp"
-    },
-    {
-      "id": "v-ster-s-vs-malm--2477944",
-      "title": "Västerås vs Malmö",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-19T13:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELykg4WOcAAMGkHxCmIIRCVMgtVhUyQU+w2fRRgVKLh-L1doryZaMA8xUQggA.webp"
-    },
-    {
-      "id": "brommapojkarna-vs-ifk-g-teborg-2398919",
-      "title": "Brommapojkarna vs IFK Göteborg",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-19T13:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEIj4huYAfATaQWkCAgaQJI6fONgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
-    },
-    {
-      "id": "live_bundesliga_mgladbach-mainz-05-live-streaming-617141808",
-      "title": "Borussia M'gladbach vs 1. FSV Mainz 05",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-19T13:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
-    },
-    {
-      "id": "hamburg-vs-k-ln-2508367",
-      "title": "Hamburg vs Köln",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-19T13:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJMAAMwGSE5SQ3EHxCnEMYyAMmIxgsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp"
-    },
-    {
-      "id": "eintracht-frankfurt-vs-freiburg-2508364",
-      "title": "Eintracht Frankfurt vs Freiburg",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-19T13:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rXlNykQmzdxB8QJEBBAwTIfZuMoCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "borussia-m-nchengladbach-vs-mainz-2508362",
-      "title": "Borussia Mönchengladbach vs Mainz",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-19T13:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFG5hwSXMxDcQfECQ0gYZwyDMoCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "werder-bremen-vs-augsburg-2508361",
-      "title": "Werder Bremen vs Augsburg",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-19T13:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VOHHBSQo7dxDaQRgyEQwTJAwWBIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRCGA1EKEMJAwpILKRBqIIAMYgIwDdt0qSIY4iw7giY+dmyN8bKRTldAoSKaPnYQsCS5NZyEwbk5dYVJ6AktyEL1IiCA.webp"
     },
     {
       "id": "-rd-vs-s-rbog-rd-2540765",
@@ -892,8 +1022,8 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJMAAMckHzDgc3XSBMQQiEsbMWCwJBT7DZ9FGBUoub8vSyyPTWjA3MVEIIA.webp"
     },
     {
-      "id": "as-roma-vs-internazionale-serie-a-1789833600",
-      "title": "AS Roma vs Internazionale",
+      "id": "internazionale-v-as-roma-401874753",
+      "title": "Internazionale @ AS Roma",
       "sport": "football",
       "competition": "football",
       "status": "UPCOMING",
@@ -910,15 +1040,15 @@
       "matchTimeUTC": "2026-09-19T16:00:00Z",
       "streams": [
         {
-          "source": "hotel",
-          "embedUrl": "https://embed.st/embed/hotel/as-roma-vs-internazionale-serie-a-1789833600/1",
-          "language": "Main",
+          "source": "foxtrot",
+          "embedUrl": "https://embed.st/embed/foxtrot/internazionale-v-as-roma-401874753/1",
+          "language": "Paramount+",
           "hd": true,
           "quality": "HD"
         }
       ],
       "streamCount": 1,
-      "poster": ""
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuClBWLwBOQ3YeYDNNJMAYxDIlGDsYBN0FgBTMIlb4AEN+kUGC7BJBfiEGz5MECFyxgeGv0niEoohP54yYccEYSIQA.webp"
     },
     {
       "id": "roma-vs-inter-milan-2482181",
@@ -2091,6 +2221,27 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKWG4gyJEHC1a+IYxBCmY2vZcbAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp"
     },
     {
+      "id": "new-zealand-breakers-vs-illawarra-hawks-2487884",
+      "title": "New Zealand Breakers vs Illawarra Hawks",
+      "sport": "basketball",
+      "competition": "basketball",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-20T05:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECmxcw7MCRDcQUoyH0xTJiLiMFgSCn2Gz6mlSm1l4RLLPdNaYHpiohBAA.webp"
+    },
+    {
       "id": "new-zealand-warriors-vs-newcastle-knights-2604961",
       "title": "New Zealand Warriors vs Newcastle Knights",
       "sport": "rugby",
@@ -2110,6 +2261,27 @@
       "streams": [],
       "streamCount": 0,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAx1swGQPUhuIPiCkgzJAyESnTfAsCQU7rEWJRgVKLh-L0ssryZaMA8xUQggA.webp"
+    },
+    {
+      "id": "sydney-kings-vs-cairns-taipans-2487885",
+      "title": "Sydney Kings vs Cairns Taipans",
+      "sport": "basketball",
+      "competition": "basketball",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-20T07:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbmD4hwKHiBQhuIKcZAkQMM6cQmFTJBT7DZ9FGBW6278vSyzdTLRg7mKiEEA.webp"
     },
     {
       "id": "feyenoord-vs-utrecht-2489125",
@@ -3255,6 +3427,42 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52IGCCoh4wGRBBYQ8gMazJC7CFVZgUmLpAl1KEMJAnh2TcvFX5NEinIRQYQSKZWnYQsCS5lJyE3VhdLMicCWXI3YBcyCCA.webp"
     },
     {
+      "id": "1524",
+      "title": "Calgary Flames - Seattle Kraken",
+      "sport": "hockey",
+      "competition": "hockey",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-21T00:00:00Z",
+      "streams": [
+        {
+          "source": "golf",
+          "embedUrl": "https://embed.st/embed/golf/1524/1",
+          "language": "English",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "golf",
+          "embedUrl": "https://embed.st/embed/golf/1524/2",
+          "language": "English",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": ""
+    },
+    {
       "id": "ppv-quer-taro-vs-le-n",
       "title": "Querétaro vs. León",
       "sport": "football",
@@ -3289,6 +3497,258 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MiCMEQhSICCBggAxjMUhhK4FRDaU22fJHAJ64Uv1kSIXVq1kIKchIFDDBbPTCFgSXIodCwbk5jUno3eHJAo1CIIA.webp"
+    },
+    {
+      "id": "1530",
+      "title": "Baltimore Orioles - Toronto Blue Jays",
+      "sport": "baseball",
+      "competition": "baseball",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-21T22:35:00Z",
+      "streams": [
+        {
+          "source": "golf",
+          "embedUrl": "https://embed.st/embed/golf/1530/1",
+          "language": "English",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "golf",
+          "embedUrl": "https://embed.st/embed/golf/1530/2",
+          "language": "English",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": ""
+    },
+    {
+      "id": "1531",
+      "title": "Detroit Tigers - Washington Nationals",
+      "sport": "baseball",
+      "competition": "baseball",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-21T22:40:00Z",
+      "streams": [
+        {
+          "source": "golf",
+          "embedUrl": "https://embed.st/embed/golf/1531/1",
+          "language": "English",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "golf",
+          "embedUrl": "https://embed.st/embed/golf/1531/2",
+          "language": "English",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": ""
+    },
+    {
+      "id": "1529",
+      "title": "Montreal Canadiens - Ottawa Senators",
+      "sport": "hockey",
+      "competition": "hockey",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-21T23:00:00Z",
+      "streams": [
+        {
+          "source": "golf",
+          "embedUrl": "https://embed.st/embed/golf/1529/1",
+          "language": "English",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "golf",
+          "embedUrl": "https://embed.st/embed/golf/1529/2",
+          "language": "English",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": ""
+    },
+    {
+      "id": "1528",
+      "title": "New Jersey Devils - New York Rangers",
+      "sport": "hockey",
+      "competition": "hockey",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-21T23:00:00Z",
+      "streams": [
+        {
+          "source": "golf",
+          "embedUrl": "https://embed.st/embed/golf/1528/1",
+          "language": "English",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "golf",
+          "embedUrl": "https://embed.st/embed/golf/1528/2",
+          "language": "English",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": ""
+    },
+    {
+      "id": "1527",
+      "title": "Columbus Blue Jackets - Detroit Red Wings",
+      "sport": "hockey",
+      "competition": "hockey",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-21T23:00:00Z",
+      "streams": [
+        {
+          "source": "golf",
+          "embedUrl": "https://embed.st/embed/golf/1527/1",
+          "language": "English",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "golf",
+          "embedUrl": "https://embed.st/embed/golf/1527/2",
+          "language": "English",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": ""
+    },
+    {
+      "id": "1526",
+      "title": "Pittsburgh Penguins - Buffalo Sabres",
+      "sport": "hockey",
+      "competition": "hockey",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-21T23:00:00Z",
+      "streams": [
+        {
+          "source": "golf",
+          "embedUrl": "https://embed.st/embed/golf/1526/1",
+          "language": "English",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "golf",
+          "embedUrl": "https://embed.st/embed/golf/1526/2",
+          "language": "English",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": ""
+    },
+    {
+      "id": "1525",
+      "title": "Washington Capitals - Philadelphia Flyers",
+      "sport": "hockey",
+      "competition": "hockey",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-21T23:00:00Z",
+      "streams": [
+        {
+          "source": "golf",
+          "embedUrl": "https://embed.st/embed/golf/1525/1",
+          "language": "English",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "golf",
+          "embedUrl": "https://embed.st/embed/golf/1525/2",
+          "language": "English",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": ""
     }
   ]
 }
