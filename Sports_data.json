@@ -1,31 +1,10 @@
 {
-  "lastUpdated": "2026-09-19T14:06:09Z",
-  "fetchDuration": "141.4s",
-  "totalMatches": 163,
-  "liveCount": 21,
-  "upcomingCount": 142,
+  "lastUpdated": "2026-09-19T17:40:00Z",
+  "fetchDuration": "164.9s",
+  "totalMatches": 235,
+  "liveCount": 115,
+  "upcomingCount": 120,
   "matches": [
-    {
-      "id": "live-event_nascar-cup-series-2026-bass-pro-shops-night-race-live-stream",
-      "title": "Nascar Cup Series 2026 - Bass Pro Shops Night Race",
-      "sport": "motor-sports",
-      "competition": "motor-sports",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-19T08:45:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
-    },
     {
       "id": "live-event_motogp-2026-motorrad-grand-prix-von-oesterreich-live-stream",
       "title": "MotoGP 2026 - Motorrad Grand Prix von Österreich",
@@ -48,10 +27,10 @@
       "poster": ""
     },
     {
-      "id": "ppv-world-series-of-darts-finals-day-3-afternoon-session",
-      "title": "World Series of Darts Finals | Day 3 - Afternoon Session",
-      "sport": "darts",
-      "competition": "darts",
+      "id": "-ster-vs-norrk-ping-2412686",
+      "title": "Öster vs Norrköping",
+      "sport": "football",
+      "competition": "football",
       "status": "LIVE",
       "teams": {
         "home": {
@@ -64,255 +43,9 @@
         }
       },
       "matchTimeUTC": "2026-09-19T11:00:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-world-series-of-darts-finals-day-3-afternoon-session/1",
-          "language": "English - PDC.TV",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-world-series-of-darts-finals-day-3-afternoon-session/2",
-          "language": "English - PDC.TV",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCDI0IIGCGGTs2EFUlqFqxFJAyZWcSEQKJciSFnjgMxAGMU5CKDCCRTJfbCFgSXHaHluTkdhUnoCYHhyZytQiCA.webp"
-    },
-    {
-      "id": "perth-wildcats-vs-south-east-melbourne-phoenix-2487883",
-      "title": "Perth Wildcats vs South East Melbourne Phoenix",
-      "sport": "basketball",
-      "competition": "basketball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-19T11:30:00Z",
       "streams": [],
       "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbiBIgpFMLhAa+m41JAptIRKYlMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp"
-    },
-    {
-      "id": "tottenham-hotspur-vs-aston-villa-2494044",
-      "title": "Tottenham Hotspur vs Aston Villa",
-      "sport": "football",
-      "competition": "football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-19T11:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbmHAQQ8TWBIhuIPiFMmT2mKZAGSBYEgp9hs+in1sUXfeXpZZXky0YB70ohBAA.webp"
-    },
-    {
-      "id": "rochdale-vs-oldham-athletic-2500218",
-      "title": "Rochdale vs Oldham Athletic",
-      "sport": "football",
-      "competition": "football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-19T11:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEOBRzgSIhu4g+G3CAggppkDBMKmumP2Gz6KMCq1s35elllamtGBuYqIQQA.webp"
-    },
-    {
-      "id": "millwall-vs-west-ham-united-2501338",
-      "title": "Millwall vs West Ham United",
-      "sport": "football",
-      "competition": "football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-19T11:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbmFH1WvMCG4g+IYzgggphkChAkrBYEgp9hs+ik1sUXTeXpZZXky0YB70WkA.webp"
-    },
-    {
-      "id": "stoke-city-vs-sheffield-united-2501341",
-      "title": "Stoke City vs Sheffield United",
-      "sport": "football",
-      "competition": "football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-19T11:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFP2AAGEPVYQQ3EHxCmcBqcZAoQliUyQU+w2fRRgVGth-L0ssjSZaMA8xUQggA.webp"
-    },
-    {
-      "id": "hartlepool-united-vs-worthing-2528256",
-      "title": "Hartlepool United vs Worthing",
-      "sport": "football",
-      "competition": "football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-19T11:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MiCCAjB4IkClnDgVSSEVY5KgMayaukDFIhNIRIm01hIZWuwn5-MIJFNs9MIWBJcm+UMespRTJ5AmlyR2ApMgggA.webp"
-    },
-    {
-      "id": "osasuna-vs-rayo-vallecano-2506238",
-      "title": "Osasuna vs Rayo Vallecano",
-      "sport": "football",
-      "competition": "football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-19T12:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAwgofEChC1uIQzpBbdIGGZIX9BYEgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp"
-    },
-    {
-      "id": "brommapojkarna-vs-ifk-g-teborg-2398919",
-      "title": "Brommapojkarna vs IFK Göteborg",
-      "sport": "football",
-      "competition": "football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-19T13:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEIj4huYAfATaQWkCAgaQJI6fONgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
-    },
-    {
-      "id": "v-ster-s-vs-malm--2477944",
-      "title": "Västerås vs Malmö",
-      "sport": "football",
-      "competition": "football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-19T13:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELykg4WOcAAMGkHxCmIIRCVMgtVhUyQU+w2fRRgVKLh-L1doryZaMA8xUQggA.webp"
-    },
-    {
-      "id": "udinese-vs-cagliari-2482179",
-      "title": "Udinese vs Cagliari",
-      "sport": "football",
-      "competition": "football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-19T13:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFCBDN2IURu4g+u4xsSJTIGAWBIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp"
-    },
-    {
-      "id": "bologna-vs-torino-2482182",
-      "title": "Bologna vs Torino",
-      "sport": "football",
-      "competition": "football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-19T13:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VPpBD14YErhDcQfEHr0oQiCCBgXcBYEgp9hs+il1sUXXeXpZZXky0YB70ohBAA.webp"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8reGDJZgABn4gUIbiD4gzEEIhImQU3CAVMkFPsNn0Umtii6by9bVEfJlowL3pRCCA.webp"
     },
     {
       "id": "paul-ricard-race-bol-d-or-fim-endurance-world-championship-1789822800",
@@ -344,10 +77,10 @@
       "poster": ""
     },
     {
-      "id": "werder-bremen-vs-augsburg-2508361",
-      "title": "Werder Bremen vs Augsburg",
-      "sport": "football",
-      "competition": "football",
+      "id": "live-event_college-gameday-live-stream",
+      "title": "College GameDay",
+      "sport": "american-football",
+      "competition": "american-football",
       "status": "LIVE",
       "teams": {
         "home": {
@@ -359,16 +92,24 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-09-19T13:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VOHHBSQo7dxDaQRgyEQwTJAwWBIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp"
+      "matchTimeUTC": "2026-09-19T14:30:00Z",
+      "streams": [
+        {
+          "source": "delta",
+          "embedUrl": "https://embed.st/embed/delta/live-event_college-gameday-live-stream/1",
+          "language": "English",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 1,
+      "poster": ""
     },
     {
-      "id": "borussia-m-nchengladbach-vs-mainz-2508362",
-      "title": "Borussia Mönchengladbach vs Mainz",
-      "sport": "football",
-      "competition": "football",
+      "id": "live_cfb_kentucky-wesleyan-panthers-findlay-oilers-live-streaming-587798640",
+      "title": "Kentucky Wesleyan Panthers vs Findlay Oilers",
+      "sport": "american-football",
+      "competition": "american-football",
       "status": "LIVE",
       "teams": {
         "home": {
@@ -380,77 +121,1403 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-09-19T13:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFG5hwSXMxDcQfECQ0gYZwyDMoCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "eintracht-frankfurt-vs-freiburg-2508364",
-      "title": "Eintracht Frankfurt vs Freiburg",
-      "sport": "football",
-      "competition": "football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-19T13:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rXlNykQmzdxB8QJEBBAwTIfZuMoCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "hamburg-vs-k-ln-2508367",
-      "title": "Hamburg vs Köln",
-      "sport": "football",
-      "competition": "football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-19T13:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJMAAMwGSE5SQ3EHxCnEMYyAMmIxgsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp"
-    },
-    {
-      "id": "live_bundesliga_mgladbach-mainz-05-live-streaming-617141808",
-      "title": "Borussia M'gladbach vs 1. FSV Mainz 05",
-      "sport": "football",
-      "competition": "football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-19T13:30:00Z",
+      "matchTimeUTC": "2026-09-19T15:00:00Z",
       "streams": [],
       "streamCount": 0,
       "poster": ""
     },
     {
-      "id": "tt-assen-race-1-british-superbike-championship-1789825500",
-      "title": "TT Assen — Race 1",
+      "id": "paris-fc-vs-strasbourg-2489504",
+      "title": "Paris FC vs Strasbourg",
+      "sport": "football",
+      "competition": "football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T15:15:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEChB9YYGQAZ+IblpAkQEEzikgbNvgWBIK91iLEowKlF0-l6WWW8mWjBPMVEIIA.webp"
+    },
+    {
+      "id": "delaware-vs-coastal-carolina-2498753",
+      "title": "Delaware vs Coastal Carolina",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T15:30:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "-rgryte-vs-sirius-2398925",
+      "title": "Örgryte vs Sirius",
+      "sport": "football",
+      "competition": "football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T15:30:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJMAAMckHzDgc3XSBMQQiEsbMWCwJBT7DZ9FGBUoub8vSyyPTWjA3MVEIIA.webp"
+    },
+    {
+      "id": "live_ncaa-women_post-eagles-lindenwood-lady-lions-live-streaming-623887488",
+      "title": "Post Eagles vs Lindenwood Lady Lions",
+      "sport": "hockey",
+      "competition": "hockey",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T15:45:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "arkansas-vs-georgia-2498754",
+      "title": "Arkansas vs Georgia",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T16:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IMlhBSSIYSEQwQKcSKXi1yiCpqSZWbCAjAtkqrKWqJ50eSMChIptnphCwJLgDGKB2G6cjYVJ6AmB4cj9jYIggA.webp"
+    },
+    {
+      "id": "kansas-state-vs-tulane-2498755",
+      "title": "Kansas State vs Tulane",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T16:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFJDcQfECh5hN2zShCIYICGdwadBYEgp9hs+ijAr9bD+XpZZ+ky0YB5iohBAA.webp"
+    },
+    {
+      "id": "iowa-state-vs-bowling-green-2498756",
+      "title": "Iowa State vs Bowling Green",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T16:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "georgia-tech-vs-mercer-2498758",
+      "title": "Georgia Tech vs Mercer",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T16:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "clemson-vs-north-carolina-2498759",
+      "title": "Clemson vs North Carolina",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T16:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLNhBkYYlCG4gpIPRBB9jhkDH24CwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
+    },
+    {
+      "id": "minnesota-vs-akron-2498760",
+      "title": "Minnesota vs Akron",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T16:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "ohio-state-vs-kent-state-2498761",
+      "title": "Ohio State vs Kent State",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T16:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGOJAoQw4BGA0sC4IhDYQVEBBBZxckXJCIy2+cKPqas+dvMBjBSnLyBQgwWz0whYElx2nITBuTjNSeg94cmD9EyA.webp"
+    },
+    {
+      "id": "penn-state-vs-buffalo-2498762",
+      "title": "Penn State vs Buffalo",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T16:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VMjigpgSMChDcQUkPsQwQJEIkt8TBHRT7DZ9FGBXa278vSyztTLRg7mKiEEA.webp"
+    },
+    {
+      "id": "texas-state-vs-north-texas-2498815",
+      "title": "Texas State vs North Texas",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T16:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "columbia-vs-lafayette-2593906",
+      "title": "Columbia vs Lafayette",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T16:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "lehigh-vs-dartmouth-2593907",
+      "title": "Lehigh vs Dartmouth",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T16:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "new-haven-vs-brown-2598528",
+      "title": "New Haven vs Brown",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T16:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "east-tennessee-state-vs-west-georgia-2598529",
+      "title": "East Tennessee State vs West Georgia",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T16:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "roma-vs-inter-milan-2482181",
+      "title": "Roma vs Inter Milan",
+      "sport": "football",
+      "competition": "football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T16:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGCE0QQKWVJDcQfEPpIht2nGcQSmSCn2Gz6KMCt1s35ellm6mtGBuYqIQQA.webp"
+    },
+    {
+      "id": "live_cfb_kansas-arizona-st-live-streaming-587828880",
+      "title": "Kansas Jayhawks vs Arizona State Sun Devils",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T16:00:00Z",
+      "streams": [
+        {
+          "source": "delta",
+          "embedUrl": "https://embed.st/embed/delta/live_cfb_kansas-arizona-st-live-streaming-587828880/1",
+          "language": "English",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 1,
+      "poster": ""
+    },
+    {
+      "id": "live_cfb_liu-sharks-villanova-live-streaming-587857824",
+      "title": "Liu Sharks vs Villanova Wildcats",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T16:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "live_cfb_assumption-college-greyhounds-pace-setters-live-streaming-587793456",
+      "title": "Assumption College Greyhounds vs Pace Setters",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T16:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "live_cfb_edinboro-fighting-scots-west-chester-golden-rams-live-streaming-587793888",
+      "title": "Edinboro Fighting Scots vs West Chester Golden Rams",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T16:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "live_cfb_gannon-golden-knights-bloomsburg-huskies-live-streaming-587794320",
+      "title": "Gannon Golden Knights vs Bloomsburg Huskies",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T16:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "live_cfb_millersville-marauders-slippery-rock-live-streaming-587794752",
+      "title": "Millersville Marauders vs Slippery Rock",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T16:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "live_cfb_northwood-timberwolves-hillsdale-chargers-live-streaming-587795184",
+      "title": "Northwood Timberwolves vs Hillsdale Chargers",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T16:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "live_cfb_shepherd-rams-california-vulcans-live-streaming-587795616",
+      "title": "Shepherd Rams vs California Vulcans",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T16:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "live_cfb_alfred-saxons-saint-lawrence-saints-live-streaming-610674336",
+      "title": "Alfred Saxons vs Saint Lawrence Saints",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T16:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "live_cfb_belhavenblazers-central-dutch-live-streaming-610674768",
+      "title": "Belhaven\tBlazers vs Central Dutch",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T16:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "live_cfb_berry-vikings-carnegie-mellon-tartans-live-streaming-610675200",
+      "title": "Berry Vikings vs Carnegie Mellon Tartans",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T16:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "live_cfb_case-western-reserve-spartans-shenandoah-hornets-live-streaming-610675632",
+      "title": "Case Western Reserve Spartans vs Shenandoah Hornets",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T16:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "live_cfb_castletonspartans-maine-maritime-mariners-live-streaming-610676064",
+      "title": "Castleton\tSpartans vs Maine Maritime Mariners",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T16:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "live_cfb_cortland-red-dragons-hartwick-hawks-live-streaming-610676496",
+      "title": "Cortland Red Dragons vs Hartwick Hawks",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T16:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "live_cfb_delaware-valley-aggies-albright-lions-live-streaming-610676928",
+      "title": "Delaware Valley Aggies vs Albright Lions",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T16:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "live_cfb_fdu-florham-devils-widener-pride-live-streaming-610677360",
+      "title": "Fdu Florham Devils vs Widener Pride",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T16:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "live_cfb_misericordia-cougars-stevenson-mustangs-live-streaming-610677792",
+      "title": "Misericordia Cougars vs Stevenson Mustangs",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T16:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "live_cfb_muhlenberg-mules-wilkes-colonels-live-streaming-610678224",
+      "title": "Muhlenberg Mules vs Wilkes Colonels",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T16:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "live_cfb_new-england-college-pilgrims-fitchburg-falcons-live-streaming-610678656",
+      "title": "New England College Pilgrims vs Fitchburg Falcons",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T16:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "live_cfb_new-england-noreasters-hampden-sydney-tigers-live-streaming-610679088",
+      "title": "New England Noreasters vs Hampden Sydney Tigers",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T16:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "live_cfb_northwestern-eagles-loras-duhawks-live-streaming-610679520",
+      "title": "Northwestern Eagles vs Loras Duhawks",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T16:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "live_cfb_oberlin-yeomen-wabash-little-giants-live-streaming-610679952",
+      "title": "Oberlin Yeomen vs Wabash Little Giants",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T16:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "live_cfb_plymouth-state-panthers-bridgewater-bears-live-streaming-610680384",
+      "title": "Plymouth State Panthers vs Bridgewater Bears",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T16:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "live_cfb_randolph-macon-yellow-jackets-maryville-scots-live-streaming-610680816",
+      "title": "Randolph Macon Yellow Jackets vs Maryville Scots",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T16:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "live_cfb_springfield-pride-wisconsin-platteville-pioneers-live-streaming-610681248",
+      "title": "Springfield Pride vs Wisconsin Platteville Pioneers",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T16:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "live_cfb_suny-morrisville-mustangs-union-dutchmen-live-streaming-610681680",
+      "title": "Suny Morrisville Mustangs vs Union Dutchmen",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T16:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "live_cfb_worcester-poly-engineers-husson-eagles-live-streaming-610682544",
+      "title": "Worcester Poly Engineers vs Husson Eagles",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T16:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "live_cfb_baldwin-wallace-yellow-jackets-alma-scots-live-streaming-610695936",
+      "title": "Baldwin Wallace Yellow Jackets vs Alma Scots",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T16:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "internazionale-v-as-roma-401874753",
+      "title": "Internazionale @ AS Roma",
+      "sport": "football",
+      "competition": "football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T16:00:00Z",
+      "streams": [
+        {
+          "source": "foxtrot",
+          "embedUrl": "https://embed.st/embed/foxtrot/internazionale-v-as-roma-401874753/1",
+          "language": "Paramount+",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 1,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuClBWLwBOQ3YeYDNNJMAYxDIlGDsYBN0FgBTMIlb4AEN+kUGC7BJBfiEGz5MECFyxgeGv0niEoohP54yYccEYSIQA.webp"
+    },
+    {
+      "id": "live_cfb_washburn-ichabods-central-oklahoma-bronchos-live-streaming-587802096",
+      "title": "Washburn Ichabods vs Central Oklahoma Bronchos",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T16:05:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "wisconsin-vs-eastern-michigan-2498763",
+      "title": "Wisconsin vs Eastern Michigan",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T16:30:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFPxAoQ9eJBDcQUrSEQwQJAyb5aCwJBT7DZ9FGBUa278vSyyNTLRg7mKiEEA.webp"
+    },
+    {
+      "id": "nottingham-forest-vs-coventry-city-2494049",
+      "title": "Nottingham Forest vs Coventry City",
+      "sport": "football",
+      "competition": "football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T16:30:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAxgQwGUhAowfENxBGQICCBIX9IRDgVMkFPsNn0DKlFzBl4RLFlvJlowXzFRCCA.webp"
+    },
+    {
+      "id": "celta-vigo-vs-racing-de-santander-2506234",
+      "title": "Celta Vigo vs Racing de Santander",
+      "sport": "football",
+      "competition": "football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T16:30:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFCBRhRTNnxDcQ+kCAiaQMU1Y1SCwJBT7DZ9LSpRdt5ellkemtGDaYqIQQA.webp"
+    },
+    {
+      "id": "stuttgart-vs-borussia-dortmund-2508365",
+      "title": "Stuttgart vs Borussia Dortmund",
+      "sport": "football",
+      "competition": "football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T16:30:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8remRBywfMEhDcQfECRAQQMMwaMgURgsCQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp"
+    },
+    {
+      "id": "live_cfb_bluffton-beavers-trine-thunder-live-streaming-610683408",
+      "title": "Bluffton Beavers vs Trine Thunder",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T16:30:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "sparta-rotterdam-vs-heerenveen-2489120",
+      "title": "Sparta Rotterdam vs Heerenveen",
+      "sport": "football",
+      "competition": "football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T16:45:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VRN1hgB8BCG4g+IYzhwwQKC1ZgFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
+    },
+    {
+      "id": "live_cfb_vanderbilt-nc-state-live-streaming-587832336",
+      "title": "Vanderbilt Commodores vs North Carolina State Wolfpack",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T16:45:00Z",
+      "streams": [
+        {
+          "source": "delta",
+          "embedUrl": "https://embed.st/embed/delta/live_cfb_vanderbilt-nc-state-live-streaming-587832336/1",
+          "language": "English",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 1,
+      "poster": ""
+    },
+    {
+      "id": "central-michigan-vs-wyoming-2498766",
+      "title": "Central Michigan vs Wyoming",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T17:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "bryant-vs-princeton-2593908",
+      "title": "Bryant vs Princeton",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T17:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "new-hampshire-vs-harvard-2593909",
+      "title": "New Hampshire vs Harvard",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T17:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "colgate-vs-cornell-2593910",
+      "title": "Colgate vs Cornell",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T17:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "indiana-state-vs-valparaiso-2593911",
+      "title": "Indiana State vs Valparaiso",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T17:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "mercyhurst-vs-glenville-state-2598530",
+      "title": "Mercyhurst vs Glenville State",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T17:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "butler-vs-chicago-state-2598781",
+      "title": "Butler vs Chicago State",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T17:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "dallas-wings-vs-phoenix-mercury-2449207",
+      "title": "Dallas Wings vs Phoenix Mercury",
+      "sport": "basketball",
+      "competition": "basketball",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T17:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDDq4wU7KBDcQUkCQMgU5kFYi4rBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp"
+    },
+    {
+      "id": "world-series-of-darts-finals-day-3-2600517",
+      "title": "World Series of Darts Finals Day 3",
+      "sport": "darts",
+      "competition": "darts",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T17:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBIha4RtRDSQvEFhBmUZoyZAQQMTSyQUsIuYxRhVKHp-J653viswGCe4mIQQA.webp"
+    },
+    {
+      "id": "trabzonspor-vs-galatasaray-2527772",
+      "title": "Trabzonspor vs Galatasaray",
+      "sport": "football",
+      "competition": "football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T17:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJF2A0QfENx0hDUgzBDHEKXAWBIKfYbPoowKlFxfl6WWW6a0wLmKiEEA.webp"
+    },
+    {
+      "id": "ppv-pro-motocross-los-angeles",
+      "title": "Pro Motocross: Los Angeles",
       "sport": "motor-sports",
       "competition": "motor-sports",
       "status": "LIVE",
@@ -464,17 +1531,948 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-09-19T13:45:00Z",
+      "matchTimeUTC": "2026-09-19T17:00:00Z",
       "streams": [
         {
-          "source": "hotel",
-          "embedUrl": "https://embed.st/embed/hotel/tt-assen-race-1-british-superbike-championship-1789825500/1",
-          "language": "Main",
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-pro-motocross-los-angeles/1",
+          "language": "English - Peacock",
           "hd": true,
           "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-pro-motocross-los-angeles/2",
+          "language": "English - Peacock",
+          "hd": false,
+          "quality": "SD"
         }
       ],
-      "streamCount": 1,
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCEkBjcSBggqIRBDkgsIFSFIiQwjbqWTsIKSOMRg8bXppW9KYFQf8wgswWz0whYElxSHIVdWC2FtBw8rMFdgCzIIIA.webp"
+    },
+    {
+      "id": "live_cfb_davidson-wildcats-virginia-military-live-streaming-623872800",
+      "title": "Davidson Wildcats vs Virginia Military Keydets",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T17:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "live_cfb_ashland-eagles-ohio-dominican-panthers-live-streaming-587796048",
+      "title": "Ashland Eagles vs Ohio Dominican Panthers",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T17:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "live_cfb_concordia-st-paul-golden-bears-bemidji-state-beavers-live-streaming-587796480",
+      "title": "Concordia-St. Paul Golden Bears vs Bemidji State Beavers",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T17:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "live_cfb_elizabeth-city-vikings-virginia-state-trojans-live-streaming-587796912",
+      "title": "Elizabeth City Vikings vs Virginia State Trojans",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T17:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "live_cfb_fort-valley-state-wildcats-benedict-tigers-live-streaming-587797344",
+      "title": "Fort Valley State Wildcats vs Benedict Tigers",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T17:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "live_cfb_johnson-c-smith-golden-bulls-fayetteville-state-broncos-live-streaming-587797776",
+      "title": "Johnson C. Smith Golden Bulls vs Fayetteville State Broncos",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T17:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "live_cfb_lackawanna-falcons-clarion-golden-eagles-live-streaming-587799072",
+      "title": "Lackawanna Falcons vs Clarion Golden Eagles",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T17:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "live_cfb_north-carolina-pembroke-braves-valdosta-state-blazers-live-streaming-587799504",
+      "title": "North Carolina Pembroke Braves vs Valdosta State Blazers",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T17:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "live_cfb_northern-michigan-wildcats-davenport-panthers-live-streaming-587799936",
+      "title": "Northern Michigan Wildcats vs Davenport Panthers",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T17:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "live_cfb_saint-anselm-hawks-franklin-pierce-ravens-live-streaming-587800368",
+      "title": "Saint Anselm Hawks vs Franklin Pierce Ravens",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T17:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "live_cfb_shaw-bears-lincoln-lions-live-streaming-587800800",
+      "title": "Shaw Bears vs Lincoln Lions",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T17:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "live_cfb_shippensburg-raiders-indiana-crimson-hawks-live-streaming-587801232",
+      "title": "Shippensburg Raiders vs Indiana Crimson Hawks",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T17:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "live_cfb_wayne-state-warriors-uwla-crosse-eagles-live-streaming-587802528",
+      "title": "Wayne State Warriors vs UW–La Crosse Eagles",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T17:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "live_cfb_west-liberty-hilltoppers-frostburg-state-bobcats-live-streaming-587803392",
+      "title": "West Liberty Hilltoppers vs Frostburg State Bobcats",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T17:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "live_cfb_west-virginia-state-yellow-jackets-wv-wesleyan-bobcats-live-streaming-587804256",
+      "title": "West Virginia State Yellow Jackets vs West Virginia Wesleyan Bobcats",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T17:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "live_cfb_wheeling-cardinals-fairmont-falcons-live-streaming-587804688",
+      "title": "Wheeling Cardinals vs Fairmont Falcons",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T17:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "live_cfb_tufts-jumbos-hamilton-continentals-live-streaming-610682112",
+      "title": "Tufts Jumbos vs Hamilton Continentals",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T17:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "live_cfb_alvernia-golden-wolves-kings-monarchs-live-streaming-610683840",
+      "title": "Alvernia Golden Wolves vs Kings Monarchs",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T17:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "live_cfb_amherst-mammoths-bates-bobcats-live-streaming-610684272",
+      "title": "Amherst Mammoths vs Bates Bobcats",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T17:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "live_cfb_brockportgolden-eagles-rpi-engineers-live-streaming-610684704",
+      "title": "Brockport\tGolden Eagles vs RPI\tEngineers",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T17:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "live_cfb_buffalo-bengals-alfred-state-pioneers-live-streaming-610685136",
+      "title": "Buffalo Bengals vs Alfred State Pioneers",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T17:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "live_cfb_catholic-cardinals-franklin-and-marshall-diplomats-live-streaming-610685568",
+      "title": "Catholic Cardinals vs Franklin And Marshall Diplomats",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T17:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "live_cfb_centre-colonels-lagrange-panthers-live-streaming-610686000",
+      "title": "Centre Colonels vs Lagrange Panthers",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T17:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "live_cfb_curry-colonels-suny-maritime-privateers-live-streaming-610686432",
+      "title": "Curry Colonels vs Suny Maritime Privateers",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T17:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "live_cfb_depauw-tigers-ohio-wesleyan-battling-bishops-live-streaming-610686864",
+      "title": "Depauw Tigers vs Ohio Wesleyan Battling Bishops",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T17:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "live_cfb_dickinson-red-devils-lycomingwarriors-live-streaming-610687296",
+      "title": "Dickinson Red Devils vs Lycoming\tWarriors",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T17:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "live_cfb_eastern-eagles-lebanon-valley-flying-dutchmen-live-streaming-610687728",
+      "title": "Eastern Eagles vs Lebanon Valley Flying Dutchmen",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T17:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "live_cfb_gettysburg-bullets-western-connecticut-colonials-live-streaming-610688160",
+      "title": "Gettysburg Bullets vs Western Connecticut Colonials",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T17:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "live_cfb_hanover-panthers-hope-flying-dutchmen-live-streaming-610688592",
+      "title": "Hanover Panthers vs Hope Flying Dutchmen",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T17:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "live_cfb_ithaca-bombers-hilbert-hawks-live-streaming-610689024",
+      "title": "Ithaca Bombers vs Hilbert Hawks",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T17:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "live_cfb_johns-hopkins-blue-jays-susquehanna-river-hawks-live-streaming-610689456",
+      "title": "Johns Hopkins Blue Jays vs Susquehanna River Hawks",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T17:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "live_cfb_manchester-spartans-olivet-comets-live-streaming-610689888",
+      "title": "Manchester Spartans vs Olivet Comets",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T17:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "live_cfb_mary-hardin-baylor-crusaders-endicott-gulls-live-streaming-610690320",
+      "title": "Mary Hardin Baylor Crusaders vs Endicott Gulls",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T17:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "live_cfb_middlebury-panthers-wesleyan-cardinals-live-streaming-610690752",
+      "title": "Middlebury Panthers vs Wesleyan Cardinals",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T17:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "live_cfb_minnesota-morris-cougars-buena-vista-beavers-live-streaming-610691184",
+      "title": "Minnesota Morris Cougars vs Buena Vista Beavers",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T17:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "live_cfb_mount-st-joseph-lions-adrian-bulldogs-live-streaming-610691616",
+      "title": "Mount St. Joseph Lions vs Adrian Bulldogs",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T17:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "live_cfb_nichols-bison-coast-guard-bears-live-streaming-610692048",
+      "title": "Nichols Bison vs Coast Guard Bears",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T17:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "live_cfb_rose-hulman-engineers-albion-britons-live-streaming-610692480",
+      "title": "Rose Hulman Engineers vs Albion Britons",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T17:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "live_cfb_salisburysea-gulls-washington-and-lee-generals-live-streaming-610692912",
+      "title": "Salisbury\tSea Gulls vs Washington And Lee Generals",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T17:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "live_cfb_southern-virginia-knights-keystone-giants-live-streaming-610693344",
+      "title": "Southern Virginia Knights vs Keystone Giants",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T17:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "live_cfb_trinity-bantams-colby-mules-live-streaming-610693776",
+      "title": "Trinity Bantams vs Colby Mules",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T17:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "live_cfb_utica-pioneers-hobart-statesmen-live-streaming-610694208",
+      "title": "Utica Pioneers vs Hobart Statesmen",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T17:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "live_cfb_williams-ephs-bowdoin-polar-bears-live-streaming-610695072",
+      "title": "Williams Ephs vs Bowdoin Polar Bears",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T17:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "live_ncaa-women_mercyhurst-lakers-rensselaer-engineers-live-streaming-623887920",
+      "title": "Mercyhurst Lakers vs Rensselaer Engineers",
+      "sport": "hockey",
+      "competition": "hockey",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-19T17:00:00Z",
+      "streams": [],
+      "streamCount": 0,
       "poster": ""
     },
     {
@@ -707,69 +2705,6 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IMmUQQQKEInjAqICNlIgliDWqziQWYCpolxwRAGMT+6cOVre5FQKEimqlOULAkuM+6FhuThVhUnoCU3IAg1CIIA.webp"
     },
     {
-      "id": "los-angeles-dodgers-vs-san-francisco-giants-2601488",
-      "title": "Los Angeles Dodgers vs San Francisco Giants",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-19T02:15:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VCCDiiyAjdxB8QRoyhAbEMMyAlMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp"
-    },
-    {
-      "id": "-ster-vs-norrk-ping-2412686",
-      "title": "Öster vs Norrköping",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-19T11:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8reGDJZgABn4gUIbiD4gzEEIhImQU3CAVMkFPsNn0Umtii6by9bVEfJlowL3pRCCA.webp"
-    },
-    {
-      "id": "ppv-goal-rush",
-      "title": "Goal Rush",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-19T14:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRCGA1EKEMJAwpILKRBqIIAMYgIwDdt0qSIY4iw7giY+dmyN8bKRTldAoSKaPnYQsCS5NZyEwbk5dYVJ6AktyEL1IiCA.webp"
-    },
-    {
       "id": "-rd-vs-s-rbog-rd-2540765",
       "title": "Érd vs Sárbogárd",
       "sport": "football",
@@ -786,413 +2721,6 @@
         }
       },
       "matchTimeUTC": "2026-09-19T14:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
-    },
-    {
-      "id": "wrexham-vs-southampton-2501344",
-      "title": "Wrexham vs Southampton",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-19T14:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEiHooQUkHzBIQ3PSFM4IOk9t0KmSCn2GytYFSi6vy9LLPdNaYK5iohBAA.webp"
-    },
-    {
-      "id": "birmingham-city-vs-middlesbrough-2501336",
-      "title": "Birmingham City vs Middlesbrough",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-19T14:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMvDAyURMCG4g+IYzgggphkChAlDBYEgp9hs+jpUouYDUSyzPTLRg3mKiEEA.webp"
-    },
-    {
-      "id": "burnley-vs-derby-county-2501335",
-      "title": "Burnley vs Derby County",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-19T14:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFNiwQIZsxDcQfHbhAQNRkChAkNBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp"
-    },
-    {
-      "id": "brighton-and-hove-albion-vs-arsenal-2494046",
-      "title": "Brighton and Hove Albion vs Arsenal",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-19T14:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VHDBBwpYJMDAhuIPiFMQQJEOZQhEORsCQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp"
-    },
-    {
-      "id": "everton-vs-ipswich-town-2494043",
-      "title": "Everton vs Ipswich Town",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-19T14:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEH1ggpIegAZcIbhpCmIIErpAoQiYygLAkFPsNn0UYFSi5fy9LFkfJlowLzFRCCA.webp"
-    },
-    {
-      "id": "newcastle-united-vs-hull-city-2494040",
-      "title": "Newcastle United vs Hull City",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-19T14:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGCCkhRWWQAYQ3EHxCmI2kOZQhERvgWBIK91iLEowKlF0-l6u0W8mWjBPMVEIIA.webp"
-    },
-    {
-      "id": "athletic-bilbao-vs-deportivo-alav-s-2506230",
-      "title": "Athletic Bilbao vs Deportivo Alavés",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-19T14:15:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbkVEAGMGRQhuIPiBMQQ+mCDNn9Epkgp9hs+il1sUXXeXpZZnplowd3pRCCA.webp"
-    },
-    {
-      "id": "athletic-club-mg-vs-botafogo-sp-2431446",
-      "title": "Athletic Club-MG vs Botafogo-SP",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-19T14:15:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEChCIpYXkwghuIPsdyHTmzTgVMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp"
-    },
-    {
-      "id": "ado-den-haag-vs-cambuur-2489121",
-      "title": "ADO Den Haag vs Cambuur",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-19T14:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMGBIgUYAQKQhuIPiFM4cMbVZQgYBYEgp9hs+jpUoum8vSyzPTLQaovQhQA.webp"
-    },
-    {
-      "id": "paris-fc-vs-strasbourg-2489504",
-      "title": "Paris FC vs Strasbourg",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-19T15:15:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEChB9YYGQAZ+IblpAkQEEzikgbNvgWBIK91iLEowKlF0-l6WWW8mWjBPMVEIIA.webp"
-    },
-    {
-      "id": "-rgryte-vs-sirius-2398925",
-      "title": "Örgryte vs Sirius",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-19T15:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJMAAMckHzDgc3XSBMQQiEsbMWCwJBT7DZ9FGBUoub8vSyyPTWjA3MVEIIA.webp"
-    },
-    {
-      "id": "internazionale-v-as-roma-401874753",
-      "title": "Internazionale @ AS Roma",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-19T16:00:00Z",
-      "streams": [
-        {
-          "source": "foxtrot",
-          "embedUrl": "https://embed.st/embed/foxtrot/internazionale-v-as-roma-401874753/1",
-          "language": "Paramount+",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 1,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuClBWLwBOQ3YeYDNNJMAYxDIlGDsYBN0FgBTMIlb4AEN+kUGC7BJBfiEGz5MECFyxgeGv0niEoohP54yYccEYSIQA.webp"
-    },
-    {
-      "id": "roma-vs-inter-milan-2482181",
-      "title": "Roma vs Inter Milan",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-19T16:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGCE0QQKWVJDcQfEPpIht2nGcQSmSCn2Gz6KMCt1s35ellm6mtGBuYqIQQA.webp"
-    },
-    {
-      "id": "stuttgart-vs-borussia-dortmund-2508365",
-      "title": "Stuttgart vs Borussia Dortmund",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-19T16:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8remRBywfMEhDcQfECRAQQMMwaMgURgsCQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp"
-    },
-    {
-      "id": "celta-vigo-vs-racing-de-santander-2506234",
-      "title": "Celta Vigo vs Racing de Santander",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-19T16:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFCBRhRTNnxDcQ+kCAiaQMU1Y1SCwJBT7DZ9LSpRdt5ellkemtGDaYqIQQA.webp"
-    },
-    {
-      "id": "nottingham-forest-vs-coventry-city-2494049",
-      "title": "Nottingham Forest vs Coventry City",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-19T16:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAxgQwGUhAowfENxBGQICCBIX9IRDgVMkFPsNn0DKlFzBl4RLFlvJlowXzFRCCA.webp"
-    },
-    {
-      "id": "sparta-rotterdam-vs-heerenveen-2489120",
-      "title": "Sparta Rotterdam vs Heerenveen",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-19T16:45:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VRN1hgB8BCG4g+IYzhwwQKC1ZgFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
-    },
-    {
-      "id": "dallas-wings-vs-phoenix-mercury-2449207",
-      "title": "Dallas Wings vs Phoenix Mercury",
-      "sport": "basketball",
-      "competition": "basketball",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-19T17:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDDq4wU7KBDcQUkCQMgU5kFYi4rBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp"
-    },
-    {
-      "id": "live_ncaa-women_mercyhurst-lakers-rensselaer-engineers-live-streaming-623887920",
-      "title": "Mercyhurst Lakers vs Rensselaer Engineers",
-      "sport": "hockey",
-      "competition": "hockey",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-19T17:00:00Z",
       "streams": [],
       "streamCount": 0,
       "poster": ""
@@ -3355,42 +4883,6 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGUiJhqMENxB89IXTkQRjIEiAVNNMfsNn0UYFSi6vy9LLPdNa2qL0QUA.webp"
     },
     {
-      "id": "ppv-toluca-vs-santos",
-      "title": "Toluca vs. Santos",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-21T00:00:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-toluca-vs-santos/1",
-          "language": "Spanish - Liga MX",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-toluca-vs-santos/2",
-          "language": "Spanish - Liga MX",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFKVIhpKEGWHAI2EEqVYQAYxFzgVcdtnSNIeCOUzgpmqYgg9ECfzCCzBbPTCFgSXBolDnViUFMgk3UzBnRUkIIA.webp"
-    },
-    {
       "id": "ppv-pachuca-vs-tijuana",
       "title": "Pachuca vs. Tijuana",
       "sport": "football",
@@ -3425,6 +4917,42 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52IGCCoh4wGRBBYQ8gMazJC7CFVZgUmLpAl1KEMJAnh2TcvFX5NEinIRQYQSKZWnYQsCS5lJyE3VhdLMicCWXI3YBcyCCA.webp"
+    },
+    {
+      "id": "ppv-toluca-vs-santos",
+      "title": "Toluca vs. Santos",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-21T00:00:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-toluca-vs-santos/1",
+          "language": "Spanish - Liga MX",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-toluca-vs-santos/2",
+          "language": "Spanish - Liga MX",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFKVIhpKEGWHAI2EEqVYQAYxFzgVcdtnSNIeCOUzgpmqYgg9ECfzCCzBbPTCFgSXBolDnViUFMgk3UzBnRUkIIA.webp"
     },
     {
       "id": "1524",
