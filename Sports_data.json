@@ -1,102 +1,10 @@
 {
-  "lastUpdated": "2026-09-23T18:07:05Z",
-  "fetchDuration": "77.5s",
-  "totalMatches": 90,
+  "lastUpdated": "2026-09-23T21:56:02Z",
+  "fetchDuration": "64.3s",
+  "totalMatches": 89,
   "liveCount": 3,
-  "upcomingCount": 87,
+  "upcomingCount": 86,
   "matches": [
-    {
-      "id": "ppv-players-championship-30-den-bosch",
-      "title": "Players Championship 30 - Den Bosch",
-      "sport": "darts",
-      "competition": "darts",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-23T11:00:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-players-championship-30-den-bosch/1",
-          "language": "English - Board 1",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-players-championship-30-den-bosch/2",
-          "language": "English - Board 1",
-          "hd": false,
-          "quality": "SD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-players-championship-30-den-bosch/3",
-          "language": "English - Board 2",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-players-championship-30-den-bosch/4",
-          "language": "English - Board 2",
-          "hd": false,
-          "quality": "SD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-players-championship-30-den-bosch/5",
-          "language": "English - Board 3",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-players-championship-30-den-bosch/6",
-          "language": "English - Board 3",
-          "hd": false,
-          "quality": "SD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-players-championship-30-den-bosch/7",
-          "language": "English - Board 4",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-players-championship-30-den-bosch/8",
-          "language": "English - Board 4",
-          "hd": false,
-          "quality": "SD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-players-championship-30-den-bosch/9",
-          "language": "German - Board 1",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-players-championship-30-den-bosch/10",
-          "language": "German - Board 1",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 10,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMbAIICFKkhEiECCoSZIEiGEadyxChApgqmBrnSQczTFLH5JI-zCCRTbPTCFgSXOKNDnVllhWyMCYHhyZyspIA.webp"
-    },
     {
       "id": "detroit-tigers-vs-washington-nationals-2606522",
       "title": "Detroit Tigers vs Washington Nationals",
@@ -138,6 +46,27 @@
       "streams": [],
       "streamCount": 0,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKrX5gw-JAxC8QWEChAwDICCbNGQ8FkgpYRcxijCqUPD+UbU5XviswNpijGFAA.webp"
+    },
+    {
+      "id": "san-francisco-giants-vs-minnesota-twins-2606523",
+      "title": "San Francisco Giants vs Minnesota Twins",
+      "sport": "baseball",
+      "competition": "baseball",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-23T19:45:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKohjzc-EiF4gsIFCBj6QEY6ZA2SLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp"
     },
     {
       "id": "admin-tennis-channel",
@@ -346,27 +275,6 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IMmUQQQKEInjAqICNlIgliDWqziQWYCpolxwRAGMT+6cOVre5FQKEimqlOULAkuM+6FhuThVhUnoCU3IAg1CIIA.webp"
-    },
-    {
-      "id": "san-francisco-giants-vs-minnesota-twins-2606523",
-      "title": "San Francisco Giants vs Minnesota Twins",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-23T19:45:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKohjzc-EiF4gsIFCBj6QEY6ZA2SLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp"
     },
     {
       "id": "philadelphia-phillies-vs-milwaukee-brewers-2606526",
@@ -2076,42 +1984,6 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MJEDBABjYFQmkQiGLOAQQcrCHHL4skJuXCJ0k5rkhgutSC0g143uQigwgkU2z0whYElxSUIXJuTmdhUnoCS3JXVQiIIA.webp"
     },
     {
-      "id": "ppv-cf-montr-al-vs-fc-cincinnati",
-      "title": "CF Montréal vs. FC Cincinnati",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-26T23:30:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-cf-montr-al-vs-fc-cincinnati/1",
-          "language": "English - Apple TV",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-cf-montr-al-vs-fc-cincinnati/2",
-          "language": "English - Apple TV",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEEDBApgiSVQkgIwGllLAlGkMMVaZikcq0gs+mvJUgLIddP5hBBgtnphCwJLgDG0ofdZLhNWkneHJ7dTUIIA.webp"
-    },
-    {
       "id": "ppv-charlotte-fc-vs-chicago-fire-fc",
       "title": "Charlotte FC vs. Chicago Fire FC",
       "sport": "football",
@@ -2146,6 +2018,42 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MVEChDCQEUiBghFCxShEhEq4cFnjJsrBJmltU4IjJY1IOYt7lZAoSKbZ6YQsCS4AxqqFhuTlktMlUCM3IA7WMIIA.webp"
+    },
+    {
+      "id": "ppv-cf-montr-al-vs-fc-cincinnati",
+      "title": "CF Montréal vs. FC Cincinnati",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-26T23:30:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-cf-montr-al-vs-fc-cincinnati/1",
+          "language": "English - Apple TV",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-cf-montr-al-vs-fc-cincinnati/2",
+          "language": "English - Apple TV",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEEDBApgiSVQkgIwGllLAlGkMMVaZikcq0gs+mvJUgLIddP5hBBgtnphCwJLgDG0ofdZLhNWkneHJ7dTUIIA.webp"
     },
     {
       "id": "ppv-atlanta-united-fc-vs-new-york-city-fc",
@@ -2184,78 +2092,6 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5Mw0iADGILCCohx8+ZJFSJwkDAkoJEbDJn6IIYyGCIsqkHODGqO-mEEim2emELAkuSTqFPWPXEyHQJzcidbUlsgA.webp"
     },
     {
-      "id": "ppv-seattle-sounders-fc-vs-minnesota-united-fc",
-      "title": "Seattle Sounders FC vs. Minnesota United FC",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-27T00:30:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-seattle-sounders-fc-vs-minnesota-united-fc/1",
-          "language": "English - Apple TV",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-seattle-sounders-fc-vs-minnesota-united-fc/2",
-          "language": "English - Apple TV",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcSBEgsIMvGBUQw4IizZgEBSADGIvcpryIIQyZ2kl5+YlO9ymgUL0F1KcoWBJc2t0LDdOTWUyNxd5MH8NUg0gA.webp"
-    },
-    {
-      "id": "ppv-nashville-sc-vs-toronto-fc",
-      "title": "Nashville SC vs. Toronto FC",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-27T00:30:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-nashville-sc-vs-toronto-fc/1",
-          "language": "English - Apple TV",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-nashville-sc-vs-toronto-fc/2",
-          "language": "English - Apple TV",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEMEQBjEChARgNLCETwR8kCRDCQMEEs3jF2kFlKGJiCCt0j10lOQUChdgtnphCwJLimOhMG5OBWFSenc1MCDgBTIIIA.webp"
-    },
-    {
       "id": "ppv-austin-fc-vs-san-diego-fc",
       "title": "Austin FC vs. San Diego FC",
       "sport": "football",
@@ -2292,8 +2128,8 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcSRDwRwGpOHjs2EDQggIwDVRABjFaRBZdh0pvUrjMCwprSIKchoFCZBJQ7CFgSXDodCwbk4NYVMHN2kwQM1TCCA.webp"
     },
     {
-      "id": "ppv-houston-dynamo-fc-vs-sporting-kansas-city",
-      "title": "Houston Dynamo FC vs. Sporting Kansas City",
+      "id": "ppv-seattle-sounders-fc-vs-minnesota-united-fc",
+      "title": "Seattle Sounders FC vs. Minnesota United FC",
       "sport": "football",
       "competition": "football",
       "status": "UPCOMING",
@@ -2311,21 +2147,21 @@
       "streams": [
         {
           "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-houston-dynamo-fc-vs-sporting-kansas-city/1",
+          "embedUrl": "https://embed.st/embed/admin/ppv-seattle-sounders-fc-vs-minnesota-united-fc/1",
           "language": "English - Apple TV",
           "hd": true,
           "quality": "HD"
         },
         {
           "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-houston-dynamo-fc-vs-sporting-kansas-city/2",
+          "embedUrl": "https://embed.st/embed/admin/ppv-seattle-sounders-fc-vs-minnesota-united-fc/2",
           "language": "English - Apple TV",
           "hd": false,
           "quality": "SD"
         }
       ],
       "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICCEQkQWECGwzg8UiGGqlSkDSogY66Wr0p9umeJDG9OxHpgpyEUGEEim2emELAkuAMb2hZ1ZHYVJ6Ag0wZ2BHMgggA.webp"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcSBEgsIMvGBUQw4IizZgEBSADGIvcpryIIQyZ2kl5+YlO9ymgUL0F1KcoWBJc2t0LDdOTWUyNxd5MH8NUg0gA.webp"
     },
     {
       "id": "ppv-fc-dallas-vs-lafc",
@@ -2364,8 +2200,8 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IYSBIgaw4PFIhEISeJARpIAMYaqIGBsRYRW4LpByLZCdYsRsKcnYFCRTbPTCFgSXJodCwbk47WTIHAgswQOA7MgggA.webp"
     },
     {
-      "id": "ppv-santos-vs-pachuca",
-      "title": "Santos vs. Pachuca",
+      "id": "ppv-houston-dynamo-fc-vs-sporting-kansas-city",
+      "title": "Houston Dynamo FC vs. Sporting Kansas City",
       "sport": "football",
       "competition": "football",
       "status": "UPCOMING",
@@ -2379,25 +2215,61 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-09-27T01:00:00Z",
+      "matchTimeUTC": "2026-09-27T00:30:00Z",
       "streams": [
         {
           "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-santos-vs-pachuca/1",
-          "language": "Spanish - Liga MX",
+          "embedUrl": "https://embed.st/embed/admin/ppv-houston-dynamo-fc-vs-sporting-kansas-city/1",
+          "language": "English - Apple TV",
           "hd": true,
           "quality": "HD"
         },
         {
           "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-santos-vs-pachuca/2",
-          "language": "Spanish - Liga MX",
+          "embedUrl": "https://embed.st/embed/admin/ppv-houston-dynamo-fc-vs-sporting-kansas-city/2",
+          "language": "English - Apple TV",
           "hd": false,
           "quality": "SD"
         }
       ],
       "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MwkCRDxswGsJk1J88YjIRZEhSG2LSIcQGMp2mVmCIVIlOXUChIpjOthCwJLgPWhYbp3XyyawJzch9gdTUgA.webp"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICCEQkQWECGwzg8UiGGqlSkDSogY66Wr0p9umeJDG9OxHpgpyEUGEEim2emELAkuAMb2hZ1ZHYVJ6Ag0wZ2BHMgggA.webp"
+    },
+    {
+      "id": "ppv-nashville-sc-vs-toronto-fc",
+      "title": "Nashville SC vs. Toronto FC",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-27T00:30:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-nashville-sc-vs-toronto-fc/1",
+          "language": "English - Apple TV",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-nashville-sc-vs-toronto-fc/2",
+          "language": "English - Apple TV",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEMEQBjEChARgNLCETwR8kCRDCQMEEs3jF2kFlKGJiCCt0j10lOQUChdgtnphCwJLimOhMG5OBWFSenc1MCDgBTIIIA.webp"
     },
     {
       "id": "ppv-tigres-uanl-vs-puebla",
@@ -2434,6 +2306,42 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILMHjYRIWSlkgUkySGEylJEAGMQiMhHEyDUtVV3bVq6QaWjyEUGEEim0pWELAkuLUqFPWBzUyJQJlMCdgB30gA.webp"
+    },
+    {
+      "id": "ppv-santos-vs-pachuca",
+      "title": "Santos vs. Pachuca",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-27T01:00:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-santos-vs-pachuca/1",
+          "language": "Spanish - Liga MX",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-santos-vs-pachuca/2",
+          "language": "Spanish - Liga MX",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MwkCRDxswGsJk1J88YjIRZEhSG2LSIcQGMp2mVmCIVIlOXUChIpjOthCwJLgPWhYbp3XyyawJzch9gdTUgA.webp"
     },
     {
       "id": "ppv-real-salt-lake-vs-new-england-revolution",
@@ -2508,42 +2416,6 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IKiADGIkImEh5kkDFIgswCCE1yQu+RGASSIFMHgyUWsxt1aThhYdP8wgkU2z0whYElyTTIVdWA2FSegJrMFcNcIggA.webp"
     },
     {
-      "id": "ppv-la-galaxy-vs-colorado-rapids",
-      "title": "LA Galaxy vs. Colorado Rapids",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-27T02:30:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-la-galaxy-vs-colorado-rapids/1",
-          "language": "English - Apple TV",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-la-galaxy-vs-colorado-rapids/2",
-          "language": "English - Apple TV",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MiGCAkhgEEMOwiQJELPnC5ImVuUo5IXVhUgAxhpo15yrMHjZJKchFBhBmggodhCwJLmMOhF1YnS3p3WzAXbRkgA.webp"
-    },
-    {
       "id": "ppv-san-jose-earthquakes-vs-portland-timbers",
       "title": "San Jose Earthquakes vs. Portland Timbers",
       "sport": "football",
@@ -2578,6 +2450,42 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52IMvGBUQEbCGnSI4qfOCJhwWbMnD5qkiCzZj0mHJpKsIawGMU5WQKEimx+2ELAkuO87DdOWQ0yewI1cn9NUk0gA.webp"
+    },
+    {
+      "id": "ppv-la-galaxy-vs-colorado-rapids",
+      "title": "LA Galaxy vs. Colorado Rapids",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-27T02:30:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-la-galaxy-vs-colorado-rapids/1",
+          "language": "English - Apple TV",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-la-galaxy-vs-colorado-rapids/2",
+          "language": "English - Apple TV",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MiGCAkhgEEMOwiQJELPnC5ImVuUo5IXVhUgAxhpo15yrMHjZJKchFBhBmggodhCwJLmMOhF1YnS3p3WzAXbRkgA.webp"
     },
     {
       "id": "ppv-panthers-vs-knights",
