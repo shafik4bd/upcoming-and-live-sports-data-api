@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-09-26T08:11:42Z",
-  "fetchDuration": "69.7s",
-  "totalMatches": 98,
-  "liveCount": 11,
-  "upcomingCount": 87,
+  "lastUpdated": "2026-09-26T13:32:28Z",
+  "fetchDuration": "78.7s",
+  "totalMatches": 101,
+  "liveCount": 8,
+  "upcomingCount": 93,
   "matches": [
     {
-      "id": "minnesota-twins-vs-texas-rangers-2608259",
-      "title": "Minnesota Twins vs Texas Rangers",
-      "sport": "baseball",
-      "competition": "baseball",
+      "id": "live-event_thanongsak-simsri-vs-mark-vicelles-live-stream",
+      "title": "Thanongsak Simsri vs Mark Vicelles",
+      "sport": "fight",
+      "competition": "fight",
       "status": "LIVE",
       "teams": {
         "home": {
@@ -21,14 +21,22 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-09-26T00:10:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdoN4gySEIy1asIFCBggtEY+euL8wJBSwi5jFGFUoe78o2pzPdvRg7uJiEEA.webp"
+      "matchTimeUTC": "2026-09-26T08:00:00Z",
+      "streams": [
+        {
+          "source": "delta",
+          "embedUrl": "https://embed.st/embed/delta/live-event_thanongsak-simsri-vs-mark-vicelles-live-stream/1",
+          "language": "English",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 1,
+      "poster": ""
     },
     {
-      "id": "fall-nationals-at-silver-dollar-speedway",
-      "title": "Fall Nationals at Silver Dollar Speedway",
+      "id": "azerbaijan-grand-prix-2408191",
+      "title": "Azerbaijan Grand Prix",
       "sport": "motor-sports",
       "competition": "motor-sports",
       "status": "LIVE",
@@ -42,74 +50,16 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-09-26T01:00:00Z",
-      "streams": [
-        {
-          "source": "foxtrot",
-          "embedUrl": "https://embed.st/embed/foxtrot/fall-nationals-at-silver-dollar-speedway/1",
-          "language": "Floracing",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 1,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBEBOEBjAkFaeYMgVmnHHjHxQvODGDTAFMtgATMHNsCoRGQ4B0joQPENhi9ZuEPI4hEAQ17lijWGIbBDnBJGACuKMWTCduXCEA.webp"
-    },
-    {
-      "id": "9-25-26-bakersfield-speedway",
-      "title": "9.25.26 | Bakersfield Speedway at Kevin Harvicks Kern Rcwy",
-      "sport": "motor-sports",
-      "competition": "motor-sports",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-26T01:15:00Z",
-      "streams": [
-        {
-          "source": "foxtrot",
-          "embedUrl": "https://embed.st/embed/foxtrot/9-25-26-bakersfield-speedway/1",
-          "language": "Dirtvision",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 1,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBYKwE5oATHBHYNYAVhUuAEMFSBTSGsYlYFgY2DDMKta8csBwVOYusF4t46EHhAxFIQgpV4FdENwUpOqpoaXrQO7rpA7ETZSDuIQao2xhUZICWNij+neDAUED48LlJcJC4UYmk+FQAGeh9EsEtzEGClGBjk+JAkuNgC0BDre2ccsT45SGAwpjJhPjBG7DagA.webp"
-    },
-    {
-      "id": "athletics-vs-houston-astros-2608260",
-      "title": "Athletics vs Houston Astros",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-26T01:40:00Z",
+      "matchTimeUTC": "2026-09-26T11:00:00Z",
       "streams": [],
       "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzKrN4g4WEIzQgtulNsN6QJrVsX5gSClhFzGKMKpQ835RtTkfb9GBu4mIQQA.webp"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECDl0wmqdhDcQfIyAggUuEDBAlzNgsCQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp"
     },
     {
-      "id": "san-diego-padres-vs-arizona-diamondbacks-2608261",
-      "title": "San Diego Padres vs Arizona Diamondbacks",
-      "sport": "baseball",
-      "competition": "baseball",
+      "id": "perth-wildcats-vs-new-zealand-breakers-2487892",
+      "title": "Perth Wildcats vs New Zealand Breakers",
+      "sport": "basketball",
+      "competition": "basketball",
       "status": "LIVE",
       "teams": {
         "home": {
@@ -121,14 +71,14 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-09-26T01:40:00Z",
+      "matchTimeUTC": "2026-09-26T11:30:00Z",
       "streams": [],
       "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdkjAoQEENJDbtvEFgMgYIY7qOWQJFppgCRcxijCqUPD+UbU5XviswGAe4mIQQA.webp"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEBqxg+IGDw0huIHSRCmpIFCAs4clpkgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp"
     },
     {
-      "id": "stanford-cardinal-vs-virginia-cavaliers",
-      "title": "Stanford Cardinal vs Virginia Cavaliers",
+      "id": "slovenia-vs-scotland-2475288",
+      "title": "Slovenia vs Scotland",
       "sport": "football",
       "competition": "football",
       "status": "LIVE",
@@ -142,24 +92,16 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-09-26T02:00:00Z",
-      "streams": [
-        {
-          "source": "foxtrot",
-          "embedUrl": "https://embed.st/embed/foxtrot/stanford-cardinal-vs-virginia-cavaliers/1",
-          "language": "ESPN+",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 1,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQzATmgMbBp7AAMKArMAKYKzDXzASNXDNrDCZ0AmtRtHjoQEEDBBYQMlDPkFZaKSD5hZmMNlJEalZbgkhDfIzOmLpiCyqxUG1Aim7AwdeJGC5Bzpq7csghBAA.webp"
+      "matchTimeUTC": "2026-09-26T13:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rPmBlhoUhCG4g+IY1JAozICCEQwQUgsCQU+w2fRRgVKLp-L0sst5MtNqi9GFAA.webp"
     },
     {
-      "id": "seattle-mariners-vs-los-angeles-angels-2608262",
-      "title": "Seattle Mariners vs Los Angeles Angels",
-      "sport": "baseball",
-      "competition": "baseball",
+      "id": "kenya-vs-eritrea-2475931",
+      "title": "Kenya vs Eritrea",
+      "sport": "football",
+      "competition": "football",
       "status": "LIVE",
       "teams": {
         "home": {
@@ -171,16 +113,16 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-09-26T02:10:00Z",
+      "matchTimeUTC": "2026-09-26T13:00:00Z",
       "streams": [],
       "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBCtspEDl4gDWEChAxDICCYsHpLJBSwi5jFGFUoe78o2pzP+KzAYO7iYhBAA.webp"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEYgjAJgCwuADmBYBWRPh4xNsBTYMYRMAEzAE59dhTI0BjUFMTxCiyKBZgAhmHITmmZMFmk0fWe0UlcC2cBHBOrdGi00MwGXlAQQcESEQh6F++hDycsZso3jig+iypSB5GRYQA.webp"
     },
     {
-      "id": "san-francisco-giants-vs-los-angeles-dodgers-2608263",
-      "title": "San Francisco Giants vs Los Angeles Dodgers",
-      "sport": "baseball",
-      "competition": "baseball",
+      "id": "south-africa-vs-guinea-2475943",
+      "title": "South Africa vs Guinea",
+      "sport": "football",
+      "competition": "football",
       "status": "LIVE",
       "teams": {
         "home": {
@@ -192,14 +134,14 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-09-26T02:15:00Z",
+      "matchTimeUTC": "2026-09-26T13:00:00Z",
       "streams": [],
       "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCF4gQfcjhKaQWEChAxDEE4a1YWSCrfajxKMKpQ835RtTkf8rMBgbuJiEEA.webp"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEYgjAJgCwuADmBYBWRPh4xNsBTYMYRMAEzAE59dhTI0BjUFMTxCiyKBZgAhmHITmmZMFmk0fWe0UlcC2cBHBOrdGi00MwGXlAQQcESEQh6F++hAR8sZso3jig+iypSB5GRYQA.webp"
     },
     {
-      "id": "california-vs-clemson-2498871",
-      "title": "California vs Clemson",
+      "id": "live-event_college-gameday-live-stream",
+      "title": "College GameDay",
       "sport": "american-football",
       "competition": "american-football",
       "status": "LIVE",
@@ -213,14 +155,22 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-09-26T02:30:00Z",
-      "streams": [],
-      "streamCount": 0,
+      "matchTimeUTC": "2026-09-26T13:00:00Z",
+      "streams": [
+        {
+          "source": "delta",
+          "embedUrl": "https://embed.st/embed/delta/live-event_college-gameday-live-stream/1",
+          "language": "English",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 1,
       "poster": ""
     },
     {
-      "id": "baku-city-circuit-feature-race-2-formula-2-1790406000",
-      "title": "Baku City Circuit — Feature Race 2",
+      "id": "baku-city-circuit-race-azerbaijan-grand-prix-formula-1-1790428544",
+      "title": "Baku City Circuit — Race: Azerbaijan Grand Prix",
       "sport": "motor-sports",
       "competition": "motor-sports",
       "status": "LIVE",
@@ -234,40 +184,11 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-09-26T07:00:00Z",
+      "matchTimeUTC": "2026-09-26T13:15:44Z",
       "streams": [
         {
           "source": "hotel",
-          "embedUrl": "https://embed.st/embed/hotel/baku-city-circuit-feature-race-2-formula-2-1790406000/1",
-          "language": "Main",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 1,
-      "poster": ""
-    },
-    {
-      "id": "cremona-free-practice-3-worldsbk-1790408400",
-      "title": "Cremona — Free Practice 3",
-      "sport": "other",
-      "competition": "other",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-26T07:40:00Z",
-      "streams": [
-        {
-          "source": "hotel",
-          "embedUrl": "https://embed.st/embed/hotel/cremona-free-practice-3-worldsbk-1790408400/1",
+          "embedUrl": "https://embed.st/embed/hotel/baku-city-circuit-race-azerbaijan-grand-prix-formula-1-1790428544/1",
           "language": "Main",
           "hd": true,
           "quality": "HD"
@@ -506,77 +427,6 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IMmUQQQKEInjAqICNlIgliDWqziQWYCpolxwRAGMT+6cOVre5FQKEimqlOULAkuM+6FhuThVhUnoCU3IAg1CIIA.webp"
     },
     {
-      "id": "cremona-superpole-worldsbk-1790414100",
-      "title": "Cremona — Superpole",
-      "sport": "other",
-      "competition": "other",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-26T09:15:00Z",
-      "streams": [
-        {
-          "source": "hotel",
-          "embedUrl": "https://embed.st/embed/hotel/cremona-superpole-worldsbk-1790414100/1",
-          "language": "Main",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 1,
-      "poster": ""
-    },
-    {
-      "id": "perth-wildcats-vs-new-zealand-breakers-2487892",
-      "title": "Perth Wildcats vs New Zealand Breakers",
-      "sport": "basketball",
-      "competition": "basketball",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-26T11:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEBqxg+IGDw0huIHSRCmpIFCAs4clpkgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp"
-    },
-    {
-      "id": "slovenia-vs-scotland-2475288",
-      "title": "Slovenia vs Scotland",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-26T13:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rPmBlhoUhCG4g+IY1JAozICCEQwQUgsCQU+w2fRRgVKLp-L0sst5MtNqi9GFAA.webp"
-    },
-    {
       "id": "cremona-race-1-worldsbk-1790429400",
       "title": "Cremona — Race 1",
       "sport": "other",
@@ -604,6 +454,69 @@
       ],
       "streamCount": 1,
       "poster": ""
+    },
+    {
+      "id": "kidderminster-harriers-vs-yeovil-town-2528274",
+      "title": "Kidderminster Harriers vs Yeovil Town",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-26T14:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCBKSQIbMHjyZ4ySJCIZiLMonrgEYFRVSaWRQGM9IC8On5y+gUJFM5KcoWBJcZt0LDdOfWFSegJ5cn89EIggA.webp"
+    },
+    {
+      "id": "scunthorpe-united-vs-hartlepool-united-2528267",
+      "title": "Scunthorpe United vs Hartlepool United",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-26T14:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJIPphswKSG4g+IEof1mIIRChAgCwJBT7DZ9FGBUou78vSyzPTLTaovQhQA.webp"
+    },
+    {
+      "id": "fleetwood-town-vs-rochdale-2500231",
+      "title": "Fleetwood Town vs Rochdale",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-26T14:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNigaQQMOiG4g+IYzgggpIMzBCISBYEgp9hs+ijArNbD+XpZZmky0YB5iohBAA.webp"
     },
     {
       "id": "bulgaria-vs-luxembourg-2475287",
@@ -690,6 +603,48 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFJCIlIFHRDcQfECc0pdICLgvwCwJBT7DZ9FGBV6278vSyy9TLRg7mKiEEA.webp"
     },
     {
+      "id": "malm--redhawks-vs-fr-lunda-hc-2476515",
+      "title": "Malmö Redhawks vs Frölunda HC",
+      "sport": "hockey",
+      "competition": "hockey",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-26T16:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJmxm8UwJCG4gpIFCAggSxyzj6mCuin2Gz6KMCp1s35ellk6mtGBuYqIQQA.webp"
+    },
+    {
+      "id": "oldham-athletic-vs-salford-city-2500232",
+      "title": "Oldham Athletic vs Salford City",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-26T16:30:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDKRtc7EHxDc9IYzggaQZmCERSCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
+    },
+    {
       "id": "washington-nationals-vs-new-york-mets-2608267",
       "title": "Washington Nationals vs New York Mets",
       "sport": "baseball",
@@ -751,6 +706,27 @@
       "streams": [],
       "streamCount": 0,
       "poster": ""
+    },
+    {
+      "id": "volendam-vs-vvv-venlo-2489843",
+      "title": "Volendam vs VVV-Venlo",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-26T18:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDB6gNYEHpDcQffThyGYuI0YLAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp"
     },
     {
       "id": "live_ncaa-women_saint-thomas-tommies-new-hampshire-wildcats-live-streaming-653406912",
@@ -816,8 +792,8 @@
       "poster": ""
     },
     {
-      "id": "live_uefa-nations-league-league-a-gr-3_czechia-croatia-live-streaming-539401680",
-      "title": "Czechia vs Croatia",
+      "id": "ppv-czechia-vs-croatia",
+      "title": "Czechia vs. Croatia",
       "sport": "football",
       "competition": "football",
       "status": "UPCOMING",
@@ -832,9 +808,24 @@
         }
       },
       "matchTimeUTC": "2026-09-26T18:45:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-czechia-vs-croatia/1",
+          "language": "English - Fubo Sports",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-czechia-vs-croatia/2",
+          "language": "English - Fubo Sports",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MwkFRBYQZRCBAx5EkOMSJJJEIlXB4u-XJm6QKKUtMpgNMhEv8wgkU2z0whYElwBjS0IesIJzJLAn0wB2BAmyA.webp"
     },
     {
       "id": "north-macedonia-vs-switzerland-2475289",
@@ -898,6 +889,27 @@
       "streams": [],
       "streamCount": 0,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rHBBC1EMEFJDcQfECf0oQ5zTtwFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
+    },
+    {
+      "id": "czech-republic-vs-croatia-2442756",
+      "title": "Czech Republic vs Croatia",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-26T18:45:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFJTBIQOkrhDcQfHSCkgU5kBBCIYBgsCQU+w2fRRgVGtp-L0sshpMtGCeYqIQQA.webp"
     },
     {
       "id": "england-vs-spain-2442755",
@@ -1530,7 +1542,7 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBghZY6sAAMYFCF4gsIY1tMQLJkNXsskFLCLmMUYVSh5fyjPTEffFZgMC9xMQggA.webp"
     },
     {
-      "id": "boston-red-sox-vs-chicago-cubs-2608275",
+      "id": "live_mlb_red-sox-cubs-live-streaming-594510192",
       "title": "Boston Red Sox vs Chicago Cubs",
       "sport": "baseball",
       "competition": "baseball",
@@ -1548,7 +1560,7 @@
       "matchTimeUTC": "2026-09-26T23:15:00Z",
       "streams": [],
       "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdmCKbZYsCF4gsIFCBj6QEY+eohpLJBSwi5jFGFUoe78o2pzP+KzAmmKMoUA.webp"
+      "poster": ""
     },
     {
       "id": "philadelphia-phillies-vs-tampa-bay-rays-2608274",
@@ -1816,6 +1828,27 @@
       "streams": [],
       "streamCount": 0,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJD2BgQ8BHRDcQfIwZMkdICLhBSCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
+    },
+    {
+      "id": "fc-dallas-vs-los-angeles-fc-2407103",
+      "title": "FC Dallas vs Los Angeles FC",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-27T00:30:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLJTawQ0kNxB8QMEFIN6QiRCBAKmSCn2Gz6KMCpRc35ehtEemtGBuYqIQQA.webp"
     },
     {
       "id": "san-diego-padres-vs-arizona-diamondbacks-2608276",
@@ -2139,6 +2172,27 @@
       "streams": [],
       "streamCount": 0,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEAJRyeIGVJDddRkiBggT+iLhAKmSCn2Gz6KMCq1s35elllamtGBuYqIQQA.webp"
+    },
+    {
+      "id": "lithuania-vs-azerbaijan-2442759",
+      "title": "Lithuania vs Azerbaijan",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-27T13:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGW1pgQ3EDB0g+IY1JAozICCET6UBYEgp9hs+ijAqUXD+XpZZXkxaHmKiEEA.webp"
     },
     {
       "id": "pumas-unam-vs-atl-tico-de-san-luis-2487539",
