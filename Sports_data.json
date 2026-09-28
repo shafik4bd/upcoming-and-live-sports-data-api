@@ -1,567 +1,10 @@
 {
-  "lastUpdated": "2026-09-28T00:10:50Z",
-  "fetchDuration": "41.4s",
-  "totalMatches": 54,
-  "liveCount": 26,
-  "upcomingCount": 28,
+  "lastUpdated": "2026-09-28T06:10:11Z",
+  "fetchDuration": "37.7s",
+  "totalMatches": 35,
+  "liveCount": 4,
+  "upcomingCount": 31,
   "matches": [
-    {
-      "id": "live-event_nfl-redzone-live-stream",
-      "title": "NFL Redzone",
-      "sport": "american-football",
-      "competition": "american-football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-27T17:00:00Z",
-      "streams": [
-        {
-          "source": "delta",
-          "embedUrl": "https://embed.st/embed/delta/live-event_nfl-redzone-live-stream/1",
-          "language": "English",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "delta",
-          "embedUrl": "https://embed.st/embed/delta/live-event_nfl-redzone-live-stream/2",
-          "language": "English",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "delta",
-          "embedUrl": "https://embed.st/embed/delta/live-event_nfl-redzone-live-stream/3",
-          "language": "English",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "delta",
-          "embedUrl": "https://embed.st/embed/delta/live-event_nfl-redzone-live-stream/4",
-          "language": "English",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "delta",
-          "embedUrl": "https://embed.st/embed/delta/live-event_nfl-redzone-live-stream/5",
-          "language": "English",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "delta",
-          "embedUrl": "https://embed.st/embed/delta/live-event_nfl-redzone-live-stream/6",
-          "language": "English",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 6,
-      "poster": ""
-    },
-    {
-      "id": "redzone-week-3-nfl-1790528400",
-      "title": "Redzone - Week 3",
-      "sport": "american-football",
-      "competition": "american-football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-27T17:00:00Z",
-      "streams": [
-        {
-          "source": "hotel",
-          "embedUrl": "https://embed.st/embed/hotel/redzone-week-3-nfl-1790528400/1",
-          "language": "Main",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 1,
-      "poster": ""
-    },
-    {
-      "id": "washington-nationals-vs-new-york-mets-2608280",
-      "title": "Washington Nationals vs New York Mets",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-27T17:05:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMLjlgkIaSG4g+IFCBj6QEY+cQwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "boston-red-sox-vs-chicago-cubs-2608275",
-      "title": "Boston Red Sox vs Chicago Cubs",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-27T19:05:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMEQ0zRYENxB8QKEDD0gIRszikFgSCn2Gz6KMCpRc35ellkemtBqi9MFAA.webp"
-    },
-    {
-      "id": "san-francisco-giants-vs-los-angeles-dodgers-2608279",
-      "title": "San Francisco Giants vs Los Angeles Dodgers",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-27T19:05:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEKJnwKIZiG4g+IFCBj6QEY+ZwoCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "philadelphia-phillies-vs-tampa-bay-rays-2608281",
-      "title": "Philadelphia Phillies vs Tampa Bay Rays",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-27T19:05:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEP1hhRZJCG4g+IFCBj6QEY+cQSmSCn2Gz6KbWxRdt5ellkemtGBu9KIQQA.webp"
-    },
-    {
-      "id": "athletics-vs-houston-astros-2608283",
-      "title": "Athletics vs Houston Astros",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-27T19:05:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VPiFpZQIGWBDcQGlCBgGQEECcOJ4BYEgp9hs+ijAqUXD+XrbRXky0YB5iohBAA.webp"
-    },
-    {
-      "id": "toronto-blue-jays-vs-cincinnati-reds-2608284",
-      "title": "Toronto Blue Jays vs Cincinnati Reds",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-27T19:07:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEBrgweIbTm4g+IFLpAGIxsyETwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "chicago-white-sox-vs-colorado-rockies-2608285",
-      "title": "Chicago White Sox vs Colorado Rockies",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-27T19:10:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rUChBSQKTpu4g+OkDBAGIxg4gVMkFPsNn0UYFbravy9LLN1NaYK5iohBAA.webp"
-    },
-    {
-      "id": "detroit-tigers-vs-pittsburgh-pirates-2608286",
-      "title": "Detroit Tigers vs Pittsburgh Pirates",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-27T19:10:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEPAQgpIFFpghuIPrpAGjEU0cQkCwJBT7DZ9PSpRcwZTfSyyPTLRgXmKiEEA.webp"
-    },
-    {
-      "id": "kansas-city-royals-vs-cleveland-guardians-2608287",
-      "title": "Kansas City Royals vs Cleveland Guardians",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-27T19:10:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFMClgksML3whuIPiBQgYhkBFOXEUgsB0x+w2fRRgVGtp-L0sshpMtGCeYqIQQA.webp"
-    },
-    {
-      "id": "miami-marlins-vs-atlanta-braves-2608288",
-      "title": "Miami Marlins vs Atlanta Braves",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-27T19:10:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbuT5huIHXpB8QKEDF0gIRs4j4FgSCjdYixKMCpRc35ellkemtGBuYqIQQA.webp"
-    },
-    {
-      "id": "milwaukee-brewers-vs-st--louis-cardinals-2608289",
-      "title": "Milwaukee Brewers vs St. Louis Cardinals",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-27T19:10:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNqyTApYFGD4huIAyhAxDICCFNHEfAsCQV762fT0qUXMGXhEssl5MtGA+YqIQQA.webp"
-    },
-    {
-      "id": "minnesota-twins-vs-texas-rangers-2608290",
-      "title": "Minnesota Twins vs Texas Rangers",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-27T19:10:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VenwTAkIeNhDcQfEChAwDICCYuITTJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "san-diego-padres-vs-arizona-diamondbacks-2608291",
-      "title": "San Diego Padres vs Arizona Diamondbacks",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-27T19:10:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rHCmiayIENxB8QKEDD0gIRs4hQFgSCn2Gz62tii5gy8IllnumtGCeYqIQQA.webp"
-    },
-    {
-      "id": "seattle-mariners-vs-los-angeles-angels-2608292",
-      "title": "Seattle Mariners vs Los Angeles Angels",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-27T19:10:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWkn7Ap1RNxB8QKEDBD6IRsyAswCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "kansas-speedway-the-chase-race-hollywood-casino-400-nascar-cup-series-1790536200",
-      "title": "Kansas Speedway — The Chase - Race: Hollywood Casino 400",
-      "sport": "motor-sports",
-      "competition": "motor-sports",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-27T19:10:00Z",
-      "streams": [
-        {
-          "source": "hotel",
-          "embedUrl": "https://embed.st/embed/hotel/kansas-speedway-the-chase-race-hollywood-casino-400-nascar-cup-series-1790536200/1",
-          "language": "Main",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "hotel",
-          "embedUrl": "https://embed.st/embed/hotel/kansas-speedway-the-chase-race-hollywood-casino-400-nascar-cup-series-1790536200/2",
-          "language": "International",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": ""
-    },
-    {
-      "id": "live-event_2026-nascar-cup-series-playoff-at-kansas-live-stream",
-      "title": "2026 NASCAR Cup Series Playoff at Kansas",
-      "sport": "motor-sports",
-      "competition": "motor-sports",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-27T20:00:00Z",
-      "streams": [
-        {
-          "source": "delta",
-          "embedUrl": "https://embed.st/embed/delta/live-event_2026-nascar-cup-series-playoff-at-kansas-live-stream/1",
-          "language": "English",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 1,
-      "poster": ""
-    },
-    {
-      "id": "san-francisco-49ers-vs-arizona-cardinals-2475416",
-      "title": "San Francisco 49ers vs Arizona Cardinals",
-      "sport": "american-football",
-      "competition": "american-football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-27T20:05:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLP2BgQU3JRDcQfECYhGQJECnO6JTJBT7DZ9FGBUou78vQ2jPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "tampa-bay-buccaneers-vs-minnesota-vikings-2475417",
-      "title": "Tampa Bay Buccaneers vs Minnesota Vikings",
-      "sport": "american-football",
-      "competition": "american-football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-27T20:05:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rekn5hwA0NxB8QRiAZAkQKU1JDwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "dallas-cowboys-vs-baltimore-ravens-2475418",
-      "title": "Dallas Cowboys vs Baltimore Ravens",
-      "sport": "american-football",
-      "competition": "american-football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-27T20:25:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rfCHq8yIEIm4g+uzYZAkQKU1LMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
-    },
-    {
-      "id": "new-orleans-saints-vs-las-vegas-raiders-2475419",
-      "title": "New Orleans Saints vs Las Vegas Raiders",
-      "sport": "american-football",
-      "competition": "american-football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-27T20:25:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VXlgbAwwJGxDcQfECYhGQJECnNSQUgrop9hs+ijAqUXD+XqbRXky0YB5iohBAA.webp"
-    },
-    {
-      "id": "ppv-event-05-high-limit-racing-kokomo-ppv-05",
-      "title": "High Limit Racing Kokomo",
-      "sport": "motor-sports",
-      "competition": "motor-sports",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-27T22:45:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBEBOEBjAkFaeYMgVmnHHjHxQvODGDTAFMtgATMHNsCoRGQ4B0joQPYrMIdpWEAEMQEcdwXEqMMQ2AHOCSMAFcUYsmE6asQA.webp"
-    },
     {
       "id": "columbus-crew-vs-inter-miami-2407112",
       "title": "Columbus Crew vs Inter Miami",
@@ -584,44 +27,8 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rdWBS4QtbiD18QMEFJCG9iCEZ0FgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
     },
     {
-      "id": "ppv-washington-mystics-vs-atlanta-dream",
-      "title": "Washington Mystics vs. Atlanta Dream",
-      "sport": "basketball",
-      "competition": "basketball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-27T23:00:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-washington-mystics-vs-atlanta-dream/1",
-          "language": "English - Prime Video",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-washington-mystics-vs-atlanta-dream/2",
-          "language": "English - Prime Video",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IceIDGweNmAQQMEFWXYQJZSEQoQCrJpUr9KYDQUrxGmDNLj58k-zCCRTOY8LAkuSSaHPWCFcyEwIbMGd7MgggA.webp"
-    },
-    {
-      "id": "road-to-the-dome-at-coles-county-speedway",
-      "title": "Road to The Dome at Coles County Speedway",
+      "id": "ppv-event-06-road-to-the-dome-coles-ppv-06",
+      "title": "Road to The Dome Coles",
       "sport": "motor-sports",
       "competition": "motor-sports",
       "status": "LIVE",
@@ -635,18 +42,67 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-09-27T23:00:00Z",
+      "matchTimeUTC": "2026-09-28T00:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBEBOEBjAkFaeYMgVmnHHjHxQvODGDTAFMtgATMHNsCoRGQ4B0joQPYAENgeWSA7SQapTJ64QSlI1hiGwY5wSQF44CjFkwnblwhA.webp"
+    },
+    {
+      "id": "denver-broncos-vs-los-angeles-rams-2475420",
+      "title": "Denver Broncos vs Los Angeles Rams",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-28T00:20:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJMAAMc6ilAhuIPiBMQjIEiBTmpJgsCQU+w2fRRgVeth-L0ssvSZaMA8xUQggA.webp"
+    },
+    {
+      "id": "ppv-dallas-wings-vs-golden-state-valkyries",
+      "title": "Dallas Wings vs. Golden State Valkyries",
+      "sport": "basketball",
+      "competition": "basketball",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-28T01:00:00Z",
       "streams": [
         {
-          "source": "foxtrot",
-          "embedUrl": "https://embed.st/embed/foxtrot/road-to-the-dome-at-coles-county-speedway/1",
-          "language": "Floracing",
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-dallas-wings-vs-golden-state-valkyries/1",
+          "language": "English - USA Net",
           "hd": true,
           "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-dallas-wings-vs-golden-state-valkyries/2",
+          "language": "English - USA Net",
+          "hd": false,
+          "quality": "SD"
         }
       ],
-      "streamCount": 1,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBEBOEBjAkFaeYMgVmnHHjHxQvODGDTAFMtgATMHNsCoRGQ4B0joQPYAENgeWSA7SQapTJ64QSlI1hiGwY5wSQF44CjFkwnblwhA.webp"
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MJEDBABjaSDLjJKYBBBYQ6lHNUjtVacHgjSEg8D0yVEZavXrSS-mEFGC2emELAkuKUqFPWK2FSeldDMCdlEIggA.webp"
     },
     {
       "id": "nflstreams_live",
@@ -935,84 +391,6 @@
       "poster": ""
     },
     {
-      "id": "le-n-vs-ju-rez-2487540",
-      "title": "León vs Juárez",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-28T01:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rUPDAywPfiG4g+IYxBCmYIEiAtT9BYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp"
-    },
-    {
-      "id": "ppv-dallas-wings-vs-golden-state-valkyries",
-      "title": "Dallas Wings vs. Golden State Valkyries",
-      "sport": "basketball",
-      "competition": "basketball",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-28T01:00:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-dallas-wings-vs-golden-state-valkyries/1",
-          "language": "English - USA Net",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-dallas-wings-vs-golden-state-valkyries/2",
-          "language": "English - USA Net",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MJEDBABjaSDLjJKYBBBYQ6lHNUjtVacHgjSEg8D0yVEZavXrSS-mEFGC2emELAkuKUqFPWK2FSeldDMCdlEIggA.webp"
-    },
-    {
-      "id": "necaxa-vs-am-rica-2487541",
-      "title": "Necaxa vs América",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-28T03:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rQljBSQIfsxDcQfHSAimQMECQshtEpkgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp"
-    },
-    {
       "id": "latvia-vs-cyprus-2475291",
       "title": "Latvia vs Cyprus",
       "sport": "football",
@@ -1244,6 +622,27 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rECFEkNIKbpDcQffTBAoQp09sMoCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
     },
     {
+      "id": "live_wnba-playoffs_fever-aces-live-streaming-663976224",
+      "title": "Indiana Fever vs Las Vegas Aces",
+      "sport": "basketball",
+      "competition": "basketball",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-29T22:30:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
       "id": "toronto-maple-leafs-vs-montreal-canadiens-2591486",
       "title": "Toronto Maple Leafs vs Montreal Canadiens",
       "sport": "hockey",
@@ -1281,6 +680,27 @@
         }
       },
       "matchTimeUTC": "2026-09-30T00:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "live_wnba-playoffs_liberty-lynx-live-streaming-663976656",
+      "title": "New York Liberty vs Minnesota Lynx",
+      "sport": "basketball",
+      "competition": "basketball",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-30T00:30:00Z",
       "streams": [],
       "streamCount": 0,
       "poster": ""
@@ -1328,6 +748,114 @@
       "poster": ""
     },
     {
+      "id": "1825",
+      "title": "New York Yankees - Boston Red Sox",
+      "sport": "baseball",
+      "competition": "baseball",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-30T18:00:00Z",
+      "streams": [
+        {
+          "source": "golf",
+          "embedUrl": "https://embed.st/embed/golf/1825/1",
+          "language": "English",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "golf",
+          "embedUrl": "https://embed.st/embed/golf/1825/2",
+          "language": "English",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": ""
+    },
+    {
+      "id": "ppv-red-bull-new-york-vs-st-louis-city-sc",
+      "title": "Red Bull New York vs. St. Louis CITY SC",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-30T23:30:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-red-bull-new-york-vs-st-louis-city-sc/1",
+          "language": "English - Apple TV",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-red-bull-new-york-vs-st-louis-city-sc/2",
+          "language": "English - Apple TV",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IeNhBZgESWVmyqIEDJBLlNYeLXLJiGLsQqtw0iAPTZZUeVkChIptnphCwJLgDGKB2G6dZUzIfAmAJMD8ZUhkgA.webp"
+    },
+    {
+      "id": "ppv-seattle-sounders-fc-vs-sporting-kansas-city",
+      "title": "Seattle Sounders FC vs. Sporting Kansas City",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-10-02T01:30:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-seattle-sounders-fc-vs-sporting-kansas-city/1",
+          "language": "English - Apple TV",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-seattle-sounders-fc-vs-sporting-kansas-city/2",
+          "language": "English - Apple TV",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCPFThIGKXEjg8YBBUgSIAMYgU2YDSohVMlOpDnhakPMuIyMqrv5hBignqeFgSXJt1CXVmNSendlMBcVEIggA.webp"
+    },
+    {
       "id": "1811",
       "title": "Toronto Raptors - Miami Heat",
       "sport": "basketball",
@@ -1362,6 +890,42 @@
       ],
       "streamCount": 2,
       "poster": ""
+    },
+    {
+      "id": "ppv-roosters-vs-knights",
+      "title": "Roosters vs. Knights",
+      "sport": "rugby",
+      "competition": "rugby",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-10-04T08:30:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-roosters-vs-knights/1",
+          "language": "English - Fox League",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-roosters-vs-knights/2",
+          "language": "English - Fox League",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGlhCJhIWfGwhJAY2A0JICCBirg8kuNKKQKcSBUzNm88E17VKchFBhBIptnphCwJLiUOhF1YnYVJ6Al1yFxswiCA.webp"
     },
     {
       "id": "1813",
