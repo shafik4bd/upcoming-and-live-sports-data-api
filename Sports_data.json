@@ -1,109 +1,10 @@
 {
-  "lastUpdated": "2026-09-28T06:10:11Z",
-  "fetchDuration": "37.7s",
-  "totalMatches": 35,
-  "liveCount": 4,
+  "lastUpdated": "2026-09-28T14:47:08Z",
+  "fetchDuration": "39.2s",
+  "totalMatches": 31,
+  "liveCount": 0,
   "upcomingCount": 31,
   "matches": [
-    {
-      "id": "columbus-crew-vs-inter-miami-2407112",
-      "title": "Columbus Crew vs Inter Miami",
-      "sport": "football",
-      "competition": "football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-27T23:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rdWBS4QtbiD18QMEFJCG9iCEZ0FgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
-    },
-    {
-      "id": "ppv-event-06-road-to-the-dome-coles-ppv-06",
-      "title": "Road to The Dome Coles",
-      "sport": "motor-sports",
-      "competition": "motor-sports",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-28T00:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBEBOEBjAkFaeYMgVmnHHjHxQvODGDTAFMtgATMHNsCoRGQ4B0joQPYAENgeWSA7SQapTJ64QSlI1hiGwY5wSQF44CjFkwnblwhA.webp"
-    },
-    {
-      "id": "denver-broncos-vs-los-angeles-rams-2475420",
-      "title": "Denver Broncos vs Los Angeles Rams",
-      "sport": "american-football",
-      "competition": "american-football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-28T00:20:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJMAAMc6ilAhuIPiBMQjIEiBTmpJgsCQU+w2fRRgVeth-L0ssvSZaMA8xUQggA.webp"
-    },
-    {
-      "id": "ppv-dallas-wings-vs-golden-state-valkyries",
-      "title": "Dallas Wings vs. Golden State Valkyries",
-      "sport": "basketball",
-      "competition": "basketball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-28T01:00:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-dallas-wings-vs-golden-state-valkyries/1",
-          "language": "English - USA Net",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-dallas-wings-vs-golden-state-valkyries/2",
-          "language": "English - USA Net",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MJEDBABjaSDLjJKYBBBYQ6lHNUjtVacHgjSEg8D0yVEZavXrSS-mEFGC2emELAkuKUqFPWK2FSeldDMCdlEIggA.webp"
-    },
     {
       "id": "nflstreams_live",
       "title": "NFL Streams Schedule",
@@ -454,8 +355,8 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNkjC9W2kNxB8QRqSBSmQEEIhwSmmmP2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
     },
     {
-      "id": "turkiye-vs-italy-football-1528905",
-      "title": "Türkiye vs Italy",
+      "id": "ppv-t-rkiye-vs-italy",
+      "title": "Türkiye vs. Italy",
       "sport": "football",
       "competition": "football",
       "status": "UPCOMING",
@@ -470,9 +371,24 @@
         }
       },
       "matchTimeUTC": "2026-09-28T18:45:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-t-rkiye-vs-italy/1",
+          "language": "English - Fubo PPV",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-t-rkiye-vs-italy/2",
+          "language": "English - Fubo PPV",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MiLCBTB4wKiDnCQMrNNmkQAY0kgSICCEWKyNMohibSIqwpAhZILFP5hBVgtnphCwJLg1ShF1YIKzIpdxkwF2AQsgggA.webp"
     },
     {
       "id": "romania-vs-bosnia-herzegovina-2442772",
@@ -580,7 +496,7 @@
       "poster": ""
     },
     {
-      "id": "new-york-yankees-vs-boston-red-sox-2610466",
+      "id": "live_mlb-playoffs_yankees-red-sox-live-streaming-662160528",
       "title": "New York Yankees vs Boston Red Sox",
       "sport": "baseball",
       "competition": "baseball",
@@ -595,10 +511,10 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-09-29T20:00:00Z",
+      "matchTimeUTC": "2026-09-29T09:00:00Z",
       "streams": [],
       "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFGBAg49QjBDcQfLUZAoQU04YhGCwJBT7DZ9DSpRcwZeESyyPTLRgXmKiEEA.webp"
+      "poster": ""
     },
     {
       "id": "carolina-hurricanes-vs-florida-panthers-2591485",
@@ -622,7 +538,7 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rECFEkNIKbpDcQffTBAoQp09sMoCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
     },
     {
-      "id": "live_wnba-playoffs_fever-aces-live-streaming-663976224",
+      "id": "indiana-fever-vs-las-vegas-aces-2610972",
       "title": "Indiana Fever vs Las Vegas Aces",
       "sport": "basketball",
       "competition": "basketball",
@@ -640,7 +556,7 @@
       "matchTimeUTC": "2026-09-29T22:30:00Z",
       "streams": [],
       "streamCount": 0,
-      "poster": ""
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJBT4hlckNxBaS2gyESIYIC1ILANMfsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp"
     },
     {
       "id": "toronto-maple-leafs-vs-montreal-canadiens-2591486",
