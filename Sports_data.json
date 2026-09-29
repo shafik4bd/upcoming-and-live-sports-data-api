@@ -1,52 +1,10 @@
 {
-  "lastUpdated": "2026-09-29T06:27:51Z",
-  "fetchDuration": "40.4s",
-  "totalMatches": 47,
-  "liveCount": 2,
-  "upcomingCount": 45,
+  "lastUpdated": "2026-09-29T13:36:42Z",
+  "fetchDuration": "45.8s",
+  "totalMatches": 48,
+  "liveCount": 0,
+  "upcomingCount": 48,
   "matches": [
-    {
-      "id": "chicago-bears-vs-philadelphia-eagles-2475421",
-      "title": "Chicago Bears vs Philadelphia Eagles",
-      "sport": "american-football",
-      "competition": "american-football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-29T00:15:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rPtBggtEEFJDcQfECd3GSIFEb2WCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "ppv-event-01-wwe-monday-night-raw-ppv-01",
-      "title": "WWE Monday Night RAW 💥",
-      "sport": "fight",
-      "competition": "fight",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-09-29T01:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
-    },
     {
       "id": "nflstreams_live",
       "title": "NFL Streams Schedule",
@@ -376,6 +334,27 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAxy6IGMBncQBviBNSQKcyAghEiFAWBIKfYbPoowKlF0-l6WWW8mWjBPMVEIIA.webp"
     },
     {
+      "id": "bryn-s-if-vs-timr--ik-2476517",
+      "title": "Brynäs IF vs Timrå IK",
+      "sport": "hockey",
+      "competition": "hockey",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-29T17:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VAaxRgQILYm4gphkIgggDZszglMkFPsNn0tKlFzBl4RLLLdNaYB5iohBAA.webp"
+    },
+    {
       "id": "atlanta-braves-vs-philadelphia-phillies-2610869",
       "title": "Atlanta Braves vs Philadelphia Phillies",
       "sport": "baseball",
@@ -397,8 +376,8 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCGqsQ9etRDSQvEFhAoQMECRA3L5-WfzAkFLCLmMUYVSh7fyjFpivk70YN7iYhBAA.webp"
     },
     {
-      "id": "live_uefa-nations-league-league-a-gr-3_czechia-england-live-streaming-539463456",
-      "title": "Czechia vs England",
+      "id": "ppv-czechia-vs-england",
+      "title": "Czechia vs. England",
       "sport": "football",
       "competition": "football",
       "status": "UPCOMING",
@@ -413,9 +392,24 @@
         }
       },
       "matchTimeUTC": "2026-09-29T18:45:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-czechia-vs-england/1",
+          "language": "English - DAZN",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-czechia-vs-england/2",
+          "language": "English - DAZN",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IECJDDxweMAjAqILCCUBjSSvHDZIFCDVSD849KU6SR8es16U5BQKEim2emELAkuNfaFhuTgULegJZcgD5UnkgA.webp"
     },
     {
       "id": "scotland-vs-switzerland-2475294",
@@ -649,6 +643,27 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAzAZKOTxAwQ3EHxBT9ICyhBWrJxsCQU+w2fRRgVOth-L0ssnSZaMA8xUQggA.webp"
     },
     {
+      "id": "usa-vs-chile-2578512",
+      "title": "USA vs Chile",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-30T00:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKPRlZBJENxB8QRqSBRHTBkLsbAkFPsNn0UYFSi6vy9baPdNaYK5iohBAA.webp"
+    },
+    {
       "id": "new-york-yankees-vs-boston-red-sox-2610466",
       "title": "New York Yankees vs Boston Red Sox",
       "sport": "baseball",
@@ -710,6 +725,27 @@
       "streams": [],
       "streamCount": 0,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEN3JZOIjSCkgSelCBMgQEPRKZIKfYbPoowKlFxfl620W6a0wLmKiEEA.webp"
+    },
+    {
+      "id": "mexico-vs-peru-2578511",
+      "title": "Mexico vs Peru",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-09-30T01:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFJDwwSYEmw8Q3EHxBnNKMyEumSIGAT0U+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp"
     },
     {
       "id": "san-diego-padres-vs-chicago-cubs-2610871",
