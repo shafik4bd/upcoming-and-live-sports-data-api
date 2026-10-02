@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-10-02T13:25:02Z",
-  "fetchDuration": "84.2s",
+  "lastUpdated": "2026-10-02T18:51:27Z",
+  "fetchDuration": "85.2s",
   "totalMatches": 89,
-  "liveCount": 3,
-  "upcomingCount": 86,
+  "liveCount": 5,
+  "upcomingCount": 84,
   "matches": [
     {
-      "id": "perth-wildcats-vs-south-east-melbourne-phoenix-2487899",
-      "title": "Perth Wildcats vs South East Melbourne Phoenix",
-      "sport": "basketball",
-      "competition": "basketball",
+      "id": "pfl-mena-11-riyadh-2612646",
+      "title": "PFL MENA 11 Riyadh",
+      "sport": "fight",
+      "competition": "fight",
       "status": "LIVE",
       "teams": {
         "home": {
@@ -21,16 +21,16 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-10-02T11:30:00Z",
+      "matchTimeUTC": "2026-10-02T14:00:00Z",
       "streams": [],
       "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbiBIgpFMLhAa+m41JAptIRKYlMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCFq0y1PmBIheILCBQgYpkBEtGzzfMCQUsIuYxT6OKHvvKNdYt4O9GCejGIQQA.webp"
     },
     {
-      "id": "rally-italia-sardegna-ss5-tula-erula-2-world-rally-championship-1790944260",
-      "title": "Rally Italia Sardegna — SS5 - Tula - Erula 2",
-      "sport": "motor-sports",
-      "competition": "motor-sports",
+      "id": "live_ncaa-women_vermont-catamounts-minnesota-duluth-bulldogs-live-streaming-653675184",
+      "title": "Vermont Catamounts vs Minnesota Duluth Bulldogs",
+      "sport": "hockey",
+      "competition": "hockey",
       "status": "LIVE",
       "teams": {
         "home": {
@@ -42,11 +42,89 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-10-02T12:31:00Z",
+      "matchTimeUTC": "2026-10-02T15:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "ppv-event-02-pfl-mena-11-neda-v-saidy-ppv-02",
+      "title": "PFL Mena 11 Neda v Saidy 🔥",
+      "sport": "fight",
+      "competition": "fight",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-10-02T15:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
+    },
+    {
+      "id": "ppv-2026-world-grand-prix-day-5",
+      "title": "2026 World Grand Prix | Day 5",
+      "sport": "darts",
+      "competition": "darts",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-10-02T18:00:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-2026-world-grand-prix-day-5/1",
+          "language": "English - Sky Sports+",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-2026-world-grand-prix-day-5/2",
+          "language": "English - Sky Sports+",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICCADGwCSClTg8UopBYQZRDRJydErNhAxgW1euPiQwy9asaU5CKDCCRTbPTCFgSXJPtDnVkdhZXsCRXJnGWUIIA.webp"
+    },
+    {
+      "id": "road-atlanta-qualifying-imsa-weathertech-sportscar-championship-1790965200",
+      "title": "Road Atlanta — Qualifying",
+      "sport": "other",
+      "competition": "other",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-10-02T18:20:00Z",
       "streams": [
         {
           "source": "hotel",
-          "embedUrl": "https://embed.st/embed/hotel/rally-italia-sardegna-ss5-tula-erula-2-world-rally-championship-1790944260/1",
+          "embedUrl": "https://embed.st/embed/hotel/road-atlanta-qualifying-imsa-weathertech-sportscar-championship-1790965200/1",
           "language": "Main",
           "hd": true,
           "quality": "HD"
@@ -54,35 +132,6 @@
       ],
       "streamCount": 1,
       "poster": ""
-    },
-    {
-      "id": "motoplayground-race-ama-amateur-national-motocross-championship",
-      "title": "MotoPlayGround Race at Ponca City",
-      "sport": "motor-sports",
-      "competition": "motor-sports",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-02T13:00:00Z",
-      "streams": [
-        {
-          "source": "foxtrot",
-          "embedUrl": "https://embed.st/embed/foxtrot/motoplayground-race-ama-amateur-national-motocross-championship/1",
-          "language": "Floracing",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 1,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBEBOEBjAkFaeYMgVmnHHjHxQvODGDTAFMtgATMHNsCoRGQ4B0joQPYAENpvAsDz5FMEPJAbejWGIbBDnBJGXjgKMWTCduXCEA.webp"
     },
     {
       "id": "nflstreams_live",
@@ -371,140 +420,6 @@
       "poster": ""
     },
     {
-      "id": "atlanta-braves-vs-philadelphia-phillies-2611746",
-      "title": "Atlanta Braves vs Philadelphia Phillies",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-02T00:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBTz5IHFF4gDWTSBggSIS2ZQhEk-MCQUsIuYxRhVWjp-KNqcloO9GCe4mIQQA.webp"
-    },
-    {
-      "id": "kazakhstan-vs-moldova-2442787",
-      "title": "Kazakhstan vs Moldova",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-02T14:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJgAZcPEHBAhuIPvpBSQKcyAghEZiUyQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp"
-    },
-    {
-      "id": "live_ncaa-women_vermont-catamounts-minnesota-duluth-bulldogs-live-streaming-653675184",
-      "title": "Vermont Catamounts vs Minnesota Duluth Bulldogs",
-      "sport": "hockey",
-      "competition": "hockey",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-02T15:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
-    },
-    {
-      "id": "latvia-vs-montenegro-2475296",
-      "title": "Latvia vs Montenegro",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-02T16:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLGG4h6opPxBa+IY1JAoz2kIiNSCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "cyprus-vs-armenia-2442794",
-      "title": "Cyprus vs Armenia",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-02T16:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rUWlwgY-SiG4g+IY1JAozICCERHGwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "road-atlanta-qualifying-imsa-weathertech-sportscar-championship-1790965200",
-      "title": "Road Atlanta — Qualifying",
-      "sport": "other",
-      "competition": "other",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-02T18:20:00Z",
-      "streams": [
-        {
-          "source": "hotel",
-          "embedUrl": "https://embed.st/embed/hotel/road-atlanta-qualifying-imsa-weathertech-sportscar-championship-1790965200/1",
-          "language": "Main",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 1,
-      "poster": ""
-    },
-    {
       "id": "ppv-belgium-vs-t-rkiye",
       "title": "Belgium vs. Türkiye",
       "sport": "football",
@@ -525,14 +440,14 @@
         {
           "source": "admin",
           "embedUrl": "https://embed.st/embed/admin/ppv-belgium-vs-t-rkiye/1",
-          "language": "English - UEFA Nations League",
+          "language": "English - DAZN",
           "hd": true,
           "quality": "HD"
         },
         {
           "source": "admin",
           "embedUrl": "https://embed.st/embed/admin/ppv-belgium-vs-t-rkiye/2",
-          "language": "English - UEFA Nations League",
+          "language": "English - DAZN",
           "hd": false,
           "quality": "SD"
         }
@@ -1484,6 +1399,90 @@
       "streams": [],
       "streamCount": 0,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLHOacUbENxB8QRqSBSmQEEIkN8CwJBVusRYlGBU6278vQ2idTLRg7mKiEEA.webp"
+    },
+    {
+      "id": "estonia-vs-luxembourg-2475297",
+      "title": "Estonia vs Luxembourg",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-10-03T16:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLGG4gofSCBggtfECakgU57SEQn4BYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp"
+    },
+    {
+      "id": "iceland-vs-bulgaria-2442799",
+      "title": "Iceland vs Bulgaria",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-10-03T16:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rekxm8kwJCG4g+IY1JAozICCETGJTJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
+    },
+    {
+      "id": "belarus-vs-san-marino-2442798",
+      "title": "Belarus vs San Marino",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-10-03T16:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VWvhACADKRAoQ3LSBNT95iCEQmYBYEgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp"
+    },
+    {
+      "id": "croatia-vs-england-2442797",
+      "title": "Croatia vs England",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-10-03T16:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEiCkhwMEChCJuIPts17zEA8b0FgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
     },
     {
       "id": "cleveland-guardians-vs-chicago-white-sox-2611747",
