@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-10-11T06:41:41Z",
-  "fetchDuration": "63.4s",
-  "totalMatches": 88,
-  "liveCount": 11,
-  "upcomingCount": 77,
+  "lastUpdated": "2026-10-11T13:41:42Z",
+  "fetchDuration": "67.3s",
+  "totalMatches": 77,
+  "liveCount": 14,
+  "upcomingCount": 63,
   "matches": [
     {
-      "id": "ppv-supercars-championship-bathurst-1000",
-      "title": "Supercars Championship: Bathurst 1000",
-      "sport": "motor-sports",
-      "competition": "motor-sports",
+      "id": "houston-rockets-vs-dallas-mavericks-2548859",
+      "title": "Houston Rockets vs Dallas Mavericks",
+      "sport": "basketball",
+      "competition": "basketball",
       "status": "LIVE",
       "teams": {
         "home": {
@@ -21,45 +21,16 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-10-10T23:00:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-supercars-championship-bathurst-1000/1",
-          "language": "English - Fox Sports 506",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-supercars-championship-bathurst-1000/2",
-          "language": "English - Fox Sports 506",
-          "hd": false,
-          "quality": "SD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-supercars-championship-bathurst-1000/3",
-          "language": "English - Sky Sport 1",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-supercars-championship-bathurst-1000/4",
-          "language": "English - Sky Sport 1",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 4,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCEQSAxtlIgFC4dhAoQwkFVUqaJBcC3wD2jRLVLx8mCGtUU5CKDCCRTOfbCFgSXNPtDnVkdlMnsCYCMwZ2BHMgggA.webp"
+      "matchTimeUTC": "2026-10-11T10:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKmSgCySENxB8QJEClwhEEPWYVMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp"
     },
     {
-      "id": "2185",
-      "title": "UFC Fight Night 290 Allen - Duncan",
-      "sport": "fight",
-      "competition": "fight",
+      "id": "ppv-swiss-darts-trophy-day-3-afternoon-session",
+      "title": "Swiss Darts Trophy | Day 3 - Afternoon Session",
+      "sport": "darts",
+      "competition": "darts",
       "status": "LIVE",
       "teams": {
         "home": {
@@ -71,50 +42,29 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-10-10T23:00:00Z",
+      "matchTimeUTC": "2026-10-11T11:00:00Z",
       "streams": [
         {
-          "source": "golf",
-          "embedUrl": "https://embed.st/embed/golf/2185/1",
-          "language": "English",
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-swiss-darts-trophy-day-3-afternoon-session/1",
+          "language": "English - PDC.TV",
           "hd": true,
           "quality": "HD"
         },
         {
-          "source": "golf",
-          "embedUrl": "https://embed.st/embed/golf/2185/2",
-          "language": "English",
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-swiss-darts-trophy-day-3-afternoon-session/2",
+          "language": "English - PDC.TV",
           "hd": false,
           "quality": "SD"
         }
       ],
       "streamCount": 2,
-      "poster": ""
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MNRChBksIAMYhhIJfJkxgEEDBARsISUqWTFE4PGA1hpuaStLEJFOR0ChIptnphCwJLlmOhMG5OHUsyRwJTciD1GwggA.webp"
     },
     {
-      "id": "georgia-southern-vs-james-madison-2498994",
-      "title": "Georgia Southern vs James Madison",
-      "sport": "american-football",
-      "competition": "american-football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-11T00:10:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8reGBAh6UsHxAkQ3EFJAoQiGNtxGTZgsCQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp"
-    },
-    {
-      "id": "repco-bathurst-1000-race-30-2419071",
-      "title": "Repco Bathurst 1000 Race 30",
+      "id": "singapore-grand-prix-2408196",
+      "title": "Singapore Grand Prix",
       "sport": "motor-sports",
       "competition": "motor-sports",
       "status": "LIVE",
@@ -128,16 +78,16 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-10-11T00:30:00Z",
+      "matchTimeUTC": "2026-10-11T12:00:00Z",
       "streams": [],
       "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rPmBQgYskCETcQfEFL0nzxmPu0FgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8reGAF8QMHmxDcQ2kEZARcZkCSu4CwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
     },
     {
-      "id": "ppv-event-07-schofield-v-bahdi-ppv-07",
-      "title": "Schofield v Bahdi",
-      "sport": "fight",
-      "competition": "fight",
+      "id": "hammarby-vs-djurg-rden-2398932",
+      "title": "Hammarby vs Djurgården",
+      "sport": "football",
+      "competition": "football",
       "status": "LIVE",
       "teams": {
         "home": {
@@ -149,16 +99,16 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-10-11T01:00:00Z",
+      "matchTimeUTC": "2026-10-11T12:00:00Z",
       "streams": [],
       "streamCount": 0,
-      "poster": ""
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEOF5SQMECg0huIPgYghEJYyDOI+BYEgp3WIsSjAqUXD+XpZZXky0YB5iohBAA.webp"
     },
     {
-      "id": "fresno-state-vs-boise-state-2499006",
-      "title": "Fresno State vs Boise State",
-      "sport": "american-football",
-      "competition": "american-football",
+      "id": "elche-vs-celta-vigo-2506247",
+      "title": "Elche vs Celta Vigo",
+      "sport": "football",
+      "competition": "football",
       "status": "LIVE",
       "teams": {
         "home": {
@@ -170,16 +120,16 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-10-11T02:30:00Z",
+      "matchTimeUTC": "2026-10-11T12:00:00Z",
       "streams": [],
       "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aXJWZjafENxBSQKEIhggSuIyZAwCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJD2YgpCEDBDcQfECYggUekGZIHtBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp"
     },
     {
-      "id": "arizona-state-vs-hawaii-2616978",
-      "title": "Arizona State vs Hawaii",
-      "sport": "american-football",
-      "competition": "american-football",
+      "id": "pec-zwolle-vs-cambuur-2489135",
+      "title": "PEC Zwolle vs Cambuur",
+      "sport": "football",
+      "competition": "football",
       "status": "LIVE",
       "teams": {
         "home": {
@@ -191,16 +141,16 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-10-11T02:30:00Z",
+      "matchTimeUTC": "2026-10-11T12:30:00Z",
       "streams": [],
       "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEYgjAJgCwuADmBYBWRPh4xNsBTYMYRMAEzAE59dhTI0BjUFMTxCiyKBZgAhmHITmmZMFmk0fWe0UlcC2cBHBOrdGkw1gjUBBBwRIS6RA1LZy-ljNlG8cUH0WVKQPJksQA.webp"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFA0r9+IPiG66QRnDgMwQ58-ALAkFPsNn0UYFRravy9LLI1NaYK5iohBAA.webp"
     },
     {
-      "id": "sydney-kings-vs-adelaide-36ers-2487909",
-      "title": "Sydney Kings vs Adelaide 36ers",
-      "sport": "basketball",
-      "competition": "basketball",
+      "id": "telstar-vs-ado-den-haag-2489136",
+      "title": "Telstar vs ADO Den Haag",
+      "sport": "football",
+      "competition": "football",
       "status": "LIVE",
       "teams": {
         "home": {
@@ -212,16 +162,16 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-10-11T04:00:00Z",
+      "matchTimeUTC": "2026-10-11T12:30:00Z",
       "streams": [],
       "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJGHC94YJCG76QUoyBIgYpk4hAh4BYBpj9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELwAMIcOCxgUGkHx24z3EDEvWFTJBT7DZ9FGBUoub8vSyyPTWjA3MVEIIA.webp"
     },
     {
-      "id": "mount-panorama-race-repco-bathurst-1000-australian-supercars-championship-1791697018",
-      "title": "Mount Panorama — Race: REPCO Bathurst 1000",
-      "sport": "motor-sports",
-      "competition": "motor-sports",
+      "id": "lazio-vs-monza-2482188",
+      "title": "Lazio vs Monza",
+      "sport": "football",
+      "competition": "football",
       "status": "LIVE",
       "teams": {
         "home": {
@@ -233,61 +183,137 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-10-11T05:36:58Z",
+      "matchTimeUTC": "2026-10-11T13:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJMBkoQKBmCkhuIAyFPGQJHSAjmJTJBT7DZ9FGBW6278vSyzdTLRg7mKiEEA.webp"
+    },
+    {
+      "id": "lecce-vs-bologna-2482196",
+      "title": "Lecce vs Bologna",
+      "sport": "football",
+      "competition": "football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-10-11T13:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEALDkkwGXxDcNIEsZAoQiRCGsGCwJBT7DZ9FGBUou78vSyzPTLRaovQhQA.webp"
+    },
+    {
+      "id": "nice-vs-strasbourg-2489508",
+      "title": "Nice vs Strasbourg",
+      "sport": "football",
+      "competition": "football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-10-11T13:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VZcCm5smkNxB8QJEBBBmYZkwYMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
+    },
+    {
+      "id": "crystal-palace-vs-nottingham-forest-2494054",
+      "title": "Crystal Palace vs Nottingham Forest",
+      "sport": "football",
+      "competition": "football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-10-11T13:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VOFJAowKEPW4gDfECYggSerSEQ4tTJBT7DZ9bSpRcwZeESyyPTLRgXmKiEEA.webp"
+    },
+    {
+      "id": "hull-city-vs-everton-2494056",
+      "title": "Hull City vs Everton",
+      "sport": "football",
+      "competition": "football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-10-11T13:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDH7YQtLHJDcQfECYggSIMyh02YBYEgp9hs+ijAqUXD+Xp7RXky0YB5iohBAA.webp"
+    },
+    {
+      "id": "aberdeen-vs-st-johnstone-2494452",
+      "title": "Aberdeen vs St Johnstone",
+      "sport": "football",
+      "competition": "football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-10-11T13:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFGBQherFD20g+IY0cRbEiHBKZIKfYbPoaVetmDLwiWWXqa0w7mKiEEA.webp"
+    },
+    {
+      "id": "estoril-race-2-supersport-world-championship-1791723600",
+      "title": "Estoril — Race 2",
+      "sport": "other",
+      "competition": "other",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-10-11T13:00:00Z",
       "streams": [
         {
           "source": "hotel",
-          "embedUrl": "https://embed.st/embed/hotel/mount-panorama-race-repco-bathurst-1000-australian-supercars-championship-1791697018/1",
-          "language": "Sky Sport NZ",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 1,
-      "poster": ""
-    },
-    {
-      "id": "illawarra-hawks-vs-cairns-taipans-2487910",
-      "title": "Illawarra Hawks vs Cairns Taipans",
-      "sport": "basketball",
-      "competition": "basketball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-11T06:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEMDDAADNBRyQ3EFOMgSIGGdMQLIEAWBIKfYbPoowK-W0-l6WWX0mWjBPMVEIIA.webp"
-    },
-    {
-      "id": "fuji-speedway-race-2-super-formula-1791698400",
-      "title": "Fuji Speedway — Race 2",
-      "sport": "motor-sports",
-      "competition": "motor-sports",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-11T06:00:00Z",
-      "streams": [
-        {
-          "source": "hotel",
-          "embedUrl": "https://embed.st/embed/hotel/fuji-speedway-race-2-super-formula-1791698400/1",
+          "embedUrl": "https://embed.st/embed/hotel/estoril-race-2-supersport-world-championship-1791723600/1",
           "language": "Main",
           "hd": true,
           "quality": "HD"
@@ -539,331 +565,6 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IMmUQQQKEInjAqICNlIgliDWqziQWYCpolxwRAGMT+6cOVre5FQKEimqlOULAkuM+6FhuThVhUnoCU3IAg1CIIA.webp"
-    },
-    {
-      "id": "estoril-warm-up-worldsbk-1791706500",
-      "title": "Estoril — Warm-Up",
-      "sport": "other",
-      "competition": "other",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-11T08:15:00Z",
-      "streams": [
-        {
-          "source": "hotel",
-          "embedUrl": "https://embed.st/embed/hotel/estoril-warm-up-worldsbk-1791706500/1",
-          "language": "Main",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 1,
-      "poster": ""
-    },
-    {
-      "id": "houston-rockets-vs-dallas-mavericks-2548859",
-      "title": "Houston Rockets vs Dallas Mavericks",
-      "sport": "basketball",
-      "competition": "basketball",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-11T10:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKmSgCySENxB8QJEClwhEEPWYVMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp"
-    },
-    {
-      "id": "utrecht-vs-willem-ii-2489134",
-      "title": "Utrecht vs Willem II",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-11T10:15:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VacBkAGanxDcQekLhMGYIc+YlMkFPsNn0UYFSi4vy9LLLdNaYFzFRCCA.webp"
-    },
-    {
-      "id": "ppv-como-vs-as-roma",
-      "title": "Como vs. AS Roma",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-11T10:30:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-como-vs-as-roma/1",
-          "language": "English - Paramount+",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-como-vs-as-roma/2",
-          "language": "English - Paramount+",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGjQilxIGMHjZpVEAGNSwKVg0gUqkGRIhhOkCGyyQChcphGZEIynJSBQkU0VOwhYElwqnITBuTilhdScCeXJgjXUIIA.webp"
-    },
-    {
-      "id": "elche-vs-celta-vigo-2506247",
-      "title": "Elche vs Celta Vigo",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-11T12:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJD2YgpCEDBDcQfECYggUekGZIHtBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp"
-    },
-    {
-      "id": "hammarby-vs-djurg-rden-2398932",
-      "title": "Hammarby vs Djurgården",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-11T12:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEOF5SQMECg0huIPgYghEJYyDOI+BYEgp3WIsSjAqUXD+XpZZXky0YB5iohBAA.webp"
-    },
-    {
-      "id": "telstar-vs-ado-den-haag-2489136",
-      "title": "Telstar vs ADO Den Haag",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-11T12:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELwAMIcOCxgUGkHx24z3EDEvWFTJBT7DZ9FGBUoub8vSyyPTWjA3MVEIIA.webp"
-    },
-    {
-      "id": "pec-zwolle-vs-cambuur-2489135",
-      "title": "PEC Zwolle vs Cambuur",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-11T12:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFA0r9+IPiG66QRnDgMwQ58-ALAkFPsNn0UYFRravy9LLI1NaYK5iohBAA.webp"
-    },
-    {
-      "id": "hull-city-vs-everton-2494056",
-      "title": "Hull City vs Everton",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-11T13:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDH7YQtLHJDcQfECYggSIMyh02YBYEgp9hs+ijAqUXD+Xp7RXky0YB5iohBAA.webp"
-    },
-    {
-      "id": "crystal-palace-vs-nottingham-forest-2494054",
-      "title": "Crystal Palace vs Nottingham Forest",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-11T13:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VOFJAowKEPW4gDfECYggSerSEQ4tTJBT7DZ9bSpRcwZeESyyPTLRgXmKiEEA.webp"
-    },
-    {
-      "id": "nice-vs-strasbourg-2489508",
-      "title": "Nice vs Strasbourg",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-11T13:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VZcCm5smkNxB8QJEBBBmYZkwYMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
-    },
-    {
-      "id": "lecce-vs-bologna-2482196",
-      "title": "Lecce vs Bologna",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-11T13:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEALDkkwGXxDcNIEsZAoQiRCGsGCwJBT7DZ9FGBUou78vSyzPTLRaovQhQA.webp"
-    },
-    {
-      "id": "lazio-vs-monza-2482188",
-      "title": "Lazio vs Monza",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-11T13:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJMBkoQKBmCkhuIAyFPGQJHSAjmJTJBT7DZ9FGBW6278vSyzdTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "estoril-race-2-supersport-world-championship-1791723600",
-      "title": "Estoril — Race 2",
-      "sport": "other",
-      "competition": "other",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-11T13:00:00Z",
-      "streams": [
-        {
-          "source": "hotel",
-          "embedUrl": "https://embed.st/embed/hotel/estoril-race-2-supersport-world-championship-1791723600/1",
-          "language": "Main",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 1,
-      "poster": ""
     },
     {
       "id": "k-ln-vs-borussia-m-nchengladbach-2508377",
