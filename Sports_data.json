@@ -1,10 +1,31 @@
 {
-  "lastUpdated": "2026-10-15T06:49:56Z",
-  "fetchDuration": "159.4s",
-  "totalMatches": 166,
-  "liveCount": 0,
-  "upcomingCount": 166,
+  "lastUpdated": "2026-10-15T12:23:23Z",
+  "fetchDuration": "163.4s",
+  "totalMatches": 168,
+  "liveCount": 1,
+  "upcomingCount": 167,
   "matches": [
+    {
+      "id": "brisbane-bullets-vs-south-east-melbourne-phoenix-2487912",
+      "title": "Brisbane Bullets vs South East Melbourne Phoenix",
+      "sport": "basketball",
+      "competition": "basketball",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-10-15T08:30:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKFmAymIENz0gphkCRAwTxiCCuNgSCn2Gz6KMCpRc35eptEemtGBuYqIQQA.webp"
+    },
     {
       "id": "admin-tennis-channel",
       "title": "Tennis Channel",
@@ -250,27 +271,6 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IMmUQQQKEInjAqICNlIgliDWqziQWYCpolxwRAGMT+6cOVre5FQKEimqlOULAkuM+6FhuThVhUnoCU3IAg1CIIA.webp"
     },
     {
-      "id": "brisbane-bullets-vs-south-east-melbourne-phoenix-2487912",
-      "title": "Brisbane Bullets vs South East Melbourne Phoenix",
-      "sport": "basketball",
-      "competition": "basketball",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-15T08:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKFmAymIENz0gphkCRAwTxiCCuNgSCn2Gz6KMCpRc35eptEemtGBuYqIQQA.webp"
-    },
-    {
       "id": "ppv-fc-lugano-vs-red-star-belgrade",
       "title": "FC Lugano vs. Red Star Belgrade",
       "sport": "football",
@@ -291,14 +291,14 @@
         {
           "source": "admin",
           "embedUrl": "https://embed.st/embed/admin/ppv-fc-lugano-vs-red-star-belgrade/1",
-          "language": "English - Conference League",
+          "language": "English - Paramount+",
           "hd": true,
           "quality": "HD"
         },
         {
           "source": "admin",
           "embedUrl": "https://embed.st/embed/admin/ppv-fc-lugano-vs-red-star-belgrade/2",
-          "language": "English - Conference League",
+          "language": "English - Paramount+",
           "hd": false,
           "quality": "SD"
         }
@@ -682,7 +682,7 @@
       "matchTimeUTC": "2026-10-15T17:00:00Z",
       "streams": [],
       "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBCUasBMGkheILCBSHTxkDBAHrMFkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECErU4tKSG4g+IFPuOGQMEHsswCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
     },
     {
       "id": "ppv-stade-rennais-vs-ofi-crete",
@@ -705,14 +705,14 @@
         {
           "source": "admin",
           "embedUrl": "https://embed.st/embed/admin/ppv-stade-rennais-vs-ofi-crete/1",
-          "language": "English - Europa League",
+          "language": "English - Paramount+",
           "hd": true,
           "quality": "HD"
         },
         {
           "source": "admin",
           "embedUrl": "https://embed.st/embed/admin/ppv-stade-rennais-vs-ofi-crete/2",
-          "language": "English - Europa League",
+          "language": "English - Paramount+",
           "hd": false,
           "quality": "SD"
         }
@@ -741,14 +741,14 @@
         {
           "source": "admin",
           "embedUrl": "https://embed.st/embed/admin/ppv-f-c-k-benhavn-vs-braga/1",
-          "language": "English - Conference League",
+          "language": "English - Paramount+",
           "hd": true,
           "quality": "HD"
         },
         {
           "source": "admin",
           "embedUrl": "https://embed.st/embed/admin/ppv-f-c-k-benhavn-vs-braga/2",
-          "language": "English - Conference League",
+          "language": "English - Paramount+",
           "hd": false,
           "quality": "SD"
         }
@@ -1258,7 +1258,7 @@
       "matchTimeUTC": "2026-10-16T00:00:00Z",
       "streams": [],
       "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdkj5h+Y3iER6sIFCD0mjMECWMgsLJBTvtR4lGFUoe78o2pzP+KzAYO7iYhBAA.webp"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJDzC9R3EIl18QKELuOGYIEkZB8CwJBVusRYlGBUou78vSyzPTLRg7mKiEEA.webp"
     },
     {
       "id": "nashville-predators-vs-san-jose-sharks-2591600",
@@ -1387,6 +1387,35 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLAxAxgM8BBDcQfEFK0gUZwyQMgFTJBT7DZ9FGBUou78vQ2jPTLRg7mKiEEA.webp"
     },
     {
+      "id": "jerez-free-practice-world-sportbike-championship-1792137300",
+      "title": "Jerez — Free Practice",
+      "sport": "other",
+      "competition": "other",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-10-16T07:55:00Z",
+      "streams": [
+        {
+          "source": "hotel",
+          "embedUrl": "https://embed.st/embed/hotel/jerez-free-practice-world-sportbike-championship-1792137300/1",
+          "language": "Main",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 1,
+      "poster": ""
+    },
+    {
       "id": "tasmania-jackjumpers-vs-adelaide-36ers-2487913",
       "title": "Tasmania JackJumpers vs Adelaide 36ers",
       "sport": "basketball",
@@ -1406,6 +1435,35 @@
       "streams": [],
       "streamCount": 0,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEPxC1uuSiB1SQhkiBggThiLn0FgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
+    },
+    {
+      "id": "jerez-superpole-world-sportbike-championship-1792152600",
+      "title": "Jerez — Superpole",
+      "sport": "other",
+      "competition": "other",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-10-16T12:10:00Z",
+      "streams": [
+        {
+          "source": "hotel",
+          "embedUrl": "https://embed.st/embed/hotel/jerez-superpole-world-sportbike-championship-1792152600/1",
+          "language": "Main",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 1,
+      "poster": ""
     },
     {
       "id": "brommapojkarna-vs-djurg-rden-2398936",
@@ -1919,42 +1977,6 @@
       "poster": ""
     },
     {
-      "id": "ppv-portland-trail-blazers-vs-golden-state-warriors",
-      "title": "Portland Trail Blazers vs. Golden State Warriors",
-      "sport": "basketball",
-      "competition": "basketball",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-17T02:00:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-portland-trail-blazers-vs-golden-state-warriors/1",
-          "language": "English - NBA League Pass",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-portland-trail-blazers-vs-golden-state-warriors/2",
-          "language": "English - NBA League Pass",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMbAIIGKRDCQ0yVhHYQKEGSoyRikCunbx+qZpCIQc+KWCIY89SnIRQYQaoLZ6YQsCS5xJyE3VhdhGydPazA3KRsIIA.webp"
-    },
-    {
       "id": "ppv-utah-jazz-vs-phoenix-suns",
       "title": "Utah Jazz vs. Phoenix Suns",
       "sport": "basketball",
@@ -1989,6 +2011,42 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IYSBIgQ2YFRARsCkAGMQ8lMAjKp2qTInTpWOdJGrlaqTAvw5m-mEEimsh4WBJcKzUKetFYVJ6AmA7MCctYIggA.webp"
+    },
+    {
+      "id": "ppv-portland-trail-blazers-vs-golden-state-warriors",
+      "title": "Portland Trail Blazers vs. Golden State Warriors",
+      "sport": "basketball",
+      "competition": "basketball",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-10-17T02:00:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-portland-trail-blazers-vs-golden-state-warriors/1",
+          "language": "English - NBA League Pass",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-portland-trail-blazers-vs-golden-state-warriors/2",
+          "language": "English - NBA League Pass",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMbAIIGKRDCQ0yVhHYQKEGSoyRikCunbx+qZpCIQc+KWCIY89SnIRQYQaoLZ6YQsCS5xJyE3VhdhGydPazA3KRsIIA.webp"
     },
     {
       "id": "2330",
@@ -2257,6 +2315,42 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcYhIgAxiBTAqICCGEhF4sssTTg8YBF0KVIRHuXis+kJZqrZMEePn8wgkU2z0whYElzT5IVdWA2FSegJDMFd9cIggA.webp"
     },
     {
+      "id": "ppv-schalke-04-vs-mainz",
+      "title": "Schalke 04 vs. Mainz",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-10-17T13:30:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-schalke-04-vs-mainz/1",
+          "language": "English - Bundesliga",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-schalke-04-vs-mainz/2",
+          "language": "English - Bundesliga",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcSGBUQKEcAhSQAYymkQEECWXbxZYasTTp4-fDVn90pSDMXZ-MILkFs9MIWBJcS2UMesFfTJZFzMwR3lSeSA.webp"
+    },
+    {
       "id": "ppv-1-fc-union-berlin-vs-borussia-dortmund",
       "title": "1. FC Union Berlin vs. Borussia Dortmund",
       "sport": "football",
@@ -2327,42 +2421,6 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MJEFhA0qIcYgggQpbBJHAZMRepDD1wRIgDGO-VLVyQKEIZUp1d-mEFqC2emELAkuQ3aFPWCHN6V3hyJ2AgsgggA.webp"
-    },
-    {
-      "id": "ppv-schalke-04-vs-mainz",
-      "title": "Schalke 04 vs. Mainz",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-17T13:30:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-schalke-04-vs-mainz/1",
-          "language": "English - Bundesliga",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-schalke-04-vs-mainz/2",
-          "language": "English - Bundesliga",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcSGBUQKEcAhSQAYymkQEECWXbxZYasTTp4-fDVn90pSDMXZ-MILkFs9MIWBJcS2UMesFfTJZFzMwR3lSeSA.webp"
     },
     {
       "id": "ppv-sv-elversberg-vs-fc-augsburg",
@@ -2437,6 +2495,42 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52ICCCyTgEqiERyswOcJBl4y+SBgz52YBrJHsIYTPNyY40yHzkIoMIJFN9KcoWBJcAY3dCnVgczMncCA3InczIIIA.webp"
     },
     {
+      "id": "ppv-manchester-city-vs-ipswich-town",
+      "title": "Manchester City vs. Ipswich Town",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-10-17T14:00:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-manchester-city-vs-ipswich-town/1",
+          "language": "English - Premier League",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-manchester-city-vs-ipswich-town/2",
+          "language": "English - Premier League",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEYOIghEMEAGMQZJSClyRIWSg2lSILDv1kpJPSpDDgiRFqogU2e-zCCRTbPTCFgSXHPtDnVnELMnsCS3JnCR0IIA.webp"
+    },
+    {
       "id": "ppv-brentford-vs-liverpool",
       "title": "Brentford vs. Liverpool",
       "sport": "football",
@@ -2507,42 +2601,6 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCCogIIEpPELhIeMBVyQ07CBQatIUiBjyYwGmTIypiKUqPbyEUGEEim2emELAkuAMYohcm5OR2FSegJVcmdgRwsgA.webp"
-    },
-    {
-      "id": "ppv-manchester-city-vs-ipswich-town",
-      "title": "Manchester City vs. Ipswich Town",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-17T14:00:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-manchester-city-vs-ipswich-town/1",
-          "language": "English - Premier League",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-manchester-city-vs-ipswich-town/2",
-          "language": "English - Premier League",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEYOIghEMEAGMQZJSClyRIWSg2lSILDv1kpJPSpDDgiRFqogU2e-zCCRTbPTCFgSXHPtDnVnELMnsCS3JnCR0IIA.webp"
     },
     {
       "id": "ppv-villarreal-vs-elche",
@@ -2725,42 +2783,6 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICCBgiQKEGQmyYIRCXEh1qrMEQbgEbNhDDShrGrOyqIK4ikQU5fQKEimBh2ELAkuAMYOhMG5OfWMyBwJtciC9EwggA.webp"
     },
     {
-      "id": "ppv-newcastle-united-vs-aston-villa",
-      "title": "Newcastle United vs. Aston Villa",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-17T16:30:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-newcastle-united-vs-aston-villa/1",
-          "language": "English - Premier League",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-newcastle-united-vs-aston-villa/2",
-          "language": "English - Premier League",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcSGAQQAY2A1EKENKwgyC5VNmlSatSJApdMbYjLx543RKP8wgkU2z0whYElwyjQ+6wiOyIwJgCzB7KR0IIA.webp"
-    },
-    {
       "id": "ppv-real-betis-vs-barcelona",
       "title": "Real Betis vs. Barcelona",
       "sport": "football",
@@ -2831,6 +2853,42 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEiBQgQwCMHikQAY3kgqkkFmyKyWEIhV710iepghh42dhDnpciRBTk5AoSKbbnYQsCS4lZyEwbk45YVJ6AnlyEOsyCCA.webp"
+    },
+    {
+      "id": "ppv-newcastle-united-vs-aston-villa",
+      "title": "Newcastle United vs. Aston Villa",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-10-17T16:30:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-newcastle-united-vs-aston-villa/1",
+          "language": "English - Premier League",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-newcastle-united-vs-aston-villa/2",
+          "language": "English - Premier League",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcSGAQQAY2A1EKENKwgyC5VNmlSatSJApdMbYjLx543RKP8wgkU2z0whYElwyjQ+6wiOyIwJgCzB7KR0IIA.webp"
     },
     {
       "id": "2331",
@@ -2955,42 +3013,6 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICCBAjxIFCNLYQAYxAxgEmlmCIaJEMJBZlIKqsnGje+MFNqyEG7Ln8wg+QWz0whYElxK5IVdWB2EFOQ9rMFd1BQggA.webp"
     },
     {
-      "id": "ppv-troyes-vs-lens",
-      "title": "Troyes vs. Lens",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-17T18:45:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-troyes-vs-lens/1",
-          "language": "French - Ligue 1+",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-troyes-vs-lens/2",
-          "language": "French - Ligue 1+",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMYgIwaYhAhhwRChGkQKxFRBYQiaSXXaQWxDGPAT8kGYOSz8qiv5hBqgtnphCwJLnEqhF1ZpRTIVd3hyFxlSGSA.webp"
-    },
-    {
       "id": "ppv-as-roma-vs-genoa",
       "title": "AS Roma vs. Genoa",
       "sport": "football",
@@ -3063,8 +3085,8 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILMHgiQMEBBAKsIYcHlqFqkDXkBjaYh1zgVLTJCHDCvSZDHNWFOQigwgkU2z0whYElw7HIVdWZxUyRwJJcldVUlUgA.webp"
     },
     {
-      "id": "ppv-valencia-vs-athletic-club",
-      "title": "Valencia vs. Athletic Club",
+      "id": "ppv-troyes-vs-lens",
+      "title": "Troyes vs. Lens",
       "sport": "football",
       "competition": "football",
       "status": "UPCOMING",
@@ -3078,25 +3100,25 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-10-17T19:00:00Z",
+      "matchTimeUTC": "2026-10-17T18:45:00Z",
       "streams": [
         {
           "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-valencia-vs-athletic-club/1",
-          "language": "English - ESPN+",
+          "embedUrl": "https://embed.st/embed/admin/ppv-troyes-vs-lens/1",
+          "language": "French - Ligue 1+",
           "hd": true,
           "quality": "HD"
         },
         {
           "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-valencia-vs-athletic-club/2",
-          "language": "English - ESPN+",
+          "embedUrl": "https://embed.st/embed/admin/ppv-troyes-vs-lens/2",
+          "language": "French - Ligue 1+",
           "hd": false,
           "quality": "SD"
         }
       ],
       "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5M8YFRAQQAYxCJpk8VhBKpU4NJQgUpEPqwjgiRLpIgV4yXOv6Lu-mEFGC2emELAkuGbqFPWCCMyXVdxMCdNUk0gA.webp"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMYgIwaYhAhhwRChGkQKxFRBYQiaSXXaQWxDGPAT8kGYOSz8qiv5hBqgtnphCwJLnEqhF1ZpRTIVd3hyFxlSGSA.webp"
     },
     {
       "id": "ppv-sparta-rotterdam-vs-willem-ii",
@@ -3133,6 +3155,42 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRFhDDgiFMAhT5IKiADGwFTBBzEWuZJAzFk6WRUKQ2kSBI3lIufzCCRTbPTCFgSXKrlDnVghXMjkCGXJneVJ5IA.webp"
+    },
+    {
+      "id": "ppv-valencia-vs-athletic-club",
+      "title": "Valencia vs. Athletic Club",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-10-17T19:00:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-valencia-vs-athletic-club/1",
+          "language": "English - ESPN+",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-valencia-vs-athletic-club/2",
+          "language": "English - ESPN+",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5M8YFRAQQAYxCJpk8VhBKpU4NJQgUpEPqwjgiRLpIgV4yXOv6Lu-mEFGC2emELAkuGbqFPWCCMyXVdxMCdNUk0gA.webp"
     },
     {
       "id": "2332",
@@ -3343,78 +3401,6 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5M8YBAkgQIkFWkTgNeSRCThUmCBizpiLQGMQG4SBQjg4rLrWWz5-mEEWC2emELAkuA+aFPWdVJ6V3EwJ0UyCCA.webp"
     },
     {
-      "id": "ppv-red-bull-new-york-vs-toronto-fc",
-      "title": "Red Bull New York vs. Toronto FC",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-17T23:30:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-red-bull-new-york-vs-toronto-fc/1",
-          "language": "English - Apple TV",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-red-bull-new-york-vs-toronto-fc/2",
-          "language": "English - Apple TV",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILMCogAxpNIh4wCOJEgSKxDGySQIOcLllEi9cLXmpWmuom9yEUGEEim2lOULAkuae6FPWBwMydwJgRTAnJVIlIA.webp"
-    },
-    {
-      "id": "ppv-atlanta-united-fc-vs-inter-miami-cf",
-      "title": "Atlanta United FC vs. Inter Miami CF",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-17T23:30:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-atlanta-united-fc-vs-inter-miami-cf/1",
-          "language": "English - Apple TV",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-atlanta-united-fc-vs-inter-miami-cf/2",
-          "language": "English - Apple TV",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCCwgYpbMAjAq44PFIgIIAMaL1uqRKlYVWkEo0gQJSTpQjxyrLf5hBIpnKeFgSXJttCXVgVhWVsCFXIXeVkIIA.webp"
-    },
-    {
       "id": "ppv-new-england-revolution-vs-chicago-fire-fc",
       "title": "New England Revolution vs. Chicago Fire FC",
       "sport": "football",
@@ -3487,6 +3473,42 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IMlhAoQAYxDzJklNhCJlEEVNXzxwCDskxSeqcCohJZfdJIgYIKsv5hBIptnphCwJLhnKhF1YNYWNlAmB4chc9YwggA.webp"
     },
     {
+      "id": "ppv-atlanta-united-fc-vs-inter-miami-cf",
+      "title": "Atlanta United FC vs. Inter Miami CF",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-10-17T23:30:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-atlanta-united-fc-vs-inter-miami-cf/1",
+          "language": "English - Apple TV",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-atlanta-united-fc-vs-inter-miami-cf/2",
+          "language": "English - Apple TV",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFCCwgYpbMAjAq44PFIgIIAMaL1uqRKlYVWkEo0gQJSTpQjxyrLf5hBIpnKeFgSXJttCXVgVhWVsCFXIXeVkIIA.webp"
+    },
+    {
       "id": "ppv-orlando-city-sc-vs-d-c-united",
       "title": "Orlando City SC vs. D.C. United",
       "sport": "football",
@@ -3523,8 +3545,8 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEiGEgsICNlnB4wCOJBqYI5ZMmkQKbTBBKyVHcOCnTUqSGXy95OQKGaC2emELAkuAMYoXMG5OOXMyALclMCC7MgggA.webp"
     },
     {
-      "id": "ppv-austin-fc-vs-vancouver-whitecaps",
-      "title": "Austin FC vs. Vancouver Whitecaps",
+      "id": "ppv-red-bull-new-york-vs-toronto-fc",
+      "title": "Red Bull New York vs. Toronto FC",
       "sport": "football",
       "competition": "football",
       "status": "UPCOMING",
@@ -3538,25 +3560,25 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-10-18T00:30:00Z",
+      "matchTimeUTC": "2026-10-17T23:30:00Z",
       "streams": [
         {
           "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-austin-fc-vs-vancouver-whitecaps/1",
+          "embedUrl": "https://embed.st/embed/admin/ppv-red-bull-new-york-vs-toronto-fc/1",
           "language": "English - Apple TV",
           "hd": true,
           "quality": "HD"
         },
         {
           "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-austin-fc-vs-vancouver-whitecaps/2",
+          "embedUrl": "https://embed.st/embed/admin/ppv-red-bull-new-york-vs-toronto-fc/2",
           "language": "English - Apple TV",
           "hd": false,
           "quality": "SD"
         }
       ],
       "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IMlhBUQKGcEQQQAYylzhwGsOUgQ2OVmzBFEeSHVlpEkCeMgDVFORMChIpocdhCwJLiWOhMG5OE3N6AnlyIKNSIyA.webp"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILMCogAxpNIh4wCOJEgSKxDGySQIOcLllEi9cLXmpWmuom9yEUGEEim2lOULAkuae6FPWBwMydwJgRTAnJVIlIA.webp"
     },
     {
       "id": "ppv-houston-dynamo-fc-vs-fc-dallas",
@@ -3595,6 +3617,42 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52wCMETCQMECmySQVECEUxSIpaRVKQEPVulZgyslhUmDylfnISBQkUwXywhYElwBjeULDdOCWENeQJJcn9xDQggA.webp"
     },
     {
+      "id": "ppv-austin-fc-vs-vancouver-whitecaps",
+      "title": "Austin FC vs. Vancouver Whitecaps",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-10-18T00:30:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-austin-fc-vs-vancouver-whitecaps/1",
+          "language": "English - Apple TV",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-austin-fc-vs-vancouver-whitecaps/2",
+          "language": "English - Apple TV",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IMlhBUQKGcEQQQAYylzhwGsOUgQ2OVmzBFEeSHVlpEkCeMgDVFORMChIpocdhCwJLiWOhMG5OE3N6AnlyIKNSIyA.webp"
+    },
+    {
       "id": "ppv-sporting-kansas-city-vs-real-salt-lake",
       "title": "Sporting Kansas City vs. Real Salt Lake",
       "sport": "football",
@@ -3629,42 +3687,6 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IYSDLwRMiMAggAxiKUgYayUvkgaWbBqohEMbMEPr1WHSBsh9o8nIFCZBUynKFgSXIo9Cwbk45YVJ6N2kwQPkwiCA.webp"
-    },
-    {
-      "id": "ppv-toluca-vs-atl-tico-de-san-luis",
-      "title": "Toluca vs. Atlético de San Luis",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-18T01:00:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-toluca-vs-atl-tico-de-san-luis/1",
-          "language": "Spanish - Liga MX",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-toluca-vs-atl-tico-de-san-luis/2",
-          "language": "Spanish - Liga MX",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCElYR4kDXjAaZCQGNFs4cAikR2EBDkhNVfYq0gYp7WWNyU5bQKG6C2emELAkuFfaFhuTm1NMntXBTAArR0IIA.webp"
     },
     {
       "id": "ppv-le-n-vs-am-rica",
@@ -3703,8 +3725,8 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IKuJDCpIRDGAQRklCADGILMDkKQuzZohSlh6QZAolEkFsmjyigUJFNs9MIWBJcqi0LDdORWFSegItcn8FEIggA.webp"
     },
     {
-      "id": "ppv-la-galaxy-vs-san-diego-fc",
-      "title": "LA Galaxy vs. San Diego FC",
+      "id": "ppv-toluca-vs-atl-tico-de-san-luis",
+      "title": "Toluca vs. Atlético de San Luis",
       "sport": "football",
       "competition": "football",
       "status": "UPCOMING",
@@ -3718,25 +3740,25 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-10-18T02:30:00Z",
+      "matchTimeUTC": "2026-10-18T01:00:00Z",
       "streams": [
         {
           "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-la-galaxy-vs-san-diego-fc/1",
-          "language": "English - Apple TV",
+          "embedUrl": "https://embed.st/embed/admin/ppv-toluca-vs-atl-tico-de-san-luis/1",
+          "language": "Spanish - Liga MX",
           "hd": true,
           "quality": "HD"
         },
         {
           "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-la-galaxy-vs-san-diego-fc/2",
-          "language": "English - Apple TV",
+          "embedUrl": "https://embed.st/embed/admin/ppv-toluca-vs-atl-tico-de-san-luis/2",
+          "language": "Spanish - Liga MX",
           "hd": false,
           "quality": "SD"
         }
       ],
       "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MZKiHjApw6SBghFKSSAghx8kCjnCQsrPOARsWkAGM92I4umlgEreWMChIple1hCwJLjPahMG5OY1kybQJbMCCjOwggA.webp"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCElYR4kDXjAaZCQGNFs4cAikR2EBDkhNVfYq0gYp7WWNyU5bQKG6C2emELAkuFfaFhuTm1NMntXBTAArR0IIA.webp"
     },
     {
       "id": "ppv-portland-timbers-vs-colorado-rapids",
@@ -3773,6 +3795,42 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IFMHgjSIRFVniQS4SBoQQ6gMbZVurCBWIJWEbrJT1MbMAgz85WwKHSC1iWELAkuTRKFhuTlthUnpXKTAAm1CIIA.webp"
+    },
+    {
+      "id": "ppv-la-galaxy-vs-san-diego-fc",
+      "title": "LA Galaxy vs. San Diego FC",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-10-18T02:30:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-la-galaxy-vs-san-diego-fc/1",
+          "language": "English - Apple TV",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-la-galaxy-vs-san-diego-fc/2",
+          "language": "English - Apple TV",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MZKiHjApw6SBghFKSSAghx8kCjnCQsrPOARsWkAGM92I4umlgEreWMChIple1hCwJLjPahMG5OY1kybQJbMCCjOwggA.webp"
     },
     {
       "id": "ppv-san-jose-earthquakes-vs-nashville-sc",
@@ -3955,42 +4013,6 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5M8ESJARg04cERYQMGSCohEiaSVXyQWXcKWkj2xeMNzDEECikpy0gUIkFs9MIWBJcAY3tCwbk5ZUnpXcTBAmVCIIA.webp"
     },
     {
-      "id": "ppv-v-ster-s-sk-vs-mj-llby-aif",
-      "title": "Västerås SK vs. Mjällby AIF",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-18T12:00:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-v-ster-s-sk-vs-mj-llby-aif/1",
-          "language": "Swedish - TV4 Play",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-v-ster-s-sk-vs-mj-llby-aif/2",
-          "language": "Swedish - TV4 Play",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcTSzB4IkMJABjcdhAQQMWYhIgy2jTKyqj4kNOylgVZRAvDSKcjYFCRTcw7CFgSXAodCwbk4bOzIHAjMwQOAbMgggA.webp"
-    },
-    {
       "id": "ppv-osasuna-vs-racing-santander",
       "title": "Osasuna vs. Racing Santander",
       "sport": "football",
@@ -4061,6 +4083,42 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMbAIUkFhBUQwkDHmr4M6RFUoQ6mohXjZMyXJ3qtWKTJC6U5aQKEim2emELAkucfaFhuTmlhUnoCYHUwAOsyCCA.webp"
+    },
+    {
+      "id": "ppv-v-ster-s-sk-vs-mj-llby-aif",
+      "title": "Västerås SK vs. Mjällby AIF",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-10-18T12:00:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-v-ster-s-sk-vs-mj-llby-aif/1",
+          "language": "Swedish - TV4 Play",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-v-ster-s-sk-vs-mj-llby-aif/2",
+          "language": "Swedish - TV4 Play",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IcTSzB4IkMJABjcdhAQQMWYhIgy2jTKyqj4kNOylgVZRAvDSKcjYFCRTcw7CFgSXAodCwbk4bOzIHAjMwQOAbMgggA.webp"
     },
     {
       "id": "ppv-sc-cambuur-vs-az-alkmaar",
@@ -4135,78 +4193,6 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICOJAkQ8YDQkQRIKiBjBF0rCBAjgiNbOGlx2EAGMlWJZtUzdVFOUUChugtnphCwJLjOOhMG5ORSMyR3dZMCD1UnUgA.webp"
     },
     {
-      "id": "ppv-fiorentina-vs-como",
-      "title": "Fiorentina vs. Como",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-18T13:00:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-fiorentina-vs-como/1",
-          "language": "English - Paramount+",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-fiorentina-vs-como/2",
-          "language": "English - Paramount+",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52IAMakRIGRGBUQiOUpDDF0iCBSKtO8VuCIFMtVgnyZEq1RTk5AoSKbZ6YQsCS5xtoWG6c5YSlbAkNyP2A5MgggA.webp"
-    },
-    {
-      "id": "ppv-angers-vs-marseille",
-      "title": "Angers vs. Marseille",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-18T13:00:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-angers-vs-marseille/1",
-          "language": "French - Ligue 1+",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-angers-vs-marseille/2",
-          "language": "French - Ligue 1+",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MZYSAggUwRFRAxsC2SJASJIEDTmatIEpNUBjEFmmqQweSfkwtM-mEEim2emELAkuIzKFPWCBcyGQIVMCdgILIIIA.webp"
-    },
-    {
       "id": "ppv-brighton-hove-albion-vs-crystal-palace",
       "title": "Brighton & Hove Albion vs. Crystal Palace",
       "sport": "football",
@@ -4277,6 +4263,78 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMbAIUkIjLxgVCcEQQQS4SJDadW6SR1KsskAcTCQamMprGIKctIFCRTbPTCFgSXOIdCwbk5pTTIHAhVyQKlSKSA.webp"
+    },
+    {
+      "id": "ppv-fiorentina-vs-como",
+      "title": "Fiorentina vs. Como",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-10-18T13:00:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-fiorentina-vs-como/1",
+          "language": "English - Paramount+",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-fiorentina-vs-como/2",
+          "language": "English - Paramount+",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52IAMakRIGRGBUQiOUpDDF0iCBSKtO8VuCIFMtVgnyZEq1RTk5AoSKbZ6YQsCS5xtoWG6c5YSlbAkNyP2A5MgggA.webp"
+    },
+    {
+      "id": "ppv-angers-vs-marseille",
+      "title": "Angers vs. Marseille",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-10-18T13:00:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-angers-vs-marseille/1",
+          "language": "French - Ligue 1+",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-angers-vs-marseille/2",
+          "language": "French - Ligue 1+",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MZYSAggUwRFRAxsC2SJASJIEDTmatIEpNUBjEFmmqQweSfkwtM-mEEim2emELAkuIzKFPWCBcyGQIVMCdgILIIIA.webp"
     },
     {
       "id": "ppv-bayer-leverkusen-vs-sc-freiburg",
@@ -4351,8 +4409,8 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEiBggIweNlKyRkkCGAyZcuViUpxpZbt0QQNGlhUhN4kNpIpyMgUJFN59sIWBJcAY3tCwbk4ZYQV7AkUwQLUFCCA.webp"
     },
     {
-      "id": "ppv-malm-ff-vs-bk-h-cken",
-      "title": "Malmö FF vs. BK Häcken",
+      "id": "ppv-rgryte-is-vs-gais",
+      "title": "Örgryte IS vs. GAIS",
       "sport": "football",
       "competition": "football",
       "status": "UPCOMING",
@@ -4370,21 +4428,21 @@
       "streams": [
         {
           "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-malm-ff-vs-bk-h-cken/1",
+          "embedUrl": "https://embed.st/embed/admin/ppv-rgryte-is-vs-gais/1",
           "language": "Swedish - TV4 Play",
           "hd": true,
           "quality": "HD"
         },
         {
           "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-malm-ff-vs-bk-h-cken/2",
+          "embedUrl": "https://embed.st/embed/admin/ppv-rgryte-is-vs-gais/2",
           "language": "Swedish - TV4 Play",
           "hd": false,
           "quality": "SD"
         }
       ],
       "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEiBTAIwKiGHYRIRFIUy58aZMVyY84IgUbFWEMcRyJEmFP5hBIpotuFgSXAGMpQ+6xkKyKQIDcntpUmkgA.webp"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEiEQpSk4BBDyqIGHOwjlGgMYiZIYEu1YQ0xGUXr5hkDSrT+YQToJq7hYElybpQh6wg6yaWd4cgdVMyA.webp"
     },
     {
       "id": "ppv-halmstads-bk-vs-hammarby-if",
@@ -4423,8 +4481,8 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEEDTJYQZRNJrCJIcbOCJ4akMOwgAxiA3SNx4JJApswcWd0X+YQSKaW7hYEly2h5bpwhOyCwI1cgcrUisgA.webp"
     },
     {
-      "id": "ppv-rgryte-is-vs-gais",
-      "title": "Örgryte IS vs. GAIS",
+      "id": "ppv-malm-ff-vs-bk-h-cken",
+      "title": "Malmö FF vs. BK Häcken",
       "sport": "football",
       "competition": "football",
       "status": "UPCOMING",
@@ -4442,21 +4500,21 @@
       "streams": [
         {
           "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-rgryte-is-vs-gais/1",
+          "embedUrl": "https://embed.st/embed/admin/ppv-malm-ff-vs-bk-h-cken/1",
           "language": "Swedish - TV4 Play",
           "hd": true,
           "quality": "HD"
         },
         {
           "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-rgryte-is-vs-gais/2",
+          "embedUrl": "https://embed.st/embed/admin/ppv-malm-ff-vs-bk-h-cken/2",
           "language": "Swedish - TV4 Play",
           "hd": false,
           "quality": "SD"
         }
       ],
       "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEiEQpSk4BBDyqIGHOwjlGgMYiZIYEu1YQ0xGUXr5hkDSrT+YQToJq7hYElybpQh6wg6yaWd4cgdVMyA.webp"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEiBTAIwKiGHYRIRFIUy58aZMVyY84IgUbFWEMcRyJEmFP5hBIpotuFgSXAGMpQ+6xkKyKQIDcntpUmkgA.webp"
     },
     {
       "id": "ppv-fc-groningen-vs-ajax-amsterdam",
@@ -4493,42 +4551,6 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IYSCogUIRIikBjYPGBSyWWZNUjl4kCFIglEPYhSrJIDYgWzsIGOf5hBOgtnphCwJLgXmhF1YIHTJzdxUwF2AQsgggA.webp"
-    },
-    {
-      "id": "ppv-paris-fc-vs-stade-rennais",
-      "title": "Paris FC vs. Stade Rennais",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-18T15:15:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-paris-fc-vs-stade-rennais/1",
-          "language": "French - Ligue 1+",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-paris-fc-vs-stade-rennais/2",
-          "language": "French - Ligue 1+",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEEBGzAqIAMbBJ42SBTYQWYPBHSQJEMJEgYIE1qW71C-WpMaZZEqv5hB2glKeFgSXLNVCXVkkDMlV3LTAXBVIFIA.webp"
     },
     {
       "id": "ppv-le-havre-ac-vs-aj-auxerre",
@@ -4603,8 +4625,8 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE522EPGBUQEUiBpYZIZcJDDxyiBOUiJU4IhTZ9JEIsTrVp1TCP8wgkU2N3CwJLgDGRoQ9az1MiMCA3IHYFkyCCA.webp"
     },
     {
-      "id": "ppv-borussia-m-nchengladbach-vs-tsg-hoffenheim",
-      "title": "Borussia Mönchengladbach vs. TSG Hoffenheim",
+      "id": "ppv-paris-fc-vs-stade-rennais",
+      "title": "Paris FC vs. Stade Rennais",
       "sport": "football",
       "competition": "football",
       "status": "UPCOMING",
@@ -4618,25 +4640,25 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-10-18T15:30:00Z",
+      "matchTimeUTC": "2026-10-18T15:15:00Z",
       "streams": [
         {
           "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-borussia-m-nchengladbach-vs-tsg-hoffenheim/1",
-          "language": "English - Bundesliga",
+          "embedUrl": "https://embed.st/embed/admin/ppv-paris-fc-vs-stade-rennais/1",
+          "language": "French - Ligue 1+",
           "hd": true,
           "quality": "HD"
         },
         {
           "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-borussia-m-nchengladbach-vs-tsg-hoffenheim/2",
-          "language": "English - Bundesliga",
+          "embedUrl": "https://embed.st/embed/admin/ppv-paris-fc-vs-stade-rennais/2",
+          "language": "French - Ligue 1+",
           "hd": false,
           "quality": "SD"
         }
       ],
       "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IMmRokQMcdhEgUIYSFVZgiAMbAIpYFUUhEqmAohGjOkdfPrbKcroFDrBeQ7CFgSXJodCwbk5dYT0HN3hyQKsyCCA.webp"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEEBGzAqIAMbBJ42SBTYQWYPBHSQJEMJEgYIE1qW71C-WpMaZZEqv5hB2glKeFgSXLNVCXVkkDMlV3LTAXBVIFIA.webp"
     },
     {
       "id": "ppv-nottingham-forest-vs-arsenal",
@@ -4673,6 +4695,42 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRBBBkSIGsOCIspUiCwgAxiojAqIFCGEht2+SdXKZNMkpMiRKctoFC7BbPTCFgSXOodCwbk5bMgc3eHJA4G0yCCA.webp"
+    },
+    {
+      "id": "ppv-borussia-m-nchengladbach-vs-tsg-hoffenheim",
+      "title": "Borussia Mönchengladbach vs. TSG Hoffenheim",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-10-18T15:30:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-borussia-m-nchengladbach-vs-tsg-hoffenheim/1",
+          "language": "English - Bundesliga",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-borussia-m-nchengladbach-vs-tsg-hoffenheim/2",
+          "language": "English - Bundesliga",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IMmRokQMcdhEgUIYSFVZgiAMbAIpYFUUhEqmAohGjOkdfPrbKcroFDrBeQ7CFgSXJodCwbk5dYT0HN3hyQKsyCCA.webp"
     },
     {
       "id": "ppv-ac-milan-vs-atalanta",
@@ -4747,42 +4805,6 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MwkAGMRkmVhAlJweEpDiYIENIUbhpaeqniqIORJA05KGRZC9yEUGEEim2emELAkuCSiHluTgddMj8CJXInYAcyCCA.webp"
     },
     {
-      "id": "ppv-fc-twente-vs-fc-utrecht",
-      "title": "FC Twente vs. FC Utrecht",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-18T18:00:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-fc-twente-vs-fc-utrecht/1",
-          "language": "Dutch - ESPN",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-fc-twente-vs-fc-utrecht/2",
-          "language": "Dutch - ESPN",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEEMJDiIIkFRABjEInkoQIbNjkgSIGItnz1+9WXFKUwcVhBZZakJf5hBIppqeFgSXAstCXVhlhUnoCYHhyFytQiCA.webp"
-    },
-    {
       "id": "ppv-nec-nijmegen-vs-fortuna-sittard",
       "title": "NEC Nijmegen vs. Fortuna Sittard",
       "sport": "football",
@@ -4819,8 +4841,8 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGCElkS4kCjkjgVEDPnxFEYBBDKsILNkXrNesrpCIDB81RTlNAoYoKG7YQsCS4AxnaFhuTk1hUnoXdTAArVCIIA.webp"
     },
     {
-      "id": "ppv-juventus-vs-lazio",
-      "title": "Juventus vs. Lazio",
+      "id": "ppv-fc-twente-vs-fc-utrecht",
+      "title": "FC Twente vs. FC Utrecht",
       "sport": "football",
       "competition": "football",
       "status": "UPCOMING",
@@ -4834,25 +4856,25 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-10-18T18:45:00Z",
+      "matchTimeUTC": "2026-10-18T18:00:00Z",
       "streams": [
         {
           "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-juventus-vs-lazio/1",
-          "language": "English - Paramount+",
+          "embedUrl": "https://embed.st/embed/admin/ppv-fc-twente-vs-fc-utrecht/1",
+          "language": "Dutch - ESPN",
           "hd": true,
           "quality": "HD"
         },
         {
           "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-juventus-vs-lazio/2",
-          "language": "English - Paramount+",
+          "embedUrl": "https://embed.st/embed/admin/ppv-fc-twente-vs-fc-utrecht/2",
+          "language": "Dutch - ESPN",
           "hd": false,
           "quality": "SD"
         }
       ],
       "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICOPHYQKEFhlyQJECoDGIVSJGSJVOduUSJIYBC1lhIS5eMiU5MwKFaC2emELAkuVfaFhuTjNhUnpXeHIA01CIIA.webp"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEEMJDiIIkFRABjEInkoQIbNjkgSIGItnz1+9WXFKUwcVhBZZakJf5hBIppqeFgSXAstCXVhlhUnoCYHhyFytQiCA.webp"
     },
     {
       "id": "ppv-lyon-vs-nice",
@@ -4889,6 +4911,42 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IKuNIgI4kAGNSIkDBAgl8YDQ0SIIvbqwgUwGapSqQZGSpmJDJY-zCC9BbPTCFgSXHONDnVl1hRWM3DTBnE0UIIA.webp"
+    },
+    {
+      "id": "ppv-juventus-vs-lazio",
+      "title": "Juventus vs. Lazio",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-10-18T18:45:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-juventus-vs-lazio/1",
+          "language": "English - Paramount+",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-juventus-vs-lazio/2",
+          "language": "English - Paramount+",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICOPHYQKEFhlyQJECoDGIVSJGSJVOduUSJIYBC1lhIS5eMiU5MwKFaC2emELAkuVfaFhuTjNhUnpXeHIA01CIIA.webp"
     },
     {
       "id": "ppv-real-madrid-vs-sevilla",
