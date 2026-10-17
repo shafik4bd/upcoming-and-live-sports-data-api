@@ -1,94 +1,10 @@
 {
-  "lastUpdated": "2026-10-17T07:23:41Z",
-  "fetchDuration": "98.3s",
-  "totalMatches": 116,
-  "liveCount": 5,
-  "upcomingCount": 111,
+  "lastUpdated": "2026-10-17T11:54:13Z",
+  "fetchDuration": "67.1s",
+  "totalMatches": 111,
+  "liveCount": 3,
+  "upcomingCount": 108,
   "matches": [
-    {
-      "id": "cleveland-guardians-vs-tampa-bay-rays-baseball-190168",
-      "title": "Cleveland Guardians vs Tampa Bay Rays",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-17T00:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
-    },
-    {
-      "id": "los-angeles-lakers-vs-denver-nuggets-2601664",
-      "title": "Los Angeles Lakers vs Denver Nuggets",
-      "sport": "basketball",
-      "competition": "basketball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-17T02:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMiRApgABhAgGIbiD4hNKXCEQQztmAWBIKfYbPoowK7W0-l6WWW0mWjBPMVEIIA.webp"
-    },
-    {
-      "id": "south-east-melbourne-phoenix-vs-cairns-taipans-2487914",
-      "title": "South East Melbourne Phoenix vs Cairns Taipans",
-      "sport": "basketball",
-      "competition": "basketball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-17T06:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFJBaYlOSG76NRkiBggTmiCESNgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
-    },
-    {
-      "id": "6-hours-of-barcelona-free-practice-3---lmgt3-2490533",
-      "title": "6 Hours of Barcelona Free Practice 3 - LMGT3",
-      "sport": "motor-sports",
-      "competition": "motor-sports",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-17T06:50:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
-    },
     {
       "id": "one-samurai-4-2612261",
       "title": "ONE Samurai 4",
@@ -109,6 +25,63 @@
       "streams": [],
       "streamCount": 0,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICOJAoQNLMCoh480iBjYQZYRpAhSwCVhDDgiXVrk0JZJYhg6NIlOQigwgkU2z0whYElwAxk5CbqwuxmROBCbkbvp6EEA.webp"
+    },
+    {
+      "id": "ppv-dutch-darts-championship-day-2-afternoon-session",
+      "title": "Dutch Darts Championship | Day 2 - Afternoon Session",
+      "sport": "darts",
+      "competition": "darts",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-10-17T11:00:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-dutch-darts-championship-day-2-afternoon-session/1",
+          "language": "English - PDC.TV",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-dutch-darts-championship-day-2-afternoon-session/2",
+          "language": "English - PDC.TV",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MNRChBksIAMYhhIJfJkxgEEDBARsISUqWTFE4PGA1hpuaStLEJFOR0ChIptnphCwJLlmOhMG5OHUsyRwJTciD1GwggA.webp"
+    },
+    {
+      "id": "everton-vs-chelsea-2494063",
+      "title": "Everton vs Chelsea",
+      "sport": "football",
+      "competition": "football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-10-17T11:30:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFGG7kIIKQhDcQfECZIgUIRIbOIUBYEgp9hs+hpUouYMvCJZZnky0YN5iohBAA.webp"
     },
     {
       "id": "admin-tennis-channel",
@@ -355,66 +328,8 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IMmUQQQKEInjAqICNlIgliDWqziQWYCpolxwRAGMT+6cOVre5FQKEimqlOULAkuM+6FhuThVhUnoCU3IAg1CIIA.webp"
     },
     {
-      "id": "jerez-free-practice-3-worldsbk-1792222500",
-      "title": "Jerez — Free Practice 3",
-      "sport": "other",
-      "competition": "other",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-17T07:35:00Z",
-      "streams": [
-        {
-          "source": "hotel",
-          "embedUrl": "https://embed.st/embed/hotel/jerez-free-practice-3-worldsbk-1792222500/1",
-          "language": "Main",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 1,
-      "poster": ""
-    },
-    {
-      "id": "jerez-warm-up-world-sportbike-championship-1792224300",
-      "title": "Jerez — Warm-Up",
-      "sport": "other",
-      "competition": "other",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-17T08:05:00Z",
-      "streams": [
-        {
-          "source": "hotel",
-          "embedUrl": "https://embed.st/embed/hotel/jerez-warm-up-world-sportbike-championship-1792224300/1",
-          "language": "Main",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 1,
-      "poster": ""
-    },
-    {
-      "id": "sydney-kings-vs-perth-wildcats-2487915",
-      "title": "Sydney Kings vs Perth Wildcats",
+      "id": "los-angeles-lakers-vs-denver-nuggets-2601664",
+      "title": "Los Angeles Lakers vs Denver Nuggets",
       "sport": "basketball",
       "competition": "basketball",
       "status": "UPCOMING",
@@ -428,96 +343,10 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-10-17T08:30:00Z",
+      "matchTimeUTC": "2026-10-17T02:30:00Z",
       "streams": [],
       "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8reGBTEwIOIm4g+hkPpARcIS1JASmSCn2Gz6KMCq1s35elllamtGBuYqIQQA.webp"
-    },
-    {
-      "id": "jerez-superpole-worldsbk-1792228500",
-      "title": "Jerez — Superpole",
-      "sport": "other",
-      "competition": "other",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-17T09:15:00Z",
-      "streams": [
-        {
-          "source": "hotel",
-          "embedUrl": "https://embed.st/embed/hotel/jerez-superpole-worldsbk-1792228500/1",
-          "language": "Main",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "hotel",
-          "embedUrl": "https://embed.st/embed/hotel/jerez-superpole-worldsbk-1792228500/2",
-          "language": "Powered by TNT Sports",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": ""
-    },
-    {
-      "id": "jerez-race-1-world-sportbike-championship-1792234800",
-      "title": "Jerez — Race 1",
-      "sport": "other",
-      "competition": "other",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-17T11:00:00Z",
-      "streams": [
-        {
-          "source": "hotel",
-          "embedUrl": "https://embed.st/embed/hotel/jerez-race-1-world-sportbike-championship-1792234800/1",
-          "language": "Main",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 1,
-      "poster": ""
-    },
-    {
-      "id": "everton-vs-chelsea-2494063",
-      "title": "Everton vs Chelsea",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-17T11:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFGG7kIIKQhDcQfECZIgUIRIbOIUBYEgp9hs+hpUouYMvCJZZnky0YN5iohBAA.webp"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMiRApgABhAgGIbiD4hNKXCEQQztmAWBIKfYbPoowK7W0-l6WWW0mWjBPMVEIIA.webp"
     },
     {
       "id": "espanyol-vs-atl-tico-madrid-2506253",
@@ -539,6 +368,35 @@
       "streams": [],
       "streamCount": 0,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAyCIIGCCUhuIPiBPaUOvSBK4rBYEgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp"
+    },
+    {
+      "id": "jerez-race-1-supersport-world-championship-1792238400",
+      "title": "Jerez — Race 1",
+      "sport": "other",
+      "competition": "other",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-10-17T12:00:00Z",
+      "streams": [
+        {
+          "source": "hotel",
+          "embedUrl": "https://embed.st/embed/hotel/jerez-race-1-supersport-world-championship-1792238400/1",
+          "language": "Main",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 1,
+      "poster": ""
     },
     {
       "id": "venezia-vs-napoli-2482205",
@@ -665,42 +523,6 @@
       "streams": [],
       "streamCount": 0,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VWvCL0+YECG4g+ekIhiGQU8yRMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
-    },
-    {
-      "id": "jerez-race-1-worldsbk-1792243800",
-      "title": "Jerez — Race 1",
-      "sport": "other",
-      "competition": "other",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-17T13:30:00Z",
-      "streams": [
-        {
-          "source": "hotel",
-          "embedUrl": "https://embed.st/embed/hotel/jerez-race-1-worldsbk-1792243800/1",
-          "language": "Main",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "hotel",
-          "embedUrl": "https://embed.st/embed/hotel/jerez-race-1-worldsbk-1792243800/2",
-          "language": "Powered by TNT Sports",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": ""
     },
     {
       "id": "114-vs-ipswich-town-premier-league-1792245600",
@@ -1874,6 +1696,64 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFCBlSwvJCBIhuIPvtNSQG84g0wCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
     },
     {
+      "id": "jerez-warm-up-worldsbk-1792308900",
+      "title": "Jerez — Warm-Up",
+      "sport": "other",
+      "competition": "other",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-10-18T07:35:00Z",
+      "streams": [
+        {
+          "source": "hotel",
+          "embedUrl": "https://embed.st/embed/hotel/jerez-warm-up-worldsbk-1792308900/1",
+          "language": "Main",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 1,
+      "poster": ""
+    },
+    {
+      "id": "jerez-superpole-race-worldsbk-1792314600",
+      "title": "Jerez — Superpole Race",
+      "sport": "other",
+      "competition": "other",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-10-18T09:10:00Z",
+      "streams": [
+        {
+          "source": "hotel",
+          "embedUrl": "https://embed.st/embed/hotel/jerez-superpole-race-worldsbk-1792314600/1",
+          "language": "Main",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 1,
+      "poster": ""
+    },
+    {
       "id": "pec-zwolle-vs-go-ahead-eagles-2489143",
       "title": "PEC Zwolle vs Go Ahead Eagles",
       "sport": "football",
@@ -2663,42 +2543,6 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCEnDxwCCGGl5IKiBQgIwRJLUpZerCM0iQMZYrWJEusio2jyGgUMMFs9MIWBJcAY11Cwbk47UnpXeHJAvTIIIA.webp"
     },
     {
-      "id": "ppv-tottenham-hotspur-vs-coventry-city",
-      "title": "Tottenham Hotspur vs. Coventry City",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-19T19:00:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-tottenham-hotspur-vs-coventry-city/1",
-          "language": "English - Premier League",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-tottenham-hotspur-vs-coventry-city/2",
-          "language": "English - Premier League",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRFmA1EwkeJABjYBBCSIy7CFkkQMLSCogde2ZJ0KQKRYo3wRpZSnLqBQ+wWz0whYElwKnITBuTnVteg87MGCNMgggA.webp"
-    },
-    {
       "id": "ppv-getafe-vs-rayo-vallecano",
       "title": "Getafe vs. Rayo Vallecano",
       "sport": "football",
@@ -2733,6 +2577,42 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGCETxgEEFhAoQw0uJAgZK2QGNgieVRBaFK5dOEgIumRbm3FiLSnKWBQkU2z0whYElyO3MG5OS2UyJwIrMCCNMgggA.webp"
+    },
+    {
+      "id": "ppv-tottenham-hotspur-vs-coventry-city",
+      "title": "Tottenham Hotspur vs. Coventry City",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-10-19T19:00:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-tottenham-hotspur-vs-coventry-city/1",
+          "language": "English - Premier League",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-tottenham-hotspur-vs-coventry-city/2",
+          "language": "English - Premier League",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRFmA1EwkeJABjYBBCSIy7CFkkQMLSCogde2ZJ0KQKRYo3wRpZSnLqBQ+wWz0whYElwKnITBuTnVteg87MGCNMgggA.webp"
     }
   ]
 }
