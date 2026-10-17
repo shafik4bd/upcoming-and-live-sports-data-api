@@ -1,13 +1,13 @@
 {
-  "lastUpdated": "2026-10-17T11:54:13Z",
-  "fetchDuration": "67.1s",
-  "totalMatches": 111,
-  "liveCount": 3,
-  "upcomingCount": 108,
+  "lastUpdated": "2026-10-17T14:45:12Z",
+  "fetchDuration": "81.7s",
+  "totalMatches": 108,
+  "liveCount": 14,
+  "upcomingCount": 94,
   "matches": [
     {
-      "id": "one-samurai-4-2612261",
-      "title": "ONE Samurai 4",
+      "id": "ppv-one-samurai-4-haggerty-vs-akimoto",
+      "title": "ONE Samurai 4: Haggerty vs. Akimoto",
       "sport": "fight",
       "competition": "fight",
       "status": "LIVE",
@@ -22,8 +22,23 @@
         }
       },
       "matchTimeUTC": "2026-10-17T07:00:00Z",
-      "streams": [],
-      "streamCount": 0,
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-one-samurai-4-haggerty-vs-akimoto/1",
+          "language": "Japanese - U-NEXT",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-one-samurai-4-haggerty-vs-akimoto/2",
+          "language": "Japanese - U-NEXT",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICOJAoQNLMCoh480iBjYQZYRpAhSwCVhDDgiXVrk0JZJYhg6NIlOQigwgkU2z0whYElwAxk5CbqwuxmROBCbkbvp6EEA.webp"
     },
     {
@@ -63,8 +78,8 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MNRChBksIAMYhhIJfJkxgEEDBARsISUqWTFE4PGA1hpuaStLEJFOR0ChIptnphCwJLlmOhMG5OHUsyRwJTciD1GwggA.webp"
     },
     {
-      "id": "everton-vs-chelsea-2494063",
-      "title": "Everton vs Chelsea",
+      "id": "venezia-vs-napoli-2482205",
+      "title": "Venezia vs Napoli",
       "sport": "football",
       "competition": "football",
       "status": "LIVE",
@@ -78,10 +93,249 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-10-17T11:30:00Z",
+      "matchTimeUTC": "2026-10-17T13:00:00Z",
       "streams": [],
       "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFGG7kIIKQhDcQfECZIgUIRIbOIUBYEgp9hs+hpUouYMvCJZZnky0YN5iohBAA.webp"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJMA0kQUolJDcQfECZgmQKC1cuNNFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp"
+    },
+    {
+      "id": "werder-bremen-vs-paderborn-2508379",
+      "title": "Werder Bremen vs Paderborn",
+      "sport": "football",
+      "competition": "football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-10-17T13:30:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VWvCL0+YECG4g+ekIhiGQU8yRMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
+    },
+    {
+      "id": "schalke-04-vs-mainz-2508383",
+      "title": "Schalke 04 vs Mainz",
+      "sport": "football",
+      "competition": "football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-10-17T13:30:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWvQF8wKUCG4gpIEsZBmDZmCESNgSCn2Gz6KMCt1s35ellm6mtGBuYqIQQA.webp"
+    },
+    {
+      "id": "hamburg-vs-stuttgart-2508384",
+      "title": "Hamburg vs Stuttgart",
+      "sport": "football",
+      "competition": "football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-10-17T13:30:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VECCkJmXKSG4g+IEiAggYp-Vb0wCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
+    },
+    {
+      "id": "union-berlin-vs-borussia-dortmund-2508385",
+      "title": "Union Berlin vs Borussia Dortmund",
+      "sport": "football",
+      "competition": "football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-10-17T13:30:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbiAggYIGVLB8QGwyU3azG0zpQFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
+    },
+    {
+      "id": "elversberg-vs-augsburg-2508386",
+      "title": "Elversberg vs Augsburg",
+      "sport": "football",
+      "competition": "football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-10-17T13:30:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEH2xtIIFJRDcNIY4hhGpRkiBIFgSCn2Gz6KMCr3ay8Illl6mtGBuYqIQQA.webp"
+    },
+    {
+      "id": "fulham-vs-hull-city-2494062",
+      "title": "Fulham vs Hull City",
+      "sport": "football",
+      "competition": "football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-10-17T14:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rPiFEhKYJJpDcQGkCAj6zKEIkQKmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
+    },
+    {
+      "id": "manchester-city-vs-ipswich-town-2494065",
+      "title": "Manchester City vs Ipswich Town",
+      "sport": "football",
+      "competition": "football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-10-17T14:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rXjm5gNIGCG4g+IYxBAkQplCESI+BYEgp3WIsSjAqUXD+XpZZXky0YB5iohBAA.webp"
+    },
+    {
+      "id": "brentford-vs-liverpool-2494067",
+      "title": "Brentford vs Liverpool",
+      "sport": "football",
+      "competition": "football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-10-17T14:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECjAhgSfmKkhuIPiFMQQJEOZQhEiDUyQU+w2fU0qUXMGXhEssl5MtGA+YqIQQA.webp"
+    },
+    {
+      "id": "114-vs-ipswich-town-premier-league-1792245600",
+      "title": "114 vs Ipswich Town",
+      "sport": "football",
+      "competition": "football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-10-17T14:00:00Z",
+      "streams": [
+        {
+          "source": "hotel",
+          "embedUrl": "https://embed.st/embed/hotel/114-vs-ipswich-town-premier-league-1792245600/1",
+          "language": "Main",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 1,
+      "poster": ""
+    },
+    {
+      "id": "villarreal-vs-elche-2506250",
+      "title": "Villarreal vs Elche",
+      "sport": "football",
+      "competition": "football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-10-17T14:15:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFCBjsw3MElIhuIPiFMQQGmCHMlcmgsCQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp"
+    },
+    {
+      "id": "ado-den-haag-vs-psv-eindhoven-2489139",
+      "title": "ADO Den Haag vs PSV Eindhoven",
+      "sport": "football",
+      "competition": "football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-10-17T14:30:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELyx1szMNw0g+IYzhz6YICxakFgSCn2Gz6KMCpRc35eltEemtGBuYqIQQA.webp"
     },
     {
       "id": "admin-tennis-channel",
@@ -326,337 +580,6 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IMmUQQQKEInjAqICNlIgliDWqziQWYCpolxwRAGMT+6cOVre5FQKEimqlOULAkuM+6FhuThVhUnoCU3IAg1CIIA.webp"
-    },
-    {
-      "id": "los-angeles-lakers-vs-denver-nuggets-2601664",
-      "title": "Los Angeles Lakers vs Denver Nuggets",
-      "sport": "basketball",
-      "competition": "basketball",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-17T02:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMiRApgABhAgGIbiD4hNKXCEQQztmAWBIKfYbPoowK7W0-l6WWW0mWjBPMVEIIA.webp"
-    },
-    {
-      "id": "espanyol-vs-atl-tico-madrid-2506253",
-      "title": "Espanyol vs Atlético Madrid",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-17T12:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAyCIIGCCUhuIPiBPaUOvSBK4rBYEgp9hs+ijAqUXd+XpZZnplowdzFRCCA.webp"
-    },
-    {
-      "id": "jerez-race-1-supersport-world-championship-1792238400",
-      "title": "Jerez — Race 1",
-      "sport": "other",
-      "competition": "other",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-17T12:00:00Z",
-      "streams": [
-        {
-          "source": "hotel",
-          "embedUrl": "https://embed.st/embed/hotel/jerez-race-1-supersport-world-championship-1792238400/1",
-          "language": "Main",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 1,
-      "poster": ""
-    },
-    {
-      "id": "venezia-vs-napoli-2482205",
-      "title": "Venezia vs Napoli",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-17T13:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJMA0kQUolJDcQfECZgmQKC1cuNNFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp"
-    },
-    {
-      "id": "elversberg-vs-augsburg-2508386",
-      "title": "Elversberg vs Augsburg",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-17T13:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEH2xtIIFJRDcNIY4hhGpRkiBIFgSCn2Gz6KMCr3ay8Illl6mtGBuYqIQQA.webp"
-    },
-    {
-      "id": "union-berlin-vs-borussia-dortmund-2508385",
-      "title": "Union Berlin vs Borussia Dortmund",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-17T13:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rbiAggYIGVLB8QGwyU3azG0zpQFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
-    },
-    {
-      "id": "hamburg-vs-stuttgart-2508384",
-      "title": "Hamburg vs Stuttgart",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-17T13:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VECCkJmXKSG4g+IEiAggYp-Vb0wCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "schalke-04-vs-mainz-2508383",
-      "title": "Schalke 04 vs Mainz",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-17T13:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rWvQF8wKUCG4gpIEsZBmDZmCESNgSCn2Gz6KMCt1s35ellm6mtGBuYqIQQA.webp"
-    },
-    {
-      "id": "werder-bremen-vs-paderborn-2508379",
-      "title": "Werder Bremen vs Paderborn",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-17T13:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VWvCL0+YECG4g+ekIhiGQU8yRMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
-    },
-    {
-      "id": "114-vs-ipswich-town-premier-league-1792245600",
-      "title": "114 vs Ipswich Town",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-17T14:00:00Z",
-      "streams": [
-        {
-          "source": "hotel",
-          "embedUrl": "https://embed.st/embed/hotel/114-vs-ipswich-town-premier-league-1792245600/1",
-          "language": "Main",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 1,
-      "poster": ""
-    },
-    {
-      "id": "brentford-vs-liverpool-2494067",
-      "title": "Brentford vs Liverpool",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-17T14:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECjAhgSfmKkhuIPiFMQQJEOZQhEiDUyQU+w2fU0qUXMGXhEssl5MtGA+YqIQQA.webp"
-    },
-    {
-      "id": "manchester-city-vs-ipswich-town-2494065",
-      "title": "Manchester City vs Ipswich Town",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-17T14:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rXjm5gNIGCG4g+IYxBAkQplCESI+BYEgp3WIsSjAqUXD+XpZZXky0YB5iohBAA.webp"
-    },
-    {
-      "id": "fulham-vs-hull-city-2494062",
-      "title": "Fulham vs Hull City",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-17T14:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rPiFEhKYJJpDcQGkCAj6zKEIkQKmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
-    },
-    {
-      "id": "villarreal-vs-elche-2506250",
-      "title": "Villarreal vs Elche",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-17T14:15:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFCBjsw3MElIhuIPiFMQQGmCHMlcmgsCQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp"
-    },
-    {
-      "id": "ado-den-haag-vs-psv-eindhoven-2489139",
-      "title": "ADO Den Haag vs PSV Eindhoven",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-17T14:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELyx1szMNw0g+IYzhz6YICxakFgSCn2Gz6KMCpRc35eltEemtGBuYqIQQA.webp"
     },
     {
       "id": "strasbourg-vs-paris-saint-germain-2489519",
@@ -1859,6 +1782,35 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMCDL18IPmBQhuIKbs3GQFxBZiaCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
     },
     {
+      "id": "jerez-race-2-supersport-world-championship-1792324800",
+      "title": "Jerez — Race 2",
+      "sport": "other",
+      "competition": "other",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-10-18T12:00:00Z",
+      "streams": [
+        {
+          "source": "hotel",
+          "embedUrl": "https://embed.st/embed/hotel/jerez-race-2-supersport-world-championship-1792324800/1",
+          "language": "Main",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 1,
+      "poster": ""
+    },
+    {
       "id": "cambuur-vs-az-alkmaar-2489145",
       "title": "Cambuur vs AZ Alkmaar",
       "sport": "football",
@@ -2543,42 +2495,6 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ILCEnDxwCCGGl5IKiBQgIwRJLUpZerCM0iQMZYrWJEusio2jyGgUMMFs9MIWBJcAY11Cwbk47UnpXeHJAvTIIIA.webp"
     },
     {
-      "id": "ppv-getafe-vs-rayo-vallecano",
-      "title": "Getafe vs. Rayo Vallecano",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-19T19:00:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-getafe-vs-rayo-vallecano/1",
-          "language": "English - ESPN+",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-getafe-vs-rayo-vallecano/2",
-          "language": "English - ESPN+",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGCETxgEEFhAoQw0uJAgZK2QGNgieVRBaFK5dOEgIumRbm3FiLSnKWBQkU2z0whYElyO3MG5OS2UyJwIrMCCNMgggA.webp"
-    },
-    {
       "id": "ppv-tottenham-hotspur-vs-coventry-city",
       "title": "Tottenham Hotspur vs. Coventry City",
       "sport": "football",
@@ -2613,6 +2529,42 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IRFmA1EwkeJABjYBBCSIy7CFkkQMLSCogde2ZJ0KQKRYo3wRpZSnLqBQ+wWz0whYElwKnITBuTnVteg87MGCNMgggA.webp"
+    },
+    {
+      "id": "ppv-getafe-vs-rayo-vallecano",
+      "title": "Getafe vs. Rayo Vallecano",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-10-19T19:00:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-getafe-vs-rayo-vallecano/1",
+          "language": "English - ESPN+",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-getafe-vs-rayo-vallecano/2",
+          "language": "English - ESPN+",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IGCETxgEEFhAoQw0uJAgZK2QGNgieVRBaFK5dOEgIumRbm3FiLSnKWBQkU2z0whYElyO3MG5OS2UyJwIrMCCNMgggA.webp"
     }
   ]
 }
