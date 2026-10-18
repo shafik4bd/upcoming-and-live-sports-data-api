@@ -1,31 +1,10 @@
 {
-  "lastUpdated": "2026-10-18T19:08:20Z",
-  "fetchDuration": "54.8s",
-  "totalMatches": 53,
-  "liveCount": 13,
-  "upcomingCount": 40,
+  "lastUpdated": "2026-10-18T22:07:30Z",
+  "fetchDuration": "53.0s",
+  "totalMatches": 46,
+  "liveCount": 8,
+  "upcomingCount": 38,
   "matches": [
-    {
-      "id": "m-laga-vs-real-sociedad-2506251",
-      "title": "Málaga vs Real Sociedad",
-      "sport": "football",
-      "competition": "football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-18T16:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFHNzAk1CCG4g+IY3pQgYIPSVy4C2in2Gz6KMCo1s35ellkamtGBuYqIQQA.webp"
-    },
     {
       "id": "ppv-nfl-red-zone",
       "title": "NFL RedZone",
@@ -63,8 +42,94 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52IKuJFT42bCBggIIRFhABjKRGCIFiYcAlK1yg8C2IQ2kCllaIN-mEFSCsh4WBJcam0KestfTIbVxkwJzNSMyA.webp"
     },
     {
-      "id": "atlanta-falcons-vs-chicago-bears-2475455",
-      "title": "Atlanta Falcons vs Chicago Bears",
+      "id": "ppv-dutch-darts-championship-day-3-evening-session",
+      "title": "Dutch Darts Championship | Day 3 - Evening Session",
+      "sport": "darts",
+      "competition": "darts",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-10-18T19:00:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-dutch-darts-championship-day-3-evening-session/1",
+          "language": "English - PDC.TV",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-dutch-darts-championship-day-3-evening-session/2",
+          "language": "English - PDC.TV",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MNRChBksIAMYhhIJfJkxgEEDBARsISUqWTFE4PGA1hpuaStLEJFOR0ChIptnphCwJLlmOhMG5OHUsyRwJTciD1GwggA.webp"
+    },
+    {
+      "id": "phoenix-raceway-the-chase-race-freeway-insurance-500-nascar-cup-series-1792350000",
+      "title": "Phoenix Raceway — The Chase - Race: Freeway Insurance 500",
+      "sport": "motor-sports",
+      "competition": "motor-sports",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-10-18T19:00:00Z",
+      "streams": [
+        {
+          "source": "hotel",
+          "embedUrl": "https://embed.st/embed/hotel/phoenix-raceway-the-chase-race-freeway-insurance-500-nascar-cup-series-1792350000/1",
+          "language": "Main",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "hotel",
+          "embedUrl": "https://embed.st/embed/hotel/phoenix-raceway-the-chase-race-freeway-insurance-500-nascar-cup-series-1792350000/2",
+          "language": "International",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "hotel",
+          "embedUrl": "https://embed.st/embed/hotel/phoenix-raceway-the-chase-race-freeway-insurance-500-nascar-cup-series-1792350000/3",
+          "language": "Chase Leaders Multiview",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "hotel",
+          "embedUrl": "https://embed.st/embed/hotel/phoenix-raceway-the-chase-race-freeway-insurance-500-nascar-cup-series-1792350000/4",
+          "language": "Featured Drivers Multiview",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 4,
+      "poster": ""
+    },
+    {
+      "id": "los-angeles-rams-vs-arizona-cardinals-2475462",
+      "title": "Los Angeles Rams vs Arizona Cardinals",
       "sport": "american-football",
       "competition": "american-football",
       "status": "LIVE",
@@ -78,14 +143,14 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-10-18T17:00:00Z",
+      "matchTimeUTC": "2026-10-18T20:05:00Z",
       "streams": [],
       "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VXlThQQIbrpB8dICAZAkQKIzgVMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENxD0ZwMCmBINIPiFMRjIEiBSmQiBUyQU+w2fRRgV+tp-L0ssvpMtGCeYqIQQA.webp"
     },
     {
-      "id": "cleveland-browns-vs-baltimore-ravens-2475456",
-      "title": "Cleveland Browns vs Baltimore Ravens",
+      "id": "kansas-city-chiefs-vs-los-angeles-chargers-2475463",
+      "title": "Kansas City Chiefs vs Los Angeles Chargers",
       "sport": "american-football",
       "competition": "american-football",
       "status": "LIVE",
@@ -99,14 +164,14 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-10-18T17:00:00Z",
+      "matchTimeUTC": "2026-10-18T20:25:00Z",
       "streams": [],
       "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rekhBSwm3txD6+IYxBBGSIFMdwgSBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECmxyKogAwhuIPiBMQjIEhpMhEUgsCQU+w2fU0qUXMGXhEsszyZaMG8xUQggA.webp"
     },
     {
-      "id": "indianapolis-colts-vs-tennessee-titans-2475457",
-      "title": "Indianapolis Colts vs Tennessee Titans",
+      "id": "las-vegas-raiders-vs-buffalo-bills-2475464",
+      "title": "Las Vegas Raiders vs Buffalo Bills",
       "sport": "american-football",
       "competition": "american-football",
       "status": "LIVE",
@@ -120,16 +185,16 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-10-18T17:00:00Z",
+      "matchTimeUTC": "2026-10-18T20:25:00Z",
       "streams": [],
       "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEN2zAADGxC0QGkH0MgIxkCRApTOPgWBIK91iLEowKlF0-l6WWW8mWjBPMVEIIA.webp"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEBqykQUFMCQhuIPhp3GQJEClOIrTJBT7DZ9FGBV6278vS2i9TLRg7mKiEEA.webp"
     },
     {
-      "id": "new-england-patriots-vs-new-york-jets-2475458",
-      "title": "New England Patriots vs New York Jets",
-      "sport": "american-football",
-      "competition": "american-football",
+      "id": "cleveland-guardians-vs-tampa-bay-rays-2618466",
+      "title": "Cleveland Guardians vs Tampa Bay Rays",
+      "sport": "baseball",
+      "competition": "baseball",
       "status": "LIVE",
       "teams": {
         "home": {
@@ -141,77 +206,14 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-10-18T17:00:00Z",
+      "matchTimeUTC": "2026-10-18T21:00:00Z",
       "streams": [],
       "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAwgU7BJVwhuIPiBMQjIElpP6tTJBT7DZ9FGBXa2b8vSyztTWjA3MVEIIA.webp"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAdzAC2iHNxB8QKEPuOGYIKSAuNgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
     },
     {
-      "id": "new-york-giants-vs-new-orleans-saints-2475459",
-      "title": "New York Giants vs New Orleans Saints",
-      "sport": "american-football",
-      "competition": "american-football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-18T17:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VXiAacyJENxB8QRiAZC6UR3CBQFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
-    },
-    {
-      "id": "philadelphia-eagles-vs-carolina-panthers-2475460",
-      "title": "Philadelphia Eagles vs Carolina Panthers",
-      "sport": "american-football",
-      "competition": "american-football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-18T17:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEOD4glYEiBQhuILRojGQegxsQSmSCn2Gz6KXWxRdd5ellkemtGBu9KIQQA.webp"
-    },
-    {
-      "id": "tampa-bay-buccaneers-vs-pittsburgh-steelers-2475461",
-      "title": "Tampa Bay Buccaneers vs Pittsburgh Steelers",
-      "sport": "american-football",
-      "competition": "american-football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-18T17:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VOEjq5yKENxB8QRiAZAkQuo4ngFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
-    },
-    {
-      "id": "nec-nijmegen-vs-fortuna-sittard-2489140",
-      "title": "NEC Nijmegen vs Fortuna Sittard",
+      "id": "fc-cincinnati-vs-columbus-crew-2407157",
+      "title": "FC Cincinnati vs Columbus Crew",
       "sport": "football",
       "competition": "football",
       "status": "LIVE",
@@ -225,73 +227,10 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-10-18T18:00:00Z",
+      "matchTimeUTC": "2026-10-18T21:00:00Z",
       "streams": [],
       "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbiD4UkwMCCkgNfECZw4NMEJct8CwJBVusRYlGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "twente-vs-utrecht-2489144",
-      "title": "Twente vs Utrecht",
-      "sport": "football",
-      "competition": "football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-18T18:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECjDcQEEHzBSDIbXxBmcObTBDXtEpkgp9hs+ppUouYMvCJZZnky0YN5iohBAA.webp"
-    },
-    {
-      "id": "juventus-vs-lazio-2482200",
-      "title": "Juventus vs Lazio",
-      "sport": "football",
-      "competition": "football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-18T18:45:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VEJWAzwtPiG4g9JEMZQhEEEFJO4CwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "lyon-vs-nice-2489518",
-      "title": "Lyon vs Nice",
-      "sport": "football",
-      "competition": "football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-18T18:45:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHBn4QUWgAYQ3EHxAkdICzAsgpuCwWBIKfYbPoowKlF0-l6WWW8mWjBPMVEIIA.webp"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFCDI44GviG4g9U-SAiGQiMxqkFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
     },
     {
       "id": "admin-tennis-channel",
@@ -538,69 +477,6 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IMmUQQQKEInjAqICNlIgliDWqziQWYCpolxwRAGMT+6cOVre5FQKEimqlOULAkuM+6FhuThVhUnoCU3IAg1CIIA.webp"
     },
     {
-      "id": "real-madrid-vs-sevilla-2506254",
-      "title": "Real Madrid vs Sevilla",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-18T19:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFJAwx9EiD3cQfECYggUWkGb04pBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp"
-    },
-    {
-      "id": "fc-cincinnati-vs-columbus-crew-2407157",
-      "title": "FC Cincinnati vs Columbus Crew",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-18T21:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFCDI44GviG4g9U-SAiGQiMxqkFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
-    },
-    {
-      "id": "cleveland-guardians-vs-tampa-bay-rays-2618466",
-      "title": "Cleveland Guardians vs Tampa Bay Rays",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-18T21:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAdzAC2iHNxB8QKEPuOGYIKSAuNgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
-    },
-    {
       "id": "minnesota-wild-vs-columbus-blue-jackets-2591619",
       "title": "Minnesota Wild vs Columbus Blue Jackets",
       "sport": "hockey",
@@ -767,6 +643,27 @@
       "streams": [],
       "streamCount": 0,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rekgZgUbMEhDcQfECYggSIMyhCJEUgsCQU+w2fRRgVO3WXhEssjpMtGCeYqIQQA.webp"
+    },
+    {
+      "id": "tampa-bay-rays-vs-cleveland-guardians-2619051",
+      "title": "Tampa Bay Rays vs Cleveland Guardians",
+      "sport": "baseball",
+      "competition": "baseball",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-10-19T21:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECjBIwKLrXwhuIPhsOmTMECVMoCwbTH7DZ9TSt1swZeESyzdTLRgXmKiEEA.webp"
     },
     {
       "id": "philadelphia-flyers-vs-colorado-avalanche-2591622",
