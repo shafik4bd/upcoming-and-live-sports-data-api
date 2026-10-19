@@ -1,13 +1,13 @@
 {
-  "lastUpdated": "2026-10-18T22:07:30Z",
-  "fetchDuration": "53.0s",
-  "totalMatches": 46,
-  "liveCount": 8,
-  "upcomingCount": 38,
+  "lastUpdated": "2026-10-19T00:39:31Z",
+  "fetchDuration": "34.6s",
+  "totalMatches": 47,
+  "liveCount": 10,
+  "upcomingCount": 37,
   "matches": [
     {
-      "id": "ppv-nfl-red-zone",
-      "title": "NFL RedZone",
+      "id": "live-event_nfl-redzone-live-stream",
+      "title": "NFL Redzone",
       "sport": "american-football",
       "competition": "american-football",
       "status": "LIVE",
@@ -21,25 +21,10 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-10-18T16:45:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-nfl-red-zone/1",
-          "language": "English - NFL RedZone",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-nfl-red-zone/2",
-          "language": "English - NFL RedZone",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52IKuJFT42bCBggIIRFhABjKRGCIFiYcAlK1yg8C2IQ2kCllaIN-mEFSCsh4WBJcam0KestfTIbVxkwJzNSMyA.webp"
+      "matchTimeUTC": "2026-10-18T17:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": ""
     },
     {
       "id": "ppv-dutch-darts-championship-day-3-evening-session",
@@ -212,10 +197,10 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAdzAC2iHNxB8QKEPuOGYIKSAuNgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
     },
     {
-      "id": "fc-cincinnati-vs-columbus-crew-2407157",
-      "title": "FC Cincinnati vs Columbus Crew",
-      "sport": "football",
-      "competition": "football",
+      "id": "minnesota-wild-vs-columbus-blue-jackets-2591619",
+      "title": "Minnesota Wild vs Columbus Blue Jackets",
+      "sport": "hockey",
+      "competition": "hockey",
       "status": "LIVE",
       "teams": {
         "home": {
@@ -227,10 +212,52 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-10-18T21:00:00Z",
+      "matchTimeUTC": "2026-10-18T22:00:00Z",
       "streams": [],
       "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VFCDI44GviG4g9U-SAiGQiMxqkFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VCCBlhclSiG4g+mkDBBmUICxoMSmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
+    },
+    {
+      "id": "calgary-flames-vs-carolina-hurricanes-2591620",
+      "title": "Calgary Flames vs Carolina Hurricanes",
+      "sport": "hockey",
+      "competition": "hockey",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-10-19T00:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNCCgwxSdiG4g+IKSBggUp-ZZMSmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
+    },
+    {
+      "id": "green-bay-packers-vs-dallas-cowboys-2475465",
+      "title": "Green Bay Packers vs Dallas Cowboys",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-10-19T00:20:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rECAghuIMgPzaQfDZqO6QKE4hQFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
     },
     {
       "id": "admin-tennis-channel",
@@ -477,48 +504,6 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IMmUQQQKEInjAqICNlIgliDWqziQWYCpolxwRAGMT+6cOVre5FQKEimqlOULAkuM+6FhuThVhUnoCU3IAg1CIIA.webp"
     },
     {
-      "id": "minnesota-wild-vs-columbus-blue-jackets-2591619",
-      "title": "Minnesota Wild vs Columbus Blue Jackets",
-      "sport": "hockey",
-      "competition": "hockey",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-18T22:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VCCBlhclSiG4g+mkDBBmUICxoMSmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
-    },
-    {
-      "id": "calgary-flames-vs-carolina-hurricanes-2591620",
-      "title": "Calgary Flames vs Carolina Hurricanes",
-      "sport": "hockey",
-      "competition": "hockey",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-19T00:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rNCCgwxSdiG4g+IKSBggUp-ZZMSmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
-    },
-    {
       "id": "monterrey-vs-pachuca-2487559",
       "title": "Monterrey vs Pachuca",
       "sport": "football",
@@ -729,8 +714,37 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLGHBIwSECH4huIPiCkgYIFOesXEfAsG0x+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp"
     },
     {
-      "id": "2390",
-      "title": "Pittsburgh Penguins - Utah Mammoth",
+      "id": "los-angeles-dodgers-vs-milwaukee-brewers-mlb-1792454400",
+      "title": "Los Angeles Dodgers vs Milwaukee Brewers",
+      "sport": "baseball",
+      "competition": "baseball",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-10-20T00:00:00Z",
+      "streams": [
+        {
+          "source": "hotel",
+          "embedUrl": "https://embed.st/embed/hotel/los-angeles-dodgers-vs-milwaukee-brewers-mlb-1792454400/1",
+          "language": "Main",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 1,
+      "poster": ""
+    },
+    {
+      "id": "utah-mammoth-vs-pittsburgh-penguins-2591624",
+      "title": "Utah Mammoth vs Pittsburgh Penguins",
       "sport": "hockey",
       "competition": "hockey",
       "status": "UPCOMING",
@@ -745,42 +759,13 @@
         }
       },
       "matchTimeUTC": "2026-10-20T01:00:00Z",
-      "streams": [
-        {
-          "source": "golf",
-          "embedUrl": "https://embed.st/embed/golf/2390/1",
-          "language": "English",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "golf",
-          "embedUrl": "https://embed.st/embed/golf/2390/2",
-          "language": "English",
-          "hd": false,
-          "quality": "SD"
-        },
-        {
-          "source": "golf",
-          "embedUrl": "https://embed.st/embed/golf/2390/3",
-          "language": "English",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "golf",
-          "embedUrl": "https://embed.st/embed/golf/2390/4",
-          "language": "English",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 4,
-      "poster": ""
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJMAAMzHrmwhuIPiCkgYIFGYPXLUgsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp"
     },
     {
-      "id": "2392",
-      "title": "Sabah FK - Borussia Dortmund",
+      "id": "sabah-baku-vs-borussia-dortmund-2594675",
+      "title": "Sabah Baku vs Borussia Dortmund",
       "sport": "football",
       "competition": "football",
       "status": "UPCOMING",
@@ -795,42 +780,13 @@
         }
       },
       "matchTimeUTC": "2026-10-20T16:45:00Z",
-      "streams": [
-        {
-          "source": "golf",
-          "embedUrl": "https://embed.st/embed/golf/2392/1",
-          "language": "English",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "golf",
-          "embedUrl": "https://embed.st/embed/golf/2392/2",
-          "language": "English",
-          "hd": false,
-          "quality": "SD"
-        },
-        {
-          "source": "golf",
-          "embedUrl": "https://embed.st/embed/golf/2392/3",
-          "language": "English",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "golf",
-          "embedUrl": "https://embed.st/embed/golf/2392/4",
-          "language": "English",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 4,
-      "poster": ""
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rfCBSai8MCRDcQfECeNbD+qZpMFgSCn2Gz6KPWxRc95ellkemtGBu9KIQQA.webp"
     },
     {
-      "id": "2391",
-      "title": "Fenerbahce - Slavia Prague",
+      "id": "fenerbah-e-vs-slavia-prague-2594654",
+      "title": "Fenerbahçe vs Slavia Prague",
       "sport": "football",
       "competition": "football",
       "status": "UPCOMING",
@@ -845,42 +801,13 @@
         }
       },
       "matchTimeUTC": "2026-10-20T16:45:00Z",
-      "streams": [
-        {
-          "source": "golf",
-          "embedUrl": "https://embed.st/embed/golf/2391/1",
-          "language": "English",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "golf",
-          "embedUrl": "https://embed.st/embed/golf/2391/2",
-          "language": "English",
-          "hd": false,
-          "quality": "SD"
-        },
-        {
-          "source": "golf",
-          "embedUrl": "https://embed.st/embed/golf/2391/3",
-          "language": "English",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "golf",
-          "embedUrl": "https://embed.st/embed/golf/2391/4",
-          "language": "English",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 4,
-      "poster": ""
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJCFEhgABhDdc+kHxCmTKIyRBTT+gsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp"
     },
     {
-      "id": "2399",
-      "title": "VfB Stuttgart - Atletico Madrid",
+      "id": "roma-vs-slovan-bratislava-2594610",
+      "title": "Roma vs Slovan Bratislava",
       "sport": "football",
       "competition": "football",
       "status": "UPCOMING",
@@ -895,28 +822,13 @@
         }
       },
       "matchTimeUTC": "2026-10-20T19:00:00Z",
-      "streams": [
-        {
-          "source": "golf",
-          "embedUrl": "https://embed.st/embed/golf/2399/1",
-          "language": "English",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "golf",
-          "embedUrl": "https://embed.st/embed/golf/2399/2",
-          "language": "English",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": ""
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rYNhCiwYXgAYQ3EHxCmTKQ1pBSQELQWBIKfYbPoowKlF0-l6WWW8mWh1RejCgA.webp"
     },
     {
-      "id": "2398",
-      "title": "Paris Saint-Germain - Barcelona",
+      "id": "napoli-vs-bod--glimt-2594604",
+      "title": "Napoli vs Bodø/Glimt",
       "sport": "football",
       "competition": "football",
       "status": "UPCOMING",
@@ -931,42 +843,13 @@
         }
       },
       "matchTimeUTC": "2026-10-20T19:00:00Z",
-      "streams": [
-        {
-          "source": "golf",
-          "embedUrl": "https://embed.st/embed/golf/2398/1",
-          "language": "English",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "golf",
-          "embedUrl": "https://embed.st/embed/golf/2398/2",
-          "language": "English",
-          "hd": false,
-          "quality": "SD"
-        },
-        {
-          "source": "golf",
-          "embedUrl": "https://embed.st/embed/golf/2398/3",
-          "language": "English",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "golf",
-          "embedUrl": "https://embed.st/embed/golf/2398/4",
-          "language": "English",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 4,
-      "poster": ""
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VaXLDh6ObiD4hDBlCD0kQUkIhAFgSCn2Gz6KMCpRc35HbI9NaYG5iohBAA.webp"
     },
     {
-      "id": "2397",
-      "title": "Napoli - Bodo/Glimt",
+      "id": "porto-vs-psv-eindhoven-2594592",
+      "title": "Porto vs PSV Eindhoven",
       "sport": "football",
       "competition": "football",
       "status": "UPCOMING",
@@ -981,28 +864,13 @@
         }
       },
       "matchTimeUTC": "2026-10-20T19:00:00Z",
-      "streams": [
-        {
-          "source": "golf",
-          "embedUrl": "https://embed.st/embed/golf/2397/1",
-          "language": "English",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "golf",
-          "embedUrl": "https://embed.st/embed/golf/2397/2",
-          "language": "English",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": ""
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8reGFF9oUkChDcQfECeP7DJELpxSCwJBT7DZ9FJrYoum8vSyzPTLRg7vSiEEA.webp"
     },
     {
-      "id": "2396",
-      "title": "Manchester City - AEK Athens",
+      "id": "stuttgart-vs-atl-tico-madrid-2594576",
+      "title": "Stuttgart vs Atlético Madrid",
       "sport": "football",
       "competition": "football",
       "status": "UPCOMING",
@@ -1017,42 +885,13 @@
         }
       },
       "matchTimeUTC": "2026-10-20T19:00:00Z",
-      "streams": [
-        {
-          "source": "golf",
-          "embedUrl": "https://embed.st/embed/golf/2396/1",
-          "language": "English",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "golf",
-          "embedUrl": "https://embed.st/embed/golf/2396/2",
-          "language": "English",
-          "hd": false,
-          "quality": "SD"
-        },
-        {
-          "source": "golf",
-          "embedUrl": "https://embed.st/embed/golf/2396/3",
-          "language": "English",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "golf",
-          "embedUrl": "https://embed.st/embed/golf/2396/4",
-          "language": "English",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 4,
-      "poster": ""
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEDKlgk-YEhB8Q3AyFOGURkCQ2X4BPRT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
     },
     {
-      "id": "2395",
-      "title": "Liverpool - Villarreal",
+      "id": "paris-saint-germain-vs-barcelona-2594560",
+      "title": "Paris Saint-Germain vs Barcelona",
       "sport": "football",
       "competition": "football",
       "status": "UPCOMING",
@@ -1067,28 +906,13 @@
         }
       },
       "matchTimeUTC": "2026-10-20T19:00:00Z",
-      "streams": [
-        {
-          "source": "golf",
-          "embedUrl": "https://embed.st/embed/golf/2395/1",
-          "language": "English",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "golf",
-          "embedUrl": "https://embed.st/embed/golf/2395/2",
-          "language": "English",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": ""
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLKVwIQUsCBDcQffUZAoDIEpbNGCwJBT7DZ9FGBUou78vQ2jPTLRg7mKiEEA.webp"
     },
     {
-      "id": "2394",
-      "title": "FC Porto - PSV Eindhoven",
+      "id": "manchester-city-vs-aek-athens-2594550",
+      "title": "Manchester City vs AEK Athens",
       "sport": "football",
       "competition": "football",
       "status": "UPCOMING",
@@ -1103,28 +927,13 @@
         }
       },
       "matchTimeUTC": "2026-10-20T19:00:00Z",
-      "streams": [
-        {
-          "source": "golf",
-          "embedUrl": "https://embed.st/embed/golf/2394/1",
-          "language": "English",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "golf",
-          "embedUrl": "https://embed.st/embed/golf/2394/2",
-          "language": "English",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": ""
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rUCGBgGzWCG4g+IY0ZT6QJC8cMFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
     },
     {
-      "id": "2393",
-      "title": "AS Roma - Slovan Bratislava",
+      "id": "liverpool-vs-villarreal-2594542",
+      "title": "Liverpool vs Villarreal",
       "sport": "football",
       "competition": "football",
       "status": "UPCOMING",
@@ -1139,28 +948,13 @@
         }
       },
       "matchTimeUTC": "2026-10-20T19:00:00Z",
-      "streams": [
-        {
-          "source": "golf",
-          "embedUrl": "https://embed.st/embed/golf/2393/1",
-          "language": "English",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "golf",
-          "embedUrl": "https://embed.st/embed/golf/2393/2",
-          "language": "English",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": ""
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJCChwYwAAxgN3EHxCmTKEEZIhrJkgWBIKfYbPoowKlF0-l6WWW8mWjBPMVEIIA.webp"
     },
     {
-      "id": "2386",
-      "title": "Boston Celtics - Detroit Pistons",
+      "id": "detroit-pistons-vs-boston-celtics-2601665",
+      "title": "Detroit Pistons vs Boston Celtics",
       "sport": "basketball",
       "competition": "basketball",
       "status": "UPCOMING",
@@ -1175,24 +969,9 @@
         }
       },
       "matchTimeUTC": "2026-10-20T19:00:00Z",
-      "streams": [
-        {
-          "source": "golf",
-          "embedUrl": "https://embed.st/embed/golf/2386/1",
-          "language": "English",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "golf",
-          "embedUrl": "https://embed.st/embed/golf/2386/2",
-          "language": "English",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": ""
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECRDhusBBpDcQffSlwhEiU8YVMkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp"
     },
     {
       "id": "2401",
