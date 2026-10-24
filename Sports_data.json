@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-10-24T06:44:48Z",
-  "fetchDuration": "104.9s",
-  "totalMatches": 124,
-  "liveCount": 6,
-  "upcomingCount": 118,
+  "lastUpdated": "2026-10-24T11:46:22Z",
+  "fetchDuration": "107.2s",
+  "totalMatches": 123,
+  "liveCount": 2,
+  "upcomingCount": 121,
   "matches": [
     {
-      "id": "milwaukee-brewers-vs-tampa-bay-rays-2619527",
-      "title": "Milwaukee Brewers vs Tampa Bay Rays",
-      "sport": "baseball",
-      "competition": "baseball",
+      "id": "ppv-2026-european-championship-day-3-s-1",
+      "title": "2026 European Championship | Day 3 S1",
+      "sport": "darts",
+      "competition": "darts",
       "status": "LIVE",
       "teams": {
         "home": {
@@ -21,16 +21,31 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-10-24T00:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzNCBIhE0sEljYQvEFhAoQ1TSGlXTxrC30wBIuYxRhVKHp-KNqct74rMBgnuJiEEA.webp"
+      "matchTimeUTC": "2026-10-24T11:00:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-2026-european-championship-day-3-s-1/1",
+          "language": "English - PDC.TV",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-2026-european-championship-day-3-s-1/2",
+          "language": "English - PDC.TV",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEYDRIgIIFBJCTsI7CERqQIYDI0BjEDBBZV8nSen6tyxJqxz+YQcoJK7hYElw65Qh63HDSemd4cgdLMgggA.webp"
     },
     {
-      "id": "live-event_bkfc-reber-vs-street-live-stream",
-      "title": "BKFC Reber vs Street",
-      "sport": "fight",
-      "competition": "fight",
+      "id": "aston-villa-vs-manchester-city-2494077",
+      "title": "Aston Villa vs Manchester City",
+      "sport": "football",
+      "competition": "football",
       "status": "LIVE",
       "teams": {
         "home": {
@@ -42,94 +57,10 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-10-24T00:00:00Z",
+      "matchTimeUTC": "2026-10-24T11:30:00Z",
       "streams": [],
       "streamCount": 0,
-      "poster": ""
-    },
-    {
-      "id": "ppv-event-04-bkb-ballys-fight-night-ppv-4",
-      "title": "BKB Ballys Fight Night",
-      "sport": "fight",
-      "competition": "fight",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-24T01:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": ""
-    },
-    {
-      "id": "stanford-vs-nc-state-2499120",
-      "title": "Stanford vs NC State",
-      "sport": "american-football",
-      "competition": "american-football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-24T02:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzpAQ2AE2AJyHACmpxBKArMCsPQMbBMNhEnWzA5MkLXAIpMLnTB4eQnRAQQMbCEUlFIAiAarOMYDQZ16YPvEjEydGhLCHB5CEA.webp"
-    },
-    {
-      "id": "boost-mobile-gold-coast-500--race-31-2419073",
-      "title": "Boost Mobile Gold Coast 500  Race 31",
-      "sport": "motor-sports",
-      "competition": "motor-sports",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-24T05:15:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rMLhBb6JEBBDcQfEFK0nzxw4ZgFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
-    },
-    {
-      "id": "illawarra-hawks-vs-brisbane-bullets-2487921",
-      "title": "Illawarra Hawks vs Brisbane Bullets",
-      "sport": "basketball",
-      "competition": "basketball",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-24T06:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aENLkhEWMNxD6pIIyRAwNxkBFwgUBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHxBQklBiBIhuGkCc2aIIGCf0mCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
     },
     {
       "id": "admin-tennis-channel",
@@ -376,48 +307,6 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IMmUQQQKEInjAqICNlIgliDWqziQWYCpolxwRAGMT+6cOVre5FQKEimqlOULAkuM+6FhuThVhUnoCU3IAg1CIIA.webp"
     },
     {
-      "id": "south-east-melbourne-phoenix-vs-adelaide-36ers-2487922",
-      "title": "South East Melbourne Phoenix vs Adelaide 36ers",
-      "sport": "basketball",
-      "competition": "basketball",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-24T08:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rQiHZgyKOSG4g+hkIgMRcIS1JAwCwJBT7DZ9FNra6228vSyzdTLRg7vSiEEA.webp"
-    },
-    {
-      "id": "aston-villa-vs-manchester-city-2494077",
-      "title": "Aston Villa vs Manchester City",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-24T11:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEHxBQklBiBIhuGkCc2aIIGCf0mCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
-    {
       "id": "rayo-vallecano-vs-elche-2506267",
       "title": "Rayo Vallecano vs Elche",
       "sport": "football",
@@ -543,14 +432,14 @@
         {
           "source": "admin",
           "embedUrl": "https://embed.st/embed/admin/ppv-fc-cologne-vs-schalke-04/1",
-          "language": "English - Bundesliga",
+          "language": "English - Fandango",
           "hd": true,
           "quality": "HD"
         },
         {
           "source": "admin",
           "embedUrl": "https://embed.st/embed/admin/ppv-fc-cologne-vs-schalke-04/2",
-          "language": "English - Bundesliga",
+          "language": "English - Fandango",
           "hd": false,
           "quality": "SD"
         }
@@ -641,6 +530,90 @@
       "streams": [],
       "streamCount": 0,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VASjCaIIKWD4huIAyRA6YZwyAumQBYEgp9hs+ppUouYMvCJZZnky0YN5iohBAA.webp"
+    },
+    {
+      "id": "scunthorpe-united-vs-woking-2528318",
+      "title": "Scunthorpe United vs Woking",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-10-24T14:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFMCm5oIEIm4g+IEoZAGDOE0akFgSCn2Gz6KMCo1s35ellkamtGBuYqIQQA.webp"
+    },
+    {
+      "id": "stoke-city-vs-bristol-city-2501389",
+      "title": "Stoke City vs Bristol City",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-10-24T14:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEOHopcIbSRDcQfDToggpJmCCvwCwJBT7DZWsCpRc35ellkemtGBuYqIQQA.webp"
+    },
+    {
+      "id": "preston-north-end-vs-west-bromwich-albion-2501384",
+      "title": "Preston North End vs West Bromwich Albion",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-10-24T14:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VAQAZgGkHzBkkIbrpCmcEEFJMoQNlAWBIKfYbPop9bFF33l6WWW8mWjBPelEIIA.webp"
+    },
+    {
+      "id": "wolverhampton-wanderers-vs-watford-2501381",
+      "title": "Wolverhampton Wanderers vs Watford",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-10-24T14:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECDkg+IErhAoQ3bRv0QQUk4cNSCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
     },
     {
       "id": "coventry-city-vs-fulham-2494079",
@@ -824,6 +797,27 @@
       "streams": [],
       "streamCount": 0,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEBBBlRA3om4g+IKVo1mcJxDALAkFPsNn0UYFSi6vy9LLPdNaYK5iohBAA.webp"
+    },
+    {
+      "id": "kidderminster-harriers-vs-worthing-2528326",
+      "title": "Kidderminster Harriers vs Worthing",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-10-24T16:30:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IEMHikQVEAGNJk8cBpThIGCtLAIILDJAlDyxIghKjiTbpgGrKcuYFCRTbPTCFgSXHIdCwbk5zYW0HAkUwQJ1tCCA.webp"
     },
     {
       "id": "borussia-dortmund-vs-eintracht-frankfurt-2508389",
@@ -2655,6 +2649,42 @@
       "poster": ""
     },
     {
+      "id": "ppv-lafc-vs-la-galaxy",
+      "title": "LAFC vs. LA Galaxy",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-10-26T01:00:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-lafc-vs-la-galaxy/1",
+          "language": "English - Apple TV",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-lafc-vs-la-galaxy/2",
+          "language": "English - Apple TV",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MNGhGBUQMYIgDGILMAghFJEGXEhJwuTrU6R2EDQ01hIK4pQh4UpSnKSBQ4wWz0whYElzynITBuTl1Seg97MGCVcIggA.webp"
+    },
+    {
       "id": "ppv-quer-taro-vs-cruz-azul",
       "title": "Querétaro vs. Cruz Azul",
       "sport": "football",
@@ -2725,42 +2755,6 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MwkGSwgpEECmCJhI0iBgq142RGw7tU8Wu3j5SmcFniQwKvP5hBygjtuFgSXAGN5Q+6yOl6J3hye3MAiCA.webp"
-    },
-    {
-      "id": "ppv-lafc-vs-la-galaxy",
-      "title": "LAFC vs. LA Galaxy",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-26T01:00:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-lafc-vs-la-galaxy/1",
-          "language": "English - Apple TV",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-lafc-vs-la-galaxy/2",
-          "language": "English - Apple TV",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MNGhGBUQMYIgDGILMAghFJEGXEhJwuTrU6R2EDQ01hIK4pQh4UpSnKSBQ4wWz0whYElzynITBuTl1Seg97MGCVcIggA.webp"
     },
     {
       "id": "ppv-memphis-grizzlies-vs-sacramento-kings",
