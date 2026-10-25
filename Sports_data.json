@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-10-25T07:58:50Z",
-  "fetchDuration": "72.3s",
-  "totalMatches": 70,
-  "liveCount": 3,
-  "upcomingCount": 67,
+  "lastUpdated": "2026-10-25T12:58:42Z",
+  "fetchDuration": "56.2s",
+  "totalMatches": 72,
+  "liveCount": 7,
+  "upcomingCount": 65,
   "matches": [
     {
-      "id": "ppv-emanuel-navarrete-vs-o-shaquie-foster",
-      "title": "Emanuel Navarrete vs. O'Shaquie Foster",
-      "sport": "fight",
-      "competition": "fight",
+      "id": "pittsburgh-steelers-vs-new-orleans-saints-nfl-1792926000",
+      "title": "Pittsburgh Steelers vs New Orleans Saints",
+      "sport": "american-football",
+      "competition": "american-football",
       "status": "LIVE",
       "teams": {
         "home": {
@@ -21,29 +21,121 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-10-25T00:00:00Z",
+      "matchTimeUTC": "2026-10-25T11:00:00Z",
+      "streams": [
+        {
+          "source": "hotel",
+          "embedUrl": "https://embed.st/embed/hotel/pittsburgh-steelers-vs-new-orleans-saints-nfl-1792926000/1",
+          "language": "Main",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 1,
+      "poster": ""
+    },
+    {
+      "id": "fortuna-sittard-vs-excelsior-2489151",
+      "title": "Fortuna Sittard vs Excelsior",
+      "sport": "football",
+      "competition": "football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-10-25T11:15:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFLACADMx5aQ3EHxCmcOIzBBWjfAsCQU7rEWJRgVKLh-L0ssryZaMA8xUQggA.webp"
+    },
+    {
+      "id": "inter-milan-vs-fiorentina-2482215",
+      "title": "Inter Milan vs Fiorentina",
+      "sport": "football",
+      "competition": "football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-10-25T11:30:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKFk4pgSNiG4g+IEsZAoQiCCBggrfAjor3WIsSjArtbD+XqbR2ky0YB5iohBAA.webp"
+    },
+    {
+      "id": "hibernian-vs-celtic-2494464",
+      "title": "Hibernian vs Celtic",
+      "sport": "football",
+      "competition": "football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-10-25T12:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFF3wgY-MCBDcQffbgMgUIRIhwwCwJBT7DZ9FGBUa278vSyyNTLRg7mKiEEA.webp"
+    },
+    {
+      "id": "ppv-2026-european-championship-day-4-s-1",
+      "title": "2026 European Championship | Day 4 S1",
+      "sport": "darts",
+      "competition": "darts",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-10-25T12:00:00Z",
       "streams": [
         {
           "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-emanuel-navarrete-vs-o-shaquie-foster/1",
-          "language": "English - DAZN",
+          "embedUrl": "https://embed.st/embed/admin/ppv-2026-european-championship-day-4-s-1/1",
+          "language": "English - PDC.TV",
           "hd": true,
           "quality": "HD"
         },
         {
           "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-emanuel-navarrete-vs-o-shaquie-foster/2",
-          "language": "English - DAZN",
+          "embedUrl": "https://embed.st/embed/admin/ppv-2026-european-championship-day-4-s-1/2",
+          "language": "English - PDC.TV",
           "hd": false,
           "quality": "SD"
         }
       ],
       "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MVEPFJTxAYxByyJEEpDBxMEChDbJWeSM1qDEeSBgipkxDUQyU5CKDCCLBbPTCFgSXHaHluTkdhKXs3STBnYEcyCCA.webp"
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEYDRIgIIFBJCTsI7CERqQIYDI0BjEDBBZV8nSen6tyxJqxz+YQcoJK7hYElw65Qh63HDSemd4cgdLMgggA.webp"
     },
     {
-      "id": "boost-mobile-gold-coast-500--race-32-2419074",
-      "title": "Boost Mobile Gold Coast 500  Race 32",
+      "id": "rally-six-cities-north-of-portugal-ss14-montim-2-european-rally-championship-1792930380",
+      "title": "Rally Six Cities North of Portugal — SS14 - Montim 2",
       "sport": "motor-sports",
       "competition": "motor-sports",
       "status": "LIVE",
@@ -57,16 +149,24 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-10-25T04:45:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEiClgU7XGCQhuIPppBmppk0YiGCwJBT7DZ9FGBU6278vSyydTLRg7mKiEEA.webp"
+      "matchTimeUTC": "2026-10-25T12:13:00Z",
+      "streams": [
+        {
+          "source": "hotel",
+          "embedUrl": "https://embed.st/embed/hotel/rally-six-cities-north-of-portugal-ss14-montim-2-european-rally-championship-1792930380/1",
+          "language": "Main",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 1,
+      "poster": ""
     },
     {
-      "id": "melbourne-united-vs-sydney-kings-2487924",
-      "title": "Melbourne United vs Sydney Kings",
-      "sport": "basketball",
-      "competition": "basketball",
+      "id": "athletic-club-vs-getafe-laliga-ea-sports-1792932600",
+      "title": "Athletic Club vs Getafe",
+      "sport": "football",
+      "competition": "football",
       "status": "LIVE",
       "teams": {
         "home": {
@@ -78,10 +178,18 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-10-25T06:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VPiBTAADJrBkUIbiA0kQZqZpCWclhUyQU+w2fRT62WtvvL0ssrSZaMA96UQggA.webp"
+      "matchTimeUTC": "2026-10-25T12:50:00Z",
+      "streams": [
+        {
+          "source": "hotel",
+          "embedUrl": "https://embed.st/embed/hotel/athletic-club-vs-getafe-laliga-ea-sports-1792932600/1",
+          "language": "Main",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 1,
+      "poster": ""
     },
     {
       "id": "admin-tennis-channel",
@@ -326,69 +434,6 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IMmUQQQKEInjAqICNlIgliDWqziQWYCpolxwRAGMT+6cOVre5FQKEimqlOULAkuM+6FhuThVhUnoCU3IAg1CIIA.webp"
-    },
-    {
-      "id": "milwaukee-brewers-vs-tampa-bay-rays-2619528",
-      "title": "Milwaukee Brewers vs Tampa Bay Rays",
-      "sport": "baseball",
-      "competition": "baseball",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-25T00:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt15cyAE1LBCETI3BiOzdo0EgQUcDBC8QWEChDUQJENItGD2lkgpYRcxijCqUPD+UbU5XviswGAe4mIQQA.webp"
-    },
-    {
-      "id": "fortuna-sittard-vs-excelsior-2489151",
-      "title": "Fortuna Sittard vs Excelsior",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-25T11:15:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFLACADMx5aQ3EHxCmcOIzBBWjfAsCQU7rEWJRgVKLh-L0ssryZaMA8xUQggA.webp"
-    },
-    {
-      "id": "inter-milan-vs-fiorentina-2482215",
-      "title": "Inter Milan vs Fiorentina",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-25T11:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rKFk4pgSNiG4g+IEsZAoQiCCBggrfAjor3WIsSjArtbD+XqbR2ky0YB5iohBAA.webp"
     },
     {
       "id": "athletic-bilbao-vs-getafe-2506261",
@@ -1841,6 +1886,42 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MJEDGwjSIkAGMQEecCohhIDRvFzZiSVmwhVMDcCUoQiLCHEHrk3uQigwg6QSkpyhYElxyvIVdWZ2EZLw94clczGQggA.webp"
+    },
+    {
+      "id": "ppv-altrincham-vs-kidderminster-harriers",
+      "title": "Altrincham vs. Kidderminster Harriers",
+      "sport": "football",
+      "competition": "football",
+      "status": "UPCOMING",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-10-27T19:45:00Z",
+      "streams": [
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-altrincham-vs-kidderminster-harriers/1",
+          "language": "English - DAZN National League",
+          "hd": true,
+          "quality": "HD"
+        },
+        {
+          "source": "admin",
+          "embedUrl": "https://embed.st/embed/admin/ppv-altrincham-vs-kidderminster-harriers/2",
+          "language": "English - DAZN National League",
+          "hd": false,
+          "quality": "SD"
+        }
+      ],
+      "streamCount": 2,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IeKRABjYIhQgYwGohIKlILCC2bFqqlpDzEExBEMhh4reqwjp4lOQigwgkU2z0whYElxTHIVdWZ2FSegJZcldgZzIIIA.webp"
     }
   ]
 }
