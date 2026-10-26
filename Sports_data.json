@@ -1,13 +1,13 @@
 {
-  "lastUpdated": "2026-10-25T22:12:57Z",
-  "fetchDuration": "58.6s",
-  "totalMatches": 49,
-  "liveCount": 13,
-  "upcomingCount": 36,
+  "lastUpdated": "2026-10-26T00:54:51Z",
+  "fetchDuration": "48.6s",
+  "totalMatches": 47,
+  "liveCount": 18,
+  "upcomingCount": 29,
   "matches": [
     {
-      "id": "redzone-week-7-nfl-1792944000",
-      "title": "Redzone - Week 7",
+      "id": "nfl-redzone-game-1926262",
+      "title": "🏈 🏈 🏈 NFL RedZone 🏈 🏈 🏈",
       "sport": "american-football",
       "competition": "american-football",
       "status": "LIVE",
@@ -21,54 +21,10 @@
           "logo": ""
         }
       },
-      "matchTimeUTC": "2026-10-25T16:00:00Z",
-      "streams": [
-        {
-          "source": "hotel",
-          "embedUrl": "https://embed.st/embed/hotel/redzone-week-7-nfl-1792944000/1",
-          "language": "Main",
-          "hd": true,
-          "quality": "HD"
-        }
-      ],
-      "streamCount": 1,
+      "matchTimeUTC": "2026-10-25T17:00:00Z",
+      "streams": [],
+      "streamCount": 0,
       "poster": ""
-    },
-    {
-      "id": "ppv-nfl-red-zone",
-      "title": "NFL RedZone",
-      "sport": "american-football",
-      "competition": "american-football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-25T16:45:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-nfl-red-zone/1",
-          "language": "English - NFL RedZone",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-nfl-red-zone/2",
-          "language": "English - NFL RedZone",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE52IKuJFT42bCBggIIRFhABjKRGCIFiYcAlK1yg8C2IQ2kCllaIN-mEFSCsh4WBJcam0KestfTIbVxkwJzNSMyA.webp"
     },
     {
       "id": "ppv-2026-european-championship-day-4-s-2",
@@ -105,48 +61,6 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MEYDRIgIIFBJCTsI7CERqQIYDI0BjEDBBZV8nSen6tyxJqxz+YQcoJK7hYElw65Qh63HDSemd4cgdLMgggA.webp"
-    },
-    {
-      "id": "chicago-blackhawks-vs-florida-panthers-2591664",
-      "title": "Chicago Blackhawks vs Florida Panthers",
-      "sport": "hockey",
-      "competition": "hockey",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-25T19:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aECEohe8WGD7aQBqSBggUpyyYMkCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "udinese-vs-ac-milan-2482211",
-      "title": "Udinese vs AC Milan",
-      "sport": "football",
-      "competition": "football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-25T19:45:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VGTIAMYGSDkhuIPiBImQKEIkQgQEXAWBIKfYbPoowKlF0-l6WWW8mWjBPMVEIIA.webp"
     },
     {
       "id": "united-states-grand-prix-2408201",
@@ -189,27 +103,6 @@
       "streams": [],
       "streamCount": 0,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aELzCgwIWUg0g+IYxBAoQMEKZIhE8AsCQU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp"
-    },
-    {
-      "id": "arizona-cardinals-vs-denver-broncos-2475476",
-      "title": "Arizona Cardinals vs Denver Broncos",
-      "sport": "american-football",
-      "competition": "american-football",
-      "status": "LIVE",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-25T20:05:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFLAySIbiBQgdeviFMQQJnQdM6pBYEgp9hs+ijAqUXD+XpZZXky0YB5iohBAA.webp"
     },
     {
       "id": "detroit-lions-vs-green-bay-packers-2475477",
@@ -315,6 +208,203 @@
       "streams": [],
       "streamCount": 0,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbmCSdg0GCG4g+IKSD0gQKC4esKmSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
+    },
+    {
+      "id": "oklahoma-city-thunder-vs-los-angeles-clippers-2601703",
+      "title": "Oklahoma City Thunder vs Los Angeles Clippers",
+      "sport": "basketball",
+      "competition": "basketball",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-10-25T23:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJMDBzKIbiBS6QfECX24QiRKam4CwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
+    },
+    {
+      "id": "minnesota-timberwolves-vs-toronto-raptors-2601704",
+      "title": "Minnesota Timberwolves vs Toronto Raptors",
+      "sport": "basketball",
+      "competition": "basketball",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-10-25T23:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLMBl8QISrBDcQ2kiBS4QiCCCsmJTJBT7DZ9FGBUou78vQ2jPTLRg7mKiEEA.webp"
+    },
+    {
+      "id": "new-york-knicks-vs-orlando-magic-2601705",
+      "title": "New York Knicks vs Orlando Magic",
+      "sport": "basketball",
+      "competition": "basketball",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-10-25T23:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFBTAADDrDgQIbiD4gSIFLhCJE5iNYLAkFPsNn0UYFVrZfy9LFktJlowLzFRCCA.webp"
+    },
+    {
+      "id": "winnipeg-jets-vs-montreal-canadiens-2591666",
+      "title": "Winnipeg Jets vs Montreal Canadiens",
+      "sport": "hockey",
+      "competition": "hockey",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-10-25T23:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLuxCISIPiG66QUkDBAoTFkFv0FgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
+    },
+    {
+      "id": "atlas-vs-puebla-2487574",
+      "title": "Atlas vs Puebla",
+      "sport": "football",
+      "competition": "football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-10-25T23:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEAKR0EckCRDcNIYxBCmYekBeN8CwJBVusRYlGBUou78vSyzPTLRg7mKiEEA.webp"
+    },
+    {
+      "id": "circuit-of-the-americas-ted-s-notebook-us-formula-1-1792969200",
+      "title": "Circuit of The Americas — Ted's Notebook: US",
+      "sport": "motor-sports",
+      "competition": "motor-sports",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-10-25T23:00:00Z",
+      "streams": [
+        {
+          "source": "hotel",
+          "embedUrl": "https://embed.st/embed/hotel/circuit-of-the-americas-ted-s-notebook-us-formula-1-1792969200/1",
+          "language": "Main",
+          "hd": true,
+          "quality": "HD"
+        }
+      ],
+      "streamCount": 1,
+      "poster": ""
+    },
+    {
+      "id": "philadelphia-76ers-vs-detroit-pistons-2601706",
+      "title": "Philadelphia 76ers vs Detroit Pistons",
+      "sport": "basketball",
+      "competition": "basketball",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-10-25T23:30:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEiAghuIGCBS7tIPiA0GciLSanaCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
+    },
+    {
+      "id": "nashville-predators-vs-colorado-avalanche-2591667",
+      "title": "Nashville Predators vs Colorado Avalanche",
+      "sport": "hockey",
+      "competition": "hockey",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-10-26T00:00:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAzswfbWzAgQ3EHxBSQMECnPWLORsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp"
+    },
+    {
+      "id": "seattle-seahawks-vs-kansas-city-chiefs-2475479",
+      "title": "Seattle Seahawks vs Kansas City Chiefs",
+      "sport": "american-football",
+      "competition": "american-football",
+      "status": "LIVE",
+      "teams": {
+        "home": {
+          "name": "",
+          "logo": ""
+        },
+        "away": {
+          "name": "",
+          "logo": ""
+        }
+      },
+      "matchTimeUTC": "2026-10-26T00:20:00Z",
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VKKKRiVIbiD4hDEfSBIgUhkFN0FgSCn2Gz6KMCpRc35ellkemtGBu2nRAA.webp"
     },
     {
       "id": "admin-tennis-channel",
@@ -559,153 +649,6 @@
       ],
       "streamCount": 2,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IMmUQQQKEInjAqICNlIgliDWqziQWYCpolxwRAGMT+6cOVre5FQKEimqlOULAkuM+6FhuThVhUnoCU3IAg1CIIA.webp"
-    },
-    {
-      "id": "atlas-vs-puebla-2487574",
-      "title": "Atlas vs Puebla",
-      "sport": "football",
-      "competition": "football",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-25T23:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEAKR0EckCRDcNIYxBCmYekBeN8CwJBVusRYlGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "new-york-knicks-vs-orlando-magic-2601705",
-      "title": "New York Knicks vs Orlando Magic",
-      "sport": "basketball",
-      "competition": "basketball",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-25T23:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFBTAADDrDgQIbiD4gSIFLhCJE5iNYLAkFPsNn0UYFVrZfy9LFktJlowLzFRCCA.webp"
-    },
-    {
-      "id": "minnesota-timberwolves-vs-toronto-raptors-2601704",
-      "title": "Minnesota Timberwolves vs Toronto Raptors",
-      "sport": "basketball",
-      "competition": "basketball",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-25T23:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VLMBl8QISrBDcQ2kiBS4QiCCCsmJTJBT7DZ9FGBUou78vQ2jPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "oklahoma-city-thunder-vs-los-angeles-clippers-2601703",
-      "title": "Oklahoma City Thunder vs Los Angeles Clippers",
-      "sport": "basketball",
-      "competition": "basketball",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-25T23:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rJMDBzKIbiBS6QfECX24QiRKam4CwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "winnipeg-jets-vs-montreal-canadiens-2591666",
-      "title": "Winnipeg Jets vs Montreal Canadiens",
-      "sport": "hockey",
-      "competition": "hockey",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-25T23:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rLuxCISIPiG66QUkDBAoTFkFv0FgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
-    },
-    {
-      "id": "philadelphia-76ers-vs-detroit-pistons-2601706",
-      "title": "Philadelphia 76ers vs Detroit Pistons",
-      "sport": "basketball",
-      "competition": "basketball",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-25T23:30:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rEiAghuIGCBS7tIPiA0GciLSanaCwJBT7DZ9FGBUou78vSyzPTLRg7mKiEEA.webp"
-    },
-    {
-      "id": "nashville-predators-vs-colorado-avalanche-2591667",
-      "title": "Nashville Predators vs Colorado Avalanche",
-      "sport": "hockey",
-      "competition": "hockey",
-      "status": "UPCOMING",
-      "teams": {
-        "home": {
-          "name": "",
-          "logo": ""
-        },
-        "away": {
-          "name": "",
-          "logo": ""
-        }
-      },
-      "matchTimeUTC": "2026-10-26T00:00:00Z",
-      "streams": [],
-      "streamCount": 0,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rAAzswfbWzAgQ3EHxBSQMECnPWLORsCQU+w2fRRgVKLh-L0ssryZaMA8xUQggA.webp"
     },
     {
       "id": "ppv-lafc-vs-la-galaxy",
@@ -1025,8 +968,8 @@
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VJCG5gZUsKJzcQfECRApcIRBAunGwJBT7DZ9FHrYoue8vSyzPTLRg7vSiEEA.webp"
     },
     {
-      "id": "ppv-indiana-pacers-vs-milwaukee-bucks",
-      "title": "Indiana Pacers vs. Milwaukee Bucks",
+      "id": "oklahoma-city-thunder-vs-phoenix-suns-2601713",
+      "title": "Oklahoma City Thunder vs Phoenix Suns",
       "sport": "basketball",
       "competition": "basketball",
       "status": "UPCOMING",
@@ -1041,42 +984,13 @@
         }
       },
       "matchTimeUTC": "2026-10-27T00:00:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-indiana-pacers-vs-milwaukee-bucks/1",
-          "language": "English - MyMi (Home)",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-indiana-pacers-vs-milwaukee-bucks/2",
-          "language": "English - MyMi (Home)",
-          "hd": false,
-          "quality": "SD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-indiana-pacers-vs-milwaukee-bucks/3",
-          "language": "English - NBA League Pass (Away)",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-indiana-pacers-vs-milwaukee-bucks/4",
-          "language": "English - NBA League Pass (Away)",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 4,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50ICCGHAIwGjUQoQWcdmCIZymCDnSQJEAYkHFyicuVSJVPeO0pyMgUJFNV9sIWBJcAY3tCwbk4ZKTJ7AjVyQOlSaSA.webp"
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VcDKw8wM-CG4g+IEiBS4QiRBAu4CwJBT7DZ9FGBUou78vS2jPTLRg7mKiEEA.webp"
     },
     {
-      "id": "ppv-phoenix-suns-vs-oklahoma-city-thunder",
-      "title": "Phoenix Suns vs. Oklahoma City Thunder",
+      "id": "milwaukee-bucks-vs-indiana-pacers-2601712",
+      "title": "Milwaukee Bucks vs Indiana Pacers",
       "sport": "basketball",
       "competition": "basketball",
       "status": "UPCOMING",
@@ -1091,42 +1005,13 @@
         }
       },
       "matchTimeUTC": "2026-10-27T00:00:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-phoenix-suns-vs-oklahoma-city-thunder/1",
-          "language": "English - KSBI (Home)",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-phoenix-suns-vs-oklahoma-city-thunder/2",
-          "language": "English - KSBI (Home)",
-          "hd": false,
-          "quality": "SD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-phoenix-suns-vs-oklahoma-city-thunder/3",
-          "language": "English - NBA League Pass (Away)",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-phoenix-suns-vs-oklahoma-city-thunder/4",
-          "language": "English - NBA League Pass (Away)",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 4,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MiLKWAQpwRBBDCQWEDBABjECk0gSCkHPX69a4FX0zEiGpZWnsKctIFCRTbPTCFgSXGodCwbk5pYUkHAllyQJkyCCA.webp"
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rCCBIgoUUVJDcQfTSBS4QiDVusFgSCn2Gz6KMCpRc35ellkemtGBuYqIQQA.webp"
     },
     {
-      "id": "ppv-atlanta-hawks-vs-houston-rockets",
-      "title": "Atlanta Hawks vs. Houston Rockets",
+      "id": "houston-rockets-vs-atlanta-hawks-2601714",
+      "title": "Houston Rockets vs Atlanta Hawks",
       "sport": "basketball",
       "competition": "basketball",
       "status": "UPCOMING",
@@ -1141,42 +1026,13 @@
         }
       },
       "matchTimeUTC": "2026-10-27T00:30:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-atlanta-hawks-vs-houston-rockets/1",
-          "language": "English - NBA League Pass (Home)",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-atlanta-hawks-vs-houston-rockets/2",
-          "language": "English - NBA League Pass (Home)",
-          "hd": false,
-          "quality": "SD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-atlanta-hawks-vs-houston-rockets/3",
-          "language": "English - NBA League Pass (Away)",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-atlanta-hawks-vs-houston-rockets/4",
-          "language": "English - NBA League Pass (Away)",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 4,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IAMYhhIMiRA05IUiBjAqIDWQggI2efJEh4anROXC9FmliOmLJFOV0ChIptnphCwJLnGOhMG5OXXt6AmBjMCDgXS0gA.webp"
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8reGBQ8wvDSBDcQfECRApcIRBBBSQMMwWBIKfYbPoowKrWy-l6WLJaTLRgXmKiEEA.webp"
     },
     {
-      "id": "2611",
-      "title": "Toronto Maple Leafs - Calgary Flames",
+      "id": "calgary-flames-vs-toronto-maple-leafs-2591670",
+      "title": "Calgary Flames vs Toronto Maple Leafs",
       "sport": "hockey",
       "competition": "hockey",
       "status": "UPCOMING",
@@ -1191,42 +1047,13 @@
         }
       },
       "matchTimeUTC": "2026-10-27T00:30:00Z",
-      "streams": [
-        {
-          "source": "golf",
-          "embedUrl": "https://embed.st/embed/golf/2611/1",
-          "language": "English",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "golf",
-          "embedUrl": "https://embed.st/embed/golf/2611/2",
-          "language": "English",
-          "hd": false,
-          "quality": "SD"
-        },
-        {
-          "source": "golf",
-          "embedUrl": "https://embed.st/embed/golf/2611/3",
-          "language": "English",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "golf",
-          "embedUrl": "https://embed.st/embed/golf/2611/4",
-          "language": "English",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 4,
-      "poster": ""
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VbmFFgQtATm4g+IKSBggUpyyBAHGwJBT7DZ9FJrYoum8vSyzPTLRg7vSiEEA.webp"
     },
     {
-      "id": "ppv-memphis-grizzlies-vs-utah-jazz",
-      "title": "Memphis Grizzlies vs. Utah Jazz",
+      "id": "utah-jazz-vs-memphis-grizzlies-2601715",
+      "title": "Utah Jazz vs Memphis Grizzlies",
       "sport": "basketball",
       "competition": "basketball",
       "status": "UPCOMING",
@@ -1241,42 +1068,13 @@
         }
       },
       "matchTimeUTC": "2026-10-27T01:00:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-memphis-grizzlies-vs-utah-jazz/1",
-          "language": "English - KJZZ-TV (Home)",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-memphis-grizzlies-vs-utah-jazz/2",
-          "language": "English - KJZZ-TV (Home)",
-          "hd": false,
-          "quality": "SD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-memphis-grizzlies-vs-utah-jazz/3",
-          "language": "English - NBA League Pass (Away)",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-memphis-grizzlies-vs-utah-jazz/4",
-          "language": "English - NBA League Pass (Away)",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 4,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IYSAikQMScClUQSkiEUSUwRIsXLJ4-WRpYQAY3GaLWEXOHyN-MIJFNs9MIWBJcJjUMespWzINAgswR3lSeSA.webp"
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8VHHzBIw3MKLAhuIPiBIgUuEIkRSQEYwWDaY-YbPoo9bFFz3l6WLI+TLRgXvSiEEA.webp"
     },
     {
-      "id": "2612",
-      "title": "Detroit Red Wings - Edmonton Oilers",
+      "id": "edmonton-oilers-vs-detroit-red-wings-2591671",
+      "title": "Edmonton Oilers vs Detroit Red Wings",
       "sport": "hockey",
       "competition": "hockey",
       "status": "UPCOMING",
@@ -1291,42 +1089,13 @@
         }
       },
       "matchTimeUTC": "2026-10-27T01:30:00Z",
-      "streams": [
-        {
-          "source": "golf",
-          "embedUrl": "https://embed.st/embed/golf/2612/1",
-          "language": "English",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "golf",
-          "embedUrl": "https://embed.st/embed/golf/2612/2",
-          "language": "English",
-          "hd": false,
-          "quality": "SD"
-        },
-        {
-          "source": "golf",
-          "embedUrl": "https://embed.st/embed/golf/2612/3",
-          "language": "English",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "golf",
-          "embedUrl": "https://embed.st/embed/golf/2612/4",
-          "language": "English",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 4,
-      "poster": ""
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rFMCkh6A3lu4g+ILTBAoQpy9uMFgSCn2Gz6KMCo1s35ellkamtGBuYqIQQA.webp"
     },
     {
-      "id": "ppv-golden-state-warriors-vs-denver-nuggets",
-      "title": "Golden State Warriors vs. Denver Nuggets",
+      "id": "denver-nuggets-vs-golden-state-warriors-2601716",
+      "title": "Denver Nuggets vs Golden State Warriors",
       "sport": "basketball",
       "competition": "basketball",
       "status": "UPCOMING",
@@ -1341,28 +1110,13 @@
         }
       },
       "matchTimeUTC": "2026-10-27T02:00:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-golden-state-warriors-vs-denver-nuggets/1",
-          "language": "English - NBCSN",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-golden-state-warriors-vs-denver-nuggets/2",
-          "language": "English - NBCSN",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
-      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE5MJEDGwjSIkAGMQEecCohhIDRvFzZiSVmwhVMDcCUoQiLCHEHrk3uQigwg6QSkpyhYElxyvIVdWZ2EZLw94clczGQggA.webp"
+      "streams": [],
+      "streamCount": 0,
+      "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8aEFJC0IIbiBjAkukHxAkQKXFpA7TMDQUMU+w2fRRgVKLp-L0sst5MtGCeYqIQQA.webp"
     },
     {
-      "id": "ppv-altrincham-vs-kidderminster-harriers",
-      "title": "Altrincham vs. Kidderminster Harriers",
+      "id": "altrincham-vs-kidderminster-harriers-2528330",
+      "title": "Altrincham vs Kidderminster Harriers",
       "sport": "football",
       "competition": "football",
       "status": "UPCOMING",
@@ -1377,23 +1131,8 @@
         }
       },
       "matchTimeUTC": "2026-10-27T19:45:00Z",
-      "streams": [
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-altrincham-vs-kidderminster-harriers/1",
-          "language": "English - DAZN National League",
-          "hd": true,
-          "quality": "HD"
-        },
-        {
-          "source": "admin",
-          "embedUrl": "https://embed.st/embed/admin/ppv-altrincham-vs-kidderminster-harriers/2",
-          "language": "English - DAZN National League",
-          "hd": false,
-          "quality": "SD"
-        }
-      ],
-      "streamCount": 2,
+      "streams": [],
+      "streamCount": 0,
       "poster": "https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IeKRABjYIhQgYwGohIKlILCC2bFqqlpDzEExBEMhh4reqwjp4lOQigwgkU2z0whYElxTHIVdWZ2FSegJZcldgZzIIIA.webp"
     },
     {
